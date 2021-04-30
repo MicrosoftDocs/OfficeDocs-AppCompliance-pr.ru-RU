@@ -1,0 +1,111 @@
+---
+title: Сведения о приложениях для Asana для Outlook asana
+ms.author: elmalova
+author: elenamalova
+ms.date: 11/02/2020
+ms.topic: article
+ms.service: attestation
+description: Все доступные сведения о безопасности и соответствии требованиям для Asana для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas
+ms.openlocfilehash: a166966dd5dfac55a13df3dded07bd056f3ab2ee
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52096704"
+---
+# <a name="asana-for-outlook"></a>Asana для Outlook
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 2 ноября 2020 г.</p>
+
+* <a href="https://appsource.microsoft.com/product/office/WA104381833" target="_blank">Просмотр в AppSource</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>Общие сведения
+
+Сведения, предоставленные Asana корпорации Майкрософт:
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Имя приложения | Asana для Outlook |
+| Идентификатор | WA104381833 |
+| Office 365 поддерживаемые клиенты | Outlook 2016 или более поздней Windows, Outlook 2016 или позднее на Mac, Outlook в Интернете |
+| Имя компании-партнера | Asana |
+| URL-адрес веб-сайта-партнера | [https://asana.com/](https://asana.com/) |
+| URL-адрес политики конфиденциальности | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
+| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+
+Эта информация предоставлена Asana о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+
+>Это приложение не использует Microsoft Graph.
+
+
+#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+
+Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>|:-------------------|:--------------------------|:--------------------------|
+>| Надстройка передает основные сведения электронной почты (отправитель, recepient, субъект, тело) и вложения в Asana по запросу пользователя. |  | Электронная почта . В настоящее время открыта электронная почта, когда отображается в области задач. — в настоящее время читает открытые вложения электронной почты для загрузки в задачи Asana. — Это позволяет пользователям быстро выполнять задачи в Asana с помощью информации из электронных писем. |
+
+
+
+#### <a name="add-in-data-access"></a>Доступ к данным надстройки
+
+Список разрешений, необходимых этому приложению для доступа к данным организации, обоснования и цели этого разрешения (для чего приложение использует эти сведения?), и сохраняет ли приложение какую-либо из этих сведений в своих базах данных.
+
+>| **Permission**  | **Описание** |
+>|:----------------|:----------------|
+>| Элемент ReadWrite | Эта надстройка может получать доступ и изменять персональные данные в активном сообщении, такие как сведения о теле, субъекте, отправителье, получателях и вложенных данных. Они могут отправлять эти данные сторонним службам. Другие элементы в почтовом ящике&#8217;не будут читаться или изменяться. |
+>| Отправка данных | Может отправлять данные через Интернет |
+
+#### <a name="telemetry-data"></a>Данные телеметрии
+
+В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+
+>Наше приложение регистрит только сведения, относящиеся к данным Asana. Единственный раз, когда мы регистрим все, что связано с Outlook данными пользователя, это когда пользователь явно прикрепит электронную почту или загрузит вложение в Asana, и даже в этом случае мы не регистрим содержимое. Краткосрочные журналы существуют на серверах, которые могут включать некоторые пользовательские данные, но они являются эфемерными и ограничены периодами менее 72 часов.
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+
+Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+
+>Enterprise клиенты имеют гарантированное шифрование в покое с помощью AES-256. Данные хранятся в веб-службах Amazon, а AWS управляет ключами шифрования с помощью системы управления ключами. У нас есть 2FA для всех администраторов. Доступ предоставляется по принципу наименьших привилегий.
+Администраторы организации Asana имеют возможность настроить учетные записи SAML, SCIM, Service и просматривать данные, которые помещаются в средство. Администраторы могут запрашивать полный организационный экспорт из консоли администрирования и аудита по мере необходимости.
+
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Нет
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/10417' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/10417" target="_blank">Просмотр на новой вкладке</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
