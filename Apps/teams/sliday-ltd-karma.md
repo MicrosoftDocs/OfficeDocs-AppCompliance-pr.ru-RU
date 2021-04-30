@@ -1,0 +1,151 @@
+---
+title: Сведения о приложениях для кармы от Sliday LTD
+ms.author: elmalova
+author: elenamalova
+ms.date: 12/16/2019
+ms.topic: article
+ms.service: attestation
+description: Все доступные сведения о безопасности и соответствия требованиям для Karma, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas
+ms.openlocfilehash: d76ae661f25980b12ef5db6dff5a1253e77cc2f7
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52094336"
+---
+# <a name="karma"></a><span data-ttu-id="b9069-103">Карма</span><span class="sxs-lookup"><span data-stu-id="b9069-103">Karma</span></span>
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p><span data-ttu-id="b9069-104">Последнее обновление разработчика: 16 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="b9069-104">Last updated by the developer on: December 16, 2019</span></span></p>
+
+* <span data-ttu-id="b9069-105"><a href="https://teams.microsoft.com/l/app/9ff28b02-ccc5-4cac-9d17-4cf6987c371f" target="_blank">Просмотр в Teams магазине</a></span><span class="sxs-lookup"><span data-stu-id="b9069-105"><a href="https://teams.microsoft.com/l/app/9ff28b02-ccc5-4cac-9d17-4cf6987c371f" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="b9069-106"><a href="https://appsource.microsoft.com/product/office/WA104381640" target="_blank">Просмотр в AppSource</a></span><span class="sxs-lookup"><span data-stu-id="b9069-106"><a href="https://appsource.microsoft.com/product/office/WA104381640" target="_blank">View in AppSource</a></span></span>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a><span data-ttu-id="b9069-107">Общие сведения</span><span class="sxs-lookup"><span data-stu-id="b9069-107">General information</span></span>
+
+<span data-ttu-id="b9069-108">Сведения, предоставленные sliday LTD в Корпорацию Майкрософт:</span><span class="sxs-lookup"><span data-stu-id="b9069-108">Information provided by Sliday LTD to Microsoft:</span></span>
+
+| <span data-ttu-id="b9069-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="b9069-109">**Information**</span></span> | <span data-ttu-id="b9069-110">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="b9069-110">**Response**</span></span> |
+|:----------------|:-------------|
+| <span data-ttu-id="b9069-111">Имя приложения</span><span class="sxs-lookup"><span data-stu-id="b9069-111">App name</span></span> | <span data-ttu-id="b9069-112">Карма</span><span class="sxs-lookup"><span data-stu-id="b9069-112">Karma</span></span> |
+| <span data-ttu-id="b9069-113">Идентификатор</span><span class="sxs-lookup"><span data-stu-id="b9069-113">ID</span></span> | <span data-ttu-id="b9069-114">WA104381640</span><span class="sxs-lookup"><span data-stu-id="b9069-114">WA104381640</span></span> |
+| <span data-ttu-id="b9069-115">Возможности</span><span class="sxs-lookup"><span data-stu-id="b9069-115">Capabilities</span></span> | <span data-ttu-id="b9069-116">Бот, вкладка, расширение обмена сообщениями</span><span class="sxs-lookup"><span data-stu-id="b9069-116">Bot, Tab, Messaging Extension</span></span> |
+| <span data-ttu-id="b9069-117">Office 365 поддерживаемые клиенты</span><span class="sxs-lookup"><span data-stu-id="b9069-117">Office 365 clients supported</span></span> | <span data-ttu-id="b9069-118">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="b9069-118">Microsoft Teams</span></span> |
+| <span data-ttu-id="b9069-119">Имя компании-партнера</span><span class="sxs-lookup"><span data-stu-id="b9069-119">Partner company name</span></span> | <span data-ttu-id="b9069-120">Sliday LTD</span><span class="sxs-lookup"><span data-stu-id="b9069-120">Sliday LTD</span></span> |
+| <span data-ttu-id="b9069-121">URL-адрес веб-сайта-партнера</span><span class="sxs-lookup"><span data-stu-id="b9069-121">URL of partner website</span></span> | [https://karmabot.chat/ms](https://karmabot.chat/ms) |
+| <span data-ttu-id="b9069-122">URL-адрес страницы Teams приложения</span><span class="sxs-lookup"><span data-stu-id="b9069-122">URL of Teams application info page</span></span> | [https://karmabot.readme.io/](https://karmabot.readme.io/) |
+| <span data-ttu-id="b9069-123">URL-адрес политики конфиденциальности</span><span class="sxs-lookup"><span data-stu-id="b9069-123">URL of Privacy Policy</span></span> | [<span data-ttu-id="b9069-124"> https://karmabot.readme.io/v3.0/docs/privacy-policy-for-mic...</span><span class="sxs-lookup"><span data-stu-id="b9069-124">https://karmabot.readme.io/v3.0/docs/privacy-policy-for-mic...</span></span>](https://karmabot.readme.io/v3.0/docs/privacy-policy-for-microsoft-teams) |
+| <span data-ttu-id="b9069-125">URL-адрес терминов использования</span><span class="sxs-lookup"><span data-stu-id="b9069-125">URL of Terms of Use</span></span> | [<span data-ttu-id="b9069-126"> https://karmabot.readme.io/docs/karma-end-user-license-agre...</span><span class="sxs-lookup"><span data-stu-id="b9069-126">https://karmabot.readme.io/docs/karma-end-user-license-agre...</span></span>](https://karmabot.readme.io/docs/karma-end-user-license-agreement-eula) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="b9069-127">Обработка данных приложением</span><span class="sxs-lookup"><span data-stu-id="b9069-127">How the app handles data</span></span>
+
+<span data-ttu-id="b9069-128">Эта информация была предоставлена sliday LTD о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.</span><span class="sxs-lookup"><span data-stu-id="b9069-128">This information has been provided by Sliday LTD about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="b9069-129">Доступ к данным с помощью Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="b9069-129">Data access using Microsoft Graph</span></span>
+
+<span data-ttu-id="b9069-130">Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.</span><span class="sxs-lookup"><span data-stu-id="b9069-130">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+
+>| <span data-ttu-id="b9069-131">**Permission**</span><span class="sxs-lookup"><span data-stu-id="b9069-131">**Permission**</span></span>  | <span data-ttu-id="b9069-132">**Тип разрешения (Делегированная/применение)**</span><span class="sxs-lookup"><span data-stu-id="b9069-132">**Type of permission (Delegated/Application)**</span></span> | <span data-ttu-id="b9069-133">**Собираются ли данные? Обоснование для его сбора?**</span><span class="sxs-lookup"><span data-stu-id="b9069-133">**Is data collected? Justification for collecting it?**</span></span> | <span data-ttu-id="b9069-134">**Хранятся ли данные? Обоснование его хранения?**</span><span class="sxs-lookup"><span data-stu-id="b9069-134">**Is data stored? Justification for storing it?**</span></span> | <span data-ttu-id="b9069-135">**Azure AD App ID**</span><span class="sxs-lookup"><span data-stu-id="b9069-135">**Azure AD App ID**</span></span> |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| <span data-ttu-id="b9069-136">User.Read</span><span class="sxs-lookup"><span data-stu-id="b9069-136">User.Read</span></span> | <span data-ttu-id="b9069-137">приложение</span><span class="sxs-lookup"><span data-stu-id="b9069-137">application</span></span> | <span data-ttu-id="b9069-138">Имя, фамилия и адрес электронной почты компании. Имя, фамилия администратора, столкнувшись с отчетами. Адрес электронной почты для связи в отношении Кармы, целей вы выставления счета и герархии.</span><span class="sxs-lookup"><span data-stu-id="b9069-138">First name, last name and company email address.First name, last name for admin facing reporting.Email address for communication in regards to Karma, billing purposes and herarchy.</span></span> | <span data-ttu-id="b9069-139">Имя согласия администратора. Вход и чтение профиля пользователя. Описание согласия администратора. Позволяет пользователям войти в приложение и позволяет приложению считывать профиль пользователей, входив в приложение.</span><span class="sxs-lookup"><span data-stu-id="b9069-139">Admin consent display name.Sign in and read user profile.Admin consent description.Allows users to sign-in to the app, and allows the app to read the profile of signed-in users.</span></span> <span data-ttu-id="b9069-140">Это также позволяет приложению считыть основные сведения о компании пользователей, подписав контракт. Согласие пользователя отображает имяSign, в которое вы вовсю читаете свой профиль. Описание согласия пользователя. Позволяет войти в приложение с учетной записью организации и разрешить приложению читать ваш профиль.</span><span class="sxs-lookup"><span data-stu-id="b9069-140">It also allows the app to read basic company information of signed-in users.User consent display nameSign you in and read your profile.User consent description.Allows you to sign in to the app with your organizational account and let the app read your profile.</span></span> <span data-ttu-id="b9069-141">Это также позволяет приложению читать основные сведения о компании.</span><span class="sxs-lookup"><span data-stu-id="b9069-141">It also allows the app to read basic company information.</span></span> | <span data-ttu-id="b9069-142">9ff28b02-ccc5-4cac-9d17-4cf6987c371f</span><span class="sxs-lookup"><span data-stu-id="b9069-142">9ff28b02-ccc5-4cac-9d17-4cf6987c371f</span></span> |
+
+
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="b9069-143">Не-службы Майкрософт используется</span><span class="sxs-lookup"><span data-stu-id="b9069-143">Non-Microsoft services used</span></span>
+
+<span data-ttu-id="b9069-144">Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.</span><span class="sxs-lookup"><span data-stu-id="b9069-144">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+
+><span data-ttu-id="b9069-145">Не службы Майкрософт не используются.</span><span class="sxs-lookup"><span data-stu-id="b9069-145">Non-Microsoft services are not used.</span></span>
+
+#### <a name="data-access-via-bots"></a><span data-ttu-id="b9069-146">Доступ к данным с помощью ботов</span><span class="sxs-lookup"><span data-stu-id="b9069-146">Data access via bots</span></span>
+
+<span data-ttu-id="b9069-147">Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен.</span><span class="sxs-lookup"><span data-stu-id="b9069-147">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="b9069-148">Использует ли это приложение эту возможность?</span><span class="sxs-lookup"><span data-stu-id="b9069-148">Does this app make use of this capability?</span></span>
+
+>| <span data-ttu-id="b9069-149">**Обоснование доступа к EUII?**</span><span class="sxs-lookup"><span data-stu-id="b9069-149">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="b9069-150">**Хранится ли EUII в базе данных (s)?**</span><span class="sxs-lookup"><span data-stu-id="b9069-150">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="b9069-151">**Обоснование хранения EUII?**</span><span class="sxs-lookup"><span data-stu-id="b9069-151">**Justification for storing EUII?**</span></span> |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| <span data-ttu-id="b9069-152">Имя, имя, фамилия и имя электронной почты компании, имя администратора, передав отчетный адрес электронной почты для связи в отношении Кармы.</span><span class="sxs-lookup"><span data-stu-id="b9069-152">First name, last name and company email address First name, last name for admin facing reporting email address for communication in regards to Karma.</span></span> <span data-ttu-id="b9069-153">Реестр необходим для вы выставления счета и для разделения пользователей массово на отдельные отступные.</span><span class="sxs-lookup"><span data-stu-id="b9069-153">Roster is required for billing purposes and to split users massive into separate departaments.</span></span> | <span data-ttu-id="b9069-154">Имя, имя, фамилия и имя электронной почты компании, имя администратора, столкнувшись с отчетами.</span><span class="sxs-lookup"><span data-stu-id="b9069-154">First name, last name and company email address First name, last name for admin facing reporting.</span></span> <span data-ttu-id="b9069-155">Адрес электронной почты для связи в отношении Кармы, целей вы выставления счета и иерархии пользователей Кармы.</span><span class="sxs-lookup"><span data-stu-id="b9069-155">Email address for communication in regards to Karma, billing purposes and Karma users hierarchy.</span></span> |  |
+
+
+
+#### <a name="telemetry-data"></a><span data-ttu-id="b9069-156">Данные телеметрии</span><span class="sxs-lookup"><span data-stu-id="b9069-156">Telemetry data</span></span>
+
+<span data-ttu-id="b9069-157">В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ?</span><span class="sxs-lookup"><span data-stu-id="b9069-157">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="b9069-158">Если да, опишите, какие данные хранятся и какие политики хранения и удаления?</span><span class="sxs-lookup"><span data-stu-id="b9069-158">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+
+><span data-ttu-id="b9069-159">Мы храним в журналах ИД клиента и его пользователя.</span><span class="sxs-lookup"><span data-stu-id="b9069-159">We store tenant ID's and user ID's in logs.</span></span> <span data-ttu-id="b9069-160">И то, и другое не идентифицируется.</span><span class="sxs-lookup"><span data-stu-id="b9069-160">Both are no identifiable.</span></span>
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="b9069-161">Организационные элементы управления данными, хранимые партнером</span><span class="sxs-lookup"><span data-stu-id="b9069-161">Organizational controls for data stored by partner</span></span>
+
+<span data-ttu-id="b9069-162">Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.</span><span class="sxs-lookup"><span data-stu-id="b9069-162">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+
+>1. <span data-ttu-id="b9069-163">**Существует ли решение DLP? Что реализовано для предотвращения утечки данных?**</span><span class="sxs-lookup"><span data-stu-id="b9069-163">**Is any DLP solution in place? What is implemented to prevent data leaks?**</span></span>
+
+<span data-ttu-id="b9069-164">Да, данные шифруются как при транзите, так и в покое.</span><span class="sxs-lookup"><span data-stu-id="b9069-164">YES, data is encrypted both in transit and at rest.</span></span>
+
+2. <span data-ttu-id="b9069-165">**Какие механизмы вы реализуете, чтобы убедиться, что целостность данных защищена от ошибок, коррупции или неправильного использования и насколько часто они контролируются**</span><span class="sxs-lookup"><span data-stu-id="b9069-165">**What type of mechanisms do you implement to make sure Data Integrity is protected against errors, corruption or misuse and how frequently are they controlled**</span></span>
+
+<span data-ttu-id="b9069-166">Все серверы запускают аппаратный RAID с различными уровнями RAID, но в каждом случае для любой потери данных требуется одновременно несколько сбоев диска.</span><span class="sxs-lookup"><span data-stu-id="b9069-166">All servers run hardware RAID with different RAID levels, but in each case, it requires multiple drive failures at the same time for any data loss to occur.</span></span> <span data-ttu-id="b9069-167">Мы безопасна и имеем как автоматическое, так и ручное резервное копирование.</span><span class="sxs-lookup"><span data-stu-id="b9069-167">We go extra safe and have both automatic and manual backups.</span></span> <span data-ttu-id="b9069-168">Базы данных автоматически отсевируются каждый день и хранятся в течение семи дней.</span><span class="sxs-lookup"><span data-stu-id="b9069-168">Databases are automatically backed up every day and stored for seven days.</span></span>
+<span data-ttu-id="b9069-169">VMs автоматически возвращается каждую неделю и хранится в течение 1 месяца.</span><span class="sxs-lookup"><span data-stu-id="b9069-169">VMs are automatically backed up every week and stored for 1 month.</span></span>
+
+<span data-ttu-id="b9069-170">**Снимки и резервные копии хранятся во внутренней сети, которая не является общедоступным.**</span><span class="sxs-lookup"><span data-stu-id="b9069-170">**Snapshots and Backups are stored on an internal non-publicly visible network.**</span></span>
+
+3. <span data-ttu-id="b9069-171">**Опишите, как убедиться, что данные клиента должным образом изолированы от других клиентов в решениях с несколькими клиентами и как управлять тем, что производственные данные не реплицированы и не используются в непроизводимых средах.**</span><span class="sxs-lookup"><span data-stu-id="b9069-171">**Describe how you make sure that the customer's data is properly segregated from other customers' in multi-tenant solutions and how you control that production data is not replicated or used in non-production environments**</span></span>
+
+<span data-ttu-id="b9069-172">Хранится в разных базах данных.</span><span class="sxs-lookup"><span data-stu-id="b9069-172">Stored in different databases.</span></span>
+
+4. <span data-ttu-id="b9069-173">**Какой тип шифрования вы предлагаете (алгоритмы, протоколы, длина ключей) для данных при транзите и данных в покое**</span><span class="sxs-lookup"><span data-stu-id="b9069-173">**What type of encryption do you propose (algorithms, protocols, key lengths) for data in transit and data at rest**</span></span>
+
+<span data-ttu-id="b9069-174">Все транзитные данные шифруются TLS или SSL.</span><span class="sxs-lookup"><span data-stu-id="b9069-174">All in-transit data are encrypted by TLS or SSL.</span></span> <span data-ttu-id="b9069-175">HTTP шифруется трафиком базы данных TLS 1.2 или TLS 1.3, зашифрованным SSL.</span><span class="sxs-lookup"><span data-stu-id="b9069-175">HTTP is encrypted by TLS 1.2 or TLS 1.3 Database traffic encrypted by SSL.</span></span>
+
+<span data-ttu-id="b9069-176">Данные хранятся в облачном центре Цифрового океана в центрах обработки данных США.</span><span class="sxs-lookup"><span data-stu-id="b9069-176">Data is stored in Digital ocean cloud centre in US data centres.</span></span>
+
+5. <span data-ttu-id="b9069-177">**Описание управления уникальными ключами шифрования (процесс, хранение, использование, RACI, SOD) для собственного использования и для каждого клиента**</span><span class="sxs-lookup"><span data-stu-id="b9069-177">**Describe how you manage unique encryption keys (process, storage, usage, RACI, SOD) for your own use and for each of your tenants**</span></span>
+
+<span data-ttu-id="b9069-178">Обработано цифровым океаном.</span><span class="sxs-lookup"><span data-stu-id="b9069-178">Handled by Digital Ocean.</span></span>
+
+6. <span data-ttu-id="b9069-179">**Опишите процесс управления доступом в конце поставщика, указав, как обеспечить вовремя удаление не требующихся доступов и как контролировать адекватность привилегий роли задания. Также описываются процессы переоценки и частота ее выполнения.**</span><span class="sxs-lookup"><span data-stu-id="b9069-179">**Describe the Access management process in place at the provider's end pointing out how you ensure timely removal of accesses that are no longer required and how you control the adequacy of the privileges to the job role. Also describe the revalidation processes and the frequency of its execution**</span></span>
+
+<span data-ttu-id="b9069-180">Для доступа к панели управления используется двух факторовая проверка подлинности.</span><span class="sxs-lookup"><span data-stu-id="b9069-180">We use two-factor authentication to access the control panel.</span></span> <span data-ttu-id="b9069-181">Только 3 человека имеют к этому доступ, мы меняем пароли каждый месяц, проверяем журналы доступа и проверяем, чтобы люди, больше не работающие с нами, удаляли свои учетные записи с платформы.</span><span class="sxs-lookup"><span data-stu-id="b9069-181">Only 3 people have access to that, we change passwords every month, keep access logs audited and making sure that people no longer working with us have their accounts removed from the platform.</span></span>
+
+7. <span data-ttu-id="b9069-182">**Управляйте общими Ids (например, корневыми, Sys, System и т. д.), групповыми ИД (общими учетными записями, используемыми несколькими лицами, например, из одной группы) и локальными учетными записями. Опишите, как вы ограничиваете использование привилегированных учетных записей и отслеживаете их использование и доступ к устройствам безопасности (например, к гипервизорам, брандмауэрам, сканерам уязвимостей, сетевым нюхателям, API и т. д.), как обеспечить пользователям, меняющим команду или покидающим их, больше не может получить доступ к групповому коду и каков уровень отслеживания таких ID.**</span><span class="sxs-lookup"><span data-stu-id="b9069-182">**Provide the procedure implemented at your end to manage your Shared Ids (e.g. root, Sys, System, etc.), Group IDs (generic accounts used by several individuals belonging to the same team for example) and Local accounts. Describe how you restrict, log and monitor privileged accounts usage and access to security devices (E.g., hypervisors, firewalls, vulnerability scanners, network sniffers, APIs, etc.), how you ensure users changing team or leaving can no longer access the Group ID and what is the level of traceability of such IDs**</span></span>
+
+<span data-ttu-id="b9069-183">Мы используем 1Password для общего доступа к sharable ID&#8217;s, у нас есть отдельный канал действий каждый раз, когда общий ресурс был доступ из общего депозитария паролей.</span><span class="sxs-lookup"><span data-stu-id="b9069-183">We use 1Password to share sharable ID&#8217;s, we have a separate activity feed every time the shared resource was accessed from a shared password depository.</span></span> <span data-ttu-id="b9069-184">Если это абсолютно необходимо, мы не используем общие учетные записи и не используем отдельные учетные записи.</span><span class="sxs-lookup"><span data-stu-id="b9069-184">Unless absolutely necessary we do not use shared accounts and use individual accounts instead.</span></span> <span data-ttu-id="b9069-185">Никакие сведения в базе данных Карма не могут быть доступны с помощью общего входа.</span><span class="sxs-lookup"><span data-stu-id="b9069-185">No information at Karma database could be accessed via a shared login.</span></span> <span data-ttu-id="b9069-186">2FA используется для доступа к 1Password для получения отдельного входа.</span><span class="sxs-lookup"><span data-stu-id="b9069-186">2FA is used to access 1Password to retrieve an individual login.</span></span>
+
+8. <span data-ttu-id="b9069-187">**Описание процесса обеспечения и мониторинга соблюдения сегрегации обязанностей и его частого контроля**</span><span class="sxs-lookup"><span data-stu-id="b9069-187">**Describe the process to ensure and monitor that Segregation of Duties is respected and how frequently it is controlled**</span></span>
+
+<span data-ttu-id="b9069-188">Мы провели ежемесячные собрания, посвященные сегрегации служб, важности использования выделенных входов и 2FA для каждого возможного входа.</span><span class="sxs-lookup"><span data-stu-id="b9069-188">We ran monthly meetings that cover duty segregation, the importance of dedicated login use and 2FA every login possible.</span></span>
+
+<span data-ttu-id="b9069-189">Наш SIEM содержит: журналы брандмауэра, журналы веб-серверов и журналы приложений.</span><span class="sxs-lookup"><span data-stu-id="b9069-189">Our SIEM contains: firewall logs, web server logs and application logs.</span></span> <span data-ttu-id="b9069-190">SIEM анализируется ежедневно и после получения.</span><span class="sxs-lookup"><span data-stu-id="b9069-190">SIEM is getting analyzed daily and upon receiving.</span></span> <span data-ttu-id="b9069-191">Журналы сохраняются в течение 1 месяца и после этого надежно удаляются.</span><span class="sxs-lookup"><span data-stu-id="b9069-191">Logs are retained for 1 month and securely removed after that.</span></span>
+
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="b9069-192">Обзор сведений об организации</span><span class="sxs-lookup"><span data-stu-id="b9069-192">Human review of organizational information</span></span>
+
+<span data-ttu-id="b9069-193">Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?</span><span class="sxs-lookup"><span data-stu-id="b9069-193">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+
+><span data-ttu-id="b9069-194">Да</span><span class="sxs-lookup"><span data-stu-id="b9069-194">Yes</span></span>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+<span data-ttu-id="b9069-195">Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.</span><span class="sxs-lookup"><span data-stu-id="b9069-195">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+
+<iframe height='1020' title='<span data-ttu-id="b9069-196">Microsoft Cloud App Security Сведения</span><span class="sxs-lookup"><span data-stu-id="b9069-196">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35674' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="b9069-197">
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35674" target="_blank">Просмотр на новой вкладке</a></span><span class="sxs-lookup"><span data-stu-id="b9069-197">
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35674" target="_blank">View in a new tab</a></span></span>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
