@@ -1,0 +1,127 @@
+---
+title: Сведения о приложениях для EngageWith по SpringRole
+ms.author: elmalova
+author: elenamalova
+ms.date: 01/13/2021
+ms.topic: article
+ms.service: attestation
+description: Все доступные сведения о безопасности и соответствия требованиям для EngageWith, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: c987e92b71d50c09248e50831899c9cf35cac605
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52096756"
+---
+# <a name="engagewith"></a><span data-ttu-id="5a5d5-103">EngageWith</span><span class="sxs-lookup"><span data-stu-id="5a5d5-103">EngageWith</span></span>
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p><span data-ttu-id="5a5d5-104">Последнее обновление разработчика: 13 января 2021 г.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-104">Last updated by the developer on: January 13, 2021</span></span></p>
+
+* <span data-ttu-id="5a5d5-105"><a href="https://teams.microsoft.com/l/app/6fb7f99a-d746-4a4b-8964-7c17d48935bb" target="_blank">Просмотр в Teams магазине</a></span><span class="sxs-lookup"><span data-stu-id="5a5d5-105"><a href="https://teams.microsoft.com/l/app/6fb7f99a-d746-4a4b-8964-7c17d48935bb" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="5a5d5-106"><a href="https://appsource.microsoft.com/product/office/WA200001915" target="_blank">Просмотр в AppSource</a></span><span class="sxs-lookup"><span data-stu-id="5a5d5-106"><a href="https://appsource.microsoft.com/product/office/WA200001915" target="_blank">View in AppSource</a></span></span>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a><span data-ttu-id="5a5d5-107">Общие сведения</span><span class="sxs-lookup"><span data-stu-id="5a5d5-107">General information</span></span>
+
+<span data-ttu-id="5a5d5-108">Сведения, предоставленные SpringRole корпорации Майкрософт:</span><span class="sxs-lookup"><span data-stu-id="5a5d5-108">Information provided by SpringRole to Microsoft:</span></span>
+
+| <span data-ttu-id="5a5d5-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-109">**Information**</span></span> | <span data-ttu-id="5a5d5-110">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-110">**Response**</span></span> |
+|:----------------|:-------------|
+| <span data-ttu-id="5a5d5-111">Имя приложения</span><span class="sxs-lookup"><span data-stu-id="5a5d5-111">App name</span></span> | <span data-ttu-id="5a5d5-112">EngageWith</span><span class="sxs-lookup"><span data-stu-id="5a5d5-112">EngageWith</span></span> |
+| <span data-ttu-id="5a5d5-113">Идентификатор</span><span class="sxs-lookup"><span data-stu-id="5a5d5-113">ID</span></span> | <span data-ttu-id="5a5d5-114">WA200001915</span><span class="sxs-lookup"><span data-stu-id="5a5d5-114">WA200001915</span></span> |
+| <span data-ttu-id="5a5d5-115">Возможности</span><span class="sxs-lookup"><span data-stu-id="5a5d5-115">Capabilities</span></span> | <span data-ttu-id="5a5d5-116">Bot</span><span class="sxs-lookup"><span data-stu-id="5a5d5-116">Bot</span></span> |
+| <span data-ttu-id="5a5d5-117">Office 365 поддерживаемые клиенты</span><span class="sxs-lookup"><span data-stu-id="5a5d5-117">Office 365 clients supported</span></span> | <span data-ttu-id="5a5d5-118">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="5a5d5-118">Microsoft Teams</span></span> |
+| <span data-ttu-id="5a5d5-119">Имя компании-партнера</span><span class="sxs-lookup"><span data-stu-id="5a5d5-119">Partner company name</span></span> | <span data-ttu-id="5a5d5-120">SpringRole</span><span class="sxs-lookup"><span data-stu-id="5a5d5-120">SpringRole</span></span> |
+| <span data-ttu-id="5a5d5-121">URL-адрес веб-сайта-партнера</span><span class="sxs-lookup"><span data-stu-id="5a5d5-121">URL of partner website</span></span> | [https://engagewith.springworks.in/](https://engagewith.springworks.in/) |
+| <span data-ttu-id="5a5d5-122">URL-адрес страницы Teams приложения</span><span class="sxs-lookup"><span data-stu-id="5a5d5-122">URL of Teams application info page</span></span> | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
+| <span data-ttu-id="5a5d5-123">URL-адрес политики конфиденциальности</span><span class="sxs-lookup"><span data-stu-id="5a5d5-123">URL of Privacy Policy</span></span> | [https://engagewith.springworks.in/privacy-policy](https://engagewith.springworks.in/privacy-policy) |
+| <span data-ttu-id="5a5d5-124">URL-адрес терминов использования</span><span class="sxs-lookup"><span data-stu-id="5a5d5-124">URL of Terms of Use</span></span> | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="5a5d5-125">Обработка данных приложением</span><span class="sxs-lookup"><span data-stu-id="5a5d5-125">How the app handles data</span></span>
+
+<span data-ttu-id="5a5d5-126">Эта информация была предоставлена SpringRole о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-126">This information has been provided by SpringRole about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="5a5d5-127">Доступ к данным с помощью Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="5a5d5-127">Data access using Microsoft Graph</span></span>
+
+<span data-ttu-id="5a5d5-128">Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-128">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+
+><span data-ttu-id="5a5d5-129">Это приложение не использует Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-129">This application does not use Microsoft Graph.</span></span>
+
+
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="5a5d5-130">Не-службы Майкрософт используется</span><span class="sxs-lookup"><span data-stu-id="5a5d5-130">Non-Microsoft services used</span></span>
+
+<span data-ttu-id="5a5d5-131">Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-131">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+
+>| <span data-ttu-id="5a5d5-132">**Все не службы Майкрософт OII передаются**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-132">**All non-Microsoft services OII is transferred to**</span></span> |  <span data-ttu-id="5a5d5-133">**Какие OII передаются?**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-133">**What OII is transferred?**</span></span> | <span data-ttu-id="5a5d5-134">**Обоснование переноса OII?**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-134">**Justification for transferring OII?**</span></span> |
+>|:-------------------|:--------------------------|:--------------------------|
+>| <span data-ttu-id="5a5d5-135">AWS, Mailchimp, Stripe.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-135">AWS, Mailchimp, Stripe.</span></span> <span data-ttu-id="5a5d5-136">Имя клиента, электронная почта, IP-адрес, сведения об оплате.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-136">Customer name, email, IP, payment information.</span></span> <span data-ttu-id="5a5d5-137">Мы используем эти третьи стороны, чтобы предоставить нашим клиентам наилучший клиентский опыт</span><span class="sxs-lookup"><span data-stu-id="5a5d5-137">We use these third parties to provide the best customer experience to our customers</span></span> | <span data-ttu-id="5a5d5-138">Имя, электронная почта</span><span class="sxs-lookup"><span data-stu-id="5a5d5-138">Name, email</span></span> | <span data-ttu-id="5a5d5-139">эта надстройка не использует дополнительные API</span><span class="sxs-lookup"><span data-stu-id="5a5d5-139">this add-in does not use additional APIs</span></span> |
+
+#### <a name="data-access-via-bots"></a><span data-ttu-id="5a5d5-140">Доступ к данным с помощью ботов</span><span class="sxs-lookup"><span data-stu-id="5a5d5-140">Data access via bots</span></span>
+
+<span data-ttu-id="5a5d5-141">Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-141">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="5a5d5-142">Использует ли это приложение эту возможность?</span><span class="sxs-lookup"><span data-stu-id="5a5d5-142">Does this app make use of this capability?</span></span>
+
+>| <span data-ttu-id="5a5d5-143">**Обоснование доступа к EUII?**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-143">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="5a5d5-144">**Хранится ли EUII в базе данных (s)?**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-144">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="5a5d5-145">**Обоснование хранения EUII?**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-145">**Justification for storing EUII?**</span></span> |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| <span data-ttu-id="5a5d5-146">Эти данные используются для отображения и хранения истории искупления точек &amp; вознаграждения.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-146">This data is used to display and store the their reward points &amp; redemption history.</span></span> <span data-ttu-id="5a5d5-147">Также используется в основных функциональных возможностях приложения, чтобы дать одноранговую оценку и выкрикивать</span><span class="sxs-lookup"><span data-stu-id="5a5d5-147">Also utilised in the main functionality of the app to give Kudos and Shoutout to peers</span></span> | <span data-ttu-id="5a5d5-148">Имя, электронная почта, день рождения и годовщина работы.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-148">Name, email, birthday and work anniversary.</span></span> | <span data-ttu-id="5a5d5-149">Эти данные используются для отображения и хранения истории искупления точек &amp; вознаграждения</span><span class="sxs-lookup"><span data-stu-id="5a5d5-149">This data is used to display and store their reward points &amp; redemption history</span></span> |
+
+
+
+#### <a name="telemetry-data"></a><span data-ttu-id="5a5d5-150">Данные телеметрии</span><span class="sxs-lookup"><span data-stu-id="5a5d5-150">Telemetry data</span></span>
+
+<span data-ttu-id="5a5d5-151">В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ?</span><span class="sxs-lookup"><span data-stu-id="5a5d5-151">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="5a5d5-152">Если да, опишите, какие данные хранятся и какие политики хранения и удаления?</span><span class="sxs-lookup"><span data-stu-id="5a5d5-152">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+
+><span data-ttu-id="5a5d5-153">OII: имя организации, ID клиента отображаются в журналах; EUII: aad Object ID, полное имя, электронная почта отображаются в журналах.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-153">OII: organization name, tenant ID appear in logs; EUII: aad Object ID, full name, email appear in logs.</span></span> <span data-ttu-id="5a5d5-154">Период хранения 30 дней, автоматическое удаление</span><span class="sxs-lookup"><span data-stu-id="5a5d5-154">30 days retention period, automatic deletion</span></span>
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="5a5d5-155">Организационные элементы управления данными, хранимые партнером</span><span class="sxs-lookup"><span data-stu-id="5a5d5-155">Organizational controls for data stored by partner</span></span>
+
+<span data-ttu-id="5a5d5-156">Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-156">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+
+><span data-ttu-id="5a5d5-157">Данные, хранимые в RDS, AWS.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-157">Data stored in RDS, AWS.</span></span> <span data-ttu-id="5a5d5-158">шифруется.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-158">it is encrypted.</span></span> <span data-ttu-id="5a5d5-159">Доступ только к инженеру Devops, инженеру и основателю</span><span class="sxs-lookup"><span data-stu-id="5a5d5-159">Access is only to a Devops Engineer, Engineering Lead and founder</span></span>
+
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="5a5d5-160">Обзор сведений об организации</span><span class="sxs-lookup"><span data-stu-id="5a5d5-160">Human review of organizational information</span></span>
+
+<span data-ttu-id="5a5d5-161">Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?</span><span class="sxs-lookup"><span data-stu-id="5a5d5-161">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+
+><span data-ttu-id="5a5d5-162">Нет</span><span class="sxs-lookup"><span data-stu-id="5a5d5-162">No</span></span>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+<span data-ttu-id="5a5d5-163">Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-163">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+
+<iframe height='1020' title='<span data-ttu-id="5a5d5-164">Microsoft Cloud App Security Сведения</span><span class="sxs-lookup"><span data-stu-id="5a5d5-164">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36381' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="5a5d5-165">
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36381" target="_blank">Просмотр на новой вкладке</a></span><span class="sxs-lookup"><span data-stu-id="5a5d5-165">
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36381" target="_blank">View in a new tab</a></span></span>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a><span data-ttu-id="5a5d5-166">Сведения о удостоверениях</span><span class="sxs-lookup"><span data-stu-id="5a5d5-166">Identity information</span></span>
+
+<span data-ttu-id="5a5d5-167">Эта информация была предоставлена SpringRole о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.</span><span class="sxs-lookup"><span data-stu-id="5a5d5-167">This information has been provided by SpringRole about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
+
+| <span data-ttu-id="5a5d5-168">**Information**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-168">**Information**</span></span> | <span data-ttu-id="5a5d5-169">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="5a5d5-169">**Response**</span></span> |
+|:----------------|:-------------|
+| <span data-ttu-id="5a5d5-170">Интеграция с платформой Microsoft Identify Platform (Azure AD)?</span><span class="sxs-lookup"><span data-stu-id="5a5d5-170">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="5a5d5-171">Нет</span><span class="sxs-lookup"><span data-stu-id="5a5d5-171">No</span></span> |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
