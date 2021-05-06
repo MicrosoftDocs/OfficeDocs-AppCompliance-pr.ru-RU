@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 06/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wide Ideas, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: be8d85cf26bcd153e4e72777bea65968eb858407
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7d1186c5a9c17d2bf835569dad87e0f36aaf1d3c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094799"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252219"
 ---
-# <a name="wide-ideas"></a>Широкие идеи
+# <a name="wide-ideas"></a>Wide Ideas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,11 +32,11 @@ ms.locfileid: "52094799"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Широкие идеи |
-| Идентификатор | WA200000819 |
+| Имя приложения | Wide Ideas |
+| ID | WA200000819 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Широкие идеи |
+| Имя компании-партнера | Wide Ideas |
 | URL-адрес веб-сайта-партнера | [https://getwideideas.com](https://getwideideas.com) |
 | URL-адрес политики конфиденциальности | [https://getwideideas.com/privacy-policy](https://getwideideas.com/privacy-policy) |
 | URL-адрес терминов использования | [https://getwideideas.com/terms](https://getwideideas.com/terms) |

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Wrike для Office Documents, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6ecbf74b4ef8e3f4203e01d0039b0573070e071e
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c1304a161377b80c0248229aa1ef92f4f15e19d9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096811"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251528"
 ---
 # <a name="wrike-for-office-documents"></a>Wrike для Office документов
 
@@ -30,7 +31,7 @@ ms.locfileid: "52096811"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Wrike для Office документов |
-| Идентификатор | WA104379841 |
+| ID | WA104379841 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или более поздней Windows, Word 2013 или более поздней Windows, PowerPoint 2013 или более поздней Windows, Excel 2016 или позднее на Mac, Excel в Интернете, Word 2016 или более поздней основе на Mac, Word в Интернете, PowerPoint 2016 или более поздних PowerPoint в Интернете |
 | Имя компании-партнера | Wrike Inc. |
 | URL-адрес веб-сайта-партнера | [https://wrike.com/](https://wrike.com/) |

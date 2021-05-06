@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 07/21/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для LuckyDraw, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9b37d6e8730580ad04b69061587038957a85a2d4
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c2be17a1122ef5f0badf2cd5025770cd6e988b83
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094847"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251028"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -32,10 +33,10 @@ ms.locfileid: "52094847"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | LuckyDraw |
-| Идентификатор | WA200000091 |
-| Возможности | Бот, расширение обмена сообщениями |
+| ID | WA200000091 |
+| Возможности | Бот, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Тони Ся |
+| Имя компании-партнера | Tony Xia |
 | URL-адрес веб-сайта-партнера | [https://luckydraw.teetee365.com](https://luckydraw.teetee365.com) |
 | URL-адрес страницы Teams приложения | [https://luckydraw4web4prd.z7.web.core.windows.net/](https://luckydraw4web4prd.z7.web.core.windows.net/) |
 | URL-адрес политики конфиденциальности | [https://luckydraw.teetee365.com/privacy](https://luckydraw.teetee365.com/privacy) |

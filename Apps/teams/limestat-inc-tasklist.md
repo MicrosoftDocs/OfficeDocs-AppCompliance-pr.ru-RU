@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TaskList, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b8e1aa4a7739bc20f8f2198ebb73df989c62c190
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 1575b0f0fee9f586e665d8c1b815d53535c15c4c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094560"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251288"
 ---
 # <a name="tasklist"></a>TaskList
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094560"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TaskList |
-| Идентификатор | WA104382085 |
-| Возможности | Bot |
+| ID | WA104382085 |
+| Возможности | Бот |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LimeStat, Inc |
 | URL-адрес веб-сайта-партнера | [https://www.tasklistforteams.com](https://www.tasklistforteams.com) |

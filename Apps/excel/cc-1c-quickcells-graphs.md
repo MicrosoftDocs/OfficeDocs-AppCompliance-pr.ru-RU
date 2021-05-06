@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для QuickCells Graphs, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 383c608f44f71426d211e3a4cfa3a7d64fbb69cf
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 1e630f0cc46f64e7f8b6b9e10b7b06f83385a565
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094895"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251838"
 ---
 # <a name="quickcells-graphs"></a>Диаграммы QuickCells
 
@@ -31,7 +32,7 @@ ms.locfileid: "52094895"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Диаграммы QuickCells |
-| Идентификатор | WA200001574 |
+| ID | WA200001574 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | CC-1C |
 | URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |

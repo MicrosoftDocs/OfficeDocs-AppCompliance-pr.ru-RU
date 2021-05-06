@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/31/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SmartWork, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3fa673b3b6488cbca428f4583fe60021734525cf
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ac3365dd3b37fcc89ac63db89fc3f233a68ae045
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094304"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52249897"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094304"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | SmartWork |
-| Идентификатор | WA200001149 |
-| Возможности | Bot |
+| ID | WA200001149 |
+| Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SmartWork of Intumit |
 | URL-адрес веб-сайта-партнера | [https://www.intumit.com](https://www.intumit.com) |

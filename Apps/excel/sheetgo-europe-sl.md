@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b446a9bb996dd2df04cd1c61df0b065516304c83
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 61bfa520217c19f338d0531c204584ff8f811dd8
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094591"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251418"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -31,7 +32,7 @@ ms.locfileid: "52094591"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Sheetgo |
-| Идентификатор | WA200002128 |
+| ID | WA200002128 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | SHEETGO EUROPE SL |
 | URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |

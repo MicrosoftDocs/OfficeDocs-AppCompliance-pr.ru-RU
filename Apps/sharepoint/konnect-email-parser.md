@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/12/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Konnect eMail Parser, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1ed34257181ea143d4a6a43ae21e6a01e05ae3f0
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 2d6a36604cbd540b79e69103fc4160b254a09fea
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095700"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251008"
 ---
 # <a name="konnect-email-parser"></a>Parser электронной почты Konnect
 
@@ -31,7 +32,7 @@ ms.locfileid: "52095700"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Parser электронной почты Konnect |
-| Идентификатор | WA200001893 |
+| ID | WA200001893 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | Электронная почта Konnect |
 | URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |

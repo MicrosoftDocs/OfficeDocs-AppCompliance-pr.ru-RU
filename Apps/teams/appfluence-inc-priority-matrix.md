@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 11/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Priority Matrix, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 07fcd027c4f6948565def3492d7bb30ba48bdc25
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ccd03dd271cfafb55fd99fc65f4820a9d8787e83
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095601"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250878"
 ---
-# <a name="priority-matrix"></a>Матрица приоритетов
+# <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 17 ноября 2020 г.</p>
@@ -30,9 +31,9 @@ ms.locfileid: "52095601"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Матрица приоритетов |
-| Идентификатор | WA104382005 |
-| Возможности | Bot, Tab, Messaging Extension, Connector |
+| Имя приложения | Priority Matrix |
+| ID | WA104382005 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Appfluence Inc |
 | URL-адрес веб-сайта-партнера | [https://appfluence.com](https://appfluence.com) |
@@ -134,11 +135,11 @@ ms.locfileid: "52095601"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Да| | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да| | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

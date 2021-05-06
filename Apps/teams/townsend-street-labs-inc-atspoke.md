@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 06/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для atSpoke, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b3c5c511fb7f74c9e2e7217ae10508b4ce560842
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 14f44eb8a74cde9a7803e079e561f93f0391561b
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094840"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248067"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -32,10 +33,10 @@ ms.locfileid: "52094840"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | atSpoke |
-| Идентификатор | WA200001454 |
-| Возможности | Bot |
+| ID | WA200001454 |
+| Возможности | Бот |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Townsend Street Labs, Inc. |
+| Имя компании-партнера | Компания Townsend Street Labs, Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.atspoke.com](https://www.atspoke.com) |
 | URL-адрес политики конфиденциальности | [https://www.atspoke.com/privacy-policy/](https://www.atspoke.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://www.atspoke.com/terms-of-service](https://www.atspoke.com/terms-of-service) |

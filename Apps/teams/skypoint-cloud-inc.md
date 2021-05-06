@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 03/10/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для SkyPoint Cloud, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 80339fe31cdede2338402642baea596efc5369d8
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 99b5a7cf3c749e7a8d8ca5742eac7f8b81185bc1
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096776"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252279"
 ---
-# <a name="skypoint-cloud"></a>Облако SkyPoint
+# <a name="skypoint-cloud"></a>SkyPoint Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,9 +32,9 @@ ms.locfileid: "52096776"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Облако SkyPoint |
-| Идентификатор | WA200002580 |
-| Возможности | Bot |
+| Имя приложения | SkyPoint Cloud |
+| ID | WA200002580 |
+| Возможности | Бот |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SkyPoint Cloud Inc. |
 | URL-адрес веб-сайта-партнера | [https://skypointcloud.com/](https://skypointcloud.com/) |
@@ -123,11 +124,10 @@ ms.locfileid: "52096776"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
- | | Предоставляет ли ваше приложение какие-либо веб-API? | Нет | | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

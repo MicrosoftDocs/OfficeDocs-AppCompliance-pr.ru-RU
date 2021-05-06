@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Службы Zoho, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e0d2d0dbf85436dc8a7b8415202ae35569adfa6b
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 446341cc94c3dba5792e16559647a80e0960b932
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094767"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251979"
 ---
-# <a name="zoho-desk"></a>Стол Zoho
+# <a name="zoho-desk"></a>Zoho Desk
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,9 +32,9 @@ ms.locfileid: "52094767"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Стол Zoho |
-| Идентификатор | WA104382044 |
-| Возможности | Tab, Connector |
+| Имя приложения | Zoho Desk |
+| ID | WA104382044 |
+| Возможности | Вкладка, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/desk](https://www.zoho.com/desk) |

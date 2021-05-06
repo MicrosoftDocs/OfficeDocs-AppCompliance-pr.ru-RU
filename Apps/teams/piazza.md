@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Piazza, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3938ae4175f03f9a2164582d711b6cb7236aaa19
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: aa66ec207a068983982b25ca46e42958c29e5ff0
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094407"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251178"
 ---
 # <a name="piazza"></a>Piazza
 
@@ -32,7 +33,7 @@ ms.locfileid: "52094407"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Piazza |
-| Идентификатор | WA200001568 |
+| ID | WA200001568 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Piazza |

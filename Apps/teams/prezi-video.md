@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Prezi Video, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 99d94e196109404452241300b43eb3003c10fde6
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7f35632fb44a471af5e0675a3d0463ded2c84b5a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094384"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251158"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094384"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Prezi Video |
-| Идентификатор | WA200001577 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA200001577 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Prezi |
 | URL-адрес веб-сайта-партнера | [https://prezi.com](https://prezi.com) |

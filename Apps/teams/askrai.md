@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/15/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для askR.ai, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0acf2703f78d8cefe4c8e89f4a02023816d52bd3
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7e540990d562161a11acf15c3924da0d5c6e66f1
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095570"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250858"
 ---
 # <a name="askrai"></a>askR.ai
 
@@ -32,7 +33,7 @@ ms.locfileid: "52095570"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | askR.ai |
-| Идентификатор | WA200001583 |
+| ID | WA200001583 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | askR.ai |

@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 03/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для виртуального агента Now, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c6cc9da641b2e1f03aee7b23b0bae5312793cc80
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 71d40e92b298a8bbb35e6c3fd9fb2acb4e3d5f05
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096787"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252299"
 ---
-# <a name="now-virtual-agent"></a>Теперь виртуальный агент
+# <a name="now-virtual-agent"></a>Now Virtual Agent
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,9 +32,9 @@ ms.locfileid: "52096787"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Теперь виртуальный агент |
-| Идентификатор | WA104381816 |
-| Возможности | Bot |
+| Имя приложения | Now Virtual Agent |
+| ID | WA104381816 |
+| Возможности | Бот |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ServiceNow |
 | URL-адрес веб-сайта-партнера | [https://www.servicenow.com/](https://www.servicenow.com/) |

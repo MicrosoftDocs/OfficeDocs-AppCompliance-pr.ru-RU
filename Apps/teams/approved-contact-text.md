@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Text, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 234dd55134c0d3d54c4911f4ba82340475ef969c
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 477983aec1aeb8d25b3b0766c41fe7bc66d479a0
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095580"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251088"
 ---
 # <a name="text"></a>Текст
 
@@ -32,10 +33,10 @@ ms.locfileid: "52095580"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Текст |
-| Идентификатор | WA200000383 |
+| ID | WA200000383 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Утвержденный контакт |
+| Имя компании-партнера | Approved Contact |
 | URL-адрес веб-сайта-партнера | [https://sales.approvedcontact.com/syniverse-microsoft-teams...](https://sales.approvedcontact.com/syniverse-microsoft-teams-text/) |
 | URL-адрес политики конфиденциальности | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
 | URL-адрес терминов использования | [https://sales.approvedcontact.com/wp-content/uploads/text-t...](https://sales.approvedcontact.com/wp-content/uploads/text-terms-of-use.pdf) |

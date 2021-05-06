@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Agile Task Board, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 75935486fde59a033ead62c91f4276c2f2b1b133
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4ad5f0de96f6b1c7330eb480b1723361907e1239
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095640"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250998"
 ---
-# <a name="agile-task-board"></a>Agile Task Board
+# <a name="agile-task-board"></a>Доска задач Agile
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,8 +32,8 @@ ms.locfileid: "52095640"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Agile Task Board |
-| Идентификатор | WA200002162 |
+| Имя приложения | Доска задач Agile |
+| ID | WA200002162 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Agile-IS |

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Projects, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e3016f9295ebea2944e5349b3651f70e5cbb8d9e
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: cd86e3cbd7fbdadbeacf6788678f53e121de6eaf
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096856"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251969"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -32,8 +33,8 @@ ms.locfileid: "52096856"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Zoho Projects |
-| Идентификатор | WA104381668 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA104381668 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/projects/](https://www.zoho.com/projects/) |

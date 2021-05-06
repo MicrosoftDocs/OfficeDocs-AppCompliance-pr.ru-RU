@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/05/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Вся доступная информация о безопасности и соответствии требованиям для MIPA — ваш личный помощник, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2b7a539c7e99c435d4df940e376f84dc89146e65
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 845430e287f089d0438649acf7a41d7e0ebe231c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096688"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251738"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA — личный помощник
 
@@ -30,7 +31,7 @@ ms.locfileid: "52096688"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | MIPA — личный помощник |
-| Идентификатор | WA200000062 |
+| ID | WA200000062 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |

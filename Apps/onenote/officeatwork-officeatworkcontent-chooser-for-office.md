@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/08/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор контента для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca2b958b393763ef613e8401379a1db6383c4aa2
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 5b963b3b7669c68ec1734577645ad60d12afca89
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096731"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251818"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | Выбор контента для Office
 
@@ -30,7 +31,7 @@ ms.locfileid: "52096731"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — выбор контента для Office |
-| Идентификатор | WA104380602 |
+| ID | WA104380602 |
 | Office 365 поддерживаемые клиенты | Excel iPad, Excel 2016 или более поздней Excel 2013 Пакет обновления 1 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint на iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows, OneNote в Интернете |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
@@ -141,11 +142,10 @@ ms.locfileid: "52096731"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Нет | | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

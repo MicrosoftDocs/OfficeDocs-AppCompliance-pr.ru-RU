@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для знака Zoho, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 19ef808d02a008780fe3688c7ef3e2f767f2649e
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 49c6a98506f3586468fcd3658567a9508f5175b6
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096855"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251959"
 ---
-# <a name="zoho-sign"></a>Знак Зохо
+# <a name="zoho-sign"></a>Zoho Sign
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,8 +32,8 @@ ms.locfileid: "52096855"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Знак Зохо |
-| Идентификатор | WA104382011 |
+| Имя приложения | Zoho Sign |
+| ID | WA104382011 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |

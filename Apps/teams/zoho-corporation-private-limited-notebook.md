@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Notebook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 59a0c4e50b08fb7dd8d30bfd65cba99e1b48d9d1
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 25595f52e8b2e07859abf3f0192954458c012810
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094919"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251638"
 ---
-# <a name="zoho-notebook"></a>Ноутбук Zoho
+# <a name="zoho-notebook"></a>Zoho Notebook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,8 +32,8 @@ ms.locfileid: "52094919"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Ноутбук Zoho |
-| Идентификатор | WA200001616 |
+| Имя приложения | Zoho Notebook |
+| ID | WA200001616 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |

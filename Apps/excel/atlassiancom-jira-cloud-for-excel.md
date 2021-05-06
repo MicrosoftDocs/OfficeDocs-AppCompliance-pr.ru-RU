@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Jira Cloud для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 72555dda5beb73261e7377a357c06440cf0c186a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: a05866a1d77be09e30f960cd258aad1d0d851bd7
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094760"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251858"
 ---
 # <a name="jira-cloud-for-excel"></a>Jira Cloud для Excel
 
@@ -31,7 +32,7 @@ ms.locfileid: "52094760"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Jira Cloud для Excel |
-| Идентификатор | WA200000556 |
+| ID | WA200000556 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | Atlassian.com |
 | URL-адрес веб-сайта-партнера | [https://www.atlassian.com/](https://www.atlassian.com/) |

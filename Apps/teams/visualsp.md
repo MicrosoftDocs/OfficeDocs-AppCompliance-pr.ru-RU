@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для VisualSP, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8ea0ea3ab57446feb6d5c8de21038ef6dc9ebdfd
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: e42cba3e525da2766fda4485f975d290395e6f2c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094815"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252229"
 ---
 # <a name="visualsp"></a>VisualSP
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094815"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | VisualSP |
-| Идентификатор | WA200001426 |
-| Возможности | Bot, Tab, Messaging Extension, Connector |
+| ID | WA200001426 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | VisualSP |
 | URL-адрес веб-сайта-партнера | [https://www.visualsp.com](https://www.visualsp.com) |

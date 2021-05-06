@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign Add-In для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5ae63ddb614784164870b24508e0782bce49dd48
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 530bd74a0c74561545c4e7076cec5f6bc0eb5aa4
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096728"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251808"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Adobe Sign Add-In для Outlook
 
@@ -30,7 +31,7 @@ ms.locfileid: "52096728"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Adobe Sign Add-In для Outlook |
-| Идентификатор | WA104381158 |
+| ID | WA104381158 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Adobe Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.adobe.com/](https://www.adobe.com/) |

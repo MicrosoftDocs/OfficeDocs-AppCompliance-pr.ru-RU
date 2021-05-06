@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 08/06/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для InStation, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 942790109cfa1493954f50be11e15ee36dbf2af2
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7185027c5fe21b388076d5fd655e3d9240905e25
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095320"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250757"
 ---
 # <a name="instation"></a>InStation
 
@@ -32,10 +33,10 @@ ms.locfileid: "52095320"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | InStation |
-| Идентификатор | WA200001701 |
+| ID | WA200001701 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Разработчики Invillia |
+| Имя компании-партнера | Developers Invillia |
 | URL-адрес веб-сайта-партнера | [https://instation.invillia.com/](https://instation.invillia.com/) |
 | URL-адрес политики конфиденциальности | [https://instation.invillia.com/terms#privacy-policy](https://instation.invillia.com/terms#privacy-policy) |
 | URL-адрес терминов использования | [https://instation.invillia.com/terms#terms-of-use](https://instation.invillia.com/terms#terms-of-use) |

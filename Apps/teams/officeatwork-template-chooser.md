@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 12/08/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для шаблона Chooser, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 49ead47e2f995d928d8b22c92b9dd3e6ddfc216c
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 97967acac5f81e330b6cfcaccf68300a3a34d9a7
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096788"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251208"
 ---
-# <a name="template-chooser"></a>Выбор шаблона
+# <a name="template-chooser"></a>Template Chooser
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 8 декабря 2020 г.</p>
@@ -30,8 +31,8 @@ ms.locfileid: "52096788"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Выбор шаблона |
-| Идентификатор | WA200000110 |
+| Имя приложения | Template Chooser |
+| ID | WA200000110 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | officeatwork |
@@ -140,11 +141,10 @@ ms.locfileid: "52096788"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Нет | | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

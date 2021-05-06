@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 02/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 51c344c6810287c155dffbac170fea0c1ab16259
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fdc58284721104fde1bb122f13532d9ecf63aabb
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095250"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250717"
 ---
-# <a name="board-connect"></a>Совет Подключение
+# <a name="board-connect"></a>Подключение к доске
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,8 +32,8 @@ ms.locfileid: "52095250"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Совет Подключение |
-| Идентификатор | WA200001955 |
+| Имя приложения | Подключение к доске |
+| ID | WA200001955 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Engage Squared |
@@ -130,11 +131,11 @@ ms.locfileid: "52095250"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
- | | Предоставляет ли ваше приложение какие-либо веб-API? | Да| | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да| | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

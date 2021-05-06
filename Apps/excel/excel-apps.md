@@ -2,24 +2,25 @@
 title: Microsoft Excel Безопасность и соответствие требованиям приложения — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/15/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel приложений.
 localization_priority: Normal
-ms.openlocfilehash: 67928dae457119f6bb28d02e83017e573ad8c517
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: d8b83937131fe2e155103ffd7a2786fbadeca099
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071729"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251508"
 ---
 # <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel Безопасность приложений и соответствие требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений о Excel приложениях и надстройких, которые они используют. Эти сведения дополняются сведениями [](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) из каталога Microsoft Cloud App Security приложений и сведениями, предоставляемыми разработчиками при отправке приложений. Эти сведения о безопасности, обработке данных и соответствия требованиям призваны помочь организациям оценить риски при использовании этих приложений и управлять ими.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений о Excel приложениях и надстройких, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
-| **App** | **Partner** | **Publisher Attested** | **Сертифицировано** | **Сведения об обработке данных** | **Cloud App Security Сведения** |
+| **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** | **Сведения об обработке данных** | **Данные Cloud App Security** |
 |:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
+| [Аналитика CloudExtend для NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  | Да | Да |
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  | Да | Да |
 | [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  | Да | Да |
 | [средство отчетности iPlanner для Office 365 планировщика](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Да | Да |

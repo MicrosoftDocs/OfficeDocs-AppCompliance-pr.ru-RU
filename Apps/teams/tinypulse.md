@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/10/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TINYpulse, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3e3a923d7dbb361a331e905f8b34eb7a1553a74f
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4d81f613854634b30bb00c0f1d96c5d148b02795
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094856"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251038"
 ---
 # <a name="tinypulse"></a>TINYpulse
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094856"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TINYpulse |
-| Идентификатор | WA104381729 |
-| Возможности | Bot, Connector |
+| ID | WA104381729 |
+| Возможности | Бот, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | TINYpulse |
 | URL-адрес веб-сайта-партнера | [https://www.tinypulse.com/](https://www.tinypulse.com/) |
@@ -123,11 +124,10 @@ ms.locfileid: "52094856"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Нет | | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

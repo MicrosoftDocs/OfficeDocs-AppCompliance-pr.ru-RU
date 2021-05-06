@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 08/24/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Studi.ly, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a98cb1645d52c3a7373671ac1e11c808c7937e70
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: e01185ce576f7326ddde227949c1dbbe1dfff583
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095020"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251358"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -32,7 +33,7 @@ ms.locfileid: "52095020"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Studi.ly |
-| Идентификатор | WA200001668 |
+| ID | WA200001668 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | inLogic-Office Store |

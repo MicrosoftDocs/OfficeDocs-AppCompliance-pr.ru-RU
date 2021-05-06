@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 08/24/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для StarLeaf, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 99fa034d595c4f45dbea4d706278d1e71d258683
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b180c5c804831624caedb4404b85ca216549fd2f
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094271"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251098"
 ---
 # <a name="starleaf"></a>StarLeaf
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094271"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | StarLeaf |
-| Идентификатор | WA200000185 |
-| Возможности | Бот, расширение обмена сообщениями |
+| ID | WA200000185 |
+| Возможности | Бот, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | StarLeaf |
 | URL-адрес веб-сайта-партнера | [https://www.starleaf.com](https://www.starleaf.com) |

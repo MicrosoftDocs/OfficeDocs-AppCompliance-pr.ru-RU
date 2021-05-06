@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/29/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MeaningCloud Text Analytics для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e5187c72d9cda75cbd564060efe794c403ccd83a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7f0ccd4351e88f2668c1cb11520b4ffdd5dc8bb1
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094600"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251448"
 ---
 # <a name="meaningcloud-text-analytics-for-excel"></a>Анализ текста MeaningCloud для Excel
 
@@ -31,7 +32,7 @@ ms.locfileid: "52094600"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Анализ текста MeaningCloud для Excel |
-| Идентификатор | WA200002421 |
+| ID | WA200002421 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2013 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | MeaningCloud |
 | URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |

@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 03/11/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamMate от ChitChattr, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e32aa7775d458594486446a7c2e92fbf6d3cb37d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: a3f790a64d4c99dbd4ee1c5d1d673dd054e9241a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095411"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250797"
 ---
-# <a name="teammate-by-chitchattr"></a>TeamMate по ChitChattr
+# <a name="teammate-by-chitchattr"></a>TeamMate by ChitChattr
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,8 +32,8 @@ ms.locfileid: "52095411"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TeamMate по ChitChattr |
-| Идентификатор | WA200002530 |
+| Имя приложения | TeamMate by ChitChattr |
+| ID | WA200002530 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ChitChattr |

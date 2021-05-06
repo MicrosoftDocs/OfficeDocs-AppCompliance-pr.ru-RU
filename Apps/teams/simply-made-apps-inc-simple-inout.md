@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/25/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Simple In/Out, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e7fdfb23ccf0b896fe8a93233572b566cc2c604a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: db98e097113823f35b0add054c21151e26ca7fc3
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094327"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252289"
 ---
 # <a name="simple-inout"></a>Simple In/Out
 
@@ -32,10 +33,10 @@ ms.locfileid: "52094327"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Simple In/Out |
-| Идентификатор | WA104382084 |
-| Возможности | Tab, Connector |
+| ID | WA104382084 |
+| Возможности | Вкладка, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Просто сделано apps, Inc. |
+| Имя компании-партнера | Simply Made Apps, Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.simpleinout.com](https://www.simpleinout.com) |
 | URL-адрес страницы Teams приложения | [https://simpleinout.helpscoutdocs.com/article/262-microsoft...](https://simpleinout.helpscoutdocs.com/article/262-microsoft-teams) |
 | URL-адрес политики конфиденциальности | [https://www.simpleinout.com/legal/privacy](https://www.simpleinout.com/legal/privacy) |

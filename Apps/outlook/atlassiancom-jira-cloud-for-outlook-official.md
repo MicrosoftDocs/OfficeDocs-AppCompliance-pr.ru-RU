@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Jira Cloud для Outlook (Official), политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e59bb495d2c95fd8a0a6cb9d30feeb0ffc1b6f83
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4ecfbaf8e57cb8075447bc1a29092cc8755acaab
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096707"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251778"
 ---
 # <a name="jira-cloud-for-outlook-official"></a>Jira Cloud для Outlook (Official)
 
@@ -31,7 +32,7 @@ ms.locfileid: "52096707"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Jira Cloud для Outlook (Official) |
-| Идентификатор | WA200000056 |
+| ID | WA200000056 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | Atlassian.com |
 | URL-адрес веб-сайта-партнера | [https://www.atlassian.com/](https://www.atlassian.com/) |

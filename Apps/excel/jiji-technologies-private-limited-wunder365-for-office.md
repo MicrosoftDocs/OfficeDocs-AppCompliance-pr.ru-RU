@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/15/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wunder365 для Office, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 41cbb04c1c3e03c980aababfb125711af0020900
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c45b8cad12e759a1b6ab546147d13fd4e82e11e9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094608"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251468"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 для Office
 
@@ -31,7 +32,7 @@ ms.locfileid: "52094608"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Wunder365 для Office |
-| Идентификатор | WA200001529 |
+| ID | WA200001529 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позднее на Mac, Excel 2013 или более поздней Windows, Excel в Интернете, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 или более поздней Windows, OneNote в Интернете |
 | Имя компании-партнера | JiJi Technologies Private Limited |
 | URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
@@ -132,11 +133,10 @@ ms.locfileid: "52094608"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Нет | | Использует ли приложение API предварительного просмотра? | Да| | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Да |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

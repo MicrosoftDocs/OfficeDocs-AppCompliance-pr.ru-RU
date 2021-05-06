@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/10/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для elmah.io, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 691606eab82f1560f8363dd0e0741040ba6a9eec
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fbb868a75eaa0d3df33587276bf1a59ce68a071d
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095270"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250727"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -32,8 +33,8 @@ ms.locfileid: "52095270"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | elmah.io |
-| Идентификатор | WA104381965 |
-| Возможности | Connector |
+| ID | WA104381965 |
+| Возможности | Соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | elmah.io |
 | URL-адрес веб-сайта-партнера | [https://elmah.io](https://elmah.io) |

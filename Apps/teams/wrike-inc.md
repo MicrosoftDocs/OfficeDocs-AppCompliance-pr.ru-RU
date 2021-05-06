@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Wrike, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ca428571b8e7c0a3487299f8aab5f3e0d5899c33
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: cd676daf8fa2ec7b8af9cc9fae79adce39ca7680
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096796"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251989"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -31,8 +32,8 @@ ms.locfileid: "52096796"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Wrike |
-| Идентификатор | WA104381390 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA104381390 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Wrike Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.wrike.com](https://www.wrike.com) |

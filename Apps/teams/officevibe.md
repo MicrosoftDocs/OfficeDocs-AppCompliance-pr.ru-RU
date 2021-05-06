@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/30/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Officevibe, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d2ff51f24eff98298771fc67d11fbb4ac58b17af
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7aec1eac3dcdd5c42a73ec80316ec923bfd5b958
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094415"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251318"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094415"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Officevibe |
-| Идентификатор | WA200002508 |
-| Возможности | Bot |
+| ID | WA200002508 |
+| Возможности | Бот |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Officevibe |
 | URL-адрес веб-сайта-партнера | [https://officevibe.com](https://officevibe.com) |

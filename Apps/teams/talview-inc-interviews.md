@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 02/12/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Talview Interviews, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5b8d68b8239d86be808cdd78d844b96b64712278
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 242ffe3ceb5dc7c88186b2740d48af42a6997b8e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094263"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248127"
 ---
-# <a name="talview-interviews"></a>Интервью talview
+# <a name="talview-interviews"></a>Talview Interviews
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,8 +32,8 @@ ms.locfileid: "52094263"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Интервью talview |
-| Идентификатор | WA200002437 |
+| Имя приложения | Talview Interviews |
+| ID | WA200002437 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Talview Inc |

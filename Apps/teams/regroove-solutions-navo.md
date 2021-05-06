@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 08/24/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Navo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b3c476e4abd91a56df6b8e4a9347f6508d4acff7
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 6d6853c82a5da9425cbfd237494d51f769006398
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094696"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251148"
 ---
 # <a name="navo"></a>Navo
 
@@ -32,10 +33,10 @@ ms.locfileid: "52094696"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Navo |
-| Идентификатор | WA200001047 |
+| ID | WA200001047 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Решения regroove |
+| Имя компании-партнера | Regroove Solutions |
 | URL-адрес веб-сайта-партнера | [https://getnavo.com](https://getnavo.com) |
 | URL-адрес политики конфиденциальности | [https://getnavo.com/privacy-policy/](https://getnavo.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://getnavo.com/terms-of-service/](https://getnavo.com/terms-of-service/) |
@@ -66,7 +67,7 @@ ms.locfileid: "52094696"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Мы храним id и количество пользователей в Stripe. |  | User.Read | Delegated | Вход и чтение профиля пользователя — данные не хранятся |
+>| Мы храним id и количество пользователей в Stripe. |  | User.Read | Делегированные разрешения | Вход и чтение профиля пользователя — данные не хранятся |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 

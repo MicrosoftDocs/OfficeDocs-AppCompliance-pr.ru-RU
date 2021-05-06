@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/01/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для qbo, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f19c54d5a43f5380d6762ad39ac59f97a241e79d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: eb7e450bfffbecade66f44a78c8ca366eac5f5f9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094824"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248057"
 ---
 # <a name="qbo"></a>qbo
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094824"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | qbo |
-| Идентификатор | WA200001708 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA200001708 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Unscrambl |
 | URL-адрес веб-сайта-партнера | [https://qbo.ai](https://qbo.ai) |

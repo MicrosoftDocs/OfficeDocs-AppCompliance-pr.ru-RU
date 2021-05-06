@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Slido, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87906ab59cd3bb92d86de99c4f317f3f80d90237
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: edbabc3008876892571f32e59147405d5d3fe7f2
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096764"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252269"
 ---
 # <a name="slido"></a>Slido
 
@@ -32,7 +33,7 @@ ms.locfileid: "52096764"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Slido |
-| Идентификатор | WA200002357 |
+| ID | WA200002357 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Slido |

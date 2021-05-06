@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/27/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Altru Videos, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eebe435ad078846db0b7a5178646def298e11af4
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: dff51c348e625c76e6a6f41aca8db47539f8fd5a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096723"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251788"
 ---
 # <a name="altru-videos"></a>Видео Altru
 
@@ -31,7 +32,7 @@ ms.locfileid: "52096723"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Видео Altru |
-| Идентификатор | WA200000026 |
+| ID | WA200000026 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Альтру |
 | URL-адрес веб-сайта-партнера | [https://www.altrulabs.com/](https://www.altrulabs.com/) |

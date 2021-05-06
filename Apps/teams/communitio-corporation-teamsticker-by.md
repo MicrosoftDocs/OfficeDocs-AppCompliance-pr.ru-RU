@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7cfc69b1e013fbb348b2e38f1afb75a7d3011b75
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 0d3bc9c21aad64911ab6753586ce585ca5f9b91f
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095350"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250767"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -32,10 +33,10 @@ ms.locfileid: "52095350"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TeamSticker by Communitio |
-| Идентификатор | WA200000894 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA200000894 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Корпорация Communitio |
+| Имя компании-партнера | Communitio Corporation |
 | URL-адрес веб-сайта-партнера | [https://www.teamsuite.biz/](https://www.teamsuite.biz/) |
 | URL-адрес страницы Teams приложения | [https://www.teamsuite.biz/feature/](https://www.teamsuite.biz/feature/) |
 | URL-адрес политики конфиденциальности | [https://www.teamsuite.biz/privacy/](https://www.teamsuite.biz/privacy/) |
@@ -140,11 +141,11 @@ ms.locfileid: "52095350"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-- OAuth2 Неявный Flow, если не требуется для SPA
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Да| | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да| | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

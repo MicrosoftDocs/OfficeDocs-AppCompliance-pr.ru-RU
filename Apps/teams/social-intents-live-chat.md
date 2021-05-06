@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для live Chat, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 94f0df2b58314e1e87d8301780d7ec08aba0dcc1
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 3ca3e62c7f1a2e5a8b6aa1ad80427f7ac6c393bc
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094280"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251118"
 ---
-# <a name="live-chat"></a>Чат в прямом эфире
+# <a name="live-chat"></a>Live Chat
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,11 +32,11 @@ ms.locfileid: "52094280"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Чат в прямом эфире |
-| Идентификатор | WA200000440 |
+| Имя приложения | Live Chat |
+| ID | WA200000440 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Социальные намерения |
+| Имя компании-партнера | Social Intents |
 | URL-адрес веб-сайта-партнера | [https://www.socialintents.com](https://www.socialintents.com) |
 | URL-адрес политики конфиденциальности | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
 | URL-адрес терминов использования | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |

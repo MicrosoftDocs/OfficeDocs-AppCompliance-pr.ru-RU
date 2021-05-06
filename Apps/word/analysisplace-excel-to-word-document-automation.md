@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/15/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Excel автоматизации документов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5064432d0cc28a2d260b678ad6abb5c2e6fe70e7
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 14cf8142d1c80fab178aca914d3e999aac5428cf
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096824"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251929"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel автоматизация документов
 
@@ -31,7 +32,7 @@ ms.locfileid: "52096824"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Excel автоматизация документов |
-| Идентификатор | WA104380955 |
+| ID | WA104380955 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Word 2016 или позднее на Mac, Word 2016 или более поздней Windows, PowerPoint 2016 или позднее на Mac, PowerPoint 2016 или более поздней Windows, Excel в Интернете, Word в Интернете, PowerPoint в Интернете |
 | Имя компании-партнера | AnalysisPlace |
 | URL-адрес веб-сайта-партнера | [https://analysisplace.com/](https://analysisplace.com/) |
