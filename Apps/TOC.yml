@@ -1,37 +1,39 @@
-- name: Программа соответствия требованиям к приложениям Microsoft 365
+- name: Соответствие требованиям для приложений Microsoft 365
   items:
     - name: Общие сведения
       expanded: true
       items:
         - name: Общие сведения
           href: overview.md
-        - name: Что такое проверка издателей?
+        - name: Что такое Publisher проверки?
           href: 'https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview'
-        - name: Что такое тестирование издателя?
+        - name: Что такое Publisher проверки?
           href: docs/enterprise-app-attestation-guide.md
-        - name: Что такое сертификация Microsoft 365?
+        - name: Что такое Microsoft 365 сертификация?
           href: docs/enterprise-app-certification-guide.md
     - name: Для разработчиков
       expanded: true
       items:
-        - name: Полная проверка издателя
+        - name: Полное Publisher проверки
           href: 'https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified'
-        - name: Полное тестирование издателя
+        - name: Полное Publisher проверки
           href: docs/attestation.md
-        - name: Завершение сертификации Microsoft 365
+        - name: Полное Microsoft 365 сертификации
           href: docs/certification.md
-        - name: Руководство по сертификации Microsoft 365
+        - name: Microsoft 365 Руководство по сертификации
           href: docs/certification-submission-guide.md
     - name: Приложения для Microsoft Teams
       href: teams/teams-apps.md
       items:
         - name: 365Projects
           href: teams/365apps-365projects.md
+        - name: ADI
+          href: teams/akari-solutions-limited-adi.md
         - name: Adobe Sign
           href: teams/adobe-systems-inc-sign.md
-        - name: Agile Task Board
+        - name: Доска задач Agile
           href: teams/agile-is-task-board.md
-        - name: Служба Alvao
+        - name: Служба поддержки Alvao
           href: teams/alvao-sro-service-desk.md
         - name: ApproveSimple
           href: teams/capriza-inc-approvesimple.md
@@ -47,29 +49,37 @@
           href: teams/anaek-attendancebot.md
         - name: AVA
           href: teams/avepoint-inc-ava.md
+        - name: Beekast
+          href: teams/beekast.md
         - name: Beesy
           href: teams/beesapps-beesy.md
         - name: Подключение к доске
           href: teams/engage-squared-board-connect.md
         - name: Bonusly
           href: teams/bonusly.md
+        - name: BrainBot
+          href: teams/biggerbrains-brainbot.md
         - name: Breakthru
           href: teams/breakthru.md
-        - name: Calendar BOT
+        - name: Brightidea
+          href: teams/brightidea.md
+        - name: C.AI принятия Бот
+          href: teams/contexxtai-cai-adoption-bot.md
+        - name: Бот календаря
           href: teams/approved-contact-calendar-bot.md
         - name: CatchEm
           href: teams/chimu-software-catchem.md
         - name: Centrical
           href: teams/biz-effective-centrical.md
-        - name: Собрания Cisco Webex
+        - name: Cisco Webex Meetings
           href: teams/cisco-webex-meetings.md
-        - name: Умные объявления
+        - name: Clever Ads
           href: teams/clever-ads.md
         - name: Cloverpop
           href: teams/cloverpop.md
         - name: COCO
           href: teams/hexaware-technologies-ltd-coco.md
-        - name: Конференции i/o
+        - name: Conferences i/o
           href: teams/conferences-io.md
         - name: Центр контактов
           href: teams/landis-technologies-llc-contact-center.md
@@ -79,8 +89,10 @@
           href: teams/disastertech-dice.md
         - name: Droplr
           href: teams/droplr.md
-        - name: Динамический сигнал
+        - name: Dynamic Signal
           href: teams/dynamic-signal.md
+        - name: Easy Projects
+          href: teams/logic-software-inc-easy-projects.md
         - name: ecBooking
           href: teams/expert-systems-ivrasia-coltd-ecbooking.md
         - name: EdMill
@@ -89,6 +101,8 @@
           href: teams/elmahio.md
         - name: Email TeamMate
           href: teams/harmonie-email-teammate.md
+        - name: Empuls
+          href: teams/empuls.md
         - name: EngageWith
           href: teams/springrole-engagewith.md
         - name: Evernote
@@ -99,6 +113,8 @@
           href: teams/enterprizid-inc-ezteam.md
         - name: FormMachines
           href: teams/enterprise-digital-machines-formmachines.md
+        - name: Freehand by InVision
+          href: teams/invision-app-freehand-by.md
         - name: Freshdesk
           href: teams/freshworks-inc-freshdesk.md
         - name: Fusion Remote
@@ -107,7 +123,7 @@
           href: teams/go1.md
         - name: Goodera
           href: teams/goodera.md
-        - name: Аналитика Google Insights
+        - name: Google Analytics Insights
           href: teams/freevolut-ltd-google-analytics-insights.md
         - name: Guru
           href: teams/guru-technologies.md
@@ -117,25 +133,29 @@
           href: teams/hi5technologies-hi5.md
         - name: Hibob
           href: teams/hibob-inc.md
+        - name: HighSide
+          href: teams/highside-inc.md
         - name: Hoylu
           href: teams/hoylu.md
         - name: HunchBuzz
           href: teams/hunchbuzz.md
+        - name: Hyperproof
+          href: teams/hyperproof.md
         - name: IndustryIntel
           href: teams/industry-intelligence-team-industryintel.md
         - name: InStation
           href: teams/developers-invillia-instation.md
         - name: Jetdocs
           href: teams/jetdocs.md
-        - name: Облако Jira
+        - name: Jira Cloud
           href: teams/atlassian-jira-cloud.md
         - name: Jive Communications
           href: teams/jive-by-logmein-inc-communications.md
-        - name: Карма
+        - name: Karma
           href: teams/sliday-ltd-karma.md
         - name: Klaxoon
           href: teams/klaxoon.md
-        - name: Кронос
+        - name: Kronos
           href: teams/kronos-inc.md
         - name: Kudozza
           href: teams/survivef5-gmbh-kudozza.md
@@ -147,7 +167,7 @@
           href: teams/ltapps-software-coltd-leave-request-by.md
         - name: Listy
           href: teams/information-age-technologies-listy.md
-        - name: Чат в прямом эфире
+        - name: Live Chat
           href: teams/social-intents-live-chat.md
         - name: LMS365
           href: teams/elearningforce-international-lms365.md
@@ -165,7 +185,7 @@
           href: teams/meisterlabs-gmbh-mindmeister.md
         - name: MindMup
           href: teams/sauf-pompiers-ltd-mindmup.md
-        - name: MIPA — личный помощник
+        - name: MIPA - Your Personal Assistant
           href: teams/iglobe-mipa-your-personal-assistant.md
         - name: monday.com
           href: teams/mondaycom.md
@@ -181,7 +201,7 @@
           href: teams/regroove-solutions-navo.md
         - name: netDocShare
           href: teams/kl-software-technologies-netdocshare.md
-        - name: Теперь виртуальный агент
+        - name: Now Virtual Agent
           href: teams/servicenow-now-virtual-agent.md
         - name: Nugget
           href: teams/panviva-nugget.md
@@ -191,19 +211,25 @@
           href: teams/officespace-software.md
         - name: Officevibe
           href: teams/officevibe.md
+        - name: Onsight Подключение
+          href: teams/librestream-onsight-connect.md
         - name: OpenAgora
           href: teams/open-agora-openagora.md
         - name: Org@Work
           href: teams/lundano-org@work.md
+        - name: Notifier пакета
+          href: teams/qburst-technologies-pvt-ltd-package-notifier.md
         - name: Perfony
           href: teams/perfony.md
         - name: Piazza
           href: teams/piazza.md
-        - name: Полли
+        - name: Календарь команд Planyway
+          href: teams/rubius-planyway-team-calendar.md
+        - name: Polly
           href: teams/polly.md
         - name: Prezi Video
           href: teams/prezi-video.md
-        - name: Матрица приоритетов
+        - name: Priority Matrix
           href: teams/appfluence-inc-priority-matrix.md
         - name: Prodoscore ProdBot
           href: teams/prodoscore-prodbot.md
@@ -223,7 +249,7 @@
           href: teams/88-ventures-limited-remind.md
         - name: Reminderz
           href: teams/chitchattr-reminderz.md
-        - name: Ретро
+        - name: Retro
           href: teams/baltic-amadeus-retro.md
         - name: RSpace
           href: teams/researchspace-rspace.md
@@ -237,11 +263,11 @@
           href: teams/scrumgenius.md
         - name: SecretaryBot
           href: teams/mysecretary-secretarybot.md
-        - name: Проводник sensei Labs
+        - name: Sensei Labs Conductor
           href: teams/sensei-labs-inc-conductor.md
         - name: Sentry
           href: teams/sentry.md
-        - name: Облако ServiceDesk Plus
+        - name: ServiceDesk Plus Cloud
           href: teams/zoho-corporation-private-limited-servicedesk-plus-cloud.md
         - name: Sheetgo
           href: teams/sheetgo-europe-sl.md
@@ -257,45 +283,55 @@
           href: teams/skillate-laboratories-pvt-ltd.md
         - name: Skills by Pipe9
           href: teams/pipe9com-skills-by-pipe9.md
-        - name: Облако SkyPoint
+        - name: SkyPoint Cloud
           href: teams/skypoint-cloud-inc.md
         - name: Slido
           href: teams/slido.md
-        - name: Smart Connect для Jira
+        - name: Smart Connect for Jira
           href: teams/yasoon-gmbh-smart-connect-for-jira.md
+        - name: Набор smart learning
+          href: teams/smart-technologies-ulc-learning-suite.md
         - name: Smartnotation
           href: teams/smartnotation-bv.md
         - name: Smartsheet
           href: teams/smartsheet.md
         - name: SmartWork
           href: teams/smartwork-of-intumit.md
+        - name: SmileBack
+          href: teams/smileback.md
         - name: Soapbox
           href: teams/soapbox.md
         - name: Spinify
           href: teams/spinify.md
-        - name: Переполнение стека для teams
+        - name: Stack Overflow for Teams
           href: teams/stack-overflow-for-teams.md
         - name: Standup Alice
           href: teams/bao-le-duc-standup-alice.md
         - name: StarLeaf
           href: teams/starleaf.md
+        - name: StealthMail
+          href: teams/stealthmail-software-ltd.md
         - name: Streem
           href: teams/streem.md
         - name: Studi.ly
           href: teams/inlogic-office-store-studily.md
         - name: SurveyMonkey
           href: teams/surveymonkey.md
+        - name: SurveySparrow
+          href: teams/admin@surveysparrowcom-surveysparrow.md
         - name: Sympli
           href: teams/sympli-llc.md
         - name: TackleBox
           href: teams/insiten-tacklebox.md
         - name: Talla
           href: teams/talla-inc.md
-        - name: Интервью talview
+        - name: Talview Interviews
           href: teams/talview-inc-interviews.md
         - name: TaskList
           href: teams/limestat-inc-tasklist.md
-        - name: TeamMate по ChitChattr
+        - name: Teamhood
+          href: teams/eylean-uab-teamhood.md
+        - name: TeamMate by ChitChattr
           href: teams/chitchattr-teammate-by.md
         - name: TeamMood
           href: teams/power-up-conseil-teammood.md
@@ -305,7 +341,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker by Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Выбор шаблона
+        - name: Template Chooser
           href: teams/officeatwork-template-chooser.md
         - name: Текст
           href: teams/approved-contact-text.md
@@ -315,19 +351,23 @@
           href: teams/kollisch-gmbh-timeghost.md
         - name: TINYpulse
           href: teams/tinypulse.md
+        - name: Дань
+          href: teams/tribute-co.md
         - name: Trivia
           href: teams/springworks-hr-tech-trivia.md
+        - name: Trivie
+          href: teams/trivie-inc.md
         - name: Tryane Analytics
           href: teams/tryane-analytics.md
-        - name: Отслеживание отпусков
+        - name: Vacation Tracker
           href: teams/vacation-tracker.md
         - name: Viima
           href: teams/viima-solutions-oy.md
         - name: VisualSP
           href: teams/visualsp.md
-        - name: Вызов Webex
+        - name: Webex Call
           href: teams/cisco-webex-call.md
-        - name: Широкие идеи
+        - name: Wide Ideas
           href: teams/wide-ideas.md
         - name: Woobot
           href: teams/woobot.md
@@ -341,22 +381,22 @@
           href: teams/akmii-yeeflow.md
         - name: Zoho CRM
           href: teams/zoho-corporation-pvt-ltd-crm.md
-        - name: Стол Zoho
+        - name: Zoho Desk
           href: teams/zoho-corporation-private-limited-desk.md
-        - name: Ноутбук Zoho
+        - name: Zoho Notebook
           href: teams/zoho-corporation-private-limited-notebook.md
         - name: Zoho Projects
           href: teams/zoho-corporation-private-limited-projects.md
-        - name: Знак Зохо
+        - name: Zoho Sign
           href: teams/zoho-corporation-private-limited-sign.md
-        - name: Спринты Zoho
+        - name: Zoho Sprints
           href: teams/zoho-corporation-private-limited-sprints.md
-        - name: Zoom.ai помощника по собраниям
+        - name: Zoom.ai Meeting Assistant
           href: teams/zoomai-inc-meeting-assistant.md
     - name: Приложения для Microsoft Outlook
       href: outlook/outlook-apps.md
       items:
-        - name: Adobe Sign Add-In for Outlook
+        - name: Adobe Sign Add-In для Outlook
           href: outlook/adobe-inc-sign-add-in-for-outlook.md
         - name: Видео Altru
           href: outlook/altru-videos.md
@@ -364,15 +404,15 @@
           href: outlook/approved-contact-calendars.md
         - name: Asana для Outlook
           href: outlook/asana-for-outlook.md
-        - name: harmon.ie Outlook
+        - name: harmon.ie для Outlook
           href: outlook/harmonie-corporation-for-outlook.md
         - name: Счет и отслеживание времени — счет Zoho
           href: outlook/zoho-corporation-private-limited-invoice-and-time-tracking.md
-        - name: Надстройка планировщика iPlanner Office 365 для Outlook
+        - name: надстройка Office 365 планировщика для Outlook
           href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
         - name: iPlanner Pro Office 365
           href: outlook/iglobe-iplanner-pro-office-365.md
-        - name: Jira Cloud for Outlook (Official)
+        - name: Jira Cloud для Outlook (Official)
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
         - name: MIPA — личный помощник
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
@@ -403,11 +443,11 @@
     - name: Приложения для Microsoft Word
       href: word/word-apps.md
       items:
-        - name: Adobe Sign для Word и PowerPoint
+        - name: Adobe Sign for Word and PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Автоматизация документов excel-to-Word
+        - name: Excel автоматизация документов
           href: word/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office
+        - name: harmon.ie для Office
           href: word/harmonie-corporation-for-office.md
         - name: Диаграммы Lucidchart для Word
           href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
@@ -419,13 +459,13 @@
           href: word/officeatwork-officeatworkdesigner-for-office.md
         - name: officeatwork | Выбор шаблона для Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: officeatwork | Uploader for Office
+        - name: officeatwork | Загрузщик для Office
           href: word/officeatwork-officeatworkuploader-for-office.md
-        - name: officeatwork | Verifier для Office
+        - name: officeatwork | Проверку для Office
           href: word/officeatwork-officeatworkverifier-for-office.md
         - name: officeatwork | Мастер для Office
           href: word/officeatwork-officeatworkwizard-for-office.md
-        - name: Wrike для документов Office
+        - name: Wrike для Office документов
           href: word/wrike-inc-for-office-documents.md
         - name: Wunder365 для Office
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
@@ -434,21 +474,23 @@
     - name: Приложения для Microsoft PowerPoint
       href: powerpoint/powerpoint-apps.md
       items:
-        - name: Adobe Sign для Word и PowerPoint
+        - name: Adobe Sign for Word and PowerPoint
           href: powerpoint/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Автоматизация документов excel-to-Word
+        - name: Excel автоматизация документов
           href: powerpoint/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office
+        - name: harmon.ie для Office
           href: powerpoint/harmonie-corporation-for-office.md
         - name: Диаграммы Lucidchart для PowerPoint
           href: powerpoint/lucid-software-inc-lucidchart-diagrams-for-powerpoint.md
+        - name: NoMore
+          href: powerpoint/nomorehours-nomore.md
         - name: Office2SharePoint для Office
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | Выбор контента для Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork | Выбор шаблона для Office
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: Wrike для документов Office
+        - name: Wrike для Office документов
           href: powerpoint/wrike-inc-for-office-documents.md
     - name: Приложения для Microsoft SharePoint
       href: sharepoint/sharepoint-apps.md
@@ -461,7 +503,7 @@
           href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
         - name: Надстройки cRM iGlobe
           href: sharepoint/iglobe-crm-add-ons.md
-        - name: iGlobe CRM Office 365 для Microsoft Office 365
+        - name: cRM-Office 365 iGlobe для Microsoft Office 365
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Parser электронной почты Konnect
           href: sharepoint/konnect-email-parser.md
@@ -470,13 +512,15 @@
     - name: Приложения для Microsoft Excel
       href: excel/excel-apps.md
       items:
-        - name: Автоматизация документов excel-to-Word
+        - name: Аналитика CloudExtend для NetSuite
+          href: excel/celigo-cloudextend-analytics-for-netsuite.md
+        - name: Excel автоматизация документов
           href: excel/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office
+        - name: harmon.ie для Office
           href: excel/harmonie-corporation-for-office.md
-        - name: средство отчетности iPlanner для планировщика Office 365
+        - name: средство отчетности iPlanner для Office 365 планировщика
           href: excel/iglobe-iplanner-reporting-tool-for-office-365-planner.md
-        - name: Облако Jira для Excel
+        - name: Jira Cloud для Excel
           href: excel/atlassiancom-jira-cloud-for-excel.md
         - name: Диаграммы Lucidchart для Excel
           href: excel/lucid-software-inc-lucidchart-diagrams-for-excel.md
@@ -494,7 +538,7 @@
           href: excel/cc-1c-quickcells-solvers.md
         - name: Sheetgo
           href: excel/sheetgo-europe-sl.md
-        - name: Wrike для документов Office
+        - name: Wrike для Office документов
           href: excel/wrike-inc-for-office-documents.md
         - name: Wunder365 для Office
           href: excel/jiji-technologies-private-limited-wunder365-for-office.md
