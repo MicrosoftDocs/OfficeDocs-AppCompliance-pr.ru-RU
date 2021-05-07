@@ -5,41 +5,42 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Qubie, политики обработки данных, сведения о Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: eb1a7b373c43b098d90c8ab7fce89be52dca7e71
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: aea17d24b3fbe2f840c21947213fefc7a4bfb283
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094359"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252359"
 ---
-# <a name="qubie"></a><span data-ttu-id="fe2ce-103">Qubie</span><span class="sxs-lookup"><span data-stu-id="fe2ce-103">Qubie</span></span>
+# <a name="qubie"></a><span data-ttu-id="267dd-103">Qubie</span><span class="sxs-lookup"><span data-stu-id="267dd-103">Qubie</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="fe2ce-104">Последнее обновление разработчика: 16 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-104">Last updated by the developer on: December 16, 2019</span></span></p>
+<p><span data-ttu-id="267dd-104">Последнее обновление разработчика: 16 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="267dd-104">Last updated by the developer on: December 16, 2019</span></span></p>
 
-* <span data-ttu-id="fe2ce-105"><a href="https://teams.microsoft.com/l/app/a4b9907d-cff2-4771-91d5-30cb794f00c5" target="_blank">Просмотр в Teams магазине</a></span><span class="sxs-lookup"><span data-stu-id="fe2ce-105"><a href="https://teams.microsoft.com/l/app/a4b9907d-cff2-4771-91d5-30cb794f00c5" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="fe2ce-106"><a href="https://appsource.microsoft.com/product/office/WA104381933" target="_blank">Просмотр в AppSource</a></span><span class="sxs-lookup"><span data-stu-id="fe2ce-106"><a href="https://appsource.microsoft.com/product/office/WA104381933" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="267dd-105"><a href="https://teams.microsoft.com/l/app/a4b9907d-cff2-4771-91d5-30cb794f00c5" target="_blank">Просмотр в Teams магазине</a></span><span class="sxs-lookup"><span data-stu-id="267dd-105"><a href="https://teams.microsoft.com/l/app/a4b9907d-cff2-4771-91d5-30cb794f00c5" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="267dd-106"><a href="https://appsource.microsoft.com/product/office/WA104381933" target="_blank">Просмотр в AppSource</a></span><span class="sxs-lookup"><span data-stu-id="267dd-106"><a href="https://appsource.microsoft.com/product/office/WA104381933" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="fe2ce-107">Общие сведения</span><span class="sxs-lookup"><span data-stu-id="fe2ce-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="267dd-107">Общие сведения</span><span class="sxs-lookup"><span data-stu-id="267dd-107">General information</span></span>
 
-<span data-ttu-id="fe2ce-108">Сведения, предоставляемые Корпорацией Майкрософт в qubie:</span><span class="sxs-lookup"><span data-stu-id="fe2ce-108">Information provided by Qubie to Microsoft:</span></span>
+<span data-ttu-id="267dd-108">Сведения, предоставляемые Корпорацией Майкрософт в qubie:</span><span class="sxs-lookup"><span data-stu-id="267dd-108">Information provided by Qubie to Microsoft:</span></span>
 
-| <span data-ttu-id="fe2ce-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="fe2ce-109">**Information**</span></span> | <span data-ttu-id="fe2ce-110">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="fe2ce-110">**Response**</span></span> |
+| <span data-ttu-id="267dd-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="267dd-109">**Information**</span></span> | <span data-ttu-id="267dd-110">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="267dd-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="fe2ce-111">Имя приложения</span><span class="sxs-lookup"><span data-stu-id="fe2ce-111">App name</span></span> | <span data-ttu-id="fe2ce-112">Qubie</span><span class="sxs-lookup"><span data-stu-id="fe2ce-112">Qubie</span></span> |
-| <span data-ttu-id="fe2ce-113">Идентификатор</span><span class="sxs-lookup"><span data-stu-id="fe2ce-113">ID</span></span> | <span data-ttu-id="fe2ce-114">WA104381933</span><span class="sxs-lookup"><span data-stu-id="fe2ce-114">WA104381933</span></span> |
-| <span data-ttu-id="fe2ce-115">Возможности</span><span class="sxs-lookup"><span data-stu-id="fe2ce-115">Capabilities</span></span> | <span data-ttu-id="fe2ce-116">Бот, вкладка</span><span class="sxs-lookup"><span data-stu-id="fe2ce-116">Bot, Tab</span></span> |
-| <span data-ttu-id="fe2ce-117">Office 365 поддерживаемые клиенты</span><span class="sxs-lookup"><span data-stu-id="fe2ce-117">Office 365 clients supported</span></span> | <span data-ttu-id="fe2ce-118">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="fe2ce-118">Microsoft Teams</span></span> |
-| <span data-ttu-id="fe2ce-119">Имя компании-партнера</span><span class="sxs-lookup"><span data-stu-id="fe2ce-119">Partner company name</span></span> | <span data-ttu-id="fe2ce-120">Qubie</span><span class="sxs-lookup"><span data-stu-id="fe2ce-120">Qubie</span></span> |
-| <span data-ttu-id="fe2ce-121">URL-адрес веб-сайта-партнера</span><span class="sxs-lookup"><span data-stu-id="fe2ce-121">URL of partner website</span></span> | [<span data-ttu-id="fe2ce-122"> https://www.questback.com/our-products/performance-suite/te...</span><span class="sxs-lookup"><span data-stu-id="fe2ce-122">https://www.questback.com/our-products/performance-suite/te...</span></span>](https://www.questback.com/our-products/performance-suite/teams-triumph-with-qubie/) |
-| <span data-ttu-id="fe2ce-123">URL-адрес страницы Teams приложения</span><span class="sxs-lookup"><span data-stu-id="fe2ce-123">URL of Teams application info page</span></span> | [https://www.questback.com/qubie-ms-teams](https://www.questback.com/qubie-ms-teams) |
-| <span data-ttu-id="fe2ce-124">URL-адрес политики конфиденциальности</span><span class="sxs-lookup"><span data-stu-id="fe2ce-124">URL of Privacy Policy</span></span> | [https://www.questback.com/qubie-privacy-policy/](https://www.questback.com/qubie-privacy-policy/) |
-| <span data-ttu-id="fe2ce-125">URL-адрес терминов использования</span><span class="sxs-lookup"><span data-stu-id="fe2ce-125">URL of Terms of Use</span></span> | [https://www.questback.com/qubie-terms-and-conditions/](https://www.questback.com/qubie-terms-and-conditions/) |
+| <span data-ttu-id="267dd-111">Имя приложения</span><span class="sxs-lookup"><span data-stu-id="267dd-111">App name</span></span> | <span data-ttu-id="267dd-112">Qubie</span><span class="sxs-lookup"><span data-stu-id="267dd-112">Qubie</span></span> |
+| <span data-ttu-id="267dd-113">ID</span><span class="sxs-lookup"><span data-stu-id="267dd-113">ID</span></span> | <span data-ttu-id="267dd-114">WA104381933</span><span class="sxs-lookup"><span data-stu-id="267dd-114">WA104381933</span></span> |
+| <span data-ttu-id="267dd-115">Возможности</span><span class="sxs-lookup"><span data-stu-id="267dd-115">Capabilities</span></span> | <span data-ttu-id="267dd-116">Бот, вкладка</span><span class="sxs-lookup"><span data-stu-id="267dd-116">Bot, Tab</span></span> |
+| <span data-ttu-id="267dd-117">Office 365 поддерживаемые клиенты</span><span class="sxs-lookup"><span data-stu-id="267dd-117">Office 365 clients supported</span></span> | <span data-ttu-id="267dd-118">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="267dd-118">Microsoft Teams</span></span> |
+| <span data-ttu-id="267dd-119">Имя компании-партнера</span><span class="sxs-lookup"><span data-stu-id="267dd-119">Partner company name</span></span> | <span data-ttu-id="267dd-120">Qubie</span><span class="sxs-lookup"><span data-stu-id="267dd-120">Qubie</span></span> |
+| <span data-ttu-id="267dd-121">URL-адрес веб-сайта-партнера</span><span class="sxs-lookup"><span data-stu-id="267dd-121">URL of partner website</span></span> | [<span data-ttu-id="267dd-122"> https://www.questback.com/our-products/performance-suite/te...</span><span class="sxs-lookup"><span data-stu-id="267dd-122">https://www.questback.com/our-products/performance-suite/te...</span></span>](https://www.questback.com/our-products/performance-suite/teams-triumph-with-qubie/) |
+| <span data-ttu-id="267dd-123">URL-адрес страницы Teams приложения</span><span class="sxs-lookup"><span data-stu-id="267dd-123">URL of Teams application info page</span></span> | [https://www.questback.com/qubie-ms-teams](https://www.questback.com/qubie-ms-teams) |
+| <span data-ttu-id="267dd-124">URL-адрес политики конфиденциальности</span><span class="sxs-lookup"><span data-stu-id="267dd-124">URL of Privacy Policy</span></span> | [https://www.questback.com/qubie-privacy-policy/](https://www.questback.com/qubie-privacy-policy/) |
+| <span data-ttu-id="267dd-125">URL-адрес терминов использования</span><span class="sxs-lookup"><span data-stu-id="267dd-125">URL of Terms of Use</span></span> | [https://www.questback.com/qubie-terms-and-conditions/](https://www.questback.com/qubie-terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,44 +48,44 @@ ms.locfileid: "52094359"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="fe2ce-126">Обработка данных приложением</span><span class="sxs-lookup"><span data-stu-id="fe2ce-126">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="267dd-126">Обработка данных приложением</span><span class="sxs-lookup"><span data-stu-id="267dd-126">How the app handles data</span></span>
 
-<span data-ttu-id="fe2ce-127">Эта информация была предоставлена Qubie о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-127">This information has been provided by Qubie about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="267dd-127">Эта информация была предоставлена Qubie о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.</span><span class="sxs-lookup"><span data-stu-id="267dd-127">This information has been provided by Qubie about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="fe2ce-128">Доступ к данным с помощью Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="fe2ce-128">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="267dd-128">Доступ к данным с помощью Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="267dd-128">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="fe2ce-129">Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-129">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="267dd-129">Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.</span><span class="sxs-lookup"><span data-stu-id="267dd-129">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
-><span data-ttu-id="fe2ce-130">Это приложение не использует Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-130">This application does not use Microsoft Graph.</span></span>
+><span data-ttu-id="267dd-130">Это приложение не использует Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="267dd-130">This application does not use Microsoft Graph.</span></span>
 
 
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="fe2ce-131">Не-службы Майкрософт используется</span><span class="sxs-lookup"><span data-stu-id="fe2ce-131">Non-Microsoft services used</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="267dd-131">Не-службы Майкрософт используется</span><span class="sxs-lookup"><span data-stu-id="267dd-131">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="fe2ce-132">Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-132">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+<span data-ttu-id="267dd-132">Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.</span><span class="sxs-lookup"><span data-stu-id="267dd-132">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-><span data-ttu-id="fe2ce-133">Не службы Майкрософт не используются.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-133">Non-Microsoft services are not used.</span></span>
+><span data-ttu-id="267dd-133">Не службы Майкрософт не используются.</span><span class="sxs-lookup"><span data-stu-id="267dd-133">Non-Microsoft services are not used.</span></span>
 
-#### <a name="data-access-via-bots"></a><span data-ttu-id="fe2ce-134">Доступ к данным с помощью ботов</span><span class="sxs-lookup"><span data-stu-id="fe2ce-134">Data access via bots</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="267dd-134">Доступ к данным с помощью ботов</span><span class="sxs-lookup"><span data-stu-id="267dd-134">Data access via bots</span></span>
 
-<span data-ttu-id="fe2ce-135">Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-135">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="fe2ce-136">Использует ли это приложение эту возможность?</span><span class="sxs-lookup"><span data-stu-id="fe2ce-136">Does this app make use of this capability?</span></span>
+<span data-ttu-id="267dd-135">Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен.</span><span class="sxs-lookup"><span data-stu-id="267dd-135">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="267dd-136">Использует ли это приложение эту возможность?</span><span class="sxs-lookup"><span data-stu-id="267dd-136">Does this app make use of this capability?</span></span>
 
->| <span data-ttu-id="fe2ce-137">**Обоснование доступа к EUII?**</span><span class="sxs-lookup"><span data-stu-id="fe2ce-137">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="fe2ce-138">**Хранится ли EUII в базе данных (s)?**</span><span class="sxs-lookup"><span data-stu-id="fe2ce-138">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="fe2ce-139">**Обоснование хранения EUII?**</span><span class="sxs-lookup"><span data-stu-id="fe2ce-139">**Justification for storing EUII?**</span></span> |
+>| <span data-ttu-id="267dd-137">**Обоснование доступа к EUII?**</span><span class="sxs-lookup"><span data-stu-id="267dd-137">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="267dd-138">**Хранится ли EUII в базе данных (s)?**</span><span class="sxs-lookup"><span data-stu-id="267dd-138">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="267dd-139">**Обоснование хранения EUII?**</span><span class="sxs-lookup"><span data-stu-id="267dd-139">**Justification for storing EUII?**</span></span> |
 >|:--------------------------------|:---------------------|:--------------------------|
->| <span data-ttu-id="fe2ce-140">Покажите имя при удалении комментариев в командном чате и ответьте пользователю, который отправляет ошибку или отправляет вопросы.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-140">Show name when deleting comments in team chat, and to respond to user that files a bug or sends questions.</span></span> <span data-ttu-id="fe2ce-141">Ответьте пользователю, который подает ошибку или имеет вопрос.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-141">Respond to user that files a bug or has a question.</span></span> <span data-ttu-id="fe2ce-142">Отображается при показе вопросов производительности группы, чтобы пользователь знал контекст вопроса.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-142">Displayed when showing team performance questions so user knows the context of the question.</span></span> <span data-ttu-id="fe2ce-143">Отображение имени команды при показе отчетов и графов.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-143">Display team name when showing reports and Graphs.</span></span> | <span data-ttu-id="fe2ce-144">Отображение имени, адреса электронной почты, имени команды</span><span class="sxs-lookup"><span data-stu-id="fe2ce-144">Display Name, Email Address, Team Name</span></span>  |  |
+>| <span data-ttu-id="267dd-140">Покажите имя при удалении комментариев в командном чате и ответьте пользователю, который отправляет ошибку или отправляет вопросы.</span><span class="sxs-lookup"><span data-stu-id="267dd-140">Show name when deleting comments in team chat, and to respond to user that files a bug or sends questions.</span></span> <span data-ttu-id="267dd-141">Ответьте пользователю, который подает ошибку или имеет вопрос.</span><span class="sxs-lookup"><span data-stu-id="267dd-141">Respond to user that files a bug or has a question.</span></span> <span data-ttu-id="267dd-142">Отображается при показе вопросов производительности группы, чтобы пользователь знал контекст вопроса.</span><span class="sxs-lookup"><span data-stu-id="267dd-142">Displayed when showing team performance questions so user knows the context of the question.</span></span> <span data-ttu-id="267dd-143">Отображение имени команды при показе отчетов и графов.</span><span class="sxs-lookup"><span data-stu-id="267dd-143">Display team name when showing reports and Graphs.</span></span> | <span data-ttu-id="267dd-144">Отображение имени, адреса электронной почты, имени команды</span><span class="sxs-lookup"><span data-stu-id="267dd-144">Display Name, Email Address, Team Name</span></span>  |  |
 
 
 
-#### <a name="telemetry-data"></a><span data-ttu-id="fe2ce-145">Данные телеметрии</span><span class="sxs-lookup"><span data-stu-id="fe2ce-145">Telemetry data</span></span>
+#### <a name="telemetry-data"></a><span data-ttu-id="267dd-145">Данные телеметрии</span><span class="sxs-lookup"><span data-stu-id="267dd-145">Telemetry data</span></span>
 
-<span data-ttu-id="fe2ce-146">В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ?</span><span class="sxs-lookup"><span data-stu-id="fe2ce-146">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="fe2ce-147">Если да, опишите, какие данные хранятся и какие политики хранения и удаления?</span><span class="sxs-lookup"><span data-stu-id="fe2ce-147">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+<span data-ttu-id="267dd-146">В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ?</span><span class="sxs-lookup"><span data-stu-id="267dd-146">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="267dd-147">Если да, опишите, какие данные хранятся и какие политики хранения и удаления?</span><span class="sxs-lookup"><span data-stu-id="267dd-147">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
 
-><span data-ttu-id="fe2ce-148">Отображение имени и электронной почты пользователя — используется для общения с пользователями, отправив ошибки и вопросы</span><span class="sxs-lookup"><span data-stu-id="fe2ce-148">Display name and User email - Used to communicate with users who sends in bugs/questions</span></span>
+><span data-ttu-id="267dd-148">Отображение имени и электронной почты пользователя — используется для общения с пользователями, отправив ошибки и вопросы</span><span class="sxs-lookup"><span data-stu-id="267dd-148">Display name and User email - Used to communicate with users who sends in bugs/questions</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="fe2ce-149">Организационные элементы управления данными, хранимые партнером</span><span class="sxs-lookup"><span data-stu-id="fe2ce-149">Organizational controls for data stored by partner</span></span>
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="267dd-149">Организационные элементы управления данными, хранимые партнером</span><span class="sxs-lookup"><span data-stu-id="267dd-149">Organizational controls for data stored by partner</span></span>
 
-<span data-ttu-id="fe2ce-150">Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-150">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+<span data-ttu-id="267dd-150">Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.</span><span class="sxs-lookup"><span data-stu-id="267dd-150">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
 
-><span data-ttu-id="fe2ce-151">Они могут связаться с Questback, чтобы изменить или удалить данные аудита.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-151">They can contact Questback to modify/delete, audit data.</span></span>
+><span data-ttu-id="267dd-151">Они могут связаться с Questback, чтобы изменить или удалить данные аудита.</span><span class="sxs-lookup"><span data-stu-id="267dd-151">They can contact Questback to modify/delete, audit data.</span></span>
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -93,11 +94,11 @@ ms.locfileid: "52094359"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="fe2ce-152">Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.</span><span class="sxs-lookup"><span data-stu-id="fe2ce-152">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="267dd-152">Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.</span><span class="sxs-lookup"><span data-stu-id="267dd-152">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="fe2ce-153">Microsoft Cloud App Security Сведения</span><span class="sxs-lookup"><span data-stu-id="fe2ce-153">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/12498' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="fe2ce-154">
+<iframe height='1020' title='<span data-ttu-id="267dd-153">Microsoft Cloud App Security Сведения</span><span class="sxs-lookup"><span data-stu-id="267dd-153">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/12498' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="267dd-154">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/12498" target="_blank">Просмотр на новой вкладке</a></span><span class="sxs-lookup"><span data-stu-id="fe2ce-154">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/12498" target="_blank">Просмотр на новой вкладке</a></span><span class="sxs-lookup"><span data-stu-id="267dd-154">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/12498" target="_blank">View in a new tab</a></span></span>
 
