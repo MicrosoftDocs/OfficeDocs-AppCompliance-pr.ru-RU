@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 07/20/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Центра контактов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 666cb2947c05a8b40e568b8c602bf5988bf6d3c0
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: f4f13a5dcd05622b297488fcfe8663028cc427fa
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094927"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252469"
 ---
 # <a name="contact-center"></a>Центр контактов
 
@@ -32,10 +33,10 @@ ms.locfileid: "52094927"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Центр контактов |
-| Идентификатор | WA200001428 |
+| ID | WA200001428 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | ООО "Лэндис Технологии" |
+| Имя компании-партнера | Landis Technologies LLC |
 | URL-адрес веб-сайта-партнера | [https://landistechnologies.com/office365contactcenter/](https://landistechnologies.com/office365contactcenter/) |
 | URL-адрес политики конфиденциальности | [https://landistechnologies.com/legal/](https://landistechnologies.com/legal/) |
 | URL-адрес терминов использования | [https://landistechnologies.com/eula/](https://landistechnologies.com/eula/) |

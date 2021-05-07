@@ -1,20 +1,21 @@
 ---
-title: Сведения о приложениях для средства отчетности iPlanner для Office 365 планировщика по iGlobe
+title: Сведения о приложениях для средства отчетности iPlanner для планировщика Office 365 от iGlobe
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для средства отчетности iPlanner для Office 365 Planner, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+certification_type: certified
+description: Все доступные сведения о безопасности и соответствия требованиям для средства отчетности iPlanner для Office 365 Planner, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d6416261759acca5b77c6307c2267d11dd8eea4f
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c03fa88d76dc00da911841512bb209742dbc5d2e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094624"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251488"
 ---
-# <a name="iplanner-reporting-tool-for-office-365-planner"></a>средство отчетности iPlanner для Office 365 планировщика
+# <a name="iplanner-reporting-tool-for-office-365-planner"></a>средство отчетности iPlanner для планировщика Office 365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
@@ -29,9 +30,9 @@ ms.locfileid: "52094624"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | средство отчетности iPlanner для Office 365 планировщика |
-| Идентификатор | WA104380686 |
-| Office 365 поддерживаемые клиенты | Excel 2016 или более поздней Windows, Excel в Интернете, Excel 2016 или позднее на Mac |
+| Имя приложения | средство отчетности iPlanner для планировщика Office 365 |
+| ID | WA104380686 |
+| Поддерживаемые клиенты Office 365 | Excel 2016 или более поздней версии Windows, Excel в Интернете, Excel 2016 или более поздней версии на Mac |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
 | URL-адрес политики конфиденциальности | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
@@ -49,28 +50,28 @@ ms.locfileid: "52094624"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Создание записи календаря в календаре пользователя&#8217;календаря в срок действия задачи. |  |
 >| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы проверить, у пользователя есть согласие и доступ к использованию API. |  |
->| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планирования Outlook To Do, помечайте и обновляйте их. Создание новой задачи планировщика. |  |
+>| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планирования Outlook To Do, помечайте электронные почты и обновляйте их. Создание новой задачи планировщика. |  |
 >| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Доступ к файлу в виде вложения и отправка файлов в задачу. |  |
 >| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить список планов и обновить задачу. |  |
 >| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планировщика и добавить новые задачи, обновим ковш и линию плавания. |  |
 >| Mail.Read | делегирована | Данные не хранятся в базах данных приложений. | User.Read, чтобы получить задачу планирования Outlook To Do, помеченные электронные почты и их обновление. Создание новой задачи планировщика |  |
 >| Mail.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы показать почту и отправить почту. |  |
 >| Mail.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Получите тему почты из выбранной почты. Позволяет приложению получать сведения из выбранной электронной почты, что позволяет скопировать поле описания в описание задачи и сохранить вложения от почты или самой почты к задаче. Отправить уведомление. |  |
->| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить подписанный в пользователях Outlook To Do и обновить User.Read, чтобы получить задачу планирования Outlook To Do, помечены электронные почты и обновить их. Создание новой задачи планировщика. |  |
+>| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить подписанный в пользователях Outlook To Do и обновить User.Read, чтобы получить задачу планирования Outlook To Do, пометить электронные почты и обновить их. Создание новой задачи планировщика. |  |
 >| User.Read | делегирована | Данные не хранятся в базах данных приложений. | Вход и чтение профиля пользователя |  |
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>Не microsoft services are not used.
 
 
 
@@ -95,7 +96,7 @@ ms.locfileid: "52094624"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Все данные принадлежат клиенту. Данные приложения не хранятся. Современная надстройка запускается в песочнице браузера, &#8220;из процесса&#8221;. Он взаимодействует с данными пользователей с помощью службы Майкрософт. Надстройка может получать доступ только к данным, с которыми работает пользователь.
+>Все данные принадлежат клиенту. Данные приложения не хранятся. Современная надстройка запускается в песочнице браузера, &#8220;из процесса&#8221;. Он взаимодействует с данными пользователей с помощью служб Майкрософт. Надстройка может получать доступ только к данным, с которыми работает пользователь.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -109,9 +110,9 @@ ms.locfileid: "52094624"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699" target="_blank">Просмотр на новой вкладке</a>
 

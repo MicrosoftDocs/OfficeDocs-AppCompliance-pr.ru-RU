@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 01/04/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для конференций i/o, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e2ce5d40fcec908e0ddec850e942aee1ba4da1d0
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 2f96b9731808637ae2f262c90d9033cac2328a1b
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095340"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252689"
 ---
-# <a name="conferences-io"></a>Конференции i/o
+# <a name="conferences-io"></a>Conferences i/o
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,11 +32,11 @@ ms.locfileid: "52095340"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Конференции i/o |
-| Идентификатор | WA200001867 |
+| Имя приложения | Conferences i/o |
+| ID | WA200001867 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Конференции i/o |
+| Имя компании-партнера | Conferences i/o |
 | URL-адрес веб-сайта-партнера | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
 | URL-адрес страницы Teams приложения | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
 | URL-адрес политики конфиденциальности | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |

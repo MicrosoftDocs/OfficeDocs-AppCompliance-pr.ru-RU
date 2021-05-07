@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для IndustryIntel, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+certification_type: attested
+description: Все доступные сведения о безопасности и соответствия требованиям для IndustryIntel, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5df1507dd84efcf8229024c57282f356d7105398
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 667a8680991551e79b9be5ae404c660e4ed72092
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095031"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251368"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -20,7 +21,7 @@ ms.locfileid: "52095031"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 3 ноября 2020 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/beb2be89-a403-46fe-9a67-c1294c9f9740" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://teams.microsoft.com/l/app/beb2be89-a403-46fe-9a67-c1294c9f9740" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001907" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -32,10 +33,10 @@ ms.locfileid: "52095031"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | IndustryIntel |
-| Идентификатор | WA200001907 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Команда аналитики отрасли |
+| ID | WA200001907 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
+| Поддерживаемые клиенты Office 365 | Microsoft Teams |
+| Имя компании-партнера | Industry Intelligence Team |
 | URL-адрес веб-сайта-партнера | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
 | URL-адрес политики конфиденциальности | [https://www.industryintel.com/public:legal/privacy-policy-m...](https://www.industryintel.com/public:legal/privacy-policy-msteams) |
 | URL-адрес терминов использования | [https://www.industryintel.com/public:legal/terms-of-use](https://www.industryintel.com/public:legal/terms-of-use) |
@@ -52,16 +53,16 @@ ms.locfileid: "52095031"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>Не microsoft services are not used.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -77,7 +78,7 @@ ms.locfileid: "52095031"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Нет. Сопоставление пользователя ms Teams и пользователя so Teams происходит в продукте SO Teams. MS Teams отправляет нам их идентифицируемые ids и мы экономим их внутренне для карты пользователя. Кроме того, ms Teams отправляет нам JWT для запросов ботов (предотвращает подделку запросов) и запросы Tab проверяют с помощью cookie SO.
+>Нет. Сопоставление пользователя MS Teams и пользователя SO Teams происходит в продукте SO Teams. Ms Teams отправляет нам их идентифицируемые ids, и мы экономим их внутренне, чтобы составить карту пользователя. Кроме того, MS Teams отправляет нам JWT для запросов ботов (предотвращает подделку запросов) и запросы tab проверяют с помощью cookie SO.
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
@@ -98,9 +99,9 @@ ms.locfileid: "52095031"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36080' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36080' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36080" target="_blank">Просмотр на новой вкладке</a>
 

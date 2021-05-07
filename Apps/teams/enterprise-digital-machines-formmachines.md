@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для FormMachines, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 943c2329556e38941b4b699cb803bea22a05dcfe
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 48bbaac501919f6b04e9cd9fd025c5e62d11015e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095240"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252639"
 ---
 # <a name="formmachines"></a>FormMachines
 
@@ -32,10 +33,10 @@ ms.locfileid: "52095240"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | FormMachines |
-| Идентификатор | WA200001217 |
-| Возможности | Tab, Connector |
+| ID | WA200001217 |
+| Возможности | Вкладка, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Enterprise Цифровые машины |
+| Имя компании-партнера | Enterprise Digital Machines |
 | URL-адрес веб-сайта-партнера | [https://www.formmachines.com](https://www.formmachines.com) |
 | URL-адрес политики конфиденциальности | [https://www.formmachines.com?dirKey=fm-privacy](https://www.formmachines.com?dirKey=fm-privacy) |
 | URL-адрес терминов использования | [https://www.formmachines.com?dirKey=fm-terms-of-use](https://www.formmachines.com?dirKey=fm-terms-of-use) |

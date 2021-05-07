@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/28/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ecBooking, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 10fe1b74de902650a7aa0043c70ad5d7b3547878
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 6ec806440fb2ec8c6b0cc79042aee072adc40c05
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095201"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252619"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -32,10 +33,10 @@ ms.locfileid: "52095201"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ecBooking |
-| Идентификатор | WA200002096 |
+| ID | WA200002096 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Экспертные системы IVR (Азия) Co.Ltd. |
+| Имя компании-партнера | Expert Systems IVR(Asia) Co.Ltd. |
 | URL-адрес веб-сайта-партнера | [https://www.esi-asia.com/](https://www.esi-asia.com/) |
 | URL-адрес страницы Teams приложения | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/) |
 | URL-адрес политики конфиденциальности | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510822239639-efecac03-d43200b0-aa88) |
@@ -130,11 +131,11 @@ ms.locfileid: "52095201"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,
-<br />
-
-<br />
-- Поток учетных данных владельца ресурса (ROPC) | | Предоставляет ли ваше приложение какие-либо веб-API? | Да| | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да| | Использует ли приложение API предварительного просмотра? | Нет | | Использует ли ваше приложение неподготовленные API? | Нет |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

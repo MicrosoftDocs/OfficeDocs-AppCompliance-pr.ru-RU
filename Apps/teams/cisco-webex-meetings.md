@@ -5,16 +5,17 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для собраний Cisco Webex, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9984c4e025fe406adbd5fa28c8f9ea6702f75e37
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b31e736c76a48d9c4498a16f5f981a299780a4ef
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095390"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252709"
 ---
-# <a name="cisco-webex-meetings"></a>Собрания Cisco Webex
+# <a name="cisco-webex-meetings"></a>Cisco Webex Meetings
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,11 +32,11 @@ ms.locfileid: "52095390"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Собрания Cisco Webex |
-| Идентификатор | WA104381435 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| Имя приложения | Cisco Webex Meetings |
+| ID | WA104381435 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Собрания Cisco Webex |
+| Имя компании-партнера | Cisco Webex Meetings |
 | URL-адрес веб-сайта-партнера | [https://www.webex.com](https://www.webex.com) |
 | URL-адрес страницы Teams приложения | [https://collaborationhelp.cisco.com/](https://collaborationhelp.cisco.com/) |
 | URL-адрес политики конфиденциальности | [https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatas...](https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatasheet/collaboration/cisco-webex-meetings-privacy-data-sheet.pdf) |

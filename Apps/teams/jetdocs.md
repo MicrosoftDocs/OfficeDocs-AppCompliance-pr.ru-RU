@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Jetdocs, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 378abf284c54f1931f63dc1f05dccaff01bf8bd4
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7401cacdcbecd28fdf0a19bb7349b21c1168f547
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095001"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252509"
 ---
 # <a name="jetdocs"></a>Jetdocs
 
@@ -32,7 +33,7 @@ ms.locfileid: "52095001"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Jetdocs |
-| Идентификатор | WA200002236 |
+| ID | WA200002236 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Jetdocs |

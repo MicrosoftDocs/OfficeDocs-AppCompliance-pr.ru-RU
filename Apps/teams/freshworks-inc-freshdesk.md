@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Freshdesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 94a03102fc53669db0af71d81480cf6dc92f31c4
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 943ca79c2d39858c0ce2750a102c105c61faa699
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095180"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252599"
 ---
 # <a name="freshdesk"></a>Freshdesk
 
@@ -32,8 +33,8 @@ ms.locfileid: "52095180"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Freshdesk |
-| Идентификатор | WA104381505 |
-| Возможности | Bot |
+| ID | WA104381505 |
+| Возможности | Бот |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Freshworks INC |
 | URL-адрес веб-сайта-партнера | [https://www.freshdesk.com](https://www.freshdesk.com) |

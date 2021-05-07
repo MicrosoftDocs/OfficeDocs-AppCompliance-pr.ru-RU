@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для запроса на отпуск LTAPPs, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cabfdc7cfc73ad75cedd7846adb82f8aba1e6a6d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: d53010c013fdab2dd7a0791005a916d98340d96e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094520"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252449"
 ---
 # <a name="leave-request-by-ltapps"></a>Leave Request by LTAPPs
 
@@ -32,7 +33,7 @@ ms.locfileid: "52094520"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Leave Request by LTAPPs |
-| Идентификатор | WA200001928 |
+| ID | WA200001928 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LTAPPs SOFTWARE CO.,LTD |

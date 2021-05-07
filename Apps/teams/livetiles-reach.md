@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/22/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Reach, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 129f564f8e25897fe9fc2cebfd55ae68fd20cf83
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 81a3afa06f4843c68a5e32da49f7e7be09e0684a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094543"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252459"
 ---
 # <a name="reach"></a>Reach
 
@@ -32,7 +33,7 @@ ms.locfileid: "52094543"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Reach |
-| Идентификатор | WA200002045 |
+| ID | WA200002045 |
 | Возможности | Tab |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LiveTiles |

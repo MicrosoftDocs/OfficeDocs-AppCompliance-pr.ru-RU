@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MindMeister, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c1630248ebdb667baf6b386f03f777a8d7dd6c89
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 3c460acdb9529126d9d1360dd478c30f78c55bac
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094488"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252419"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -32,8 +33,8 @@ ms.locfileid: "52094488"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | MindMeister |
-| Идентификатор | WA104381116 |
-| Возможности | Bot, Tab, Messaging Extension, Connector |
+| ID | WA104381116 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями, соединитель |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MeisterLabs GmbH |
 | URL-адрес веб-сайта-партнера | [https://www.mindmeister.com](https://www.mindmeister.com) |

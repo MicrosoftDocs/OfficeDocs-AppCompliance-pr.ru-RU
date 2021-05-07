@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Q, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cf5a29e08636c40635dd7e40c768f56cac35c096
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 2821009fea219a32a935dba7043d5ba0a48b826c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094480"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252409"
 ---
 # <a name="q"></a>Q
 
@@ -32,7 +33,7 @@ ms.locfileid: "52094480"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Q |
-| Идентификатор | WA104381433 |
+| ID | WA104381433 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ModuleQ |

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/22/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Org@Work, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4323892b93a59f7b5597a904206619eb9510afd4
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4818b0c99dfe0418fa553f6f7c71b79ab2ab0aa5
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094511"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252439"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -32,10 +33,10 @@ ms.locfileid: "52094511"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Org@Work |
-| Идентификатор | WA200002461 |
+| ID | WA200002461 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Лундано |
+| Имя компании-партнера | Lundano |
 | URL-адрес веб-сайта-партнера | [https://www.lundano.com/orgatwork/](https://www.lundano.com/orgatwork/) |
 | URL-адрес страницы Teams приложения | [https://www.lundano.com/orgatwork/index.html#](https://www.lundano.com/orgatwork/index.html#) |
 | URL-адрес политики конфиденциальности | [https://cp.lundano.com/privacy_en.html](https://cp.lundano.com/privacy_en.html) |

@@ -1,46 +1,46 @@
 ---
-title: Сведения о приложениях для Goodera от Goodera
+title: Сведения о приложениях для календаря команд Planyway от Rubius
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/09/2021
+ms.date: 03/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Goodera, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для календаря команды Planyway, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ee377f810df40253b3582dd3e127453a2a1520c3
+ms.openlocfilehash: b9af468a7198de70c2eeb5ce02e72bbb5cb70b0f
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252589"
+ms.locfileid: "52252156"
 ---
-# <a name="goodera"></a>Goodera
+# <a name="planyway-team-calendar"></a>Календарь команд Planyway
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 февраля 2021 г.</p>
+<p>Последнее обновление разработчика: 19 марта 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/bc78ef2f-db9c-4bac-83de-1571f9dedf2d" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002136" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/861228c3-eefd-462f-9b13-24dae6530ac3" target="_blank">Просмотр в магазине Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002712" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Goodera Корпорации Майкрософт:
+Сведения, предоставляемые Rubius Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Goodera |
-| ID | WA200002136 |
-| Возможности | Бот, расширение для обмена сообщениями |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Goodera |
-| URL-адрес веб-сайта-партнера | [https://about.goodera.com](https://about.goodera.com) |
-| URL-адрес страницы Teams приложения | [Н/Д](N/A) |
-| URL-адрес политики конфиденциальности | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
-| URL-адрес терминов использования | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
+| Имя приложения | Календарь команд Planyway |
+| ID | WA200002712 |
+| Возможности | Tab |
+| Поддерживаемые клиенты Office 365 | Microsoft Teams |
+| Имя компании-партнера | Rubius |
+| URL-адрес веб-сайта-партнера | [https://planyway.com](https://planyway.com) |
+| URL-адрес страницы info приложения Teams | [https://planyway.com](https://planyway.com) |
+| URL-адрес политики конфиденциальности | [https://planyway.com/legal/privacy-policy](https://planyway.com/legal/privacy-policy) |
+| URL-адрес терминов использования | [https://planyway.com/legal/terms-of-use](https://planyway.com/legal/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,28 +50,26 @@ ms.locfileid: "52252589"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация была предоставлена Goodera о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
+Эта информация была предоставлена Rubius о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>Не microsoft services are not used.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
->| Мы получили доступ к ID электронной почты пользователей, чтобы мы могли идентифицировать пользователей и помочь им зарегистрироваться для волонтерских возможностей. | Email ID | Этот PII хранится только для того, чтобы мы знали, для каких возможностей добровольчества зарегистрирован пользователь. |
+>Доступ к EUII не имеется.
 
 
 
@@ -85,7 +83,7 @@ ms.locfileid: "52252589"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>https://planyway.com/legal/planyway-and-gdpr
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -99,11 +97,11 @@ ms.locfileid: "52252589"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37864' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37864" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +111,7 @@ ms.locfileid: "52252589"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена Goodera о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена Rubius о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

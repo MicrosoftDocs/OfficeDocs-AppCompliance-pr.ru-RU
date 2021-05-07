@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Mybys, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e15154e69c0517d49bb6af0d0b2d9a0c76d1f797
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ecdb9594167eb0428b42996b2fc6046febb73109
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095200"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252609"
 ---
 # <a name="mybys"></a>Mybys
 
@@ -32,8 +33,8 @@ ms.locfileid: "52095200"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Mybys |
-| Идентификатор | WA200002605 |
-| Возможности | Бот, расширение обмена сообщениями |
+| ID | WA200002605 |
+| Возможности | Бот, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Facilis |
 | URL-адрес веб-сайта-партнера | [https://facilisglobal.com/](https://facilisglobal.com/) |
