@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/21/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для MyHub, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 506849ae022916d92fc552d2e532ed7a6144df50
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 391c44f4f1d06742d1002b713f5f24f69db7d01e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095521"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253190"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -31,7 +32,7 @@ ms.locfileid: "52095521"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | MyHub |
-| Идентификатор | WA200000726 |
+| ID | WA200000726 |
 | Возможности | Бот, вкладка |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | AvePoint, inc. |

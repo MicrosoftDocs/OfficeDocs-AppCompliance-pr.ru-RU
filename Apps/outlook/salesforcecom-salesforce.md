@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Salesforce, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 88e6a4913e3a3c85ea76fd58c1a724f957c9a3e6
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: e4235f61e6cb9cbc8b8bef3629dda8e5ccd87917
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096664"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252940"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -31,7 +32,7 @@ ms.locfileid: "52096664"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Salesforce |
-| Идентификатор | WA104379334 |
+| ID | WA104379334 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | salesforce.com |
 | URL-адрес веб-сайта-партнера | [https://www.salesforce.com/](https://www.salesforce.com/) |

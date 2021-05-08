@@ -1,43 +1,46 @@
 ---
-title: Сведения о приложениях для Excel автоматизации документов с помощью analysisPlace
+title: Сведения о приложениях для ADI от Akari Solutions Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/15/2021
+ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для Excel автоматизации документов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для ADI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 14cf8142d1c80fab178aca914d3e999aac5428cf
+ms.openlocfilehash: 435ede7d8821a4f93e930996f7159b794b5b8a22
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252869"
+ms.locfileid: "52253118"
 ---
-# <a name="excel-to-word-document-automation"></a>Excel автоматизация документов
+# <a name="adi"></a>ADI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 15 февраля 2021 г.</p>
+<p>Последнее обновление разработчика: 28 апреля 2021 г.</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380955" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/de5717a1-6884-4b96-8b1e-ee17b5d778f3" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002615" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые AnalysisPlace в Корпорацию Майкрософт:
+Сведения, предоставляемые Корпорацией Майкрософт решениями Akari Limited:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Excel автоматизация документов |
-| ID | WA104380955 |
-| Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Word 2016 или позднее на Mac, Word 2016 или более поздней Windows, PowerPoint 2016 или позднее на Mac, PowerPoint 2016 или более поздней Windows, Excel в Интернете, Word в Интернете, PowerPoint в Интернете |
-| Имя компании-партнера | AnalysisPlace |
-| URL-адрес веб-сайта-партнера | [https://analysisplace.com/](https://analysisplace.com/) |
-| URL-адрес политики конфиденциальности | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
-| URL-адрес терминов использования | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
+| Имя приложения | ADI |
+| ID | WA200002615 |
+| Возможности | Бот |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя компании-партнера | Akari Solutions Limited |
+| URL-адрес веб-сайта-партнера | [https://akari.io/adi/](https://akari.io/adi/) |
+| URL-адрес страницы Teams приложения | [https://akari.io/adi](https://akari.io/adi) |
+| URL-адрес политики конфиденциальности | [https://akari.io/adi-privacy-policy/](https://akari.io/adi-privacy-policy/) |
+| URL-адрес терминов использования | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +50,7 @@ ms.locfileid: "52252869"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена analysisPlace о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+Эти сведения предоставлены akari Solutions Limited о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -62,34 +65,31 @@ ms.locfileid: "52252869"
 
 >Не службы Майкрософт не используются.
 
+#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+
+Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+
+>Доступ к EUII не имеется.
 
 
-#### <a name="add-in-data-access"></a>Доступ к данным надстройки
-
-Список разрешений, необходимых этому приложению для доступа к данным организации, обоснования и цели этого разрешения (для чего приложение использует эти сведения?), и сохраняет ли приложение какую-либо из этих сведений в своих базах данных.
-
->| **Permission**  | **Описание** |
->|:----------------|:----------------|
->| Документ ReadWrite | Может читать и вносить изменения в документ |
->| Отправка данных | Может отправлять данные через Интернет |
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Имя пользователя, имя компании и электронная почта хранятся. Они удаляются для учетных записей, неактивных в течение 2 лет.
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Небольшое число администраторов имеют доступ через MFA PIM &amp; к компонентам платформы приложений.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Да
+>Нет
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -99,9 +99,9 @@ ms.locfileid: "52252869"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/29278' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/29278" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,21 +111,21 @@ ms.locfileid: "52252869"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена analysisPlace о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эти сведения предоставлены akari Solutions Limited о том, как это приложение обрабатывает проверку подлинности, авторизацию, применение методов регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | false |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
-| Поддерживает ли ваше приложение многотенантность? | Нет |
-| У вашего приложения есть конфиденциальный клиент? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
-| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Что вы не используете для вашего приложения? | ,<br/>- Неявные Flow OAuth2, если не требуется spa<br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |
 

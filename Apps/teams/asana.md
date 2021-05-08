@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/02/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Asana, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 04d0208b5177cc289f80534f83208b1a6d96d3af
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: f69029ca8c8b2f893808046706abfaa52e8d5124
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095581"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253210"
 ---
 # <a name="asana"></a>Asana
 
@@ -32,8 +33,8 @@ ms.locfileid: "52095581"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Asana |
-| Идентификатор | WA200001727 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA200001727 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Asana |
 | URL-адрес веб-сайта-партнера | [https://asana.com/?noredirect&amp;utm_source=asana_inproduct &amp; ut...](https://asana.com/?noredirect&amp;utm_source=asana_inproduct&amp;utm_medium=organic_inproduct&amp;utm_campaign=msft_teams_launch) |

@@ -2,25 +2,25 @@
 title: Сведения о приложениях для матрицы приоритетов по Appfluence Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Все доступные сведения о безопасности и соответствия требованиям для Priority Matrix, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Priority Matrix, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ccd03dd271cfafb55fd99fc65f4820a9d8787e83
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0e6e5afc6bc05299c149e46aed345ae6bb171ecd
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250878"
+ms.locfileid: "52258876"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 17 ноября 2020 г.</p>
+<p>Последнее обновление разработчика: 16 апреля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382005" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -34,10 +34,10 @@ ms.locfileid: "52250878"
 | Имя приложения | Priority Matrix |
 | ID | WA104382005 |
 | Возможности | Бот, вкладка, расширение для обмена сообщениями, соединитель |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Поддерживаемые клиенты Office 365 | Microsoft Teams |
 | Имя компании-партнера | Appfluence Inc |
 | URL-адрес веб-сайта-партнера | [https://appfluence.com](https://appfluence.com) |
-| URL-адрес страницы Teams приложения | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
+| URL-адрес страницы info приложения Teams | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
 | URL-адрес политики конфиденциальности | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
 | URL-адрес терминов использования | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
@@ -53,26 +53,26 @@ ms.locfileid: "52250878"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | делегирована | Только при добавлении нового пользователя в учетную запись мы храним его электронную почту. | При создании учетной записи мы используем это, чтобы предложить другим участникам группы. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
 >| User.ReadBasic.All | делегирована | Только при добавлении нового пользователя в учетную запись мы храним его электронную почту. | При создании учетной записи мы используем это, чтобы предложить другим участникам группы. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | делегирована | Мы храним маркер входа для выполнения запросов от имени пользователя | Обновление маркера, не беспокоя пользователя. (Матрица приоритетов для Teams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | делегирована | Мы не храним никаких сведений о файлах, если пользователь явно и сознательно не создает элемент Матрицы приоритетов, который связывается с исходным файлом. | В нашей функции One-on-One (доступной через наше веб-приложение, а также наши надстройки Outlook/Teams) мы используем эту функцию для выделения файлов SharePoint/OneDrive, которые разделяются между двумя пользователями в нашей системе, для облегчения собраний и общего взаимодействия. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
+>| offline_access | делегирована | Мы храним маркер входа для выполнения запросов от имени пользователя | Обновление маркера, не беспокоя пользователя. (Матрица приоритетов для команд) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
+>| Files.Read.All | делегирована | Мы не храним никаких сведений о файлах, если пользователь явно и сознательно не создает элемент Матрицы приоритетов, который связывается с исходным файлом. | В нашей функции One-on-One (доступной через наше веб-приложение, а также в наших надстройках Outlook/Teams) мы используем эту функцию для выделения файлов SharePoint/OneDrive, общих между двумя пользователями в нашей системе, для облегчения собраний и общего взаимодействия. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| User.Read | делегирована | Основные сведения о профиле пользователя (имя, имя, фамилия, электронная почта, аватар) хранятся нами. | Получите имя пользователя, электронную почту, аватар, чтобы персонализировать свою учетную запись вместе с нами. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| openid | делегирована | Мы храним подключение SSO, чтобы указать режим входа для пользователя. | Для того, чтобы войти в пользователей с помощью единой входной. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| Calendars.Read | делегирована | Небольшое количество событий календаря превращается в задачи, хранимые в нашей системе. | Ознакомьтесь с событиями календаря, чтобы они могли отображаться в нашем представлении 1:1. Также для инициализации новых учетных записей.  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | делегирована | Мы храним задачи, созданные в нашей системе, со ссылкой на исходное сообщение. | Используется в Outlook, чтобы превращать электронные почты в задачи и отображать общие работы в представлении 1:1. | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | делегирована | Некоторые Outlook/планировщик реплицированы в нашей системе, чтобы помочь новым пользователям. | Мы загружаем новые учетные записи пользователей с их Graph задачами. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Mail.Read | делегирована | Мы храним задачи, созданные в нашей системе, со ссылкой на исходное сообщение. | Используется в нашей надстройки Outlook для того, чтобы превращать электронные почты в задачи и отображать общие работы в представлении 1:1. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Tasks.Read | делегирована | Некоторые задачи Outlook/Planner реплицированы в нашей системе, чтобы помочь новым пользователям. | Мы загружаем новые учетные записи пользователей с их задачами Graph. | d76f016f-52c7-41b5-835b-900361d7040c |
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>Не microsoft services are not used.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 

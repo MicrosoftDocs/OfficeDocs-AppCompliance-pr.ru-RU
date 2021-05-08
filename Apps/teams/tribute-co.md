@@ -6,14 +6,14 @@ ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Tribute, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Tribute, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 996cd1a4de1ac793bacb354e8985f600cbb0a0f5
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 3fead70ef460ec81d89144420850ce47e3aee3e4
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252144"
+ms.locfileid: "52258796"
 ---
 # <a name="tribute"></a>Дань
 
@@ -21,7 +21,7 @@ ms.locfileid: "52252144"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 16 апреля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002589" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -35,10 +35,10 @@ ms.locfileid: "52252144"
 | Имя приложения | Дань |
 | ID | WA200002589 |
 | Возможности | Tab |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Поддерживаемые клиенты Office 365 | Microsoft Teams |
 | Имя компании-партнера | Tribute Co. |
 | URL-адрес веб-сайта-партнера | [https://www.tributementorship.com](https://www.tributementorship.com) |
-| URL-адрес страницы Teams приложения | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
+| URL-адрес страницы info приложения Teams | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
 | URL-адрес политики конфиденциальности | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
 | URL-адрес терминов использования | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
@@ -54,16 +54,16 @@ ms.locfileid: "52252144"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>Не microsoft services are not used.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -97,9 +97,9 @@ ms.locfileid: "52252144"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870" target="_blank">Просмотр на новой вкладке</a>
 
@@ -116,8 +116,8 @@ ms.locfileid: "52252144"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | true |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в списке интеграции платформы удостоверений Майкрософт?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Нет |

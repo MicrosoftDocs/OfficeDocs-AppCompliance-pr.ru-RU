@@ -1,46 +1,46 @@
 ---
-title: Сведения о приложениях для Centrical Biz-Effective
+title: Сведения о приложениях для SurveySparrow admin@surveysparrow.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/12/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Centrical, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для SurveySparrow, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8255572428a9fc1bc2ea9dbe30edb558c3fc03ff
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 85c350a57c265085c44db85d163b265089b8a89c
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253170"
+ms.locfileid: "52258766"
 ---
-# <a name="centrical"></a>Centrical
+# <a name="surveysparrow"></a>SurveySparrow
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 12 января 2021 г.</p>
+<p>Последнее обновление разработчика: 19 апреля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/7a70b8e4-43ca-46a7-b7c3-eb31b33de397" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001531" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/1b923c85-b04c-43d4-b2c2-0fdc0f598658" target="_blank">Просмотр в магазине Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002257" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Biz-Effective Корпорации Майкрософт:
+Сведения, предоставляемые admin@surveysparrow.com Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Centrical |
-| ID | WA200001531 |
-| Возможности | Бот, вкладка, расширение для обмена сообщениями |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Biz-Effective |
-| URL-адрес веб-сайта-партнера | [https://centrical.com](https://centrical.com) |
-| URL-адрес страницы Teams приложения | [https://centrical.com/solutions/solutions-by-use-case-2/mic...](https://centrical.com/solutions/solutions-by-use-case-2/microsoft-teams-gamification/) |
-| URL-адрес политики конфиденциальности | [https://centrical.com/privacy](https://centrical.com/privacy) |
-| URL-адрес терминов использования | [https://centrical.com/terms](https://centrical.com/terms) |
+| Имя приложения | SurveySparrow |
+| ID | WA200002257 |
+| Возможности | Бот |
+| Поддерживаемые клиенты Office 365 | Microsoft Teams |
+| Имя компании-партнера | admin@surveysparrow.com |
+| URL-адрес веб-сайта-партнера | [https://surveysparrow.com](https://surveysparrow.com) |
+| URL-адрес страницы info приложения Teams | [https://surveysparrow.com/apps/microsoft-teams-survey-integ...](https://surveysparrow.com/apps/microsoft-teams-survey-integration/) |
+| URL-адрес политики конфиденциальности | [https://surveysparrow.com/legal/privacy-policy/](https://surveysparrow.com/legal/privacy-policy/) |
+| URL-адрес терминов использования | [https://surveysparrow.com/legal/terms-of-service/](https://surveysparrow.com/legal/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,26 +50,28 @@ ms.locfileid: "52253170"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены Biz-Effective о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эти сведения предоставлены admin@surveysparrow.com о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>Не microsoft services are not used.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
+>| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| Мы получили доступ к PII для получения id электронной почты, чтобы убедиться, что у пользователя есть учетная запись в SurveySparrow | Нет |  |
 
 
 
@@ -77,19 +79,19 @@ ms.locfileid: "52253170"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->В телеметрии приложений или журналах не отображаются OII или EUII.
+>Сведения о учетной записи клиента. Журналы сохраняются в течение недели
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Мы совместимы с SOC2 Type 2, ISO 27001 и GDPR. У нас есть несколько элементов управления, обеспечивающих конфиденциальность и безопасность данных. Мы используем данные только для нашего приложения и не делимся ими с третьими лицами.
+>У нас будут привилегии на основе ролей. Только авторизованный пользователь сможет получить доступ, и у нас есть политики хранения
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Нет
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -97,11 +99,11 @@ ms.locfileid: "52253170"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36383' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37580' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36383" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37580" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,20 +113,19 @@ ms.locfileid: "52253170"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения были предоставлены Biz-Effective о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эти сведения были предоставлены admin@surveysparrow.com о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в списке интеграции платформы удостоверений Майкрософт?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Да |
 | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
 | Использует ли приложение API предварительного просмотра? | Нет |

@@ -2,27 +2,27 @@
 title: Microsoft Outlook безопасности и соответствия требованиям — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 05/04/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех Outlook приложений Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: 25b36a6836c28bedcbf328564ede50bc680c6a37
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 49d4830d1c2fd9f1b330d203bc8ec1f28c0d9031
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071780"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252950"
 ---
 # <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook безопасности и соответствия требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Outlook приложений и надстройок, которые они используют. Эти сведения дополняются сведениями [](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) из каталога Microsoft Cloud App Security приложений и сведениями, предоставляемыми разработчиками при отправке приложений. Эти сведения о безопасности, обработке данных и соответствия требованиям призваны помочь организациям оценить риски при использовании этих приложений и управлять ими.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Outlook приложений и надстройок, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
-| **App** | **Partner** | **Publisher Attested** | **Сертифицировано** | **Сведения об обработке данных** | **Cloud App Security Сведения** |
+| **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** | **Сведения об обработке данных** | **Данные Cloud App Security** |
 |:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
 | [Adobe Sign Add-In для Outlook](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Да | Да |
 | [Видео Altru](./altru-videos.md) | Альтру | **✓** |  | Да | Да |
-| [Утвержденные календари контактов](./approved-contact-calendars.md) | Утвержденный контакт | **✓** |  | Да | Да |
+| [Утвержденные календари контактов](./approved-contact-calendars.md) | Approved Contact | **✓** |  | Да | Да |
 | [Asana для Outlook](./asana-for-outlook.md) | Asana | **✓** |  | Да | Да |
 | [harmon.ie для Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Корпорация | **✓** |  | Да | Да |
 | [Счет и отслеживание времени — счет Zoho](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  | Да | Да |

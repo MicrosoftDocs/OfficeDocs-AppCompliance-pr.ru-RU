@@ -1,46 +1,45 @@
 ---
-title: Сведения о приложениях для AttendanceBot от Anaek
+title: Сведения о приложениях для onsight Подключение Librestream
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2021
+ms.date: 04/13/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для AttendanceBot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для onsight Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38160356c691a04e0d109ebd67aaab3826b63286
+ms.openlocfilehash: c86f5db78265057b47956db0314a493140bf53bd
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253230"
+ms.locfileid: "52253095"
 ---
-# <a name="attendancebot"></a>AttendanceBot
+# <a name="onsight-connect"></a>Onsight Подключение
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 23 марта 2021 г.</p>
+<p>Последнее обновление разработчика: 13 апреля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/77231724-5a80-4edf-ad93-dfd2e61207fa" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381652" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/c01f5608-4ade-4749-aafa-9e5449a5bcb4" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002769" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Anaek Корпорации Майкрософт:
+Сведения, предоставляемые Librestream Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | AttendanceBot |
-| ID | WA104381652 |
-| Возможности | Бот |
+| Имя приложения | Onsight Подключение |
+| ID | WA200002769 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Anaek |
-| URL-адрес веб-сайта-партнера | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
-| URL-адрес страницы Teams приложения | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| URL-адрес политики конфиденциальности | [https://www.attendancebot.com/attendance/privacy/](https://www.attendancebot.com/attendance/privacy/) |
-| URL-адрес терминов использования | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
+| Имя компании-партнера | Librestream |
+| URL-адрес веб-сайта-партнера | [https://librestream.com](https://librestream.com) |
+| URL-адрес политики конфиденциальности | [https://librestream.com/onsight-privacy-notice-mobile-2/](https://librestream.com/onsight-privacy-notice-mobile-2/) |
+| URL-адрес терминов использования | [https://librestream.com/support-archives/termsofuse/](https://librestream.com/support-archives/termsofuse/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +49,7 @@ ms.locfileid: "52253230"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена Anaek о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эта информация предоставлена Librestream о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -63,15 +62,15 @@ ms.locfileid: "52253230"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>|:-------------------|:--------------------------|:--------------------------|
+>| onsight.librestream.com  | домен как часть имени пользователя для входа в приложения. | домены совпадают с именами доменов, которые принадлежат клиентам. |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
->| AttendanceBot имеет доступ к PII из MS Teams | Имя, фамилия и адрес электронной почты | Адрес электронной почты — уникальный идентификатор для каждой группы, устанавливаемой в AttendanceBot. |
+>Доступ к EUII не имеется.
 
 
 
@@ -79,7 +78,7 @@ ms.locfileid: "52253230"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->В телеметрии приложений или журналах не отображаются OII или EUII.
+>вход, статистика вызовов.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
@@ -91,7 +90,7 @@ ms.locfileid: "52253230"
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Нет
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,9 +100,9 @@ ms.locfileid: "52253230"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37579' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37579" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +112,7 @@ ms.locfileid: "52253230"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена Anaek о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена Librestream о том, как это приложение обрабатывает проверку подлинности, авторизацию, передовую практику регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Office2SharePoint для Office, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 270b2396ef71a8965f02cb1a47bb3c272fe91bee
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: a6a9a6d5d3f340e576c4f2da4ba19edb74454773
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095800"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252859"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint для Office
 
@@ -30,7 +31,7 @@ ms.locfileid: "52095800"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Office2SharePoint для Office |
-| Идентификатор | WA104381787 |
+| ID | WA104381787 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2016 или более поздней Windows, PowerPoint 2016 или более поздней PowerPoint в Интернете, PowerPoint 2016 или более поздней Windows |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |

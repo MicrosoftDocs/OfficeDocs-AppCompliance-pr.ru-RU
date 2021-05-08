@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ServiceDesk Plus для электронной почты, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bf8ed2f9b56cdb5afc32d86c608603849da585ad
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: dbbafef5141b91c850c916c780cfb2cd89504f52
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096651"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252889"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus для электронной почты
 
@@ -31,7 +32,7 @@ ms.locfileid: "52096651"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ServiceDesk Plus для электронной почты |
-| Идентификатор | WA104381518 |
+| ID | WA104381518 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/](https://www.zoho.com/) |

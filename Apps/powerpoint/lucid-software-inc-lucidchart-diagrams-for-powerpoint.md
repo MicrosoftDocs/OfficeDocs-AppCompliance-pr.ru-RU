@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart Diagrams для PowerPoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7810019e495dd182dd5566f91b7d77223e26ee7b
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: f31afb0af97c420fc3ca84fb86eaf87c2fa33385
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095791"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252839"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>Диаграммы Lucidchart для PowerPoint
 
@@ -31,7 +32,7 @@ ms.locfileid: "52095791"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Диаграммы Lucidchart для PowerPoint |
-| Идентификатор | WA104380117 |
+| ID | WA104380117 |
 | Office 365 поддерживаемые клиенты | PowerPoint 2016 или позже на Mac, PowerPoint в Интернете, PowerPoint 2013 или более поздней Windows |
 | Имя компании-партнера | Lucid Software Inc |
 | URL-адрес веб-сайта-партнера | [https://www.lucidchart.com/](https://www.lucidchart.com/) |

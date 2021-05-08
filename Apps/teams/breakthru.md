@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Breakthru, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 306a819de1b83a4d2fae178b34fd37529201a609
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fff1b1bb443be6866570035f16897a71e7458455
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095481"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253150"
 ---
 # <a name="breakthru"></a>Breakthru
 
@@ -32,8 +33,8 @@ ms.locfileid: "52095481"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Breakthru |
-| Идентификатор | WA200002243 |
-| Возможности | Бот, вкладка, расширение обмена сообщениями |
+| ID | WA200002243 |
+| Возможности | Бот, вкладка, расширение для обмена сообщениями |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Breakthru |
 | URL-адрес веб-сайта-партнера | [https://breakthru.me](https://breakthru.me) |
