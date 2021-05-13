@@ -6,12 +6,12 @@ description: Руководство пользователя ISV для Microsof
 keywords: Руководство пользователя ISV для Microsoft 365 программы соответствия требованиям к приложениям
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1338edfc5ad4447d9167eea66388cd8d7a65a883
-ms.sourcegitcommit: 47fdc4f6dcfbc1b4c74f7e1e49343b9b1ce6ef9c
+ms.openlocfilehash: a6b0abb55359a16d4651722d776dfb16282edc87
+ms.sourcegitcommit: bb6c1353781d7b6f8b171bf6853b85e42fda656e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/11/2021
-ms.locfileid: "52313302"
+ms.locfileid: "52324088"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>Руководство для пользователей партнеров для Microsoft 365 программы соответствия требованиям приложений
 
@@ -150,17 +150,17 @@ ms.locfileid: "52313302"
 
 ![Проверка на стадии рассмотрения](../media/existing%20isv%203.png)
 
-## <a name="6---microsoft-365-re-certification-workflow"></a>6. Microsoft 365 Re-Certification рабочий процесс:
-
-**Microsoft 365Publisher процесса аттестации и обновления сертификации:** 
+## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher процесса аттестации и обновления сертификации:
 
 Microsoft 365 Программа соответствия требованиям приложений теперь предлагает ежегодный процесс обновления. В ходе этого процесса разработчики приложений могут обновить существующий Publisher аттестации и документы, необходимые для Microsoft 365 сертификации. 
 
 **Преимущества:**
 
-- Сохраните значок сертификации в AppSource, чтобы отличать приложение от других. 
+- Сохраните значок сертификации в AppSource и Team Store, чтобы отличать приложение от других. 
 - Повышение доверия клиентов к использованию сертифицированного приложения. 
 - Помощь ИТ-администраторам в принятии обоснованных решений с помощью обновленных сведений о сертификации. 
+
+Новый процесс обновления доступен в [Центре партнеров для](https://partner.microsoft.com/en-us/dashboard/home) обеспечения бесперебойного работы. Напоминание о возобновлении будет показано в Центре партнеров, начиная с 90 дней до истечения срока действия. Периодические напоминания также будут отправляться по электронной почте за 90, 60 и 30 дней до истечения срока действия.
 
 **Tier 1: Publisher проверки:** 
 
