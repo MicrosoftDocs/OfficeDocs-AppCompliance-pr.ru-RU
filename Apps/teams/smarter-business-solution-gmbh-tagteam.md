@@ -1,45 +1,45 @@
 ---
-title: Информация о применении для службы Alvao от ALVAO s.r.o.
+title: Информация о приложениях для TagTeam от Smarter Business Solution GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/08/2021
+ms.date: 04/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для службы Alvao Desk, ее политики обработки данных, ее Microsoft Cloud App Security информация каталога приложений и информация о безопасности/соответствии в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для TagTeam, ее политики обработки данных, Microsoft Cloud App Security информация каталога приложений и информация о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fd5a6939e93720fa6422cc61b9b7c785539ec24a
+ms.openlocfilehash: 5c4976272cd5ee2f280544bf1bb6fb674ca5297d
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552410"
+ms.locfileid: "52553345"
 ---
-# <a name="alvao-service-desk"></a>Служба поддержки Alvao
+# <a name="tagteam"></a>ТегТеам
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчиком на: 8 марта 2021</p>
+<p>Последнее обновление разработчиком: 21 апреля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/6b9cc557-e24a-4744-a370-407e717f2195" target="_blank">Посмотреть в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002488" target="_blank">Посмотреть в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/6d7f01cb-cfa5-48d9-beed-363d381ae32b" target="_blank">Посмотреть в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002829" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Информация предоставлена ALVAO s.r.o. корпорации Майкрософт:
+Информация, предоставленная smarter Business Solution GmbH корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Служба поддержки Alvao |
-| ID | WA200002488 |
+| Имя приложения | ТегТеам |
+| ID | WA200002829 |
 | Office 365 клиенты поддержали | Microsoft Teams |
-| Название компании-партнера | ALVAO s.r.o. |
-| URL-адрес веб-сайта партнера | [https://www.alvao.com/en/ ](https://www.alvao.com/en/ ) |
-| URL-адрес Teams страницы информации о приложениях | [https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alv...](https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alvao_teams_addin/default.aspx) |
-| URL политики конфиденциальности | [https://www.alvao.com/en/gdpr](https://www.alvao.com/en/gdpr) |
-| URL условий использования | [https://www.alvao.com/en/storage/app/media/documents/licens...](https://www.alvao.com/en/storage/app/media/documents/license_SD_10.3_en.pdf) |
+| Название компании-партнера | Умное бизнес-решение GmbH |
+| URL-адрес веб-сайта партнера | [https://www.smarterbusiness.at/en](https://www.smarterbusiness.at/en) |
+| URL-адрес Teams страницы информации о приложениях | [https://www.smarterbusiness.at/en/tagteam-help](https://www.smarterbusiness.at/en/tagteam-help) |
+| URL политики конфиденциальности | [https://www.smarterbusiness.at/en/add-in-privacy-policy](https://www.smarterbusiness.at/en/add-in-privacy-policy) |
+| URL условий использования | [https://www.smarterbusiness.at/en/terms-of-use-for-tagteam](https://www.smarterbusiness.at/en/terms-of-use-for-tagteam) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "52552410"
 
 ### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Об этом сообщает ALVAO s.r.o. о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые собирает приложение.
+Эта информация была предоставлена Smarter Business Solution GmbH о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -57,7 +57,10 @@ ms.locfileid: "52552410"
 
 >| **Permission**  | **Тип разрешения (Делегировано/Применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для его хранения?** | **Идентификатор приложения Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | Делегированные | токены аутентификации | Позволяет пользователю войти и связать свою учетную Office 365 учетную запись с их учетной записью Alvao | ef5fa233-c0bb-424e-b9dc-0466d46bade2 |
+>| ChannelMessage.Read.All | Делегированные | Мы не собираем эти данные - только для отображения помеченных разговоров. Мы хотели бы изменить его для поиска API, но Graph API в настоящее время не поддерживает это.  | Нет | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| User.Read | Делегированные | Отображение User-Information (например, имя) в нашей вкладке | Нет | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| User.ReadBasic.All | Делегированные | Отображение User-Avatars в нашей вкладке | Нет | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| openid | Делегированные | Только для SignIn - данные не хранятся | Нет | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
 
 
 #### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
@@ -83,13 +86,13 @@ ms.locfileid: "52552410"
 
 Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
->Данные хранятся в Microsoft Azure облаке. Данные могут быть просмотрены инженерами для отладки целей с одобрения нашего высшего руководства. Доступ к данным контролируется с помощью внутреннего VPN.
+>Мы храним описанные данные только в Azure Cosmos DB. Мы не делимся им с другими системами Парнтера!
 
 #### <a name="human-review-of-organizational-information"></a>Человеческий обзор организационной информации
 
 Участвуют ли люди в анализе или анализе данных, идентифицируемых в организации (OII), которые собираются или хранятся в этом приложении?
 
->Нет
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -99,9 +102,9 @@ ms.locfileid: "52552410"
 
 Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36558' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38164' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36558" target="_blank">Просмотр в новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38164" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,23 +114,23 @@ ms.locfileid: "52552410"
 
 ### <a name="identity-information"></a>Идентификационная информация
 
-Об этом сообщает ALVAO s.r.o. о том, как это приложение обрабатывает аутентификацию, авторизацию, лучшие практики регистрации приложений и другие критерии идентификации.
+Эта информация была предоставлена Smarter Business Solution GmbH о том, как это приложение обрабатывает аутентификацию, авторизацию, лучшие практики регистрации приложений и другие критерии идентификации.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрируесь ли вы с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и соблюдали все применимые передовой опыт, изложенные в контрольном платформа удостоверений Майкрософт интеграции?  | Нет |
-| Использует ли ваше приложение MSAL (Библиотека аутентификации Майкрософт) для проверки подлинности? | Да |
+| Рассмотрели ли вы и соблюдали все применимые передовой опыт, изложенные в контрольном платформа удостоверений Майкрософт интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Библиотека аутентификации Майкрософт) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политику условного доступа? | Нет |
 | Запрашивает ли приложение наименьшее разрешение на привилегии для вашего сценария? | Да |
-| Точно ли зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение будет запрашивать динамически и постепенно? | Нет |
+| Точно ли зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение будет запрашивать динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение мульти-аренду? | Да |
-| Есть ли у вашего приложения конфиденциальный клиент? | Нет |
+| Есть ли у вашего приложения конфиденциальный клиент? | Да |
 | У вас есть все перенаправление идентификатора объединенных ресурсов (URI), зарегистрированного для вашего приложения? | Да |
-| Что следует избегать использования приложения для вашего приложения? | - Wildcard перенаправить URIs,<br/>- OAuth2 Неявные Flow, если требуется для SPA<br/>- Ресурс Владелец пароль учетных данных (ROPC) поток |
+| Что следует избегать использования приложения для вашего приложения? | - Wildcard перенаправить URIs,<br/><br/>- Ресурс Владелец пароль учетных данных (ROPC) поток |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Да |
 | Позволяет ли ваша модель разрешения вызовам преуспеть только в том случае, если клиентское приложение получает надлежащее согласие? | Да |
-| Использует ли приложение API-версии предварительного просмотра? | Нет |
+| Использует ли приложение API-версии предварительного просмотра? | Да |
 | Использует ли приложение увеные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

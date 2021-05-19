@@ -1,46 +1,45 @@
 ---
-title: Сведения о приложениях для timeghost по K&#246;llisch GmbH
+title: Информация о заявке для таймгостов от K&#246;llisch GmbH
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для timeghost, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для timeghost, ее политики обработки данных, Microsoft Cloud App Security информация каталога приложений, а также информация о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9b3ab0b6d43fc7fcb69630471b6c5e8b89df3b00
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: ac22c7368da817caf44157bad920221791989245
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252479"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552040"
 ---
 # <a name="timeghost"></a>timeghost
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 24 февраля 2021 г.</p>
+<p>Последнее обновление разработчиком на: 24 февраля 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/e3956558-7399-4ec1-848a-c61a2aa95bc1" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001532" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/e3956558-7399-4ec1-848a-c61a2aa95bc1" target="_blank">Посмотреть в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001532" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые K&#246;llisch GmbH в Корпорацию Майкрософт:
+Информация, предоставленная K&#246;llisch GmbH корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | timeghost |
 | ID | WA200001532 |
-| Возможности | Tab |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | K&#246;llisch GmbH |
-| URL-адрес веб-сайта-партнера | [https://timeghost.io/](https://timeghost.io/) |
-| URL-адрес страницы Teams приложения | [https://timeghost.io](https://timeghost.io) |
-| URL-адрес политики конфиденциальности | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
-| URL-адрес терминов использования | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |
+| Office 365 клиенты поддержали | Microsoft Teams |
+| Название компании-партнера | K&#246;llisch GmbH |
+| URL-адрес веб-сайта партнера | [https://timeghost.io/](https://timeghost.io/) |
+| URL-адрес Teams страницы информации о приложениях | [https://timeghost.io](https://timeghost.io) |
+| URL политики конфиденциальности | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
+| URL условий использования | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,55 +47,54 @@ ms.locfileid: "52252479"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Эти сведения предоставлены K&#246;llisch GmbH о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+Эта информация была предоставлена K&#246;llisch GmbH о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Permission**  | **Тип разрешения (Делегировано/Применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для его хранения?** | **Идентификатор приложения Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | делегирована | Titel, Startdatum, Enddatum, ID | Kalenderdaten werden beim Buchen eines Kalendereintrages auf ein Projekt gespeichert. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
->| People.Read | делегирована | E-Mail-Adresse | Die Daten werden gespeichert um weitere Team-Mitglieder hinzuzuf&#252;gen und die Avatare der Nutzer anzuzeigen. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
->| User.Read | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert, um die Benutzererfahrung zu verbessern. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
->| User.ReadBasic.All | делегирована | Um das Profilbild anzuzeigen. | Keine Daten werden gespeichert. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
->| openid | делегирована | ID  | Speicherung der ID des Users zur Zuordnung des Users. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
->| profile | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert, um die Benutzererfahrung zu verbessern. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| Calendars.Read | Делегированные | Титель, Стартдатум, Энддатум, ID | Календердатен Верден Беим Бухен Эйнс Календерейнтрагес ауф эйн Проект gespeichert. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| People.Read | Делегированные | Электронная почта-Adresse | Die Daten Werden gespeichert um weitere Team-Mitglieder hinzuzuf&#252;gen und die Avatare der Nutzer anzuzeigen. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| User.Read | Делегированные | Vorname, Нахнам, E-Mail-Adresse, Организация, Telefonnummer, Ролле, Sprache, Местоположение | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert, um die Benutzererfahrung zu verbessern. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| User.ReadBasic.All | Делегированные | Ум дас Профилбидд анзузейген. | Кейн Daten Верден gespeichert. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| openid | Делегированные | ID  | Speicherung дер ID де пользователей zur Зур Зурднунг де пользователей. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| profile | Делегированные | Vorname, Нахнам, E-Mail-Adresse, Организация, Telefonnummer, Ролле, Sprache, Местоположение | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert, um die Benutzererfahrung zu verbessern. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
 
-Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все неосуществимые службы Майкрософт OII передаются** |  **Какой OII передается?** | **Обоснование передачи OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Sentry.io, Chargebee | Vorname, Nachname, E-Mail-Adresse, Firmenname  | Zur Fehlerermittlung, Zahlungs&#252;bermittlung |
+>| Sentry.io, Chargebee | Vorname, Нахнам, E-Mail-Adresse, Firmenname  | Зур Фелерермиттлунг, Захлунгс&#252;бермитлунг |
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+#### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
-
+>Доступ к EUII не доступен.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
 
->E-Mail-Adresse, Пользовательский ID
+>Электронная почта-Adresse, идентификатор пользователя
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
 
-Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
 >Аудит
 
-#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+#### <a name="human-review-of-organizational-information"></a>Человеческий обзор организационной информации
 
-Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+Участвуют ли люди в анализе или анализе данных, идентифицируемых в организации (OII), которые собираются или хранятся в этом приложении?
 
 >Да
 
@@ -106,11 +104,11 @@ ms.locfileid: "52252479"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36447' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36447' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36447" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36447" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,26 +116,26 @@ ms.locfileid: "52252479"
 
 ::: zone pivot="identity"
 
-### <a name="identity-information"></a>Сведения о удостоверениях
+### <a name="identity-information"></a>Идентификационная информация
 
-Эти сведения предоставлены K&#246;llisch GmbH о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация была предоставлена K&#246;GmbH о том, как это приложение обрабатывает аутентификацию, авторизацию, лучшие практики регистрации приложений и другие критерии идентификации.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | true |
-| Поддерживает ли ваше приложение политики условного доступа? | Нет |
-| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
-| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
-| Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Да |
-| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/> |
+| Интегрируесь ли вы с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и соблюдали все применимые передовой опыт, изложенные в контрольном платформа удостоверений Майкрософт интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Библиотека аутентификации Майкрософт) для проверки подлинности? | true |
+| Поддерживает ли ваше приложение политику условного доступа? | Нет |
+| Запрашивает ли приложение наименьшее разрешение на привилегии для вашего сценария? | Да |
+| Точно ли зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение будет запрашивать динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение мульти-аренду? | Да |
+| Есть ли у вашего приложения конфиденциальный клиент? | Да |
+| У вас есть все перенаправление идентификатора объединенных ресурсов (URI), зарегистрированного для вашего приложения? | Да |
+| Что следует избегать использования приложения для вашего приложения? | - Wildcard перенаправить URIs,<br/>- OAuth2 Неявные Flow, если требуется для SPA<br/> |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Да |
-| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
-| Использует ли приложение API предварительного просмотра? | Да |
-| Использует ли ваше приложение неподготовленные API? | Нет |
+| Позволяет ли ваша модель разрешения вызовам преуспеть только в том случае, если клиентское приложение получает надлежащее согласие? | Да |
+| Использует ли приложение API-версии предварительного просмотра? | Да |
+| Использует ли приложение увеные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

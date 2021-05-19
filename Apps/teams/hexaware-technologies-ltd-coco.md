@@ -1,44 +1,43 @@
 ---
-title: Сведения о приложениях для COCO от Hexaware Technologies Ltd.
+title: Информация о применении для COCO компанией Hexaware Technologies Ltd.
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Все доступные сведения о безопасности и соответствия требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для COCO, ее политики обработки данных, Microsoft Cloud App Security информация каталога приложений и информация о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 141dfa30c023e694674d48a7107abce2ab826d44
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: a97f2af9e6cf88cf14794293a574d62b91f357e1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252569"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552130"
 ---
 # <a name="coco"></a>COCO
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 23 июня 2020 г.</p>
+<p>Последнее обновление разработчиком: 23 июня 2020 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/c3f021f9-1fe2-44c7-972e-58f3cd0e7762" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001468" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/c3f021f9-1fe2-44c7-972e-58f3cd0e7762" target="_blank">Посмотреть в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001468" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставленные корпорацией Майкрософт от Компании Hexaware Technologies Ltd.
+Информация, предоставленная Hexaware Technologies Ltd. корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | COCO |
 | ID | WA200001468 |
-| Возможности | Бот, вкладка |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Hexaware Technologies Ltd. |
-| URL-адрес веб-сайта-партнера | [https://hexaware.com/](https://hexaware.com/) |
-| URL-адрес политики конфиденциальности | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
-| URL-адрес терминов использования | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
+| Office 365 клиенты поддержали | Microsoft Teams |
+| Название компании-партнера | Hexaware Technologies Ltd. |
+| URL-адрес веб-сайта партнера | [https://hexaware.com/](https://hexaware.com/) |
+| URL политики конфиденциальности | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
+| URL условий использования | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -46,56 +45,55 @@ ms.locfileid: "52252569"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Эти сведения предоставлены hexaware Technologies Ltd. о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эта информация была предоставлена Hexaware Technologies Ltd. о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Permission**  | **Тип разрешения (Делегировано/Применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для его хранения?** | **Идентификатор приложения Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | делегирована | Нет | Каталог доступа в качестве подписанного пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.AccessAsUser.All | Делегированные | Нет | Каталог доступа как подписанный пользователем | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
 >| Directory.Read.All | приложение | Нет | Чтение данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.ReadWrite.All | делегирована | Нет | Чтение и запись данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read | делегирована | Нет | Вход и чтение профиля пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.ReadWrite.All | Делегированные | Нет | Чтение и запись данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.Read | Делегированные | Нет | Вход и чтение профиля пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
 >| User.Read.All | приложение | Нет | Чтение полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.ReadWrite.All | делегирована | Нет | Чтение и запись полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| openid | делегирована | Нет | Вход пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.ReadWrite.All | Делегированные | Нет | Чтение и запись полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| openid | Делегированные | Нет | Вход пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
 
-Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
 
->Не службы Майкрософт не используются.
+>Неуготовные службы Майкрософт используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+#### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
+>| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (ы)?** | **Обоснование хранения EUII?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Ведение данных сеанса | Имя, id электронной почты |  |
-
+>| Поддержание данных сеанса | Имя, идентификатор электронной почты |  |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
 
 >Н/Д
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
 
-Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
 >https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf
 
-#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+#### <a name="human-review-of-organizational-information"></a>Человеческий обзор организационной информации
 
-Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+Участвуют ли люди в анализе или анализе данных, идентифицируемых в организации (OII), которые собираются или хранятся в этом приложении?
 
 >Да
 
@@ -105,11 +103,11 @@ ms.locfileid: "52252569"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

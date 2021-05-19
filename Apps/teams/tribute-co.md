@@ -1,46 +1,45 @@
 ---
-title: Сведения о приложениях для дани от Tribute Co.
+title: Информация о заявке для Дань Дань Ко
 ms.author: elmalova
 author: elenamalova
 ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Tribute, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для Tribute, ее политики обработки данных, Microsoft Cloud App Security информация каталога приложений и информация о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3fead70ef460ec81d89144420850ce47e3aee3e4
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 57c0c47bd47a23efb9cf93247988b3a374690ede
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258796"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551179"
 ---
-# <a name="tribute"></a>Дань
+# <a name="tribute"></a>Tribute
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 апреля 2021 г.</p>
+<p>Последнее обновление разработчиком: 16 апреля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Просмотр в магазине Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002589" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Посмотреть в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002589" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Корпорацией Майкрософт в службу Tribute Co.
+Информация, предоставленная Дань Ко корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Дань |
+| Имя приложения | Tribute |
 | ID | WA200002589 |
-| Возможности | Tab |
-| Поддерживаемые клиенты Office 365 | Microsoft Teams |
-| Имя компании-партнера | Tribute Co. |
-| URL-адрес веб-сайта-партнера | [https://www.tributementorship.com](https://www.tributementorship.com) |
-| URL-адрес страницы info приложения Teams | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
-| URL-адрес политики конфиденциальности | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
-| URL-адрес терминов использования | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
+| Office 365 клиенты поддержали | Microsoft Teams |
+| Название компании-партнера | Tribute Co. |
+| URL-адрес веб-сайта партнера | [https://www.tributementorship.com](https://www.tributementorship.com) |
+| URL-адрес Teams страницы информации о приложениях | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
+| URL политики конфиденциальности | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
+| URL условий использования | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,46 +47,45 @@ ms.locfileid: "52258796"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Эта информация предоставлена в Tribute Co. о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эта информация была предоставлена Tribute Co. о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
+#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
 
-Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
 
->Не microsoft services are not used.
+>Неуготовные службы Майкрософт используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+#### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
-
+>Доступ к EUII не доступен.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
 
 >В телеметрии приложений или журналах не отображаются OII или EUII.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
 
-Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
->Мы — обработчик данных, а не контроллер. 
+>Мы обработчик данных, а не контроллер. 
 
-#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+#### <a name="human-review-of-organizational-information"></a>Человеческий обзор организационной информации
 
-Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+Участвуют ли люди в анализе или анализе данных, идентифицируемых в организации (OII), которые собираются или хранятся в этом приложении?
 
 >Нет
 
@@ -97,11 +95,11 @@ ms.locfileid: "52258796"
 
 ::: zone pivot="mcas"
 
-Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
+Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,24 +107,24 @@ ms.locfileid: "52258796"
 
 ::: zone pivot="identity"
 
-### <a name="identity-information"></a>Сведения о удостоверениях
+### <a name="identity-information"></a>Идентификационная информация
 
-Эта информация предоставлена tribute Co. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация была предоставлена Tribute Co. о том, как это приложение обрабатывает аутентификацию, авторизацию, лучшие практики регистрации приложений и другие критерии идентификации.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в списке интеграции платформы удостоверений Майкрософт?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
-| Поддерживает ли ваше приложение политики условного доступа? | Нет |
-| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
-| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Нет |
-| Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Да |
-| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Интегрируесь ли вы с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и соблюдали все применимые передовой опыт, изложенные в контрольном платформа удостоверений Майкрософт интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Библиотека аутентификации Майкрософт) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политику условного доступа? | Нет |
+| Запрашивает ли приложение наименьшее разрешение на привилегии для вашего сценария? | Да |
+| Точно ли зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение будет запрашивать динамически и постепенно? | Нет |
+| Поддерживает ли ваше приложение мульти-аренду? | Да |
+| Есть ли у вашего приложения конфиденциальный клиент? | Да |
+| У вас есть все перенаправление идентификатора объединенных ресурсов (URI), зарегистрированного для вашего приложения? | Да |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
-| Использует ли приложение API предварительного просмотра? | Нет |
-| Использует ли ваше приложение неподготовленные API? | Нет |
+| Использует ли приложение API-версии предварительного просмотра? | Нет |
+| Использует ли приложение увеные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

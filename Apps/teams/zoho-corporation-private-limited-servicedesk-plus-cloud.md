@@ -1,46 +1,45 @@
 ---
-title: Сведения о приложениях для ServiceDesk Plus Cloud от Zoho Corporation Private Limited
+title: Информация о приложениях для Облака ServiceDesk Plus от корпорации Зохо Private Limited
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для ServiceDesk Plus Cloud, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для Облака ServiceDesk Plus, его политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и информация о безопасности/соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a1c561d7ce78573f7000f7a710467c53f662e64c
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 04797702995180e8a0a5305e88d49903eff80690
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251628"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52550549"
 ---
 # <a name="servicedesk-plus-cloud"></a>ServiceDesk Plus Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчиком: 16 декабря 2019 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/04fdcea1-3511-499c-966d-099d59aef45f" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000037" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/04fdcea1-3511-499c-966d-099d59aef45f" target="_blank">Посмотреть в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000037" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые корпорацией Zoho Private Limited корпорации Майкрософт:
+Информация, предоставленная корпорацией Зохо Private Limited корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ServiceDesk Plus Cloud |
 | ID | WA200000037 |
-| Возможности | Бот, вкладка, расширение для обмена сообщениями |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Zoho Corporation Private Limited |
-| URL-адрес веб-сайта-партнера | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
-| URL-адрес страницы Teams приложения | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
-| URL-адрес политики конфиденциальности | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
-| URL-адрес терминов использования | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
+| Office 365 клиенты поддержали | Microsoft Teams |
+| Название компании-партнера | Zoho Corporation Private Limited |
+| URL-адрес веб-сайта партнера | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
+| URL-адрес Teams страницы информации о приложениях | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
+| URL политики конфиденциальности | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
+| URL условий использования | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,52 +47,51 @@ ms.locfileid: "52251628"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Эта информация предоставлена корпорацией Zoho Private Limited о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+Эта информация была предоставлена корпорацией Зохо Private Limited о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые приложение собирает.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Permission**  | **Тип разрешения (Делегировано/Применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для его хранения?** | **Идентификатор приложения Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | приложение |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | делегирована | ID электронной почты пользователя. | Позволяет пользователю войти и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | Делегированные |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.Selected | Делегированные |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read | Делегированные | Идентификатор электронной почты пользователя. | Позволяет пользователю войти в систему и предоставляет приложению доступ к их UPN, чтобы обеспечить бесшумный вход. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 >| User.Read.All | приложение |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | делегирована | Email ID, Name, Employee ID, Job title, Телефон, Mobile, Site, Department, Locale, Profile photo of the user. | Позволяет импортировать основные сведения пользователей из Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | делегирована | ID электронной почты пользователя. | Просмотр адреса электронной почты пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | делегирована |  | Просмотр основного профиля пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | Делегированные | Идентификатор электронной почты, имя, идентификатор сотрудника, название Телефон, мобильный, сайт, отдел, место, профиль фото пользователя. | Позволяет импортировать основную информацию пользователей из Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| email | Делегированные | Идентификатор электронной почты пользователя. | Просмотр адреса электронной почты пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | Делегированные |  | Поддерживайте доступ к данным, к которые вы получили доступ. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| profile | Делегированные |  | Просмотр основного профиля пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
 
-Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
 
->Не службы Майкрософт не используются.
+>Неуготовные службы Майкрософт используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+#### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
-
+>Доступ к EUII не доступен.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
 
->Мы не собираем EUII /PII в телеметрии и журналах. У нас есть скрипты, которые ища шаблоны и оповещают о его исправлении
+>Мы не собираем EUII / PII в телеметрии / журналы. У нас есть скрипты на месте, которые ищут шаблоны и оповещения для его фиксации
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
 
-Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
->Все данные шифруются в REST. Только уполномоченные лица имеют доступ к системе, которая в любом случае защищена доступом, полностью проверяемой для всех типов доступа. MFA на месте для доступа, авторизованные учетные записи поддерживаются в корпоративном каталоге и хост
+>Все данные зашифрованы в REST. Только уполномоченные лица имеют доступ к системе, которая в любом случае защищена доступом, полностью проверена на все виды доступа. МИД для доступа, авторизованные счета поддерживаются в корпоративном каталоге и принимающей
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -102,11 +100,11 @@ ms.locfileid: "52251628"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
