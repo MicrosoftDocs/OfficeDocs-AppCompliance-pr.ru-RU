@@ -1,45 +1,44 @@
 ---
-title: Сведения о приложениях для Sheetgo в SHEETGO EUROPE SL
+title: Информация о применении для Sheetgo от SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, ее политики обработки данных, Microsoft Cloud App Security информация каталога приложений и информация о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b9dca68847e1a96a68db641b5f874248bfa978bb
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: bb23e321e4c40b0ed2c98026665b7e9f9e22a9e4
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250127"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553890"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 3 ноября 2020 г.</p>
+<p>Последнее обновление разработчиком: 3 ноября 2020 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/583de270-58d0-4f94-af06-bf971f82fd94" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002067" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/583de270-58d0-4f94-af06-bf971f82fd94" target="_blank">Посмотреть в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002067" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые SL SHEETGO EUROPE в Корпорацию Майкрософт:
+Информация, предоставленная SHEETGO EUROPE SL корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Sheetgo |
 | ID | WA200002067 |
-| Возможности | Tab |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | SHEETGO EUROPE SL |
-| URL-адрес веб-сайта-партнера | [https://www.sheetgo.com](https://www.sheetgo.com) |
-| URL-адрес политики конфиденциальности | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
-| URL-адрес терминов использования | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
+| Office 365 клиенты поддержали | Microsoft Teams |
+| Название компании-партнера | SHEETGO EUROPE SL |
+| URL-адрес веб-сайта партнера | [https://www.sheetgo.com](https://www.sheetgo.com) |
+| URL политики конфиденциальности | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
+| URL условий использования | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,50 +46,49 @@ ms.locfileid: "52250127"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Эта информация была предоставлена SL SHEETGO EUROPE о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+Эта информация была предоставлена SHEETGO EUROPE SL о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
 
-Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все неосуществимые службы Майкрософт OII передаются** |  **Какой OII передается?** | **Обоснование передачи OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| MongoDB: система записей и пользовательские данные для функционирования, Использование журналов систем записей Google BigQuery, Google Firestore: система, которая поддерживает и оркестрирует состояние наших микросервисов, Stripe: Платежная система |  | Эти приложения не используют дополнительные API Microsoft |
+>| MongoDB: Система записи и пользовательские данные для того, чтобы функционировать, Google Big'y: Использование системы записи, Google Firestore: Система, которая поддерживает и организует состояние наших микрослужб, полоса: Платежная система |  | Эти приложения не используют дополнительные API Майкрософт |
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+#### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
-
+>Доступ к EUII не доступен.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
 
->Телеметрия/журналы включают адрес электронной почты пользователя только в качестве идентифицируемой информации для конечных пользователей. По запросу пользователя группа поддержки приложений выполняет внутреннюю автоматическую процедуру, которая размывает адреса электронной почты в телеметрии и журналах и делает данные пользователей более не идентифицируемыми.
+>Телеметрия/журналы включают адрес электронной почты пользователя только в качестве информации, идентифицируемой конечных пользователей. По запросу пользователя группа поддержки приложений запускает внутреннюю автоматическую процедуру, которая размывает адреса электронной почты в телеметрии/журналах и делает данные пользователей более не идентифицируемыми.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
 
-Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
->MongoDB: система записей и пользовательские данные для работы с Google BigQuery: журналы записей системы использования Google Firestore: система, которая поддерживает и оркестровает состояние наших микросервисов. Единственными критически важными данными, которые эта служба транзитирует, являются учетные данные пользователей, которые шифруются с помощью AES256 Stripe: Payment system.
+>MongoDB: Система записи и пользовательские данные для того, чтобы функционировать Google Big'y: Запись системы журналы использования Google Firestore: Система, которая поддерживает и организует состояние наших микрослужб. Единственными критическими данными этой службы являются учетные данные пользователя, которые шифруются с помощью системы AES256 Stripe: Payment.
  
-Все данные в транзите используют HTTPS для безопасных подключений, а все конфиденциальные данные шифруются с помощью AES256
+Все транзитные данные используют HTTPS для безопасных подключений, и все конфиденциальные данные шифруются с помощью AES256
 
-#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+#### <a name="human-review-of-organizational-information"></a>Человеческий обзор организационной информации
 
-Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+Участвуют ли люди в анализе или анализе данных, идентифицируемых в организации (OII), которые собираются или хранятся в этом приложении?
 
 >Да
 
@@ -100,11 +98,11 @@ ms.locfileid: "52250127"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

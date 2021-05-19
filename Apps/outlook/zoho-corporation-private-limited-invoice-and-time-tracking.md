@@ -1,43 +1,43 @@
 ---
-title: Сведения о приложениях для отслеживания счетов и времени — Накладная Zoho от Zoho Corporation Private Limited
+title: Информация о заявке на счет и отслеживание времени - Счет-фактура зохо Корпорации Private Limited
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для счета-фактуры и отслеживания времени — счета Zoho, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для счета-фактуры и отслеживания времени - Счет-фактура Зохо, его политики обработки данных, его Microsoft Cloud App Security информация каталога приложений, а также информация о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 97c065f0cdb0efbc005353cd6f6e459a67303651
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0909b65a673af03aa6b190d181f1572ab84b5e77
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253240"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553670"
 ---
-# <a name="invoice-and-time-tracking---zoho-invoice"></a>Счет и отслеживание времени — счет Zoho
+# <a name="invoice-and-time-tracking---zoho-invoice"></a>Счет-фактура и отслеживание времени - Счет-фактура Зохо
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчиком: 16 декабря 2019 г.</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104381067" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381067" target="_blank">Посмотреть в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые корпорацией Zoho Private Limited корпорации Майкрософт:
+Информация, предоставленная корпорацией Зохо Private Limited корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Счет и отслеживание времени — счет Zoho |
+| Имя приложения | Счет-фактура и отслеживание времени - Счет-фактура Зохо |
 | ID | WA104381067 |
-| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
-| Имя компании-партнера | Zoho Corporation Private Limited |
-| URL-адрес веб-сайта-партнера | [https://www.zoho.com/](https://www.zoho.com/) |
-| URL-адрес политики конфиденциальности | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| Office 365 клиенты поддержали | Outlook 2013 или позже Windows, Outlook 2016 или позже на Mac, Outlook в Интернете |
+| Название компании-партнера | Zoho Corporation Private Limited |
+| URL-адрес веб-сайта партнера | [https://www.zoho.com/](https://www.zoho.com/) |
+| URL политики конфиденциальности | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
+| URL условий использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;омктюен-США](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -45,54 +45,45 @@ ms.locfileid: "52253240"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
 
-Эта информация предоставлена корпорацией Zoho Private Limited о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+Эта информация была предоставлена корпорацией Зохо Private Limited о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые приложение собирает.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Permission**  | **Тип разрешения (Делегировано/Применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для его хранения?** | **Идентификатор приложения Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | делегирована |  |  Разрешить пользователям синхронизировать контакты Office365 с помощью счета Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Read | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Send | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Export.All | делегирована |  | Разрешить пользователю экспортировать всю связанную с пользователем информацию. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | делегирована |  | Разрешить пользователям вход и чтение профиля пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | делегирована |  | Разрешить пользователям импорт пользователей Office365 в Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Contacts.Read | Делегированные |  |  Разрешить пользователям синхронизировать Office365 Контакты с Зохо счета. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Mail.Read | Делегированные |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Mail.Send | Делегированные |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Export.All | Делегированные |  | Разрешить пользователю экспортировать всю информацию, связанную с пользователем. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read.All | Делегированные |  | Разрешить пользователям войти в профиль пользователя и прочитать его. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | Делегированные |  | Разрешить пользователям импортировать Office365 пользователей в Зохо. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| email | Делегированные |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| profile | Делегированные |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
-#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
 
-Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
 
->Не службы Майкрософт не используются.
+>Неуготовные службы Майкрософт используются.
 
 
-
-#### <a name="add-in-data-access"></a>Доступ к данным надстройки
-
-Список разрешений, необходимых этому приложению для доступа к данным организации, обоснования и цели этого разрешения (для чего приложение использует эти сведения?), и сохраняет ли приложение какую-либо из этих сведений в своих базах данных.
-
->| **Permission**  | **Описание** |
->|:----------------|:----------------|
->| чтение элемента; | Эта надстройка может получать доступ к персональным данным об активном сообщении, таких как имена отправитель, имена получателей, адреса электронной почты, тело сообщения и сведения о вложении. Надстройка может отправлять эти данные сторонним службам. Другие элементы в почтовом ящике&#8217;не будут читаться или изменяться. |
->| Отправка данных | Может отправлять данные через Интернет |
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
 
->Мы не собираем EUII /PII в телеметрии и журналах.
+>Мы не собираем EUII / PII в телеметрии и журналах.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
 
-Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
 
->Данные будут извлечены только после согласия пользователя. Логический доступ к серверам предоставляется через изолированную выделенную сеть и обеспечивается высокой безопасностью &amp; и мониторингом. Эта сеть защищена брандмауэром, 2-факторной проверкой подлинности и Authent Kerberos
+>Данные будут получаться только после согласия пользователя. Логический доступ к серверам предоставляется через изолированную &amp; специальную сеть и обеспечивает высокую безопасность и мониторинг. Эта сеть защищена брандмауэром, 2-факторной аутентификацией и Kerberos Authent
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -101,11 +92,11 @@ ms.locfileid: "52253240"
 
 ::: zone pivot="mcas"
 
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305" target="_blank">Просмотр в новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
