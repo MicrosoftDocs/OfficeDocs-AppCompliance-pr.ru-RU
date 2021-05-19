@@ -1,46 +1,45 @@
 ---
-title: Сведения о приложениях для HunchBuzz от HunchBuzz
+title: Информация о применении для HunchBuzz от HunchBuzz
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для HunchBuzz, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для HunchBuzz, ее политики обработки данных, ее Microsoft Cloud App Security информации каталога приложений и информации о безопасности/соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 998abeea286dce3c7a82c40e68695c1fd107aaa7
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: da50e7ef872263bd4d4d159733d631e4ba08f24d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252549"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552110"
 ---
-# <a name="hunchbuzz"></a><span data-ttu-id="8bbec-103">HunchBuzz</span><span class="sxs-lookup"><span data-stu-id="8bbec-103">HunchBuzz</span></span>
+# <a name="hunchbuzz"></a><span data-ttu-id="8bfa1-103">HunchBuzz</span><span class="sxs-lookup"><span data-stu-id="8bfa1-103">HunchBuzz</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="8bbec-104">Последнее обновление разработчика: 16 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="8bbec-104">Last updated by the developer on: December 16, 2019</span></span></p>
+<p><span data-ttu-id="8bfa1-104">Последнее обновление разработчиком: 16 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-104">Last updated by the developer on: December 16, 2019</span></span></p>
 
-* <span data-ttu-id="8bbec-105"><a href="https://teams.microsoft.com/l/app/6540a8a2-aec9-4094-a93e-0abd086481ab" target="_blank">Просмотр в Teams магазине</a></span><span class="sxs-lookup"><span data-stu-id="8bbec-105"><a href="https://teams.microsoft.com/l/app/6540a8a2-aec9-4094-a93e-0abd086481ab" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="8bbec-106"><a href="https://appsource.microsoft.com/product/office/WA200000160" target="_blank">Просмотр в AppSource</a></span><span class="sxs-lookup"><span data-stu-id="8bbec-106"><a href="https://appsource.microsoft.com/product/office/WA200000160" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="8bfa1-105"><a href="https://teams.microsoft.com/l/app/6540a8a2-aec9-4094-a93e-0abd086481ab" target="_blank">Посмотреть в Teams магазине</a></span><span class="sxs-lookup"><span data-stu-id="8bfa1-105"><a href="https://teams.microsoft.com/l/app/6540a8a2-aec9-4094-a93e-0abd086481ab" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="8bfa1-106"><a href="https://appsource.microsoft.com/product/office/WA200000160" target="_blank">Посмотреть в AppSource</a></span><span class="sxs-lookup"><span data-stu-id="8bfa1-106"><a href="https://appsource.microsoft.com/product/office/WA200000160" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="8bbec-107">Общие сведения</span><span class="sxs-lookup"><span data-stu-id="8bbec-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="8bfa1-107">Общие сведения</span><span class="sxs-lookup"><span data-stu-id="8bfa1-107">General information</span></span>
 
-<span data-ttu-id="8bbec-108">Сведения, предоставляемые Корпорацией Майкрософт hunchBuzz:</span><span class="sxs-lookup"><span data-stu-id="8bbec-108">Information provided by HunchBuzz to Microsoft:</span></span>
+<span data-ttu-id="8bfa1-108">Информация, предоставленная HunchBuzz корпорации Майкрософт:</span><span class="sxs-lookup"><span data-stu-id="8bfa1-108">Information provided by HunchBuzz to Microsoft:</span></span>
 
-| <span data-ttu-id="8bbec-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="8bbec-109">**Information**</span></span> | <span data-ttu-id="8bbec-110">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="8bbec-110">**Response**</span></span> |
+| <span data-ttu-id="8bfa1-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="8bfa1-109">**Information**</span></span> | <span data-ttu-id="8bfa1-110">**Отклик**</span><span class="sxs-lookup"><span data-stu-id="8bfa1-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="8bbec-111">Имя приложения</span><span class="sxs-lookup"><span data-stu-id="8bbec-111">App name</span></span> | <span data-ttu-id="8bbec-112">HunchBuzz</span><span class="sxs-lookup"><span data-stu-id="8bbec-112">HunchBuzz</span></span> |
-| <span data-ttu-id="8bbec-113">ID</span><span class="sxs-lookup"><span data-stu-id="8bbec-113">ID</span></span> | <span data-ttu-id="8bbec-114">WA200000160</span><span class="sxs-lookup"><span data-stu-id="8bbec-114">WA200000160</span></span> |
-| <span data-ttu-id="8bbec-115">Возможности</span><span class="sxs-lookup"><span data-stu-id="8bbec-115">Capabilities</span></span> | <span data-ttu-id="8bbec-116">Вкладка, соединитель</span><span class="sxs-lookup"><span data-stu-id="8bbec-116">Tab, Connector</span></span> |
-| <span data-ttu-id="8bbec-117">Office 365 поддерживаемые клиенты</span><span class="sxs-lookup"><span data-stu-id="8bbec-117">Office 365 clients supported</span></span> | <span data-ttu-id="8bbec-118">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="8bbec-118">Microsoft Teams</span></span> |
-| <span data-ttu-id="8bbec-119">Имя компании-партнера</span><span class="sxs-lookup"><span data-stu-id="8bbec-119">Partner company name</span></span> | <span data-ttu-id="8bbec-120">HunchBuzz</span><span class="sxs-lookup"><span data-stu-id="8bbec-120">HunchBuzz</span></span> |
-| <span data-ttu-id="8bbec-121">URL-адрес веб-сайта-партнера</span><span class="sxs-lookup"><span data-stu-id="8bbec-121">URL of partner website</span></span> | [https://hunchbuzz.com](https://hunchbuzz.com) |
-| <span data-ttu-id="8bbec-122">URL-адрес страницы Teams приложения</span><span class="sxs-lookup"><span data-stu-id="8bbec-122">URL of Teams application info page</span></span> | [https://hunchbuzz.com/contact](https://hunchbuzz.com/contact) |
-| <span data-ttu-id="8bbec-123">URL-адрес политики конфиденциальности</span><span class="sxs-lookup"><span data-stu-id="8bbec-123">URL of Privacy Policy</span></span> | [https://hunchbuzz.com/privacy](https://hunchbuzz.com/privacy) |
-| <span data-ttu-id="8bbec-124">URL-адрес терминов использования</span><span class="sxs-lookup"><span data-stu-id="8bbec-124">URL of Terms of Use</span></span> | [https://hunchbuzz.com/termsofservice](https://hunchbuzz.com/termsofservice) |
+| <span data-ttu-id="8bfa1-111">Имя приложения</span><span class="sxs-lookup"><span data-stu-id="8bfa1-111">App name</span></span> | <span data-ttu-id="8bfa1-112">HunchBuzz</span><span class="sxs-lookup"><span data-stu-id="8bfa1-112">HunchBuzz</span></span> |
+| <span data-ttu-id="8bfa1-113">ID</span><span class="sxs-lookup"><span data-stu-id="8bfa1-113">ID</span></span> | <span data-ttu-id="8bfa1-114">WA200000160</span><span class="sxs-lookup"><span data-stu-id="8bfa1-114">WA200000160</span></span> |
+| <span data-ttu-id="8bfa1-115">Office 365 клиенты поддержали</span><span class="sxs-lookup"><span data-stu-id="8bfa1-115">Office 365 clients supported</span></span> | <span data-ttu-id="8bfa1-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="8bfa1-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="8bfa1-117">Название компании-партнера</span><span class="sxs-lookup"><span data-stu-id="8bfa1-117">Partner company name</span></span> | <span data-ttu-id="8bfa1-118">HunchBuzz</span><span class="sxs-lookup"><span data-stu-id="8bfa1-118">HunchBuzz</span></span> |
+| <span data-ttu-id="8bfa1-119">URL-адрес веб-сайта партнера</span><span class="sxs-lookup"><span data-stu-id="8bfa1-119">URL of partner website</span></span> | [https://hunchbuzz.com](https://hunchbuzz.com) |
+| <span data-ttu-id="8bfa1-120">URL-адрес Teams страницы информации о приложениях</span><span class="sxs-lookup"><span data-stu-id="8bfa1-120">URL of Teams application info page</span></span> | [https://hunchbuzz.com/contact](https://hunchbuzz.com/contact) |
+| <span data-ttu-id="8bfa1-121">URL политики конфиденциальности</span><span class="sxs-lookup"><span data-stu-id="8bfa1-121">URL of Privacy Policy</span></span> | [https://hunchbuzz.com/privacy](https://hunchbuzz.com/privacy) |
+| <span data-ttu-id="8bfa1-122">URL условий использования</span><span class="sxs-lookup"><span data-stu-id="8bfa1-122">URL of Terms of Use</span></span> | [https://hunchbuzz.com/termsofservice](https://hunchbuzz.com/termsofservice) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,42 +47,41 @@ ms.locfileid: "52252549"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="8bbec-125">Обработка данных приложением</span><span class="sxs-lookup"><span data-stu-id="8bbec-125">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="8bfa1-123">Как приложение обрабатывает данные</span><span class="sxs-lookup"><span data-stu-id="8bfa1-123">How the app handles data</span></span>
 
-<span data-ttu-id="8bbec-126">Эта информация была предоставлена HunchBuzz о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, которые собирает приложение.</span><span class="sxs-lookup"><span data-stu-id="8bbec-126">This information has been provided by HunchBuzz about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="8bfa1-124">Эта информация была предоставлена HunchBuzz о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными, которые приложение собирает.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-124">This information has been provided by HunchBuzz about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="8bbec-127">Доступ к данным с помощью Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8bbec-127">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="8bfa1-125">Доступ к данным с помощью Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8bfa1-125">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="8bbec-128">Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.</span><span class="sxs-lookup"><span data-stu-id="8bbec-128">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="8bfa1-126">Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-126">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
-><span data-ttu-id="8bbec-129">Это приложение не использует Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="8bbec-129">This application does not use Microsoft Graph.</span></span>
-
-
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="8bbec-130">Не-службы Майкрософт используется</span><span class="sxs-lookup"><span data-stu-id="8bbec-130">Non-Microsoft services used</span></span>
-
-<span data-ttu-id="8bbec-131">Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.</span><span class="sxs-lookup"><span data-stu-id="8bbec-131">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
-
-><span data-ttu-id="8bbec-132">Не службы Майкрософт не используются.</span><span class="sxs-lookup"><span data-stu-id="8bbec-132">Non-Microsoft services are not used.</span></span>
-
-#### <a name="data-access-via-bots"></a><span data-ttu-id="8bbec-133">Доступ к данным с помощью ботов</span><span class="sxs-lookup"><span data-stu-id="8bbec-133">Data access via bots</span></span>
-
-<span data-ttu-id="8bbec-134">Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен.</span><span class="sxs-lookup"><span data-stu-id="8bbec-134">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="8bbec-135">Использует ли это приложение эту возможность?</span><span class="sxs-lookup"><span data-stu-id="8bbec-135">Does this app make use of this capability?</span></span>
-
-><span data-ttu-id="8bbec-136">Доступ к EUII не имеется.</span><span class="sxs-lookup"><span data-stu-id="8bbec-136">No EUII is accessed.</span></span>
+><span data-ttu-id="8bfa1-127">Это приложение не использует Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-127">This application does not use Microsoft Graph.</span></span>
 
 
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="8bfa1-128">Неутяхие службы Майкрософт используются</span><span class="sxs-lookup"><span data-stu-id="8bfa1-128">Non-Microsoft services used</span></span>
 
-#### <a name="telemetry-data"></a><span data-ttu-id="8bbec-137">Данные телеметрии</span><span class="sxs-lookup"><span data-stu-id="8bbec-137">Telemetry data</span></span>
+<span data-ttu-id="8bfa1-129">Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-129">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-<span data-ttu-id="8bbec-138">В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ?</span><span class="sxs-lookup"><span data-stu-id="8bbec-138">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="8bbec-139">Если да, опишите, какие данные хранятся и какие политики хранения и удаления?</span><span class="sxs-lookup"><span data-stu-id="8bbec-139">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+><span data-ttu-id="8bfa1-130">Неуготовные службы Майкрософт используются.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-130">Non-Microsoft services are not used.</span></span>
 
-><span data-ttu-id="8bbec-140">Только информация EUII— это имя, фамилия и адрес электронной почты.</span><span class="sxs-lookup"><span data-stu-id="8bbec-140">Only EUII information captured is first name, last name and email address.</span></span> <span data-ttu-id="8bbec-141">Администраторы могут просматривать эти сведения в журнале аудита HunchBuzz.</span><span class="sxs-lookup"><span data-stu-id="8bbec-141">Administrators can view this information in the HunchBuzz audit log.</span></span> <span data-ttu-id="8bbec-142">Он не может быть удален или архивироваться.</span><span class="sxs-lookup"><span data-stu-id="8bbec-142">It cannot be deleted or archived.</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="8bfa1-131">Доступ к данным через ботов</span><span class="sxs-lookup"><span data-stu-id="8bfa1-131">Data access via bots</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="8bbec-143">Организационные элементы управления данными, хранимые партнером</span><span class="sxs-lookup"><span data-stu-id="8bbec-143">Organizational controls for data stored by partner</span></span>
+<span data-ttu-id="8bfa1-132">Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-132">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="8bfa1-133">Использует ли это приложение эту возможность?</span><span class="sxs-lookup"><span data-stu-id="8bfa1-133">Does this app make use of this capability?</span></span>
 
-<span data-ttu-id="8bbec-144">Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.</span><span class="sxs-lookup"><span data-stu-id="8bbec-144">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+><span data-ttu-id="8bfa1-134">Доступ к EUII не доступен.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-134">No EUII is accessed.</span></span>
 
-><span data-ttu-id="8bbec-145">Администраторы могут просматривать эти сведения в журнале аудита HunchBuzz.</span><span class="sxs-lookup"><span data-stu-id="8bbec-145">Administrators can view this information in the HunchBuzz audit log.</span></span> <span data-ttu-id="8bbec-146">Он не может быть удален или архивироваться.</span><span class="sxs-lookup"><span data-stu-id="8bbec-146">It cannot be deleted or archived.</span></span>
+
+#### <a name="telemetry-data"></a><span data-ttu-id="8bfa1-135">Данные телеметрии</span><span class="sxs-lookup"><span data-stu-id="8bfa1-135">Telemetry data</span></span>
+
+<span data-ttu-id="8bfa1-136">Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)?</span><span class="sxs-lookup"><span data-stu-id="8bfa1-136">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="8bfa1-137">Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?</span><span class="sxs-lookup"><span data-stu-id="8bfa1-137">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+
+><span data-ttu-id="8bfa1-138">Только информация EUII, полученная, это имя, фамилия и адрес электронной почты.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-138">Only EUII information captured is first name, last name and email address.</span></span> <span data-ttu-id="8bfa1-139">Администраторы могут просматривать эту информацию в журнале аудита HunchBuzz.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-139">Administrators can view this information in the HunchBuzz audit log.</span></span> <span data-ttu-id="8bfa1-140">Он не может быть удален или заархивирован.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-140">It cannot be deleted or archived.</span></span>
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="8bfa1-141">Организационный контроль за данными, хранящимися партнером</span><span class="sxs-lookup"><span data-stu-id="8bfa1-141">Organizational controls for data stored by partner</span></span>
+
+<span data-ttu-id="8bfa1-142">Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-142">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+
+><span data-ttu-id="8bfa1-143">Администраторы могут просматривать эту информацию в журнале аудита HunchBuzz.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-143">Administrators can view this information in the HunchBuzz audit log.</span></span> <span data-ttu-id="8bfa1-144">Он не может быть удален или заархивирован.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-144">It cannot be deleted or archived.</span></span>
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -92,11 +90,11 @@ ms.locfileid: "52252549"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="8bbec-147">Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.</span><span class="sxs-lookup"><span data-stu-id="8bbec-147">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="8bfa1-145">Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.</span><span class="sxs-lookup"><span data-stu-id="8bfa1-145">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="8bbec-148">Microsoft Cloud App Security Сведения</span><span class="sxs-lookup"><span data-stu-id="8bbec-148">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35739' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="8bbec-149">
+<iframe height='1020' title='<span data-ttu-id="8bfa1-146">Microsoft Cloud App Security информация</span><span class="sxs-lookup"><span data-stu-id="8bfa1-146">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35739' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="8bfa1-147">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35739" target="_blank">Просмотр на новой вкладке</a></span><span class="sxs-lookup"><span data-stu-id="8bbec-149">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35739" target="_blank">Просмотр в новой вкладке</a></span><span class="sxs-lookup"><span data-stu-id="8bfa1-147">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35739" target="_blank">View in a new tab</a></span></span>
 
