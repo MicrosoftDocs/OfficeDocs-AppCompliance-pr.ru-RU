@@ -1,12 +1,12 @@
 ---
-title: Информация о заявках на конференции i/o конференций i/o
+title: Сведения о приложениях для конференций i/o по конференциям i/o
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для конференций i/o, ее политики обработки данных, ее Microsoft Cloud App Security информация каталога приложений и информация о безопасности/соответствии в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для конференций i/o, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: cc2d3c2845660ddda7b2d759d4d30cb4191286dd
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,27 +19,27 @@ ms.locfileid: "52553220"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчиком: 4 января 2021 г.</p>
+<p>Последнее обновление разработчика: 4 января 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/8d4f0254-9b00-4a74-a351-b6d6cd7fccef" target="_blank">Посмотреть в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001867" target="_blank">Посмотреть в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/8d4f0254-9b00-4a74-a351-b6d6cd7fccef" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001867" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Информация, предоставленная конференций i/o корпорации Майкрософт:
+Сведения, предоставляемые конференциями i/o Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Conferences i/o |
 | ID | WA200001867 |
-| Office 365 клиенты поддержали | Microsoft Teams |
-| Название компании-партнера | Conferences i/o |
-| URL-адрес веб-сайта партнера | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
-| URL-адрес Teams страницы информации о приложениях | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
-| URL политики конфиденциальности | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |
-| URL условий использования | [https://teamsapp.conferences.io/terms/](https://teamsapp.conferences.io/terms/) |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя компании-партнера | Conferences i/o |
+| URL-адрес веб-сайта-партнера | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
+| URL-адрес страницы Teams приложения | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
+| URL-адрес политики конфиденциальности | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |
+| URL-адрес терминов использования | [https://teamsapp.conferences.io/terms/](https://teamsapp.conferences.io/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,47 +47,47 @@ ms.locfileid: "52553220"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Как приложение обрабатывает данные
+### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация была предоставлена конференций i/o о том, как это приложение собирает и хранит организационные данные и контроль, который ваша организация будет иметь над данными приложение собирает.
+Эти сведения были предоставлены конференциями i/o о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Перечислите любые [разрешения Майкрософт Graph, которые](https://docs.microsoft.com/graph/permissions-reference) требуется этому приложению.
+Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Неутяхие службы Майкрософт используются
+#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
-Если приложение передает или делится организационными данными с службой, не являяся корпорацией Майкрософт, перечислите не-Microsoft службы приложение использует, какие данные передаются, и включить обоснование того, почему приложение должно передать эту информацию.
+Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все неосуществимые службы Майкрософт OII передаются** |  **Какой OII передается?** | **Обоснование передачи OII?** |
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Веб-службы Amazon | Имя, адрес электронной почты | Основная база данных приложений находится на Amazon Web Services. |
+>| Веб-службы Amazon | Имя, адрес электронной почты | Основная база данных приложения находится на веб-службах Amazon. |
 
-#### <a name="data-access-via-bots"></a>Доступ к данным через ботов
+#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
-Если это приложение содержит бота или расширение обмена сообщениями, оно может получить доступ к информации, идентифицируемой конечного пользователя (EUII): реестр (имя, фамилия, имя дисплея, адрес электронной почты) любого члена команды в команде или чате, к которому оно добавлено. Использует ли это приложение эту возможность?
+Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->Доступ к EUII не доступен.
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
-Появляется ли в телеметрии или журналах этого приложения какая-либо организационная идентифицируемая информация (OII) или информация, идентифицируемая конечных пользователей (EUII)? Если да, опишите, какие данные хранятся и каковы политики хранения и удаления?
+В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
 >В телеметрии приложений или журналах не отображаются OII или EUII.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационный контроль за данными, хранящимися партнером
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
-Опишите, как администраторы организации могут контролировать свою информацию в партнерских системах? например, удаление, удержание, аудит, архивирование, политика конечных пользователей и т.д.
+Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Шифрование и сильный логический контроль во всем коде приложения
+>Шифрование и сильное логическое управление во всем коде приложения
 
-#### <a name="human-review-of-organizational-information"></a>Человеческий обзор организационной информации
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
-Участвуют ли люди в анализе или анализе данных, идентифицируемых в организации (OII), которые собираются или хранятся в этом приложении?
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
 >Нет
 
@@ -97,11 +97,11 @@ ms.locfileid: "52553220"
 
 ::: zone pivot="mcas"
 
-Информация из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) появляется ниже.
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36361' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36361' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36361" target="_blank">Просмотр в новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36361" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,13 +109,13 @@ ms.locfileid: "52553220"
 
 ::: zone pivot="identity"
 
-### <a name="identity-information"></a>Идентификационная информация
+### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация была предоставлена конференций i/o о том, как это приложение обрабатывает аутентификацию, авторизацию, регистрацию приложений передовой практики, и другие критерии идентичности.
+Эти сведения предоставлены конференциями i/o о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируесь ли вы с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
