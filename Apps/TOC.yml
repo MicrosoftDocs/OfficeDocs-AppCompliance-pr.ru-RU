@@ -22,7 +22,7 @@
           href: docs/certification.md
         - name: Microsoft 365 Руководство по сертификации
           href: docs/certification-submission-guide.md
-    - name: Приложения для Microsoft Teams
+    - name: Microsoft Teams Приложения
       href: teams/teams-apps.md
       items:
         - name: 365Projects
@@ -383,6 +383,8 @@
           href: teams/wide-ideas.md
         - name: Woobot
           href: teams/woobot.md
+        - name: Доска
+          href: teams/workboard.md
         - name: Workday
           href: teams/workday.md
         - name: Wrike
@@ -403,7 +405,7 @@
           href: teams/zoho-corporation-private-limited-sign.md
         - name: Zoho Sprints
           href: teams/zoho-corporation-private-limited-sprints.md
-    - name: Приложения для Microsoft Outlook
+    - name: Приложения Outlook Microsoft
       href: outlook/outlook-apps.md
       items:
         - name: Adobe Sign Add-In для Outlook
@@ -450,7 +452,7 @@
           href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
         - name: Zoho CRM для электронной почты
           href: outlook/zoho-corporation-private-limited-crm-for-email.md
-    - name: Приложения для Microsoft Word
+    - name: Microsoft Word Приложения
       href: word/word-apps.md
       items:
         - name: Adobe Sign for Word and PowerPoint
@@ -481,7 +483,7 @@
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw — система управления знаниями
           href: word/evertn-xlaw-knowledge-management-system.md
-    - name: Приложения для Microsoft PowerPoint
+    - name: Приложения PowerPoint Microsoft
       href: powerpoint/powerpoint-apps.md
       items:
         - name: Adobe Sign for Word and PowerPoint
@@ -502,7 +504,7 @@
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Wrike для Office документов
           href: powerpoint/wrike-inc-for-office-documents.md
-    - name: Приложения для Microsoft SharePoint
+    - name: Приложения SharePoint Microsoft
       href: sharepoint/sharepoint-apps.md
       items:
         - name: Agile Task Board for SharePoint Online
@@ -519,7 +521,7 @@
           href: sharepoint/konnect-email-parser.md
         - name: officeatwork | Выбор шаблона для SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
-    - name: Приложения для Microsoft Excel
+    - name: Microsoft Excel Приложения
       href: excel/excel-apps.md
       items:
         - name: Аналитика CloudExtend для NetSuite
@@ -552,14 +554,14 @@
           href: excel/wrike-inc-for-office-documents.md
         - name: Wunder365 для Office
           href: excel/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Приложения для Microsoft OneNote
+    - name: Microsoft OneNote Приложения
       href: onenote/onenote-apps.md
       items:
         - name: officeatwork | Выбор контента для Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: Wunder365 для Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Приложения для Microsoft Project
+    - name: Microsoft Project Приложения
       href: project/project-apps.md
       items:
         - name: officeatwork | Выбор шаблона для Office
