@@ -2,24 +2,23 @@
 title: Сведения о приложениях для LMS365 от ELEARNINGFORCE International
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/25/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для LMS365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 44ed1631c7d0221b463f518f2494b7a8744eef30
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f8e10bb30857c055ab4916c4f944225d50ef44ba
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552220"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629674"
 ---
 # <a name="lms365"></a>LMS365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 25 февраля 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 18 марта 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">Просмотр в AppSource</a>
@@ -36,7 +35,7 @@ ms.locfileid: "52552220"
 | ID | WA104381467 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ELEARNINGFORCE International |
-| URL-адрес веб-сайта-партнера | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
+| URL-адрес веб-сайта-партнера | [https://www.elearningforce.com](https://www.elearningforce.com) |
 | URL-адрес страницы Teams приложения | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
 | URL-адрес политики конфиденциальности | [https://www.elearningforce.com/privacy](https://www.elearningforce.com/privacy) |
 | URL-адрес терминов использования | [https://www.elearningforce.com/LMS365-SaaS-Terms](https://www.elearningforce.com/LMS365-SaaS-Terms) |

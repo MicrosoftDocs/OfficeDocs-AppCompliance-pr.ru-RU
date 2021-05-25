@@ -2,24 +2,24 @@
 title: Сведения о приложении для текста по утвержденному контакту
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Text, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2cc4abf4924ca9af1ddd5b49b6a38c4427f3404a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552390"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629676"
 ---
 # <a name="text"></a>Текст
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 10 мая 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/a622ceb4-b6e2-4557-8218-e22e80975ba4" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000383" target="_blank">Просмотр в AppSource</a>
@@ -36,9 +36,9 @@ ms.locfileid: "52552390"
 | ID | WA200000383 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Approved Contact |
-| URL-адрес веб-сайта-партнера | [https://sales.approvedcontact.com/syniverse-microsoft-teams...](https://sales.approvedcontact.com/syniverse-microsoft-teams-text/) |
+| URL-адрес веб-сайта-партнера | [www.approvedcontact.com](www.approvedcontact.com) |
 | URL-адрес политики конфиденциальности | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
-| URL-адрес терминов использования | [https://sales.approvedcontact.com/wp-content/uploads/text-t...](https://sales.approvedcontact.com/wp-content/uploads/text-terms-of-use.pdf) |
+| URL-адрес терминов использования | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,10 +57,10 @@ ms.locfileid: "52552390"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Group.ReadWrite.All | делегирована | Для text BOT мы захватим идентификатор Team для создания будущих каналов для входящие текстовые сообщения. | Позволяет создавать каналы Teams для пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| email | делегирована |  | Получение контактных данных пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | делегирована | Маркеры обновления хранятся в нашей базе данных. | Используется для сохраняющихся маркеров обновления в нашей базе данных для синхронизации календарей пользователей, когда они не присутствуют. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | делегирована |  | Позволяет пользователю войти в систему. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| profile | делегирована |  |  | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| рассылка | делегирована | адреса электронной почты | Получение контактных данных пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| offline_access | делегирована | Маркеры обновления хранятся в нашей базе данных. | Используется для сохраняются маркеры обновления в нашей базе данных | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| openid | делегирована | Учетные данные входа | Позволяет пользователю войти в систему. для доставки текстов в Teams каналы | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| profile | делегирована | адреса электронной почты | Получение контактных данных пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -75,7 +75,7 @@ ms.locfileid: "52552390"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Мы используем реестр для сравнения свободного и загруженного времени для всех в команде, чтобы планировать собрания в открытое время. | Мы просто храним адрес электронной почты, чтобы можно было сравнить время свободного и загруженного времени. |  |
+>| Используется для сохраняются маркеры обновления в нашей базе данных | Мы храним адреса электронной почты. | Используется для сохраняются маркеры обновления в нашей базе данных |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -112,3 +112,27 @@ ms.locfileid: "52552390"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения были предоставлены в Approved Contact о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

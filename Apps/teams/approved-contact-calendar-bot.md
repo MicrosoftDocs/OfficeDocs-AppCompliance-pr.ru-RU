@@ -2,24 +2,24 @@
 title: Сведения о приложениях для calendar BOT по утвержденному контакту
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Bot Calendar, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7e34564a01f326390ce807373e33818bef877c3e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 48861f5f4c49a424a0740b0a56e6d85107326396
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553420"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629681"
 ---
 # <a name="calendar-bot"></a>Бот календаря
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 10 мая 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/f02fddc9-159a-4d58-9800-d94c4f64bfe8" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381271" target="_blank">Просмотр в AppSource</a>
@@ -36,7 +36,7 @@ ms.locfileid: "52553420"
 | ID | WA104381271 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Approved Contact |
-| URL-адрес веб-сайта-партнера | [https://approvedcontact.com](https://approvedcontact.com) |
+| URL-адрес веб-сайта-партнера | [www.approvedcontact.com](www.approvedcontact.com) |
 | URL-адрес политики конфиденциальности | [https://approvedcontact.com/Privacy%20Policy%20Bot.pdf](https://approvedcontact.com/Privacy%20Policy%20Bot.pdf) |
 | URL-адрес терминов использования | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
@@ -76,7 +76,7 @@ ms.locfileid: "52553420"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Мы используем реестр для сравнения свободного и загруженного времени для всех в команде, чтобы планировать собрания в открытое время. | Мы просто храним адрес электронной почты, чтобы можно было сравнить время свободного и загруженного времени. |  |
+>| Мы используем реестр для сравнения свободного и загруженного времени для всех в команде, чтобы планировать собрания в открытое время. | Мы просто храним адрес электронной почты. | Мы просто храним адрес электронной почты, чтобы можно было сравнить время свободного и загруженного времени. |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -113,3 +113,27 @@ ms.locfileid: "52553420"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения были предоставлены в Approved Contact о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
