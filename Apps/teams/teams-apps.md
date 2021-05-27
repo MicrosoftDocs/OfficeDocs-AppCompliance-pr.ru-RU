@@ -2,21 +2,21 @@
 title: Безопасность приложений Microsoft Teams и их соответствие требованиям для всех приложений
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 05/21/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: e495dfe779f04f40b1c58b3faad3651ae1ede1f4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 001280a003f107cac7503bc7f680c2f17ced7ef6
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553800"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629641"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
-Корпорация Майкрософт сотрудничает с нашими партнерами-разработчиками Microsoft 365, чтобы предоставить организациям информацию, ускоряющую принятие решений об используемых приложениях и надстройках Teams. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/ru-RU/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт сотрудничает с нашими партнерами-разработчиками Microsoft 365, чтобы предоставить организациям информацию, ускоряющую принятие решений об используемых приложениях и надстройках Microsoft Teams. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/ru-RU/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -95,7 +95,7 @@ ms.locfileid: "52553800"
 | [Leave Request by LTAPPs](./ltapps-software-coltd-leave-request-by.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
 | [Listy](./information-age-technologies-listy.md) | Information Age Technologies | **✓** |  |
 | [Live Chat](./social-intents-live-chat.md) | Social Intents | **✓** |  |
-| [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** |  |
+| [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Lucidchart](./lucid-software-lucidchart.md) | Lucid Software | **✓** |  |
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
@@ -199,6 +199,7 @@ ms.locfileid: "52553800"
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
+| [Workboard](./workboard.md) | Workboard | **✓** |  |
 | [Workday](./workday.md) | Workday | **✓** |  |
 | [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |
