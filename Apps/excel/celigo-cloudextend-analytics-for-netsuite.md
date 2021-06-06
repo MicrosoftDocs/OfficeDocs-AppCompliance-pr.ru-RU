@@ -2,24 +2,24 @@
 title: Сведения о приложениях для CloudExtend Analytics для NetSuite от Celigo CloudExtend
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/09/2021
+ms.date: 05/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CloudExtend Analytics для NetSuite, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 12a973e35124a98ab2e284b40c536dabc8ae21a0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 372534beddc10a260ccd8cf5fcc5a28cd8255e65
+ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549709"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52790011"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>Аналитика CloudExtend для NetSuite
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 апреля 2021 г.</p>
+<p>Последнее обновление разработчика: 19 мая 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200002784" target="_blank">Просмотр в AppSource</a>
 
@@ -35,9 +35,9 @@ ms.locfileid: "52549709"
 | ID | WA200002784 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | Celigo CloudExtend |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| URL-адрес политики конфиденциальности | [https://www.celigo.com/privacy](https://www.celigo.com/privacy) |
-| URL-адрес терминов использования | [https://www.cloudextend.io/agreements/ssa/2019-12](https://www.cloudextend.io/agreements/ssa/2019-12) |
+| URL-адрес веб-сайта-партнера | [https://www.cloudextend.io](https://www.cloudextend.io) |
+| URL-адрес политики конфиденциальности | [https://www.celigo.com/privacy/](https://www.celigo.com/privacy/) |
+| URL-адрес терминов использования | [https://www.cloudextend.io/agreements/ssa/2019-12/](https://www.cloudextend.io/agreements/ssa/2019-12/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +53,7 @@ ms.locfileid: "52549709"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Directory.Read.All | оба | Ознакомьтесь с коллекцией сайтов, для которых пользователь имеет доступ, чтобы получить доступ к данным книги, совместной с помощью сайтов | store siteid для доступа к книге в автономном режиме. | 7040f194-bf08-400e-acb1-69df7939416a |
 >| Files.ReadWrite.All | оба | Чтение содержимого книги, как таблицы и листы, и возможность записи контента в эти таблицы | сведения о книге, такие как url-адрес веб-страницы, id книги и расположение книги для доступа к ней в автономном режиме | 7040f194-bf08-400e-acb1-69df7939416a |
@@ -79,7 +79,7 @@ ms.locfileid: "52549709"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Недоступно
+>Н/Д
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
