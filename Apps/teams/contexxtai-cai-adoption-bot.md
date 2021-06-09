@@ -2,24 +2,24 @@
 title: Сведения о приложениях для C.AI-бота по contexxt.ai
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/28/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для C.AI,его политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 91a10acdc85e36fcf57a16b66797ae427ab39b1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5e1ad704a7b72a8d3717b7aa1b3d60b23099998
+ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552270"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851599"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 28 апреля 2021 г.</p>
+<p>Последнее обновление разработчика: 6 мая 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/f5323aab-3063-46cb-b632-ee01d95de494" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002633" target="_blank">Просмотр в AppSource</a>
@@ -36,10 +36,10 @@ ms.locfileid: "52552270"
 | ID | WA200002633 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | contexxt.ai |
-| URL-адрес веб-сайта-партнера | [https://www.contexxt.ai](https://www.contexxt.ai) |
-| URL-адрес страницы Teams приложения | [https://contexxt.ai/sphere/cai-adoption-bot](https://contexxt.ai/sphere/cai-adoption-bot) |
-| URL-адрес политики конфиденциальности | [https://contexxt.ai/privacy-policy/](https://contexxt.ai/privacy-policy/) |
-| URL-адрес терминов использования | [https://contexxt.ai/terms-of-use/](https://contexxt.ai/terms-of-use/) |
+| URL-адрес веб-сайта-партнера | [https://contexxt.ai](https://contexxt.ai) |
+| URL-адрес страницы Teams приложения | [https://contexxt.ai/cai-adoption-bot/](https://contexxt.ai/cai-adoption-bot/) |
+| URL-адрес политики конфиденциальности | [https://contexxt.ai/privacy-policy](https://contexxt.ai/privacy-policy) |
+| URL-адрес терминов использования | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,7 +55,15 @@ ms.locfileid: "52552270"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->Это приложение не использует Microsoft Graph.
+>| **Разрешение**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| Calendars.Read | приложение | Доступность пользователя, которая может отправлять советы в нужное время, а не во время фокуса, например. | Доступность анонимизированного пользователя, которая может отправлять советы в нужное время, а не во время фокуса, например. | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| ChannelMessage.Read.All | приложение | Microsoft Teams метаданных канала, например Private или нет, или количества бесед на канале для анализа использования Teams | Анонимные метаданные Microsoft Teams канала, например private или нет, или количество бесед на канале для анализа использования Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Chat.Read.All | приложение | Microsoft Teams метаданных чата, например, если сообщение понравилось или сколько чатов группы и 1:1 существует для анализа использования Teams | Анонимные Microsoft Teams метаданные чата, например, если сообщение понравилось или сколько групп и 1:1 чаты существуют для анализа использования Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Directory.Read.All | приложение | User Object-ID за возможность отправки советов для уточнения пользователя позже. | Hashed (anonymized) Object-ID пользователя за возможность отправки советов для уточнения пользователя позже. | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Group.Read.All | приложение | Microsoft Teams метаданных, таких как количество Teams и каналов для анализа использования Teams | Microsoft Teams метаданных, таких как количество Teams и каналов для анализа использования Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Mail.Read | приложение | Метаданные Exchange Майкрософт, например количество электронных писем и групповых сообщений против 1:1 для анализа использования Exchange (по сравнению с Teams) | Анонимные метаданные microsoft Exchange, например количество сообщений электронной почты и групповых сообщений против 1:1 для анализа использования Exchange (по сравнению с Teams) | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| User.Read.All | приложение | Microsoft Teams чата и метаданных беседы, например, если пользователь был упомянут для анализа использования Teams | Анонимные Microsoft Teams метаданные чата и беседы, например, если пользователь был упомянут для анализа использования Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -70,7 +78,7 @@ ms.locfileid: "52552270"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Не может избежать технически, Microsoft Teams отправляет его (пользовательский id) автоматически | Нет |  |
+>| В Bot Framework пользовательский id будет передаваться автоматически, чтобы иметь возможность общаться с пользователем. Дополнительные данные об использовании C.AI Analytics для индивидуализации учебного процесса для пользователя, следовательно, отправка только подходящих и полезных советов пользователям, которые могут не знать эти советы. | Нет |  |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -83,7 +91,7 @@ ms.locfileid: "52552270"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Мы не имеем доступа к данным в системах партнеров и не контролируем их.
+>Организации могут управлять (назначать или удалять) лицензии для своих пользователей. Организации могут назначать различные роли для управления лицензиями. Администраторы всегда могут запрашивать удаление данных.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -115,7 +123,18 @@ ms.locfileid: "52552270"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Да |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
