@@ -41,7 +41,7 @@
           href: teams/asana.md
         - name: askR.ai
           href: teams/askrai.md
-        - name: Сборка
+        - name: Assembly
           href: teams/carrothr-inc-assembly.md
         - name: AtBot
           href: teams/h3-solutions-inc-atbot.md
@@ -129,8 +129,8 @@
           href: teams/enterprizid-inc-ezteam.md
         - name: FormMachines
           href: teams/enterprise-digital-machines-formmachines.md
-        - name: Freehand by InVision
-          href: teams/invision-app-freehand-by.md
+        - name: Freehand
+          href: teams/invisionapp-inc-freehand.md
         - name: Freshdesk
           href: teams/freshworks-inc-freshdesk.md
         - name: Fusion Remote
@@ -141,6 +141,8 @@
           href: teams/goodera.md
         - name: Google Analytics Insights
           href: teams/freevolut-ltd-google-analytics-insights.md
+        - name: GoToConnect
+          href: teams/logmein-inc-gotoconnect.md
         - name: Guru
           href: teams/guru-technologies.md
         - name: HeyTaco!
@@ -151,6 +153,8 @@
           href: teams/hibob-inc.md
         - name: HighSide
           href: teams/highside-inc.md
+        - name: Highspot
+          href: teams/highspot.md
         - name: Hoylu
           href: teams/hoylu.md
         - name: HunchBuzz
@@ -165,8 +169,6 @@
           href: teams/jetdocs.md
         - name: Jira Cloud
           href: teams/atlassian-jira-cloud.md
-        - name: Jive Communications
-          href: teams/jive-by-logmein-inc-communications.md
         - name: Karma
           href: teams/sliday-ltd-karma.md
         - name: Klaxoon
@@ -189,6 +191,8 @@
           href: teams/elearningforce-international-lms365.md
         - name: Lucidchart
           href: teams/lucid-software-lucidchart.md
+        - name: Lucidspark
+          href: teams/lucid-software-lucidspark.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
         - name: MailClark
@@ -207,7 +211,7 @@
           href: teams/iglobe-mipa-your-personal-assistant.md
         - name: monday.com
           href: teams/mondaycom.md
-        - name: Перемещение работы с Jira
+        - name: Move Work Forward с Jira
           href: teams/move-work-forward-with-jira.md
         - name: MURAL
           href: teams/mural.md
@@ -261,7 +265,7 @@
           href: teams/unscrambl-qbo.md
         - name: qChange Leader Experience
           href: teams/qchange-software-solution-inc-leader-experience.md
-        - name: Qualified
+        - name: Высококвалифицированный
           href: teams/qualified.md
         - name: Qubie
           href: teams/qubie.md
@@ -427,10 +431,10 @@
           href: teams/zoho-corporation-private-limited-sign.md
         - name: Zoho Sprints
           href: teams/zoho-corporation-private-limited-sprints.md
-    - name: Приложения Microsoft Outlook
+    - name: Приложения Outlook Microsoft
       href: outlook/outlook-apps.md
       items:
-        - name: Adobe Sign Add-In for Outlook
+        - name: Adobe Sign Add-In для Outlook
           href: outlook/adobe-inc-sign-add-in-for-outlook.md
         - name: Видео Altru
           href: outlook/altru-videos.md
@@ -438,15 +442,15 @@
           href: outlook/approved-contact-calendars.md
         - name: Asana для Outlook
           href: outlook/asana-for-outlook.md
-        - name: harmon.ie Outlook
+        - name: harmon.ie для Outlook
           href: outlook/harmonie-corporation-for-outlook.md
         - name: Счет и отслеживание времени — счет Zoho
           href: outlook/zoho-corporation-private-limited-invoice-and-time-tracking.md
-        - name: Надстройка планировщика iPlanner Office 365 для Outlook
+        - name: надстройка Office 365 планировщика для Outlook
           href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
         - name: iPlanner Pro Office 365
           href: outlook/iglobe-iplanner-pro-office-365.md
-        - name: Jira Cloud for Outlook (Official)
+        - name: Jira Cloud для Outlook (Official)
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
         - name: MIPA — личный помощник
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
@@ -474,14 +478,14 @@
           href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
         - name: Zoho CRM для электронной почты
           href: outlook/zoho-corporation-private-limited-crm-for-email.md
-    - name: Microsoft Word Apps
+    - name: Microsoft Word Приложения
       href: word/word-apps.md
       items:
-        - name: Adobe Sign для Word и PowerPoint
+        - name: Adobe Sign for Word and PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Автоматизация документов excel-to-Word
+        - name: Excel автоматизация документов
           href: word/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office
+        - name: harmon.ie для Office
           href: word/harmonie-corporation-for-office.md
         - name: Диаграммы Lucidchart для Word
           href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
@@ -493,26 +497,26 @@
           href: word/officeatwork-officeatworkdesigner-for-office.md
         - name: officeatwork | Выбор шаблона для Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: officeatwork | Uploader for Office
+        - name: officeatwork | Загрузщик для Office
           href: word/officeatwork-officeatworkuploader-for-office.md
-        - name: officeatwork | Verifier для Office
+        - name: officeatwork | Проверку для Office
           href: word/officeatwork-officeatworkverifier-for-office.md
         - name: officeatwork | Мастер для Office
           href: word/officeatwork-officeatworkwizard-for-office.md
-        - name: Wrike для документов Office
+        - name: Wrike для Office документов
           href: word/wrike-inc-for-office-documents.md
         - name: Wunder365 для Office
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw — система управления знаниями
           href: word/evertn-xlaw-knowledge-management-system.md
-    - name: Приложения Microsoft PowerPoint
+    - name: Приложения PowerPoint Microsoft
       href: powerpoint/powerpoint-apps.md
       items:
-        - name: Adobe Sign для Word и PowerPoint
+        - name: Adobe Sign for Word and PowerPoint
           href: powerpoint/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Автоматизация документов excel-to-Word
+        - name: Excel автоматизация документов
           href: powerpoint/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office
+        - name: harmon.ie для Office
           href: powerpoint/harmonie-corporation-for-office.md
         - name: Диаграммы Lucidchart для PowerPoint
           href: powerpoint/lucid-software-inc-lucidchart-diagrams-for-powerpoint.md
@@ -524,37 +528,37 @@
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork | Выбор шаблона для Office
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: Wrike для документов Office
+        - name: Wrike для Office документов
           href: powerpoint/wrike-inc-for-office-documents.md
-    - name: Приложения Microsoft SharePoint
+    - name: Приложения SharePoint Microsoft
       href: sharepoint/sharepoint-apps.md
       items:
         - name: Agile Task Board for SharePoint Online
           href: sharepoint/agile-is-task-board-for-sharepoint-online.md
-        - name: FormMachines для SharePoint
-          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-for-sharepoint.md
+        - name: Соединители FormMachines для SharePoint
+          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
         - name: Gaggle для SharePoint
           href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
         - name: Надстройки cRM iGlobe
           href: sharepoint/iglobe-crm-add-ons.md
-        - name: iGlobe CRM Office 365 для Microsoft Office 365
+        - name: cRM-Office 365 iGlobe для Microsoft Office 365
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Parser электронной почты Konnect
           href: sharepoint/konnect-email-parser.md
         - name: officeatwork | Выбор шаблона для SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
-    - name: Приложения Microsoft Excel
+    - name: Microsoft Excel Приложения
       href: excel/excel-apps.md
       items:
         - name: Аналитика CloudExtend для NetSuite
           href: excel/celigo-cloudextend-analytics-for-netsuite.md
-        - name: Автоматизация документов excel-to-Word
+        - name: Excel автоматизация документов
           href: excel/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office
+        - name: harmon.ie для Office
           href: excel/harmonie-corporation-for-office.md
-        - name: средство отчетности iPlanner для планировщика Office 365
+        - name: средство отчетности iPlanner для Office 365 планировщика
           href: excel/iglobe-iplanner-reporting-tool-for-office-365-planner.md
-        - name: Облако Jira для Excel
+        - name: Jira Cloud для Excel
           href: excel/atlassiancom-jira-cloud-for-excel.md
         - name: Диаграммы Lucidchart для Excel
           href: excel/lucid-software-inc-lucidchart-diagrams-for-excel.md
@@ -572,18 +576,18 @@
           href: excel/cc-1c-quickcells-solvers.md
         - name: Sheetgo
           href: excel/sheetgo-europe-sl.md
-        - name: Wrike для документов Office
+        - name: Wrike для Office документов
           href: excel/wrike-inc-for-office-documents.md
         - name: Wunder365 для Office
           href: excel/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Приложения Microsoft OneNote
+    - name: Microsoft OneNote Приложения
       href: onenote/onenote-apps.md
       items:
         - name: officeatwork | Выбор контента для Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: Wunder365 для Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Microsoft Project Apps
+    - name: Microsoft Project Приложения
       href: project/project-apps.md
       items:
         - name: officeatwork | Выбор шаблона для Office
