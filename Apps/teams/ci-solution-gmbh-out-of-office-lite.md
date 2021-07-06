@@ -1,45 +1,45 @@
 ---
-title: Сведения о приложениях для рабочего дня к рабочим дням
+title: Сведения о приложениях для CI-out-of-Office Lite по решению ci GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2021
+ms.date: 06/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для Workday, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для CI-Out-of-Office Lite, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 87a4d77deaac6281018befe1fc2de44f0fe20c35
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279011"
+ms.locfileid: "53275494"
 ---
-# <a name="workday"></a>Workday
+# <a name="ci-out-of-office-lite"></a>Ci-Out-of-Office Lite
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 26 января 2021 г.</p>
+<p>Последнее обновление разработчика: 2 июня 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/aa4981ef-635f-4066-b260-97445a4b2819" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001555" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/e76af3f9-8fb6-4018-84c0-d5444ad72b4c" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002748" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Workday в Корпорацию Майкрософт:
+Сведения, предоставляемые GmbH решения ci для Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Workday |
-| Идентификатор | WA200001555 |
+| Имя приложения | Ci-Out-of-Office Lite |
+| Идентификатор | WA200002748 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Workday |
-| URL-адрес веб-сайта-партнера | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
-| URL-адрес страницы Teams приложения | [https://nw.myworkday.com/microsoftteams/](https://nw.myworkday.com/microsoftteams/) |
-| URL-адрес политики конфиденциальности | [https://www.workday.com/en-us/privacy.html](https://www.workday.com/en-us/privacy.html) |
-| URL-адрес терминов использования | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
+| Имя компании-партнера | ci solution GmbH |
+| URL-адрес веб-сайта-партнера | [https://www.ci-solution.com](https://www.ci-solution.com) |
+| URL-адрес страницы Teams приложения | [https://www.ci-solution.com/support/en/ci-oof-lite/](https://www.ci-solution.com/support/en/ci-oof-lite/) |
+| URL-адрес политики конфиденциальности | [https://www.ci-solution.com/kontakt/datenschutz.html](https://www.ci-solution.com/kontakt/datenschutz.html) |
+| URL-адрес терминов использования | [https://www.ci-solution.com/agb](https://www.ci-solution.com/agb) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "53279011"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения были предоставлены в Workday о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эти сведения были предоставлены GmbH решения ci о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -57,25 +57,20 @@ ms.locfileid: "53279011"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | приложение | Retreive the App ID, install App for User, Get Teams license details from AAD | Мы не храним данные, связанные с этой функцией.  Это позволяет нам установить приложение для пользователя. | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | приложение | Извлечение пользователей AAID для отправки сообщений пользователей. | Только AAID и Teams AAID  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>| email | делегирована | Просмотр электронных адресов пользователей | Es werden keine Daten gespeichert. | fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-------------------|:--------------------------|:--------------------------|
->| Организационные данные делятся между службами рабочего дня и Корпорацией Майкрософт. Дополнительные сведения можно найти в условиях соглашения с Workday. | Организационные данные делятся между службами рабочего дня и Корпорацией Майкрософт. Дополнительные сведения можно найти в условиях соглашения с Workday. | Недоступно |
+>Не службы Майкрософт не используются.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
->| Данные реестра используются для персонализации взаимодействия пользователя с приложением Workday. | Нет |  |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -88,7 +83,7 @@ ms.locfileid: "53279011"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Обратитесь к условиям соглашения с Workday.
+>Es liegen keine Daten bei Partnern.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -104,9 +99,9 @@ ms.locfileid: "53279011"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36384' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39113' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36384" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39113" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,7 +111,7 @@ ms.locfileid: "53279011"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения были предоставлены workday о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эти сведения были предоставлены ci solution GmbH о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

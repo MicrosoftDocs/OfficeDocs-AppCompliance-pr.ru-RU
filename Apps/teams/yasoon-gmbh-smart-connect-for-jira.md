@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Smart Подключение для Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6fb1be576d588727c75f14d72db48bc3a7a8aeb5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b8266a72ed6690bd4c9994b64bceccbe73d87013
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550739"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278971"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -33,13 +33,13 @@ ms.locfileid: "52550739"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Smart Connect for Jira |
-| ID | WA200002055 |
+| Идентификатор | WA200002055 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | yasoon GmbH |
-| URL-адрес веб-сайта-партнера | [https://yasoon.com](https://yasoon.com) |
+| URL-адрес веб-сайта-партнера | [https://www.yasoon.com](https://www.yasoon.com) |
 | URL-адрес страницы Teams приложения | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
-| URL-адрес политики конфиденциальности | [https://yasoon.com/privacy-policy-services](https://yasoon.com/privacy-policy-services) |
-| URL-адрес терминов использования | [https://yasoon.com/terms-of-use](https://yasoon.com/terms-of-use) |
+| URL-адрес политики конфиденциальности | [https://yasoon.com/privacy-policy-services/](https://yasoon.com/privacy-policy-services/) |
+| URL-адрес терминов использования | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -59,13 +59,13 @@ ms.locfileid: "52550739"
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Channel.ReadBasic.All | делегирована | Разрешение используется для того, чтобы разрешить пользователю выбрать один из этих каналов в Jira. | ID канала для кэшинга | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
 >| ChannelMessage.Read.Group | приложение | Позволяет приложению показывать сообщения связанных каналов в Jira. | ID сообщений для привязки сообщений к вопросам Jira | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelMessage.Send | делегирована | Данные не используются, этот API используется для того, чтобы позволить пользователю отвечать на сообщения каналов из Jira. | Нет | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelSettings.Read.Group | приложение | Используется для получения подробных сведений о канале. | Нет | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Chat.ReadWrite | делегирована | Используется для того, чтобы разрешить пользователю добавлять новые ответы в чаты и просматривать сообщения чата из Jira. | Нет | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Member.Read.Group | приложение | Используется для проверки разрешений, позволяет приложению проверять членство пользователей в команде. | Нет | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| ChannelMessage.Send | делегирована | Данные не используются, этот API используется для того, чтобы позволить пользователю отвечать на сообщения каналов из Jira. | Нет. | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| ChannelSettings.Read.Group | приложение | Используется для получения подробных сведений о канале. | Нет. | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| Chat.ReadWrite | делегирована | Используется для того, чтобы разрешить пользователю добавлять новые ответы в чаты и просматривать сообщения чата из Jira. | Нет. | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| Member.Read.Group | приложение | Используется для проверки разрешений, позволяет приложению проверять членство пользователей в команде. | Нет. | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
 >| Team.ReadBasic.All | делегирована | Разрешение используется, чтобы позволить пользователю выбрать одну из этих присоединились группы в Jira. | Team IDs for caching purposes | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| TeamSettings.Read.Group | приложение | Позволяет приложению читать параметры Team для соблюдения определенных по умолчанию. | Нет | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| User.ReadBasic.All | делегирована | Позволяет пользователю выбирать сотрудников для @-mention в сообщении канала | Нет | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| TeamSettings.Read.Group | приложение | Позволяет приложению читать параметры Team для соблюдения определенных по умолчанию. | Нет. | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| User.ReadBasic.All | делегирована | Позволяет пользователю выбирать сотрудников для @-mention в сообщении канала | Нет. | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

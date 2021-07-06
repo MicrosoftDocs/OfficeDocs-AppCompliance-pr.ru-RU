@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для EngageWith, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6bb19440f4d5e9518e917856fbe709fbcfc0792f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc9d21c1c39cb3a5919024bccd077a1e31469bf2
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552760"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53279121"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552760"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | EngageWith |
-| ID | WA200001915 |
+| Идентификатор | WA200001915 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SpringRole |
-| URL-адрес веб-сайта-партнера | [https://engagewith.springworks.in/](https://engagewith.springworks.in/) |
+| URL-адрес веб-сайта-партнера | [https://www.springworks.in](https://www.springworks.in) |
 | URL-адрес страницы Teams приложения | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
 | URL-адрес политики конфиденциальности | [https://engagewith.springworks.in/privacy-policy](https://engagewith.springworks.in/privacy-policy) |
 | URL-адрес терминов использования | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |
