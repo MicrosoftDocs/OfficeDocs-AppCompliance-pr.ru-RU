@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для timeghost, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ac22c7368da817caf44157bad920221791989245
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1a6a6cda6c7f70fff9df1c5fa6dbfb009ea12ed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552040"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281792"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552040"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | timeghost |
-| ID | WA200001532 |
+| Идентификатор | WA200001532 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | K&#246;llisch GmbH |
-| URL-адрес веб-сайта-партнера | [https://timeghost.io/](https://timeghost.io/) |
+| URL-адрес веб-сайта-партнера | [https://timeghost.io](https://timeghost.io) |
 | URL-адрес страницы Teams приложения | [https://timeghost.io](https://timeghost.io) |
 | URL-адрес политики конфиденциальности | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
 | URL-адрес терминов использования | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |
@@ -61,7 +61,7 @@ ms.locfileid: "52552040"
 >| People.Read | делегирована | E-Mail-Adresse | Die Daten werden gespeichert um weitere Team-Mitglieder hinzuzuf&#252;gen und die Avatare der Nutzer anzuzeigen. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
 >| User.Read | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert, um die Benutzererfahrung zu verbessern. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
 >| User.ReadBasic.All | делегирована | Um das Profilbild anzuzeigen. | Keine Daten werden gespeichert. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
->| openid | делегирована | ID  | Speicherung der ID des Users zur Zuordnung des Users. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
+>| openid | делегирована | Идентификатор  | Speicherung der ID des Users zur Zuordnung des Users. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
 >| profile | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert, um die Benutzererfahrung zu verbessern. | f6f894ce-5b44-4c9b-aff4-253d2fbe8a99 |
 
 

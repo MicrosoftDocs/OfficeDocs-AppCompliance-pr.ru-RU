@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SIGNL4, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a619327000c93e3292e266c8b025034370a8b623
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 425c0738b5628f959ba81e5682c22afe6774cfba
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553210"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281331"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553210"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | SIGNL4 |
-| ID | WA200001239 |
+| Идентификатор | WA200001239 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Derdack SIGNL4 |
-| URL-адрес веб-сайта-партнера | [https://www.signl4.com](https://www.signl4.com) |
+| URL-адрес веб-сайта-партнера | [https://www.derdack.com](https://www.derdack.com) |
 | URL-адрес политики конфиденциальности | [https://www.signl4.com/privacy-policy/](https://www.signl4.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://www.signl4.com/terms_of_use/](https://www.signl4.com/terms_of_use/) |
 
@@ -63,7 +63,7 @@ ms.locfileid: "52553210"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Повторяем, адрес электронной почты, адрес электронной почты требуется для отправки уведомлений о выставлении счета клиенту при использовании приложения. Twilio, номера телефонов, оповещение контента для отправки оповещений SMS текстовых сообщений |  | API управления Azure, сбор оповещений Azure Monitor, коллекция происходит из-за того, что системы отправляют уведомления для этих оповещений |
+>| Повторяем, адрес электронной почты, адрес электронной почты требуется для отправки уведомлений о выставлении счета клиенту при использовании приложения. Twilio, номера телефонов, оповещение контента для отправки оповещений с помощью SMS-сообщений |  | API управления Azure, сбор оповещений Azure Monitor, коллекция происходит из-за того, что системы отправляют уведомления для этих оповещений |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 

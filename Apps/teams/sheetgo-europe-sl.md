@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bb23e321e4c40b0ed2c98026665b7e9f9e22a9e4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7061510a0fb54a3e46e9ca80032a93e97a0e5868
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553890"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281061"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553890"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Sheetgo |
-| ID | WA200002067 |
+| Идентификатор | WA200002067 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SHEETGO EUROPE SL |
-| URL-адрес веб-сайта-партнера | [https://www.sheetgo.com](https://www.sheetgo.com) |
+| URL-адрес веб-сайта-партнера | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
 | URL-адрес политики конфиденциальности | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
 | URL-адрес терминов использования | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 

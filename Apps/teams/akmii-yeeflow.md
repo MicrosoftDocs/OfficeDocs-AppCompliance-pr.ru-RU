@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Yeeflow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c8dc3fb5a23d480299aae331a9ccccae9641c66c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9b1292e935d526947d689c9c5de9638589270957
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553440"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281461"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553440"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Yeeflow |
-| ID | WA200000089 |
+| Идентификатор | WA200000089 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Akmii |
-| URL-адрес веб-сайта-партнера | [https://www.yeeflow.com](https://www.yeeflow.com) |
-| URL-адрес страницы Teams приложения | [www.yeeflow.com](www.yeeflow.com) |
+| URL-адрес веб-сайта-партнера | [https://www.akmii.com](https://www.akmii.com) |
+| URL-адрес страницы Teams приложения | [https://www.yeeflow.com](https://www.yeeflow.com) |
 | URL-адрес политики конфиденциальности | [https://www.yeeflow.com/privacy](https://www.yeeflow.com/privacy) |
 | URL-адрес терминов использования | [https://www.yeeflow.com/terms](https://www.yeeflow.com/terms) |
 

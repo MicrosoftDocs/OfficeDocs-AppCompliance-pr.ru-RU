@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Karma, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9da5f26e68be07cc9817c50434e214de3f3784c4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ffdd34522178c481b84d0a5b102fab20f41ea3ed
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551639"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281041"
 ---
 # <a name="karma"></a>Karma
 
@@ -33,13 +33,13 @@ ms.locfileid: "52551639"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Karma |
-| ID | WA104381640 |
+| Идентификатор | WA104381640 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sliday LTD |
-| URL-адрес веб-сайта-партнера | [https://karmabot.chat/ms](https://karmabot.chat/ms) |
+| URL-адрес веб-сайта-партнера | [https://sliday.com](https://sliday.com) |
 | URL-адрес страницы Teams приложения | [https://karmabot.readme.io/](https://karmabot.readme.io/) |
-| URL-адрес политики конфиденциальности | [https://karmabot.readme.io/v3.0/docs/privacy-policy-for-mic...](https://karmabot.readme.io/v3.0/docs/privacy-policy-for-microsoft-teams) |
-| URL-адрес терминов использования | [https://karmabot.readme.io/docs/karma-end-user-license-agre...](https://karmabot.readme.io/docs/karma-end-user-license-agreement-eula) |
+| URL-адрес политики конфиденциальности | [https://karmabot.readme.io/docs/privacy-policy-for-microsof...](https://karmabot.readme.io/docs/privacy-policy-for-microsoft-teams) |
+| URL-адрес терминов использования | [https://karmabot.readme.io/docs/terms-and-conditions](https://karmabot.readme.io/docs/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Evocom, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69eed6c53706cb64ea4c4af64d455e01ecc98c9f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1a3be83c266ee993ad377a2489a85248bdafab67
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553170"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281291"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -33,13 +33,13 @@ ms.locfileid: "52553170"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Evocom |
-| ID | WA200002050 |
+| Идентификатор | WA200002050 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Evocom Informationssysteme GmbH |
-| URL-адрес веб-сайта-партнера | [https://www.evocom.de/](https://www.evocom.de/) |
+| URL-адрес веб-сайта-партнера | [https://evocom.de](https://evocom.de) |
 | URL-адрес страницы Teams приложения | [https://evocom.de/microsoft365](https://evocom.de/microsoft365) |
-| URL-адрес политики конфиденциальности | [https://www.evocom.de/privacy](https://www.evocom.de/privacy) |
-| URL-адрес терминов использования | [https://www.evocom.de/termsofuse](https://www.evocom.de/termsofuse) |
+| URL-адрес политики конфиденциальности | [https://evocom.de/privacy](https://evocom.de/privacy) |
+| URL-адрес терминов использования | [https://evocom.de/termsofuse](https://evocom.de/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

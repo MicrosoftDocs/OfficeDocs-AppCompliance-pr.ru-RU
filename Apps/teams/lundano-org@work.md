@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Org@Work, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 68f59afdc79ae00f1643f9f2ce5650e06392d2a3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551980"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281762"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -33,13 +33,13 @@ ms.locfileid: "52551980"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Org@Work |
-| ID | WA200002461 |
+| Идентификатор | WA200002461 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Lundano |
-| URL-адрес веб-сайта-партнера | [https://www.lundano.com/orgatwork/](https://www.lundano.com/orgatwork/) |
+| URL-адрес веб-сайта-партнера | [https://www.lundano.com/en/](https://www.lundano.com/en/) |
 | URL-адрес страницы Teams приложения | [https://www.lundano.com/orgatwork/index.html#](https://www.lundano.com/orgatwork/index.html#) |
 | URL-адрес политики конфиденциальности | [https://cp.lundano.com/privacy_en.html](https://cp.lundano.com/privacy_en.html) |
-| URL-адрес терминов использования | [https://cp.lundano.com/terms.html](https://cp.lundano.com/terms.html) |
+| URL-адрес терминов использования | [https://cp.lundano.com/Terms_en.html](https://cp.lundano.com/Terms_en.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,10 +57,10 @@ ms.locfileid: "52551980"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | aa1c54a1-f482-424d-9389-dbd131233483 |
->| email | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | aa1c54a1-f482-424d-9389-dbd131233483 |
->| offline_access | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | aa1c54a1-f482-424d-9389-dbd131233483 |
->| openid | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | aa1c54a1-f482-424d-9389-dbd131233483 |
+>| User.Read | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет. | aa1c54a1-f482-424d-9389-dbd131233483 |
+>| email | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет. | aa1c54a1-f482-424d-9389-dbd131233483 |
+>| offline_access | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет. | aa1c54a1-f482-424d-9389-dbd131233483 |
+>| openid | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет. | aa1c54a1-f482-424d-9389-dbd131233483 |
 >| profile | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | нет | aa1c54a1-f482-424d-9389-dbd131233483 |
 
 

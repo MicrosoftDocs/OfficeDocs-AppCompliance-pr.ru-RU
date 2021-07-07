@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для проводника sensei Labs, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6365c2a9916693a94c6af8ed107865872e8e000b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b0d84d3da0d5fdf32854cd4b3b31b86662cb4b8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551699"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281071"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -33,11 +33,10 @@ ms.locfileid: "52551699"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Sensei Labs Conductor |
-| ID | WA200001951 |
+| Идентификатор | WA200001951 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sensei Labs Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.senseilabs.com/conductor/?utm_campaign=msftteam...](https://www.senseilabs.com/conductor/?utm_campaign=msftteamslaunch&amp;utm_source=teamsappsource&amp;utm_medium=createdby&amp;utm_content=conductorlink) |
-| URL-адрес страницы Teams приложения | [N/A](N/A) |
+| URL-адрес веб-сайта-партнера | [https://www.senseilabs.com](https://www.senseilabs.com) |
 | URL-адрес политики конфиденциальности | [https://www.senseilabs.com/conductor/conductor-privacy-poli...](https://www.senseilabs.com/conductor/conductor-privacy-policy/) |
 | URL-адрес терминов использования | [https://www.senseilabs.com/conductor/msft-teams-terms-condi...](https://www.senseilabs.com/conductor/msft-teams-terms-conditions/) |
 

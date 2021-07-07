@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор контента для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f4d95e0dcbb0a7234299f190766e85b17f6a853f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 39c7e2b45c8fa4d525d3b024533fbf63fa17b0be
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553590"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281551"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | Выбор контента для Office
 
@@ -31,10 +31,10 @@ ms.locfileid: "52553590"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — выбор контента для Office |
-| ID | WA104380602 |
+| Идентификатор | WA104380602 |
 | Office 365 поддерживаемые клиенты | Excel iPad, Excel 2016 или более поздней Excel 2013 Пакет обновления 1 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint на iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows, OneNote в Интернете |
 | Имя компании-партнера | officeatwork |
-| URL-адрес веб-сайта-партнера | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL-адрес терминов использования | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

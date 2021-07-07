@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cdfec0551da7278ac92c3e24caa2664a26a89bea
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 65a82c3e895af38dc719411c7729825acae2f9be
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552970"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281772"
 ---
 # <a name="lucidchart"></a>Lucidchart
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552970"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Lucidchart |
-| ID | WA104381935 |
+| Идентификатор | WA104381935 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Lucid Software |
 | URL-адрес веб-сайта-партнера | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | URL-адрес страницы Teams приложения | [https://lucidchart.zendesk.com/](https://lucidchart.zendesk.com/) |
-| URL-адрес политики конфиденциальности | [https://lucid.co/privacy](https://lucid.co/privacy) |
-| URL-адрес терминов использования | [https://lucid.co/tos](https://lucid.co/tos) |
+| URL-адрес политики конфиденциальности | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
+| URL-адрес терминов использования | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

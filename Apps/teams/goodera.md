@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Goodera, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 55b69d4abaedb8f838f201812e11db2cc9aac39f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46dc2de8dc444591a42a0a3e4ecaa1c31232ebc3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552150"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281872"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -33,11 +33,10 @@ ms.locfileid: "52552150"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Goodera |
-| ID | WA200002136 |
+| Идентификатор | WA200002136 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Goodera |
-| URL-адрес веб-сайта-партнера | [https://about.goodera.com](https://about.goodera.com) |
-| URL-адрес страницы Teams приложения | [N/A](N/A) |
+| URL-адрес веб-сайта-партнера | [https://goodera.com](https://goodera.com) |
 | URL-адрес политики конфиденциальности | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
 | URL-адрес терминов использования | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Webex Call, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8cd5499529eb41a5a840c9a7792e9b47f9a6c877
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3c6552bd7b266f4c35d35dabefe3abbf7e407ea1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552290"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281962"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -33,12 +33,11 @@ ms.locfileid: "52552290"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Webex Call |
-| ID | WA200001495 |
+| Идентификатор | WA200001495 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cisco |
-| URL-адрес веб-сайта-партнера | [https://www.cisco.com/c/en/us/solutions/collaboration/webex...](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html) |
-| URL-адрес страницы Teams приложения | [N/A](N/A) |
-| URL-адрес политики конфиденциальности | [https://www.cisco.com/c/en/us/about/legal/privacy-full.html](https://www.cisco.com/c/en/us/about/legal/privacy-full.html) |
+| URL-адрес веб-сайта-партнера | [https://www.cisco.com](https://www.cisco.com) |
+| URL-адрес политики конфиденциальности | [https://www.cisco.com/c/en/us/about/legal/privacy.html](https://www.cisco.com/c/en/us/about/legal/privacy.html) |
 | URL-адрес терминов использования | [https://www.cisco.com/c/en/us/products/universal-cloud-agre...](https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

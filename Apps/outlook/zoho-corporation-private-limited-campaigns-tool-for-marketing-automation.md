@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для средства автоматизации маркетинга Zoho Campaigns, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e67de0ca2871d5432b5a29ead52194225bc51c9a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e54e3313dcfa51542439775a0c3ca0cae38aca93
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553690"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281591"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>Средство zoho Campaigns для автоматизации маркетинга
 
@@ -32,12 +32,12 @@ ms.locfileid: "52553690"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Средство zoho Campaigns для автоматизации маркетинга |
-| ID | WA104380835 |
+| Идентификатор | WA104380835 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/](https://www.zoho.com/) |
-| URL-адрес политики конфиденциальности | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL-адрес политики конфиденциальности | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
+| URL-адрес терминов использования | [https://www.zoho.com/campaigns/zc-terms.html](https://www.zoho.com/campaigns/zc-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

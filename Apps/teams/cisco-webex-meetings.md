@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для собраний Cisco Webex, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4911c948bd0f77dc1a5c858fca89337aeb3a1f5a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 34db97485d4c25655075a838adb5ec998ca324a5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553240"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281361"
 ---
 # <a name="cisco-webex-meetings"></a>Cisco Webex Meetings
 
@@ -33,13 +33,13 @@ ms.locfileid: "52553240"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Cisco Webex Meetings |
-| ID | WA104381435 |
+| Идентификатор | WA104381435 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cisco Webex Meetings |
-| URL-адрес веб-сайта-партнера | [https://www.webex.com](https://www.webex.com) |
+| URL-адрес веб-сайта-партнера | [https://www.cisco.com](https://www.cisco.com) |
 | URL-адрес страницы Teams приложения | [https://collaborationhelp.cisco.com/](https://collaborationhelp.cisco.com/) |
-| URL-адрес политики конфиденциальности | [https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatas...](https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatasheet/collaboration/cisco-webex-meetings-privacy-data-sheet.pdf) |
-| URL-адрес терминов использования | [https://www.cisco.com/c/en/us/products/universal-cloud-agre...](https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html) |
+| URL-адрес политики конфиденциальности | []() |
+| URL-адрес терминов использования | []() |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

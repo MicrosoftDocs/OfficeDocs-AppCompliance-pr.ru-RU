@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для askR.ai, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: df24c20ad60cd7e72946db7a8404019903b4a483
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e88abce5e865bdd3a09d4593b882070c013bbc93
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552380"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281421"
 ---
 # <a name="askrai"></a>askR.ai
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552380"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | askR.ai |
-| ID | WA200001583 |
+| Идентификатор | WA200001583 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | askR.ai |
-| URL-адрес веб-сайта-партнера | [https://en.askr.ai/](https://en.askr.ai/) |
+| URL-адрес веб-сайта-партнера | [https://en.askr.ai](https://en.askr.ai) |
 | URL-адрес страницы Teams приложения | [https://en.askr.ai](https://en.askr.ai) |
 | URL-адрес политики конфиденциальности | [https://en.askr.ai/privacy-policy-askr-ai](https://en.askr.ai/privacy-policy-askr-ai) |
 | URL-адрес терминов использования | [https://en.askr.ai/terms-of-use-askr-ai](https://en.askr.ai/terms-of-use-askr-ai) |

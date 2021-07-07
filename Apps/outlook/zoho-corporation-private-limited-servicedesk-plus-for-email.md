@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ServiceDesk Plus для электронной почты, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dc342375eba7084f5afb31b0f879e46e959fa970
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553660"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282393"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus для электронной почты
 
@@ -32,12 +32,12 @@ ms.locfileid: "52553660"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ServiceDesk Plus для электронной почты |
-| ID | WA104381518 |
+| Идентификатор | WA104381518 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Zoho Corporation Private Limited |
-| URL-адрес веб-сайта-партнера | [https://www.zoho.com/](https://www.zoho.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
 | URL-адрес политики конфиденциальности | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL-адрес терминов использования | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

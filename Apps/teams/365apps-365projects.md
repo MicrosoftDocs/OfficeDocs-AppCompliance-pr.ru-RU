@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 365Projects, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d760c1c5bacf37fa23e26f4a9a15eb7dbbd75bb1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 07ef4c5e5e71ee8034c75869b97d5c8924f502fd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553470"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281491"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553470"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | 365Projects |
-| ID | WA200002160 |
+| Идентификатор | WA200002160 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | 365Apps |
-| URL-адрес веб-сайта-партнера | [https://365projects.app](https://365projects.app) |
+| URL-адрес веб-сайта-партнера | [https://365apps.com.au](https://365apps.com.au) |
 | URL-адрес страницы Teams приложения | [https://365projects.app](https://365projects.app) |
 | URL-адрес политики конфиденциальности | [https://365projects.app/privacy](https://365projects.app/privacy) |
 | URL-адрес терминов использования | [https://365projects.app/eula](https://365projects.app/eula) |

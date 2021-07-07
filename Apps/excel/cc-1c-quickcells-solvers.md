@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для разработчиков решений QuickCells, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e69c2618b3351bef5549227556c3f21df81e5704
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 82e644360c38b9add9c7426bf788177fe0da7698
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549759"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281181"
 ---
 # <a name="quickcells-solvers"></a>Решения QuickCells
 
@@ -32,10 +32,10 @@ ms.locfileid: "52549759"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Решения QuickCells |
-| ID | WA200001864 |
+| Идентификатор | WA200001864 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | CC-1C |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL-адрес веб-сайта-партнера | [https://quickcells.co](https://quickcells.co) |
 | URL-адрес политики конфиденциальности | [https://quickcells.co/legal/privacy](https://quickcells.co/legal/privacy) |
 | URL-адрес терминов использования | [https://quickcells.co/legal/tos](https://quickcells.co/legal/tos) |
 

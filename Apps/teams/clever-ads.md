@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Clever Ads, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0b092ef8ab27bec0a2f5c3bf294b301a71d1649a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d0ef9f59476133e673a0bf9edf99e63cfc424559
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552280"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281952"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -33,12 +33,12 @@ ms.locfileid: "52552280"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Clever Ads |
-| ID | WA200001182 |
+| Идентификатор | WA200001182 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Clever Ads |
-| URL-адрес веб-сайта-партнера | [https://www.cleverads.com/](https://www.cleverads.com/) |
-| URL-адрес политики конфиденциальности | [https://www.cleverads.com/privacy-policy](https://www.cleverads.com/privacy-policy) |
-| URL-адрес терминов использования | [https://www.cleverads.com/terms-conditions](https://www.cleverads.com/terms-conditions) |
+| URL-адрес веб-сайта-партнера | [https://cleverads.com](https://cleverads.com) |
+| URL-адрес политики конфиденциальности | [https://cleverads.com/privacy-policy](https://cleverads.com/privacy-policy) |
+| URL-адрес терминов использования | [https://cleverads.com/terms-conditions](https://cleverads.com/terms-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

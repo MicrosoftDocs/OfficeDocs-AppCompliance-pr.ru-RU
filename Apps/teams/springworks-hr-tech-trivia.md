@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Trivia, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fbd1b9f5f308f3690a9d55a40993ba6122e8f81b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6facd1d8622d78a616329030cef6ffa83bf3bec3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553850"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280901"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553850"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Trivia |
-| ID | WA200001956 |
+| Идентификатор | WA200001956 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Springworks HR Tech |
-| URL-адрес веб-сайта-партнера | [https://springworks.in/](https://springworks.in/) |
+| URL-адрес веб-сайта-партнера | [https://www.springworks.in](https://www.springworks.in) |
 | URL-адрес страницы Teams приложения | [https://www.springworks.in/trivia](https://www.springworks.in/trivia) |
 | URL-адрес политики конфиденциальности | [https://trivia.springworks.in/policy](https://trivia.springworks.in/policy) |
 | URL-адрес терминов использования | [https://trivia.springworks.in/tnc](https://trivia.springworks.in/tnc) |

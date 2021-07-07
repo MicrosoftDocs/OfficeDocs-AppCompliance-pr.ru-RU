@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Bot Calendar, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 48861f5f4c49a424a0740b0a56e6d85107326396
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 597a368e36fab6036eb8aed34a1afe197d15d26c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629681"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282062"
 ---
 # <a name="calendar-bot"></a>Бот календаря
 
@@ -33,10 +33,10 @@ ms.locfileid: "52629681"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Бот календаря |
-| ID | WA104381271 |
+| Идентификатор | WA104381271 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Approved Contact |
-| URL-адрес веб-сайта-партнера | [www.approvedcontact.com](www.approvedcontact.com) |
+| URL-адрес веб-сайта-партнера | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | URL-адрес политики конфиденциальности | [https://approvedcontact.com/Privacy%20Policy%20Bot.pdf](https://approvedcontact.com/Privacy%20Policy%20Bot.pdf) |
 | URL-адрес терминов использования | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

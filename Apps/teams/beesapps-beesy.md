@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Beesy, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d669b1b43c7b273b3cc68ed6cfc0f24b7234a293
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9d982e61f2afeda47bcfdab51c549346fc5fe60
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552350"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281401"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552350"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Beesy |
-| ID | WA200001248 |
+| Идентификатор | WA200001248 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | BeesApps |
-| URL-адрес веб-сайта-партнера | [https://www.beesy.me/](https://www.beesy.me/) |
+| URL-адрес веб-сайта-партнера | [https://www.beesapps.com/](https://www.beesapps.com/) |
 | URL-адрес политики конфиденциальности | [https://www.beesy.me/legal/privacypolicy_en.pdf](https://www.beesy.me/legal/privacypolicy_en.pdf) |
 | URL-адрес терминов использования | [https://www.beesy.me/legal/termsofservice_en_v1.03.pdf](https://www.beesy.me/legal/termsofservice_en_v1.03.pdf) |
 

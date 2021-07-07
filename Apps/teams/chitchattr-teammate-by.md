@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamMate от ChitChattr, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 457cfd0fc3ace631a0994fea787e515ba74e1faf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4a01e90cbd14eefd9621e1ef93b8a992fc469efa
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552300"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281972"
 ---
 # <a name="teammate-by-chitchattr"></a>TeamMate by ChitChattr
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552300"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TeamMate by ChitChattr |
-| ID | WA200002530 |
+| Идентификатор | WA200002530 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ChitChattr |
-| URL-адрес веб-сайта-партнера | [https://www.chitchattr.com?p=teammate](https://www.chitchattr.com?p=teammate) |
+| URL-адрес веб-сайта-партнера | [https://www.chitchattr.com](https://www.chitchattr.com) |
 | URL-адрес страницы Teams приложения | [https://www.chitchattr.com/teammate/](https://www.chitchattr.com/teammate/) |
 | URL-адрес политики конфиденциальности | [https://www.chitchattr.com/privacy?p=teammate](https://www.chitchattr.com/privacy?p=teammate) |
-| URL-адрес терминов использования | [https://www.chitchattr.com/termsofuse?p=teammate](https://www.chitchattr.com/termsofuse?p=teammate) |
+| URL-адрес терминов использования | [https://www.chitchattr.com/termsofuse](https://www.chitchattr.com/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

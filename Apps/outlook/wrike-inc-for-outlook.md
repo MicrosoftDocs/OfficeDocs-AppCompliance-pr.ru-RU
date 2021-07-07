@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Wrike для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ee6c98b2513459c588100a9b3b19ba529d98af0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5ee9a184fbe3c5358e79253a7227bbb69d62d4d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553700"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282413"
 ---
 # <a name="wrike-for-outlook"></a>Wrike для Outlook
 
@@ -31,12 +31,12 @@ ms.locfileid: "52553700"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Wrike для Outlook |
-| ID | WA104381120 |
-| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или позднее на Mac, Outlook на iOS, Outlook в Интернете, Outlook на Android |
+| Идентификатор | WA104381120 |
+| Office 365 поддерживаемые клиенты | Outlook 2013 Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook в Интернете, Outlook на Android |
 | Имя компании-партнера | Wrike Inc. |
-| URL-адрес веб-сайта-партнера | [https://wrike.com/](https://wrike.com/) |
-| URL-адрес политики конфиденциальности | [https://www.wrike.com/security/privacy](https://www.wrike.com/security/privacy) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL-адрес веб-сайта-партнера | [https://www.wrike.com/](https://www.wrike.com/) |
+| URL-адрес политики конфиденциальности | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| URL-адрес терминов использования | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

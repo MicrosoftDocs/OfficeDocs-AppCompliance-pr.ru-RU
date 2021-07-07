@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для AttendanceBot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d99f924734bd6857b32ebb85942e5ef7ddb3cf18
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 900bbe4856204c7b1de0c988388aedc0f79366c5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553430"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281451"
 ---
 # <a name="attendancebot"></a>AttendanceBot
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553430"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | AttendanceBot |
-| ID | WA104381652 |
+| Идентификатор | WA104381652 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Anaek |
-| URL-адрес веб-сайта-партнера | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
+| URL-адрес веб-сайта-партнера | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
 | URL-адрес страницы Teams приложения | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| URL-адрес политики конфиденциальности | [https://www.attendancebot.com/attendance/privacy/](https://www.attendancebot.com/attendance/privacy/) |
+| URL-адрес политики конфиденциальности | [https://www.attendancebot.com/privacy](https://www.attendancebot.com/privacy) |
 | URL-адрес терминов использования | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

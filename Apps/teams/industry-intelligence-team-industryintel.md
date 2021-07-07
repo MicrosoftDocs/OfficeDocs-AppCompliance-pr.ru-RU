@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для IndustryIntel, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2c1c35d0054df773b83fa2d31a95daceaee585
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553070"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281251"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553070"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | IndustryIntel |
-| ID | WA200001907 |
+| Идентификатор | WA200001907 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Industry Intelligence Team |
-| URL-адрес веб-сайта-партнера | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
-| URL-адрес политики конфиденциальности | [https://www.industryintel.com/public:legal/privacy-policy-m...](https://www.industryintel.com/public:legal/privacy-policy-msteams) |
+| URL-адрес веб-сайта-партнера | [https://www.industryintel.com](https://www.industryintel.com) |
+| URL-адрес политики конфиденциальности | [https://www.industryintel.com/public:legal/privacy-policy](https://www.industryintel.com/public:legal/privacy-policy) |
 | URL-адрес терминов использования | [https://www.industryintel.com/public:legal/terms-of-use](https://www.industryintel.com/public:legal/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Jira Cloud для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cbed2eb7aada40d5631391a9549600a4af3edebf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 73212faa010d95233281a0cf7f120e9ee0fd1ffb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549829"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281201"
 ---
 # <a name="jira-cloud-for-excel"></a>Jira Cloud для Excel
 
@@ -32,12 +32,12 @@ ms.locfileid: "52549829"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Jira Cloud для Excel |
-| ID | WA200000556 |
+| Идентификатор | WA200000556 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | Atlassian.com |
-| URL-адрес веб-сайта-партнера | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| URL-адрес политики конфиденциальности | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| URL-адрес терминов использования | [https://www.microsoft.com/en-us/store/standard-application-...](https://www.microsoft.com/en-us/store/standard-application-license-terms) |
+| URL-адрес веб-сайта-партнера | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| URL-адрес политики конфиденциальности | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

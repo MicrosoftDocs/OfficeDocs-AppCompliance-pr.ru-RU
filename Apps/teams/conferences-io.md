@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для конференций i/o, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cc2d3c2845660ddda7b2d759d4d30cb4191286dd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f1ac0d98833813915b3485a7b5c00233f41ddee8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553220"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281341"
 ---
 # <a name="conferences-io"></a>Conferences i/o
 
@@ -33,13 +33,13 @@ ms.locfileid: "52553220"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Conferences i/o |
-| ID | WA200001867 |
+| Идентификатор | WA200001867 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Conferences i/o |
-| URL-адрес веб-сайта-партнера | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
+| URL-адрес веб-сайта-партнера | [https://conferences.io](https://conferences.io) |
 | URL-адрес страницы Teams приложения | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
 | URL-адрес политики конфиденциальности | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |
-| URL-адрес терминов использования | [https://teamsapp.conferences.io/terms/](https://teamsapp.conferences.io/terms/) |
+| URL-адрес терминов использования | [https://teamsapp.conferences.io/eula/](https://teamsapp.conferences.io/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

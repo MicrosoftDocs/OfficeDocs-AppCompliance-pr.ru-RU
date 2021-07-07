@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Q, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3424ac372f46be0fc9834611fb1a0d57c69831a4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551909"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281752"
 ---
 # <a name="q"></a>Q
 
@@ -33,12 +33,12 @@ ms.locfileid: "52551909"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Q |
-| ID | WA104381433 |
+| Идентификатор | WA104381433 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ModuleQ |
 | URL-адрес веб-сайта-партнера | [https://moduleq.com](https://moduleq.com) |
-| URL-адрес политики конфиденциальности | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
-| URL-адрес терминов использования | [https://moduleq.com/terms-of-service/](https://moduleq.com/terms-of-service/) |
+| URL-адрес политики конфиденциальности | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| URL-адрес терминов использования | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,10 +57,10 @@ ms.locfileid: "52551909"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | приложение | сохраняет данные собраний, за исключением тела сообщения и любых вложений | Позволяет приложению читать события календаря пользователя, чтобы разумно понять бизнес-приоритеты пользователя. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | делегирована | Нет | Позволяет приложению взаимодействовать в команде для обмена контентом. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| Group.Read.All | делегирована | Нет. | Позволяет приложению взаимодействовать в команде для обмена контентом. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| Mail.Read | приложение | сохраняет данные электронной почты, за исключением тела сообщения и вложений | Позволяет приложению читать почту пользователя, чтобы разумно понимать бизнес-приоритеты пользователя | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| User.Read | делегирована | маркеры электронной почты и проверки подлинности пользователей | Позволяет пользователю войти и связать свою учетную запись Office 365 с учетной записью ModuleQ | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | делегирована | Нет | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| User.Read.All | делегирована | Нет. | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

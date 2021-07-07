@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Reach, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83df050a6f58bc1d0b7d49239b40ddf2ba80849a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 91729da78b1a031be38569bfd4e4168f2a96f83a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552000"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281782"
 ---
 # <a name="reach"></a>Reach
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552000"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Reach |
-| ID | WA200002045 |
+| Идентификатор | WA200002045 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LiveTiles |
 | URL-адрес веб-сайта-партнера | [https://livetilesglobal.com](https://livetilesglobal.com) |
 | URL-адрес страницы Teams приложения | [https://livetilesglobal.com/products/livetiles-reach/](https://livetilesglobal.com/products/livetiles-reach/) |
-| URL-адрес политики конфиденциальности | [https://livetilesglobal.com/privacy-policy](https://livetilesglobal.com/privacy-policy) |
-| URL-адрес терминов использования | [https://livetilesglobal.com/eula](https://livetilesglobal.com/eula) |
+| URL-адрес политики конфиденциальности | [https://livetilesglobal.com/privacy-policy/](https://livetilesglobal.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://livetilesglobal.com/eula/](https://livetilesglobal.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

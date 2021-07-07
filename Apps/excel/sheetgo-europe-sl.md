@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cba1d32ef248cc8228a0e38e1dc953dd07f4e5ad
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9441bc0dcf4b2041b524db3715258caecfaa9aec
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548729"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281091"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -32,12 +32,12 @@ ms.locfileid: "52548729"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Sheetgo |
-| ID | WA200002128 |
+| Идентификатор | WA200002128 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | SHEETGO EUROPE SL |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| URL-адрес политики конфиденциальности | [https://www.sheetgo.com/legal/privacy](https://www.sheetgo.com/legal/privacy) |
-| URL-адрес терминов использования | [https://www.sheetgo.com/legal/terms](https://www.sheetgo.com/legal/terms) |
+| URL-адрес веб-сайта-партнера | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
+| URL-адрес политики конфиденциальности | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
+| URL-адрес терминов использования | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Guru, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 16abdcc7ab9b3da8cef55b17e5b63a3a7d916c51
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4577aabcc19f32941d3d9005ba7e9fe61e4675cc
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553140"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281271"
 ---
 # <a name="guru"></a>Guru
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553140"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Guru |
-| ID | WA200001719 |
+| Идентификатор | WA200001719 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Guru Technologies |
-| URL-адрес веб-сайта-партнера | [https://www.getguru.com/](https://www.getguru.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.getguru.com](https://www.getguru.com) |
 | URL-адрес страницы Teams приложения | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
-| URL-адрес политики конфиденциальности | [https://www.getguru.com/privacy](https://www.getguru.com/privacy) |
+| URL-адрес политики конфиденциальности | [https://www.getguru.com/privacy/](https://www.getguru.com/privacy/) |
 | URL-адрес терминов использования | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

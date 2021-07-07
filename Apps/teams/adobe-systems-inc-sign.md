@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7cb238a768ae020e13865748be5d0df96ebb35ca
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 59354070b773f5407929b81c14b12666362e7d52
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552430"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282092"
 ---
 # <a name="adobe-sign"></a>Adobe Sign
 
@@ -32,13 +32,13 @@ ms.locfileid: "52552430"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Adobe Sign |
-| ID | WA104381233 |
+| Идентификатор | WA104381233 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Adobe Systems Inc. |
 | URL-адрес веб-сайта-партнера | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | URL-адрес страницы Teams приложения | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | URL-адрес политики конфиденциальности | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
-| URL-адрес терминов использования | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
+| URL-адрес терминов использования | [https://www.adobe.com/legal/terms.html](https://www.adobe.com/legal/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

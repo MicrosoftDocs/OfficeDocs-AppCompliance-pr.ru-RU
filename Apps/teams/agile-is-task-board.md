@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Agile Task Board, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3bbf6f95ed5a0e840b1ba8c896dbb14b4ddfa5f2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5062da73958a88a7b788a74771e76ae506b314d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553450"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281471"
 ---
 # <a name="agile-task-board"></a>Доска задач Agile
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553450"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Доска задач Agile |
-| ID | WA200002162 |
+| Идентификатор | WA200002162 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Agile-IS |
-| URL-адрес веб-сайта-партнера | [https://www.agile-is.de/agiletaskboard?utm_medium=appsource...](https://www.agile-is.de/agiletaskboard?utm_medium=appsource&amp;utm_campaign=teams&amp;utm_source=manifest) |
+| URL-адрес веб-сайта-партнера | [https://www.agile-is.de](https://www.agile-is.de) |
 | URL-адрес политики конфиденциальности | [https://www.agile-is.de/en/telemetry](https://www.agile-is.de/en/telemetry) |
 | URL-адрес терминов использования | [https://www.agile-is.de/en/termsofuse](https://www.agile-is.de/en/termsofuse) |
 

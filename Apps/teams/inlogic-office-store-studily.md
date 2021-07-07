@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Studi.ly, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 26a89739809e0d398db2a823bd714aa06a2d210d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc3307db955cf9f124442f08fc315c1cd8158659
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553060"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281241"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553060"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Studi.ly |
-| ID | WA200001668 |
+| Идентификатор | WA200001668 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | inLogic-Office Store |
-| URL-адрес веб-сайта-партнера | [https://www.studi.ly](https://www.studi.ly) |
-| URL-адрес политики конфиденциальности | [https://www.studi.ly/Studily_Privacy_Statement.pdf](https://www.studi.ly/Studily_Privacy_Statement.pdf) |
-| URL-адрес терминов использования | [https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf](https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf) |
+| URL-адрес веб-сайта-партнера | [https://www.inlogic.dk](https://www.inlogic.dk) |
+| URL-адрес политики конфиденциальности | [https://studi.ly/Studily_Privacy_Statement.pdf](https://studi.ly/Studily_Privacy_Statement.pdf) |
+| URL-адрес терминов использования | [https://studi.ly/Studily_Terms_Of_Use_v1.pdf](https://studi.ly/Studily_Terms_Of_Use_v1.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamGether, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4856abc549692b7963c9a21c2c073133626a78ea
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1c992ffe3240ed8775832240ab9107debe12b9f2
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553355"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281912"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -33,13 +33,13 @@ ms.locfileid: "52553355"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TeamGether |
-| ID | WA200002660 |
+| Идентификатор | WA200002660 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | EFFENCY |
 | URL-адрес веб-сайта-партнера | [https://www.effency.fr](https://www.effency.fr) |
 | URL-адрес страницы Teams приложения | [https://www.effency.fr/teams/](https://www.effency.fr/teams/) |
-| URL-адрес политики конфиденциальности | [https://www.effency.fr/protection-des-donnees](https://www.effency.fr/protection-des-donnees) |
-| URL-адрес терминов использования | [https://www.effency.fr/conditions-generales](https://www.effency.fr/conditions-generales) |
+| URL-адрес политики конфиденциальности | [https://www.effency.fr/protection-des-donnees/](https://www.effency.fr/protection-des-donnees/) |
+| URL-адрес терминов использования | [https://www.effency.fr/conditions-generales/](https://www.effency.fr/conditions-generales/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

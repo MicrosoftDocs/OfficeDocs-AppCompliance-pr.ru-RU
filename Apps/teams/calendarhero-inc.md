@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CalendarHero, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d27858000c591c320cfadc301ea16ddf2fac89bd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553335"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282002"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -33,13 +33,13 @@ ms.locfileid: "52553335"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | CalendarHero |
-| ID | WA200000150 |
+| Идентификатор | WA200000150 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | CalendarHero Inc |
-| URL-адрес веб-сайта-партнера | [https://calendarhero.com](https://calendarhero.com) |
+| URL-адрес веб-сайта-партнера | [https://zoom.ai](https://zoom.ai) |
 | URL-адрес страницы Teams приложения | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
-| URL-адрес политики конфиденциальности | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
-| URL-адрес терминов использования | [https://calendarhero.com/terms-of-use](https://calendarhero.com/terms-of-use) |
+| URL-адрес политики конфиденциальности | [https://zoom.ai/privacy-policy](https://zoom.ai/privacy-policy) |
+| URL-адрес терминов использования | [https://zoom.ai/terms-of-use](https://zoom.ai/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

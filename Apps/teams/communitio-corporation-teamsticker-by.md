@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 75509ae7266f44470530418c955ba70713126783
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 944fa2eaf8df347cf3ce1b96bad9cd8521dceed3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552260"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281942"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552260"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TeamSticker by Communitio |
-| ID | WA200000894 |
+| Идентификатор | WA200000894 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Communitio Corporation |
-| URL-адрес веб-сайта-партнера | [https://www.teamsuite.biz/](https://www.teamsuite.biz/) |
+| URL-адрес веб-сайта-партнера | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
 | URL-адрес страницы Teams приложения | [https://www.teamsuite.biz/feature/](https://www.teamsuite.biz/feature/) |
 | URL-адрес политики конфиденциальности | [https://www.teamsuite.biz/privacy/](https://www.teamsuite.biz/privacy/) |
 | URL-адрес терминов использования | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |

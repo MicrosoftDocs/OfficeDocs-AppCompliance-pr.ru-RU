@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для netDocShare, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a3d27c85d6ceadf6f2cbf8d7c9b1449b95dc8327
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c8e050b7ecf4f4b4b3156e571d6afdcd75a6ceb2
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552030"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281802"
 ---
 # <a name="netdocshare"></a>netDocShare
 
@@ -33,12 +33,12 @@ ms.locfileid: "52552030"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | netDocShare |
-| ID | WA200001619 |
+| Идентификатор | WA200001619 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | KL Software Technologies |
-| URL-адрес веб-сайта-партнера | [https://www.netdocshare.com/](https://www.netdocshare.com/) |
-| URL-адрес политики конфиденциальности | [https://www.netdocshare.com/privacy-policy/](https://www.netdocshare.com/privacy-policy/) |
-| URL-адрес терминов использования | [https://www.netdocshare.com/terms-of-use/](https://www.netdocshare.com/terms-of-use/) |
+| URL-адрес веб-сайта-партнера | [https://www.klstinc.com](https://www.klstinc.com) |
+| URL-адрес политики конфиденциальности | [https://netdocshare.com/privacy-policy/](https://netdocshare.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://netdocshare.com/terms-of-use/](https://netdocshare.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

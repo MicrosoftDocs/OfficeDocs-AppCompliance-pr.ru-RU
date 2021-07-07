@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Quicklinks, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5d29a93ab0f6edfe5b95267d8f808d8f16180822
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d810e1bdabf4aed954d8deb6ee42db46bf03a194
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553270"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281381"
 ---
 # <a name="quicklinks"></a>Quicklinks
 
@@ -33,13 +33,13 @@ ms.locfileid: "52553270"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Quicklinks |
-| ID | WA200001833 |
+| Идентификатор | WA200001833 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ChitChattr |
-| URL-адрес веб-сайта-партнера | [https://www.chitchattr.com?p=quicklinks](https://www.chitchattr.com?p=quicklinks) |
+| URL-адрес веб-сайта-партнера | [https://www.chitchattr.com](https://www.chitchattr.com) |
 | URL-адрес страницы Teams приложения | [https://www.chitchattr.com/quicklinks/](https://www.chitchattr.com/quicklinks/) |
 | URL-адрес политики конфиденциальности | [https://www.chitchattr.com/privacy?p=quicklinks](https://www.chitchattr.com/privacy?p=quicklinks) |
-| URL-адрес терминов использования | [https://www.chitchattr.com/termsofuse?p=quicklinks](https://www.chitchattr.com/termsofuse?p=quicklinks) |
+| URL-адрес терминов использования | [https://www.chitchattr.com/termsofuse](https://www.chitchattr.com/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

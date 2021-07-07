@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для службы Alvao, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fd5a6939e93720fa6422cc61b9b7c785539ec24a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5fe88303b18c41be50f5c108cd4c0b4bfb16314
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552410"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282072"
 ---
 # <a name="alvao-service-desk"></a>Служба поддержки Alvao
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552410"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Служба поддержки Alvao |
-| ID | WA200002488 |
+| Идентификатор | WA200002488 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ALVAO s.r.o. |
-| URL-адрес веб-сайта-партнера | [https://www.alvao.com/en/ ](https://www.alvao.com/en/ ) |
+| URL-адрес веб-сайта-партнера | [https://www.alvao.com/en/](https://www.alvao.com/en/) |
 | URL-адрес страницы Teams приложения | [https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alv...](https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alvao_teams_addin/default.aspx) |
 | URL-адрес политики конфиденциальности | [https://www.alvao.com/en/gdpr](https://www.alvao.com/en/gdpr) |
 | URL-адрес терминов использования | [https://www.alvao.com/en/storage/app/media/documents/licens...](https://www.alvao.com/en/storage/app/media/documents/license_SD_10.3_en.pdf) |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для SurveyMonkey, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57ba8ed84e0d9ea4101ea82ed5d92aef1f634ed1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: daf5de5437a08ca8b748157a5e136bbe7b114122
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552730"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280821"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552730"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | SurveyMonkey |
-| ID | WA104381088 |
+| Идентификатор | WA104381088 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SurveyMonkey |
 | URL-адрес веб-сайта-партнера | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
 | URL-адрес страницы Teams приложения | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-T...](https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration) |
-| URL-адрес политики конфиденциальности | [https://www.surveymonkey.com/privacy](https://www.surveymonkey.com/privacy) |
-| URL-адрес терминов использования | [https://www.surveymonkey.com/mp/policy/terms-of-use/](https://www.surveymonkey.com/mp/policy/terms-of-use/) |
+| URL-адрес политики конфиденциальности | [https://www.surveymonkey.com/mp/legal/privacy-policy/](https://www.surveymonkey.com/mp/legal/privacy-policy/) |
+| URL-адрес терминов использования | [https://www.surveymonkey.com/mp/legal/terms-of-use/](https://www.surveymonkey.com/mp/legal/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

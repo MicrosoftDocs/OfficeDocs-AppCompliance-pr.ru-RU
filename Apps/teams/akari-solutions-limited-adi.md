@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ADI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 576206f6d80f4bbc46ebdd1cef899581c12bcd8a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ad4b6c68e867a057a3b2b6dc85d5016fee92f3ed
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552420"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282082"
 ---
 # <a name="adi"></a>ADI
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552420"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ADI |
-| ID | WA200002615 |
+| Идентификатор | WA200002615 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Akari Solutions Limited |
-| URL-адрес веб-сайта-партнера | [https://akari.io/adi/](https://akari.io/adi/) |
+| URL-адрес веб-сайта-партнера | [https://akari.io](https://akari.io) |
 | URL-адрес страницы Teams приложения | [https://akari.io/adi](https://akari.io/adi) |
 | URL-адрес политики конфиденциальности | [https://akari.io/adi-privacy-policy/](https://akari.io/adi-privacy-policy/) |
 | URL-адрес терминов использования | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |

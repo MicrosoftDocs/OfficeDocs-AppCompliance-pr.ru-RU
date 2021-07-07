@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для средства отчетности iPlanner для Office 365 Planner, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a577fcc75982703bfae0de740a7e69d9d13e509a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548769"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281151"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>средство отчетности iPlanner для Office 365 планировщика
 
@@ -31,12 +31,12 @@ ms.locfileid: "52548769"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | средство отчетности iPlanner для Office 365 планировщика |
-| ID | WA104380686 |
+| Идентификатор | WA104380686 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или более поздней Windows, Excel в Интернете, Excel 2016 или позднее на Mac |
 | Имя компании-партнера | iGlobe |
-| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
-| URL-адрес политики конфиденциальности | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| URL-адрес терминов использования | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836912/Product_42949680354/Asset_9d620695-979f-49e4-bc56-98259b0cdeb2/EULAPlanner.pdf) |
+| URL-адрес веб-сайта-партнера | [https://iglobecrm.com/](https://iglobecrm.com/) |
+| URL-адрес политики конфиденциальности | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
+| URL-адрес терминов использования | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

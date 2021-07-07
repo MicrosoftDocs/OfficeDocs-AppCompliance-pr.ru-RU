@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TackleBox, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6d521b6172e4915d6ce10ea493069355ce3abfdf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3ca294c588f6447c5e54c53cf1dec33b1e849a47
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552070"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281832"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552070"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TackleBox |
-| ID | WA200002310 |
+| Идентификатор | WA200002310 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Insiten |
-| URL-адрес веб-сайта-партнера | [https://tacklebox.app/](https://tacklebox.app/) |
+| URL-адрес веб-сайта-партнера | [https://insiten.com](https://insiten.com) |
 | URL-адрес страницы Teams приложения | [https://tacklebox.app](https://tacklebox.app) |
 | URL-адрес политики конфиденциальности | [https://tacklebox.app/privacy/](https://tacklebox.app/privacy/) |
 | URL-адрес терминов использования | [https://tacklebox.app/terms/](https://tacklebox.app/terms/) |
@@ -58,7 +58,7 @@ ms.locfileid: "52552070"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Files.ReadWrite.All | делегирована | Позволяет пользователям просматривать OneDrive, папок и файлов; ссылки файлов на TackleBox; чтение Excel в автоматические диаграммы, графики, таблицы, области печати и названные диапазоны; создание и обновление PowerPoint с помощью этих Excel визуальных эффектов | Drive ID, Folder ID, File ID, View Link, Created By, Created Date, Modified By, Modified Date, Version ID, File Name | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| Sites.Read.All | делегирована | Разрешить пользователям просматривать и связывать Excel, расположенные в частных Teams каналах | Нет | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
+>| Sites.Read.All | делегирована | Разрешить пользователям просматривать и связывать Excel, расположенные в частных Teams каналах | Нет. | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
 >| User.Read | делегирована | Позволяет приложению считыть профиль вписаных пользователей и перенастраить их адрес электронной почты для уведомлений | Электронная почта | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
 >| openid | делегирована | Позволяет пользователям войти в наше приложение с помощью Microsoft 365 учетной записи | ID клиента и объектный ID для пользователя | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
 >| profile | делегирована | Позволяет приложению отображать базовый профиль пользователей (имя, имя пользователя) для фасилитации совместной работы | UPN, имя, фамилия | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |

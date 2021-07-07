@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Altru Videos, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85f884846493c52203d9479277bbdb889a79679e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 50f3b5adfb587502d852637e3465ff1cc5c06db8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552580"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281671"
 ---
 # <a name="altru-videos"></a>Видео Altru
 
@@ -32,12 +32,12 @@ ms.locfileid: "52552580"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Видео Altru |
-| ID | WA200000026 |
+| Идентификатор | WA200000026 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Альтру |
-| URL-адрес веб-сайта-партнера | [https://www.altrulabs.com/](https://www.altrulabs.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.icims.com](https://www.icims.com) |
 | URL-адрес политики конфиденциальности | [https://www.altrulabs.com/privacy](https://www.altrulabs.com/privacy) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL-адрес терминов использования | [https://www.icims.com/gc/video-studio-service-addendum/](https://www.icims.com/gc/video-studio-service-addendum/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

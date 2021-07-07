@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a97f2af9e6cf88cf14794293a574d62b91f357e1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5b1c7194ed42779d966c4d7d4f519374bbb78bb1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552130"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281261"
 ---
 # <a name="coco"></a>COCO
 
@@ -32,10 +32,10 @@ ms.locfileid: "52552130"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | COCO |
-| ID | WA200001468 |
+| Идентификатор | WA200001468 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hexaware Technologies Ltd. |
-| URL-адрес веб-сайта-партнера | [https://hexaware.com/](https://hexaware.com/) |
+| URL-адрес веб-сайта-партнера | [https://hexaware.com](https://hexaware.com) |
 | URL-адрес политики конфиденциальности | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
 | URL-адрес терминов использования | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
 
@@ -55,13 +55,13 @@ ms.locfileid: "52552130"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | делегирована | Нет | Каталог доступа в качестве подписанного пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.Read.All | приложение | Нет | Чтение данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.ReadWrite.All | делегирована | Нет | Чтение и запись данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read | делегирована | Нет | Вход и чтение профиля пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read.All | приложение | Нет | Чтение полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.ReadWrite.All | делегирована | Нет | Чтение и запись полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| openid | делегирована | Нет | Вход пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.AccessAsUser.All | делегирована | Нет. | Каталог доступа в качестве подписанного пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.Read.All | приложение | Нет. | Чтение данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.ReadWrite.All | делегирована | Нет. | Чтение и запись данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.Read | делегирована | Нет. | Вход и чтение профиля пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.Read.All | приложение | Нет. | Чтение полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.ReadWrite.All | делегирована | Нет. | Чтение и запись полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| openid | делегирована | Нет. | Вход пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

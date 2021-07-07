@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для live Chat, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9bc8ccb18fd8e43dd3d59f15fbc324f835e82d93
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 41df26af03dd56fb89ce316ecaa61d7af3ae7bf5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551489"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280931"
 ---
 # <a name="live-chat"></a>Live Chat
 
@@ -33,12 +33,12 @@ ms.locfileid: "52551489"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Live Chat |
-| ID | WA200000440 |
+| Идентификатор | WA200000440 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Social Intents |
 | URL-адрес веб-сайта-партнера | [https://www.socialintents.com](https://www.socialintents.com) |
-| URL-адрес политики конфиденциальности | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| URL-адрес терминов использования | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| URL-адрес политики конфиденциальности | []() |
+| URL-адрес терминов использования | []() |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

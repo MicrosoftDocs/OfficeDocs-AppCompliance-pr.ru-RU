@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Smartsheet, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ddf77e7e73cc0bef1a21e72d1db328a4845a12f5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c97f12b0e1f423318c98419f11e7569c5285830d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551529"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280941"
 ---
 # <a name="smartsheet"></a>Smartsheet
 
@@ -33,13 +33,13 @@ ms.locfileid: "52551529"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Smartsheet |
-| ID | WA104380975 |
+| Идентификатор | WA104380975 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Smartsheet |
-| URL-адрес веб-сайта-партнера | [https://help.smartsheet.com/articles/2476201](https://help.smartsheet.com/articles/2476201) |
+| URL-адрес веб-сайта-партнера | [https://www.smartsheet.com](https://www.smartsheet.com) |
 | URL-адрес страницы Teams приложения | [https://help.smartsheet.com/articles/2476201-interact-with-...](https://help.smartsheet.com/articles/2476201-interact-with-smartsheet-items-in-microsoft-teams) |
-| URL-адрес политики конфиденциальности | [https://www.smartsheet.com/privacy](https://www.smartsheet.com/privacy) |
-| URL-адрес терминов использования | [https://www.smartsheet.com/user-agreement](https://www.smartsheet.com/user-agreement) |
+| URL-адрес политики конфиденциальности | [https://www.smartsheet/legal/privacy](https://www.smartsheet/legal/privacy) |
+| URL-адрес терминов использования | [https://Default Пользовательское соглашение. https://www.smartsheet.com/.. .](https://Default User Agreement: https://www.smartsheet.com/legal/user-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,7 +70,7 @@ ms.locfileid: "52551529"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| API bot Framework | Да | Мы используем API Bot Framework для доставки сообщений в качестве приложения для приложения teams. Smartsheet хранит сведения userId, чтобы отслеживать, с кем разговаривает бот Smartsheet. |  | Нет |  |
+>| API bot Framework | Да | Мы используем API Bot Framework для доставки сообщений в качестве приложения для приложения teams. Smartsheet хранит сведения userId, чтобы отслеживать, с кем разговаривает бот Smartsheet. |  | Нет. |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 

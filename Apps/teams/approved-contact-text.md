@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Text, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629676"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281431"
 ---
 # <a name="text"></a>Текст
 
@@ -33,10 +33,10 @@ ms.locfileid: "52629676"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Текст |
-| ID | WA200000383 |
+| Идентификатор | WA200000383 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Approved Contact |
-| URL-адрес веб-сайта-партнера | [www.approvedcontact.com](www.approvedcontact.com) |
+| URL-адрес веб-сайта-партнера | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | URL-адрес политики конфиденциальности | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
 | URL-адрес терминов использования | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
@@ -57,7 +57,7 @@ ms.locfileid: "52629676"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Group.ReadWrite.All | делегирована | Для text BOT мы захватим идентификатор Team для создания будущих каналов для входящие текстовые сообщения. | Позволяет создавать каналы Teams для пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| рассылка | делегирована | адреса электронной почты | Получение контактных данных пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| email | делегирована | адреса электронной почты | Получение контактных данных пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
 >| offline_access | делегирована | Маркеры обновления хранятся в нашей базе данных. | Используется для сохраняются маркеры обновления в нашей базе данных | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
 >| openid | делегирована | Учетные данные входа | Позволяет пользователю войти в систему. для доставки текстов в Teams каналы | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
 >| profile | делегирована | адреса электронной почты | Получение контактных данных пользователей. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |

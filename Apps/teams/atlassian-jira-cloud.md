@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Jira Cloud, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 07d5a5c25ff013e1fb6f060f51fdb92629901cb3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8044715d2f2f743b194d080c9a74b9651f9dac24
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553400"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282042"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553400"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Jira Cloud |
-| ID | WA200002140 |
+| Идентификатор | WA200002140 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Atlassian |
-| URL-адрес веб-сайта-партнера | [https://marketplace.atlassian.com/apps/1217836/microsoft-te...](https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira) |
-| URL-адрес политики конфиденциальности | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| URL-адрес терминов использования | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
+| URL-адрес веб-сайта-партнера | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| URL-адрес политики конфиденциальности | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

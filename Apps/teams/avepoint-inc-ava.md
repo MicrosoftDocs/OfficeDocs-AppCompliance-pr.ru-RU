@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для AVA, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6176bc86a6d382285623d3e3286852afd4a4ff96
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552370"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281411"
 ---
 # <a name="ava"></a>AVA
 
@@ -33,12 +33,12 @@ ms.locfileid: "52552370"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | AVA |
-| ID | WA104381883 |
+| Идентификатор | WA104381883 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | AvePoint, Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.avepoint.com](https://www.avepoint.com) |
+| URL-адрес веб-сайта-партнера | [https://www.avepoint.com/](https://www.avepoint.com/) |
 | URL-адрес страницы Teams приложения | [https://www.avepoint.com/support/](https://www.avepoint.com/support/) |
-| URL-адрес политики конфиденциальности | [https://www.avepoint.com/privacy-policy](https://www.avepoint.com/privacy-policy) |
+| URL-адрес политики конфиденциальности | [https://www.avepoint.com/company/privacy-policy/](https://www.avepoint.com/company/privacy-policy/) |
 | URL-адрес терминов использования | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -57,7 +57,7 @@ ms.locfileid: "52552370"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite.Shared | делегирована | Нет | Поиск электронной почты пользователя и перемещение электронной почты в указанную папку | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
+>| Mail.ReadWrite.Shared | делегирована | Нет. | Поиск электронной почты пользователя и перемещение электронной почты в указанную папку | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
 >| User.Read | делегирована |  Маркер доступа пользователя, используемый для поиска и восстановления данных пользователя | Позволяет пользователю войти и предоставить маркер доступа приложению | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
 >| User.ReadWrite | делегирована | DisplayName, UserPrincipalName, JobTitle, Organization, Country, MySiteUrl — записываю основные сведения пользователя, который использовал приложение | Получить основные сведения о профиле пользователя | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
 
@@ -67,7 +67,7 @@ ms.locfileid: "52552370"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| REST API SharePoint | Да | Поиск файла в утилизации личного сайта пользователя и восстановление этих файлов. Требуется разрешение AllSites.Manage. |  | Нет |  |
+>| REST API SharePoint | Да | Поиск файла в утилизации личного сайта пользователя и восстановление этих файлов. Требуется разрешение AllSites.Manage. |  | Нет. |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройок CRM iGlobe, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b1e1fc9636b7c6e612e1a9a11ef5770638a5217f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 251f417ae2aee8dce2e908d7b75a3ab462442422
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553490"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282132"
 ---
 # <a name="iglobe-crm-add-ons"></a>Надстройки cRM iGlobe
 
@@ -31,10 +31,10 @@ ms.locfileid: "52553490"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Надстройки cRM iGlobe |
-| ID | WA200002010 |
+| Идентификатор | WA200002010 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | iGlobe |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL-адрес политики конфиденциальности | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
 | URL-адрес терминов использования | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
 

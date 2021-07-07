@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Streem, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e2846048e24c525f55b3a51a5a5ce7c9fa2f862e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d4bedfee8b2a65a0164c845dba10ebf0c44c4eac
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553830"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280831"
 ---
 # <a name="streem"></a>Streem
 
@@ -33,13 +33,12 @@ ms.locfileid: "52553830"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Streem |
-| ID | WA200000197 |
+| Идентификатор | WA200000197 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Streem |
-| URL-адрес веб-сайта-партнера | [https://streem.com.au](https://streem.com.au) |
-| URL-адрес страницы Teams приложения | [N/A](N/A) |
-| URL-адрес политики конфиденциальности | [https://streem.com.au/privacy](https://streem.com.au/privacy) |
-| URL-адрес терминов использования | [https://streem.com.au/terms/general](https://streem.com.au/terms/general) |
+| URL-адрес веб-сайта-партнера | [https://www.streem.com.au](https://www.streem.com.au) |
+| URL-адрес политики конфиденциальности | [https://www.streem.com.au/privacy](https://www.streem.com.au/privacy) |
+| URL-адрес терминов использования | [https://www.streem.com.au/terms/general](https://www.streem.com.au/terms/general) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для OnePlaceMail для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552500"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281711"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail для Outlook
 
@@ -32,12 +32,12 @@ ms.locfileid: "52552500"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | OnePlaceMail для Outlook |
-| ID | WA104380723 |
-| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
+| Идентификатор | WA104380723 |
+| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или позднее на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | Решения OnePlace |
-| URL-адрес веб-сайта-партнера | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | URL-адрес политики конфиденциальности | [https://www.oneplacesolutions.com/oneplacemailapp-privacy](https://www.oneplacesolutions.com/oneplacemailapp-privacy) |
-| URL-адрес терминов использования | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
+| URL-адрес терминов использования | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +55,14 @@ ms.locfileid: "52552500"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | делегирована | Необходимо определить Teams, в который входит текущий пользователь. | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
->| Mail.ReadWrite.Shared | делегирована | Необходимо получить доступ к свойствам почты для SharePoint столбцов и добавить в SharePoint категорию для элемента почты | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
->| MailboxSettings.ReadWrite | делегирована | Данные, собранные или используемые, используются для добавления категории в список категорий в почтовом ящике пользователей. | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
->| Sites.ReadWrite.All | делегирована | Необходимо установить свойства для элементов, загруженных приложением в SharePoint. | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Group.ReadWrite.All | делегирована | Необходимо определить Teams, в который входит текущий пользователь. | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Mail.ReadWrite.Shared | делегирована | Необходимо получить доступ к свойствам почты для SharePoint столбцов и добавить в SharePoint категорию для элемента почты | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
+>| MailboxSettings.ReadWrite | делегирована | Данные, собранные или используемые, используются для добавления категории в список категорий в почтовом ящике пользователей. | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Sites.ReadWrite.All | делегирована | Необходимо установить свойства для элементов, загруженных приложением в SharePoint. | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
 >| User.Read | делегирована | Необходимые для проверки подлинности в microsoft Graph. | Следующие данные хранятся приложением в базе данных и используются для отслеживания подписок и лицензий пользователей: User Id, Email, First Name, Last Name. | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | делегирована | Требуется показать изображение профиля пользователя в поле выборщика людей. | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | делегирована | Требуется показать изображение профиля пользователя в поле выборщика людей. | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadWrite.All | делегирована | Необходимо определить, включена ли Teams служба в пользователях, Office 365 аренды. | Нет | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadBasic.All | делегирована | Требуется показать изображение профиля пользователя в поле выборщика людей. | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadBasic.All | делегирована | Требуется показать изображение профиля пользователя в поле выборщика людей. | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadWrite.All | делегирована | Необходимо определить, включена ли Teams служба в пользователях, Office 365 аренды. | Нет. | 44a72516-136f-4a55-ae26-ef09977230be |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
@@ -86,7 +86,7 @@ ms.locfileid: "52552500"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->EUII и OII отображаются в телеметрии. Эти сведения хранятся в приложениях Insights, шифруются в покое, доступ контролируется и удаляется через 90 дней.
+>EUII и OII отображаются в телеметрии. Эти сведения хранятся в приложении Аналитика, шифруются в покое, доступ контролируется и удаляется через 90 дней.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 

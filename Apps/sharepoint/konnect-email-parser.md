@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Konnect eMail Parser, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6341fbe817009d86dbd92256fed54c72ff89161f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552470"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282122"
 ---
 # <a name="konnect-email-parser"></a>Parser электронной почты Konnect
 
@@ -32,10 +32,10 @@ ms.locfileid: "52552470"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Parser электронной почты Konnect |
-| ID | WA200001893 |
+| Идентификатор | WA200001893 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | Электронная почта Konnect |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL-адрес веб-сайта-партнера | [https://www.konnectemail.com](https://www.konnectemail.com) |
 | URL-адрес политики конфиденциальности | [https://www.konnectemail.com/privacy-policy-sharepoint-pars...](https://www.konnectemail.com/privacy-policy-sharepoint-parser-app) |
 | URL-адрес терминов использования | [https://www.konnectemail.com/eula](https://www.konnectemail.com/eula) |
 
@@ -68,7 +68,7 @@ ms.locfileid: "52552470"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Журналы, сохраненные в течение 90 дней в Azure Application Insights
+>Журналы, сохраненные в течение 90 дней в Azure Application Аналитика
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 

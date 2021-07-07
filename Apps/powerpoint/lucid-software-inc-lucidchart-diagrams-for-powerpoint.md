@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart Diagrams для PowerPoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 024b2e925ba84967bf40754908a8d98baa1d705f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7fcf941323e998bd2e4ffba59f60410e745a1613
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553610"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282363"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>Диаграммы Lucidchart для PowerPoint
 
@@ -32,10 +32,10 @@ ms.locfileid: "52553610"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Диаграммы Lucidchart для PowerPoint |
-| ID | WA104380117 |
+| Идентификатор | WA104380117 |
 | Office 365 поддерживаемые клиенты | PowerPoint 2016 или позже на Mac, PowerPoint в Интернете, PowerPoint 2013 или более поздней Windows |
 | Имя компании-партнера | Lucid Software Inc |
-| URL-адрес веб-сайта-партнера | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | URL-адрес политики конфиденциальности | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | URL-адрес терминов использования | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 

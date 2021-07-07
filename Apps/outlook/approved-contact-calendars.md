@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для утвержденных календарей контактов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6849ef81797483688f6e0fad69338b1a015748d0
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 9bb96c6c6ba40df3e3d4d64c1f0e4033d7425e88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629651"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281651"
 ---
 # <a name="approved-contact-calendars"></a>Утвержденные календари контактов
 
@@ -32,10 +32,10 @@ ms.locfileid: "52629651"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Утвержденные календари контактов |
-| ID | WA104380294 |
+| Идентификатор | WA104380294 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Approved Contact |
-| URL-адрес веб-сайта-партнера | [www.approvedcontact.com](www.approvedcontact.com) |
+| URL-адрес веб-сайта-партнера | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | URL-адрес политики конфиденциальности | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
 | URL-адрес терминов использования | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

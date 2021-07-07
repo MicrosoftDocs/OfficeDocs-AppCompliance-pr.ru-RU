@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для monday.com, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 64fc8e948618b760a3f82ee9c1ac67a32de9afb6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552930"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281221"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -33,11 +33,11 @@ ms.locfileid: "52552930"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | monday.com |
-| ID | WA200001798 |
+| Идентификатор | WA200001798 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | monday.com |
-| URL-адрес веб-сайта-партнера | [https://monday.com](https://monday.com) |
-| URL-адрес политики конфиденциальности | [https://monday.com/privacy](https://monday.com/privacy) |
+| URL-адрес веб-сайта-партнера | [https://monday.com/](https://monday.com/) |
+| URL-адрес политики конфиденциальности | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
 | URL-адрес терминов использования | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -85,13 +85,13 @@ ms.locfileid: "52552930"
 >monday.com служба находится в инфраструктуре AWS в Северной Вирджинии в нескольких зонах доступности, а сайт DR создан в другом регионе. Некоторые данные резервного копирования хранятся в GCP (США, нескольких регионах). Доступ к monday.com контролируется администраторами организации пользователей и достигается с помощью следующих функций:
 - Типы пользователей.
 - Разрешения на уровне учетной записи
-- Workspaces
+- Рабочие области
 - Типы доски
 - Разрешения на уровне доски
 - Разрешения на уровне столбцов monday.com поддерживают следующие методы проверки подлинности:
 - Учетные данные
 - SSO Google (для Pro плана)
-- Окта, OneLogin и настраиваемый SAML 2.0 (для Enterprise плана) 2FA через SMS или через приложение-аутентификацию могут быть дополнительно включены администраторами учетных записей через панель администрирования платформы.
+- Okta, OneLogin и настраиваемый SAML 2.0 (для Enterprise плана) 2FA с помощью SMS или через приложение-аутентификацию могут быть дополнительно включены администраторами учетных записей через панель администрирования платформы.
 Все данные в покое шифруются с помощью AES-256. Все данные, которые переходили через открытые сети, шифруются с помощью TLS 1.3 (минимум TLS 1.2).
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации

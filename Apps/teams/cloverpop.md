@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Cloverpop, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: eaee7a04f4d8e74f97eef1fae358f80a0c3e2249
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c6be013237c6368624687f7eb297a7149c28a548
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553230"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281351"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553230"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Cloverpop |
-| ID | WA200001803 |
+| Идентификатор | WA200001803 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cloverpop |
-| URL-адрес веб-сайта-партнера | [https://www.cloverpop.com](https://www.cloverpop.com) |
+| URL-адрес веб-сайта-партнера | [https://www.cloverpop.com/](https://www.cloverpop.com/) |
 | URL-адрес политики конфиденциальности | [https://www.cloverpop.com/privacy-policy/](https://www.cloverpop.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://www.cloverpop.com/terms-of-service](https://www.cloverpop.com/terms-of-service) |
 

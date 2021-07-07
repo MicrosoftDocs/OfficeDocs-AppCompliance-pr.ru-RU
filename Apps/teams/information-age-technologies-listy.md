@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Listy, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5ab2349789fdb138bc9f18fd6f50d9877ec972d9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bfa36c199e7839ce0756ecb5dfb3f5b923821405
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552080"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281842"
 ---
 # <a name="listy"></a>Listy
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552080"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Listy |
-| ID | WA200000798 |
+| Идентификатор | WA200000798 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Information Age Technologies |
-| URL-адрес веб-сайта-партнера | [https://www.iat21.com/listy](https://www.iat21.com/listy) |
+| URL-адрес веб-сайта-партнера | [https://www.iat21.com](https://www.iat21.com) |
 | URL-адрес страницы Teams приложения | [https://www.iat21.com/listy](https://www.iat21.com/listy) |
 | URL-адрес политики конфиденциальности | [https://www.iat21.com/listy-privacy-policy](https://www.iat21.com/listy-privacy-policy) |
-| URL-адрес терминов использования | [https://www.iat21.com/listy-terms-of-service](https://www.iat21.com/listy-terms-of-service) |
+| URL-адрес терминов использования | [https://www.iat21.com/listy-end-user-license-ag](https://www.iat21.com/listy-end-user-license-ag) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

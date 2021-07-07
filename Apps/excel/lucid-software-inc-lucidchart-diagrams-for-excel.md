@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для диаграмм Lucidchart для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5481ed9ce5f8e589fe5ea8703fb48b53c5dab488
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4b2fd25b60c7156a60dffbbdca4d45421c7c4659
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548799"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281127"
 ---
 # <a name="lucidchart-diagrams-for-excel"></a>Диаграммы Lucidchart для Excel
 
@@ -32,12 +32,12 @@ ms.locfileid: "52548799"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Диаграммы Lucidchart для Excel |
-| ID | WA104380194 |
+| Идентификатор | WA104380194 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2013 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | Lucid Software Inc |
-| URL-адрес веб-сайта-партнера | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | URL-адрес политики конфиденциальности | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=ru-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL-адрес терминов использования | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

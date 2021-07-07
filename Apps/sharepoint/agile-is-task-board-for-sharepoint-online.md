@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Agile Task Board для SharePoint Online, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bebf3ab2580037bba226df853c340de1e6f71cf9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 649c3ee34514214e91eaa1fe5ed43b43f6d9a43b
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553530"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282250"
 ---
 # <a name="agile-task-board-for-sharepoint-online"></a>Agile Task Board for SharePoint Online
 
@@ -32,12 +32,12 @@ ms.locfileid: "52553530"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Agile Task Board for SharePoint Online |
-| ID | WA200002087 |
+| Идентификатор | WA200002087 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | Agile-IS |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL-адрес веб-сайта-партнера | [https://www.agile-is.de](https://www.agile-is.de) |
 | URL-адрес политики конфиденциальности | [https://www.agile-is.de/en/telemetry](https://www.agile-is.de/en/telemetry) |
-| URL-адрес терминов использования | [https://go.microsoft.com/fwlink/?linkid=2041178](https://go.microsoft.com/fwlink/?linkid=2041178) |
+| URL-адрес терминов использования | [https://www.agile-is.de/en/termsofuse](https://www.agile-is.de/en/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

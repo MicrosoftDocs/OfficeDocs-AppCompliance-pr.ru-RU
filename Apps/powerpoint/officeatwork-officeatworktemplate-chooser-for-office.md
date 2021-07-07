@@ -2,23 +2,23 @@
 title: Сведения о приложениях для officeatwork | Выбор шаблона для Office officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор шаблона для Office, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2328345bdcbd17b9b777e603e8ff36ee5b509176
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9bc3e8e62056582d37c7b1f4125cf29e35e9df1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553580"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282353"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | Выбор шаблона для Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 8 декабря 2020 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">Просмотр в AppSource</a>
 
@@ -31,10 +31,10 @@ ms.locfileid: "52553580"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — выбор шаблона для Office |
-| ID | WA104380050 |
+| Идентификатор | WA104380050 |
 | Office 365 поддерживаемые клиенты | Excel на iPad, Excel 2016 или более поздней Excel 2013 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 или более поздней Windows, PowerPoint iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 или более поздней Windows, Project 2016 или более поздней Windows |
 | Имя компании-партнера | officeatwork |
-| URL-адрес веб-сайта-партнера | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL-адрес терминов использования | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

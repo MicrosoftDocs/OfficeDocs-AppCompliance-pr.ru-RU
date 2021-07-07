@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MeaningCloud Text Analytics для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 93b73861138ad99eeb2ed6eac9df86656f1f8748
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d1361025e7379890dac4921e6a05737d381513e0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548819"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281131"
 ---
 # <a name="meaningcloud-text-analytics-for-excel"></a>Анализ текста MeaningCloud для Excel
 
@@ -32,10 +32,10 @@ ms.locfileid: "52548819"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Анализ текста MeaningCloud для Excel |
-| ID | WA200002421 |
+| Идентификатор | WA200002421 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2013 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | MeaningCloud |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL-адрес веб-сайта-партнера | [https://meaningcloud.com](https://meaningcloud.com) |
 | URL-адрес политики конфиденциальности | [https://www.meaningcloud.com/data-protection-policy](https://www.meaningcloud.com/data-protection-policy) |
 | URL-адрес терминов использования | [https://www.meaningcloud.com/terms-and-conditions](https://www.meaningcloud.com/terms-and-conditions) |
 

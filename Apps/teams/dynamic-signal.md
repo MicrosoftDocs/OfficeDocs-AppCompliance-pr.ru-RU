@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям динамического сигнала, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0d3c59f6809bafe16eec2a1d709f40a980576b1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 19f633362ac605ef5891b3d7e11f34a8ec04d74f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552230"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281311"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552230"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Dynamic Signal |
-| ID | WA200000102 |
+| Идентификатор | WA200000102 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Dynamic Signal |
-| URL-адрес веб-сайта-партнера | [https://dynamicsignal.com](https://dynamicsignal.com) |
+| URL-адрес веб-сайта-партнера | [https://www.dynamicsignal.com](https://www.dynamicsignal.com) |
 | URL-адрес страницы Teams приложения | [https://support.dynamicsignal.com/hc/en-us/requests/new?tic...](https://support.dynamicsignal.com/hc/en-us/requests/new?ticket_form_id=360000290032) |
 | URL-адрес политики конфиденциальности | [https://dynamicsignal.com/privacy/](https://dynamicsignal.com/privacy/) |
 | URL-адрес терминов использования | [https://dynamicsignal.com/terms-of-use/platform-terms-of-us...](https://dynamicsignal.com/terms-of-use/platform-terms-of-use/) |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign for Word и PowerPoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9b4a19f83574d7d9428bbf979ac7ee1375227c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553650"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282383"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -31,12 +31,12 @@ ms.locfileid: "52553650"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Adobe Sign for Word and PowerPoint |
-| ID | WA104381155 |
+| Идентификатор | WA104381155 |
 | Office 365 поддерживаемые клиенты | Word 2016 или более поздней PowerPoint 2013 Пакет обновления 1 или более поздней Windows, Word 2013 Пакет обновления 1 или более поздней Windows, Word в Интернете, PowerPoint в Интернете, PowerPoint 2016 или позднее на Mac |
 | Имя компании-партнера | Adobe Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.adobe.com/](https://www.adobe.com/) |
-| URL-адрес политики конфиденциальности | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
-| URL-адрес терминов использования | [https://support.office.com/client/61994a3b-2c87-41c4-a88d-a...](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en) |
+| URL-адрес веб-сайта-партнера | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
+| URL-адрес политики конфиденциальности | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
+| URL-адрес терминов использования | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

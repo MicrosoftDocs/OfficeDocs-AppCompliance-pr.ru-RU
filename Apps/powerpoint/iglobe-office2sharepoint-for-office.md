@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Office2SharePoint для Office, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1d1fccbab2aab91eacbc5a43ef79462dd536ff6e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 85198f216bb99ab5d172886d7852878d0cf61be1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553620"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281561"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint для Office
 
@@ -31,10 +31,10 @@ ms.locfileid: "52553620"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Office2SharePoint для Office |
-| ID | WA104381787 |
+| Идентификатор | WA104381787 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2016 или более поздней Windows, PowerPoint 2016 или более поздней PowerPoint в Интернете, PowerPoint 2016 или более поздней Windows |
 | Имя компании-партнера | iGlobe |
-| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL-адрес политики конфиденциальности | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
 | URL-адрес терминов использования | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 

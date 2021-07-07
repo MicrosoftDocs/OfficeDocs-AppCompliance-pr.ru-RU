@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Fusion Remote, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 52707dd87b8fe63bb6b7d57cf7ce90ebe20caf60
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 67518ab9859fa9643eea4f6cc40d97dbd40a9109
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553040"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281812"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553040"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Fusion Remote |
-| ID | WA200001422 |
+| Идентификатор | WA200001422 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Jujo Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.jujotech.com](https://www.jujotech.com) |
-| URL-адрес политики конфиденциальности | [https://www.jujotech.com/privacy-policy](https://www.jujotech.com/privacy-policy) |
-| URL-адрес терминов использования | [https://www.jujotech.com/terms-of-use/](https://www.jujotech.com/terms-of-use/) |
+| URL-адрес политики конфиденциальности | [https://www.jujothech.com/privacy-policy](https://www.jujothech.com/privacy-policy) |
+| URL-адрес терминов использования | [https://www.jujotech.com/terms-of-use](https://www.jujotech.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для DICE DisasterTech, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 29d53402a9bbf635e83d6d262227a8363577e261
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552240"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281924"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552240"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | DisasterTech DICE |
-| ID | WA200001909 |
+| Идентификатор | WA200001909 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | DisasterTech |
-| URL-адрес веб-сайта-партнера | [https://dice.disastertech.com](https://dice.disastertech.com) |
+| URL-адрес веб-сайта-партнера | [https://www.disastertech.com](https://www.disastertech.com) |
 | URL-адрес политики конфиденциальности | [https://dice.disastertech.com/privacy.html](https://dice.disastertech.com/privacy.html) |
 | URL-адрес терминов использования | [https://dice.disastertech.com/tos.html](https://dice.disastertech.com/tos.html) |
 
@@ -57,10 +57,10 @@ ms.locfileid: "52552240"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| User.Read | делегирована | Адрес электронной почты пользователя, хранимый для установления прав доступа, а также имени пользователя для идентификации пользователей по имени | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход, а также Teams входа, а также установить имена пользователей и адреса электронной почты. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| email | делегирована | Нет | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | делегирована | Нет | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | делегирована | Нет | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| profile | делегирована | Нет | Требуется для Teams одного входного знака. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| email | делегирована | Нет. | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| offline_access | делегирована | Нет. | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| openid | делегирована | Нет. | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| profile | делегирована | Нет. | Требуется для Teams одного входного знака. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

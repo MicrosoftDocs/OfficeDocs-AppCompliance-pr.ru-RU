@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для CatchEm, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 55b248c8f99e18d08ddf60dec177ce92b543f008
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8f491e0b26c58392c2e791322603dc014fcf96ef
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552320"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281992"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552320"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | CatchEm |
-| ID | WA200002639 |
+| Идентификатор | WA200002639 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Chimu Software |
-| URL-адрес веб-сайта-партнера | [https://www.chimusoftware.com](https://www.chimusoftware.com) |
+| URL-адрес веб-сайта-партнера | [https://chimusoftware.com](https://chimusoftware.com) |
 | URL-адрес страницы Teams приложения | [https://catchem.apps.chimusoftware.com/help](https://catchem.apps.chimusoftware.com/help) |
 | URL-адрес политики конфиденциальности | [https://www.chimusoftware.com/apps/catchem/privacy.html](https://www.chimusoftware.com/apps/catchem/privacy.html) |
 | URL-адрес терминов использования | [https://www.chimusoftware.com/apps/catchem/termsofuse.html](https://www.chimusoftware.com/apps/catchem/termsofuse.html) |

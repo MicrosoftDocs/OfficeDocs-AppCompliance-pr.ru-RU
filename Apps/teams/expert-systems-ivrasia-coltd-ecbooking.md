@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ecBooking, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1cdd05e4acfb1c7720af1a2e22b2c6d29425ca60
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552180"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281882"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552180"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ecBooking |
-| ID | WA200002096 |
+| Идентификатор | WA200002096 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Expert Systems IVR(Asia) Co.Ltd. |
-| URL-адрес веб-сайта-партнера | [https://www.esi-asia.com/](https://www.esi-asia.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.esi-asia.com](https://www.esi-asia.com) |
 | URL-адрес страницы Teams приложения | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/) |
 | URL-адрес политики конфиденциальности | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510822239639-efecac03-d43200b0-aa88) |
 | URL-адрес терминов использования | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1598241760681-29d114e0-5c2b) |
