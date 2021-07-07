@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Tribute, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57c0c47bd47a23efb9cf93247988b3a374690ede
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 589dcefe68d389ecfc2a4ba3f51998878358c58f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551179"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283383"
 ---
 # <a name="tribute"></a>Tribute
 
@@ -33,12 +33,12 @@ ms.locfileid: "52551179"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Tribute |
-| ID | WA200002589 |
+| Идентификатор | WA200002589 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Tribute Co. |
 | URL-адрес веб-сайта-партнера | [https://www.tributementorship.com](https://www.tributementorship.com) |
 | URL-адрес страницы Teams приложения | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
-| URL-адрес политики конфиденциальности | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
+| URL-адрес политики конфиденциальности | [https://www.tributementorship.com/privacy ](https://www.tributementorship.com/privacy ) |
 | URL-адрес терминов использования | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

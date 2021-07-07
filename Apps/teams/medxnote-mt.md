@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Medxnote MT, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: eca02f06a34c5a4d815bd2087826567cf4be27d6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ee4a304ac2844bff1fcec309fe0c96edba04208f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551970"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282983"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -33,10 +33,10 @@ ms.locfileid: "52551970"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Medxnote MT |
-| ID | WA200001823 |
+| Идентификатор | WA200001823 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Medxnote |
-| URL-адрес веб-сайта-партнера | [https://medxnote.com](https://medxnote.com) |
+| URL-адрес веб-сайта-партнера | [https://medxnote.com/](https://medxnote.com/) |
 | URL-адрес политики конфиденциальности | [https://medxnote.com/privacy-policy/](https://medxnote.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://medxnote.com/terms-conditions/](https://medxnote.com/terms-conditions/) |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для onsight Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f4010e47049177b1c9b5ce316ad48795dfe98b6b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 647c6b2a4da987f5fef828ae4b8b3fb632e65c69
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552010"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282993"
 ---
 # <a name="onsight-connect"></a>Onsight Connect
 
@@ -33,12 +33,12 @@ ms.locfileid: "52552010"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Onsight Connect |
-| ID | WA200002769 |
+| Идентификатор | WA200002769 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Librestream |
 | URL-адрес веб-сайта-партнера | [https://librestream.com](https://librestream.com) |
 | URL-адрес политики конфиденциальности | [https://librestream.com/onsight-privacy-notice-mobile-2/](https://librestream.com/onsight-privacy-notice-mobile-2/) |
-| URL-адрес терминов использования | [https://librestream.com/support-archives/termsofuse/](https://librestream.com/support-archives/termsofuse/) |
+| URL-адрес терминов использования | [https://librestream.com/support-archives/software-eula/](https://librestream.com/support-archives/software-eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

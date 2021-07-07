@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Trivie, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 92da7dff6c2e344dc6f51c6ed386dd841139f44d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3130bccb3e639100603e9790e247a8ca0f151102
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551149"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283375"
 ---
 # <a name="trivie"></a>Trivie
 
@@ -33,13 +33,13 @@ ms.locfileid: "52551149"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Trivie |
-| ID | WA200002718 |
+| Идентификатор | WA200002718 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Trivie, Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.trivie.com](https://www.trivie.com) |
+| URL-адрес веб-сайта-партнера | [https://trivie.com](https://trivie.com) |
 | URL-адрес страницы Teams приложения | [https://trivie.com](https://trivie.com) |
-| URL-адрес политики конфиденциальности | [https://www.trivie.com/privacy-policy](https://www.trivie.com/privacy-policy) |
-| URL-адрес терминов использования | [https://www.trivie.com/terms-of-service](https://www.trivie.com/terms-of-service) |
+| URL-адрес политики конфиденциальности | [https://trivie.com/privacy-policy](https://trivie.com/privacy-policy) |
+| URL-адрес терминов использования | [https://trivie.com/terms-of-service](https://trivie.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

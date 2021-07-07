@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для EdMill, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0fe3cef0358d5dca0e78888be9f6f57a53e87bd4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2e0737b48d027b51d9dc44f57b9d9cc3a11610bd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552920"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282953"
 ---
 # <a name="edmill"></a>EdMill
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552920"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | EdMill |
-| ID | WA200002622 |
+| Идентификатор | WA200002622 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | My-Serious-Game |
-| URL-адрес веб-сайта-партнера | [https://www.edmill.com/](https://www.edmill.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.my-serious-game.com](https://www.my-serious-game.com) |
 | URL-адрес страницы Teams приложения | [https://www.edmill.com](https://www.edmill.com) |
 | URL-адрес политики конфиденциальности | [https://app.edmill.com/privacy-policy](https://app.edmill.com/privacy-policy) |
-| URL-адрес терминов использования | [https://www.edmill.com/cgu/](https://www.edmill.com/cgu/) |
+| URL-адрес терминов использования | [https://app.edmill.com/static/cgv.pdf](https://app.edmill.com/static/cgv.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

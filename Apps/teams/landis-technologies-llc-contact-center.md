@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Центра контактов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f6e143a7666d5f3a4cfb5744b7a27edfbe60b982
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 121d59640731b43137d1b2e9d7df987a2a78fe01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552020"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283003"
 ---
 # <a name="contact-center"></a>Центр контактов
 
@@ -33,11 +33,11 @@ ms.locfileid: "52552020"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Центр контактов |
-| ID | WA200001428 |
+| Идентификатор | WA200001428 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Landis Technologies LLC |
-| URL-адрес веб-сайта-партнера | [https://landistechnologies.com/office365contactcenter/](https://landistechnologies.com/office365contactcenter/) |
-| URL-адрес политики конфиденциальности | [https://landistechnologies.com/legal/](https://landistechnologies.com/legal/) |
+| URL-адрес веб-сайта-партнера | [https://landistechnologies.com/](https://landistechnologies.com/) |
+| URL-адрес политики конфиденциальности | [https://www.landistechnologies.com/legal/](https://www.landistechnologies.com/legal/) |
 | URL-адрес терминов использования | [https://landistechnologies.com/eula/](https://landistechnologies.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -95,7 +95,7 @@ ms.locfileid: "52552020"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Да. Запросы Graph API ms Graph регистрируются для оказания помощи в поддержке. Он удаляется по умолчанию Microsoft Azure application Insights.
+>Да. Запросы Graph API ms Graph регистрируются для оказания помощи в поддержке. Он удаляется в Microsoft Azure приложения Аналитика по умолчанию.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 

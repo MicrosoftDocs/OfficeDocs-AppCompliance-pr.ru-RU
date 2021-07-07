@@ -2,24 +2,24 @@
 title: Сведения о приложениях для перемещения работы с Jira путем перемещения вперед
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для перемещения вперед с Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5ca2ec25650abba3f68a2ec543434c56d3c3d27
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852088"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282963"
 ---
-# <a name="move-work-forward-with-jira"></a>Перемещение работы с Jira
+# <a name="move-work-forward-with-jira"></a>Move Work Forward с Jira
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 5 мая 2021 г.</p>
+<p>Последнее обновление разработчика: 10 июня 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/79ca2e8f-dd2c-40d5-897e-1b22d41038fe" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002855" target="_blank">Просмотр в AppSource</a>
@@ -32,10 +32,10 @@ ms.locfileid: "52852088"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Перемещение работы с Jira |
-| ID | WA200002855 |
+| Имя приложения | Move Work Forward с Jira |
+| Идентификатор | WA200002855 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Перемещение работы вперед |
+| Имя компании-партнера | Move Work Forward |
 | URL-адрес веб-сайта-партнера | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | URL-адрес страницы Teams приложения | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | URL-адрес политики конфиденциальности | [https://www.moveworkforward.com/privacy-policy](https://www.moveworkforward.com/privacy-policy) |
@@ -55,7 +55,7 @@ ms.locfileid: "52852088"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Разрешение**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Channel.Create | делегирована | Используется для создания канала обсуждения проблем. | Веб-URL-адрес вновь созданного канала хранится для отображения в Jira для быстрого доступа к Microsoft Teams каналу обсуждения. | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
 >| Channel.ReadBasic.All | делегирована | Имя и id канала используются для отправки уведомлений из Jira в Microsoft Teams. | ID канала и имя хранятся для настройки уведомлений от Jira до Microsoft Teams. | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |

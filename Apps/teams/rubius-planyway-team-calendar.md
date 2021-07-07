@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для календаря команды Planyway, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69f23970621b0105d1359bb41d3539b643991448
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d712799259406f65b30a7d186763bb0addba9d1e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553930"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283103"
 ---
 # <a name="planyway-team-calendar"></a>Planyway Team Calendar
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553930"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Planyway Team Calendar |
-| ID | WA200002712 |
+| Идентификатор | WA200002712 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Rubius |
-| URL-адрес веб-сайта-партнера | [https://planyway.com](https://planyway.com) |
+| URL-адрес веб-сайта-партнера | [https://rubius.com](https://rubius.com) |
 | URL-адрес страницы Teams приложения | [https://planyway.com](https://planyway.com) |
 | URL-адрес политики конфиденциальности | [https://planyway.com/legal/privacy-policy](https://planyway.com/legal/privacy-policy) |
 | URL-адрес терминов использования | [https://planyway.com/legal/terms-of-use](https://planyway.com/legal/terms-of-use) |

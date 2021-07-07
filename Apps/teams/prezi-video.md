@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Prezi Video, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b689869b4c8799d396a61ccbecd0d1b4a4e5c51
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552840"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283143"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -33,12 +33,12 @@ ms.locfileid: "52552840"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Prezi Video |
-| ID | WA200001577 |
+| Идентификатор | WA200001577 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Prezi |
 | URL-адрес веб-сайта-партнера | [https://prezi.com](https://prezi.com) |
-| URL-адрес политики конфиденциальности | [https://prezi.com/privacy-policy/201910_NL/](https://prezi.com/privacy-policy/201910_NL/) |
-| URL-адрес терминов использования | [https://prezi.com/terms-of-use/201910_NL/](https://prezi.com/terms-of-use/201910_NL/) |
+| URL-адрес политики конфиденциальности | [https://prezi.com/privacy-policy/](https://prezi.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://prezi.com/terms-of-use/](https://prezi.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

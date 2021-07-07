@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Learn, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: acb0b07f25bc3fa2e86246a061ff73d3152b9810
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 798bd76f786119863f9ff2046e72daa15bcb0696
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550859"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283353"
 ---
 # <a name="learn"></a>Узнать
 
@@ -33,10 +33,10 @@ ms.locfileid: "52550859"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Узнать |
-| ID | WA200001308 |
+| Идентификатор | WA200001308 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Witivio |
-| URL-адрес веб-сайта-партнера | [https://www.witivio.com/learn](https://www.witivio.com/learn) |
+| URL-адрес веб-сайта-партнера | [https://www.witivio.com](https://www.witivio.com) |
 | URL-адрес политики конфиденциальности | [https://www.witivio.com/en/privacy](https://www.witivio.com/en/privacy) |
 | URL-адрес терминов использования | [https://witivio.com/en/terms-of-use](https://witivio.com/en/terms-of-use) |
 

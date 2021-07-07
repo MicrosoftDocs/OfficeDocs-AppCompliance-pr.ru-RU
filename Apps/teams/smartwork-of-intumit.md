@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SmartWork, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4e757f0d927d10ecbccb406d8d4071b52b234deb
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f6ed1a9278713153be2ef14d61ad56453ee03fa3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552790"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283203"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552790"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | SmartWork |
-| ID | WA200001149 |
+| Идентификатор | WA200001149 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SmartWork of Intumit |
-| URL-адрес веб-сайта-партнера | [https://www.intumit.com](https://www.intumit.com) |
+| URL-адрес веб-сайта-партнера | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
 | URL-адрес политики конфиденциальности | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
 | URL-адрес терминов использования | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
 

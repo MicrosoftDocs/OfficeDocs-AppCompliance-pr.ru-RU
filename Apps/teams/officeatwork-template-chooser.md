@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для шаблона Chooser, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6af7611aebaf90acfc1785ad5e5cbba3e58f3871
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 89bf2f71d99580888dbb0d938c4f5a909d0c2175
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552890"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283183"
 ---
 # <a name="template-chooser"></a>Template Chooser
 
@@ -32,10 +32,10 @@ ms.locfileid: "52552890"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Template Chooser |
-| ID | WA200000110 |
+| Идентификатор | WA200000110 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | officeatwork |
-| URL-адрес веб-сайта-партнера | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL-адрес страницы Teams приложения | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL-адрес терминов использования | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |

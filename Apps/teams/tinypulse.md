@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TINYpulse, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1083132af81b1a547eb2664b81e6048e7be4314d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5ea21e3a277c8b3388c8ae28256a671484d625f1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551349"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283413"
 ---
 # <a name="tinypulse"></a>TINYpulse
 
@@ -33,13 +33,13 @@ ms.locfileid: "52551349"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TINYpulse |
-| ID | WA104381729 |
+| Идентификатор | WA104381729 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | TINYpulse |
-| URL-адрес веб-сайта-партнера | [https://www.tinypulse.com/](https://www.tinypulse.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.tinypulse.com](https://www.tinypulse.com) |
 | URL-адрес страницы Teams приложения | [https://www.tinypulse.com/engage](https://www.tinypulse.com/engage) |
 | URL-адрес политики конфиденциальности | [https://www.tinypulse.com/privacy-policy](https://www.tinypulse.com/privacy-policy) |
-| URL-адрес терминов использования | [https://www.tinypulse.com/terms-of-use](https://www.tinypulse.com/terms-of-use) |
+| URL-адрес терминов использования | [https://www.tinypulse.com/terms-and-conditions](https://www.tinypulse.com/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,24 +2,23 @@
 title: Сведения о приложениях для доски по доске
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/12/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Вся доступная информация о безопасности и соответствия требованиям для Workboard, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ebbece019cea24042a54c69271da9ce0e4dca337
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 94ad01886baec72c516f5e32953d8a7cbea17204
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629726"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53265765"
 ---
-# <a name="workboard"></a>Доска
+# <a name="workboard"></a>Workboard
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 12 мая 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 4 июня 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/28d0282b-3cd2-49f0-90bb-a016843750c6" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381599" target="_blank">Просмотр в AppSource</a>
@@ -32,10 +31,10 @@ ms.locfileid: "52629726"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Доска |
-| ID | WA104381599 |
+| Имя приложения | Workboard |
+| Идентификатор | WA104381599 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Доска |
+| Имя компании-партнера | Workboard |
 | URL-адрес веб-сайта-партнера | [https://www.workboard.com](https://www.workboard.com) |
 | URL-адрес страницы Teams приложения | [https://www.workboard.com/microsoft/](https://www.workboard.com/microsoft/) |
 | URL-адрес политики конфиденциальности | [https://www.workboard.com/license/privacy-policy.html](https://www.workboard.com/license/privacy-policy.html) |

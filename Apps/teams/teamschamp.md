@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TeamsChamp, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7e48aa2c60e33f22de04c103b7a8727d323b10a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 44d3d36d48e6af741cb25154e5a954b8366af9a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551405"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283443"
 ---
 # <a name="teamschamp"></a>TeamsChamp
 
@@ -33,10 +33,10 @@ ms.locfileid: "52551405"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TeamsChamp |
-| ID | WA200001487 |
+| Идентификатор | WA200001487 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | TeamsChamp |
-| URL-адрес веб-сайта-партнера | [https://www.teamschamp.com/](https://www.teamschamp.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.encamina.com](https://www.encamina.com) |
 | URL-адрес страницы Teams приложения | [https://www.teamschamp.com](https://www.teamschamp.com) |
 | URL-адрес политики конфиденциальности | [https://www.teamschamp.com/privacy-policy/](https://www.teamschamp.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://www.teamschamp.com/terms/](https://www.teamschamp.com/terms/) |

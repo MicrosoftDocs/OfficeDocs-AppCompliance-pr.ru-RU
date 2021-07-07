@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart Diagrams for Word, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4e7e4bd31854f3861d60e8c740c39a11edc5bb5f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 460fc988ffcbd1da237838616910f6c5b6383ee5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552640"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283473"
 ---
 # <a name="lucidchart-diagrams-for-word"></a>Диаграммы Lucidchart для Word
 
@@ -32,10 +32,10 @@ ms.locfileid: "52552640"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Диаграммы Lucidchart для Word |
-| ID | WA104380118 |
+| Идентификатор | WA104380118 |
 | Office 365 поддерживаемые клиенты | Word 2016 mac, Word 2013 или более поздней Windows, Word в Интернете |
 | Имя компании-партнера | Lucid Software Inc |
-| URL-адрес веб-сайта-партнера | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | URL-адрес политики конфиденциальности | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | URL-адрес терминов использования | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 

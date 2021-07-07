@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствии требованиям для MIPA — ваш личный помощник, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a9f8609539de3ce0f630134dfac4c6b10b7d9378
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9637e4a1ea86df832c6d63b042b54cad8288445
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552530"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282893"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA — личный помощник
 
@@ -31,12 +31,12 @@ ms.locfileid: "52552530"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | MIPA — личный помощник |
-| ID | WA200000062 |
+| Идентификатор | WA200000062 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | iGlobe |
-| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL-адрес политики конфиденциальности | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| URL-адрес терминов использования | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-iglobe-mipa) |
+| URL-адрес терминов использования | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

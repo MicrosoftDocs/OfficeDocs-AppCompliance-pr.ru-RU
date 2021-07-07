@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Klaxoon, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 127b45d805b02136ba99f56aecfc583f30bdda25
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b4dee1e024940df3d9c81bdb2b2345a8421c9db
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553020"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283013"
 ---
 # <a name="klaxoon"></a>Klaxoon
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553020"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Klaxoon |
-| ID | WA104382058 |
+| Идентификатор | WA104382058 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Klaxoon |
 | URL-адрес веб-сайта-партнера | [https://klaxoon.com](https://klaxoon.com) |
-| URL-адрес политики конфиденциальности | [https://klaxoon.com/privacy](https://klaxoon.com/privacy) |
-| URL-адрес терминов использования | [https://klaxoon.com/static/terms.pdf](https://klaxoon.com/static/terms.pdf) |
+| URL-адрес политики конфиденциальности | [https://klaxoon.com/privacy-policy](https://klaxoon.com/privacy-policy) |
+| URL-адрес терминов использования | [https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06...](https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06814d1c3354495b2.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,7 +78,7 @@ ms.locfileid: "52553020"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Да
+>да
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 

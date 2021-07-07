@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройки Office 365 планировщика для Outlook, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c7eef95df6de269d9e383e604aa8ff32518584e1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 787fb3af3390ade636524222e733fc47df7ce162
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552540"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282903"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>надстройка Office 365 планировщика для Outlook
 
@@ -31,10 +31,10 @@ ms.locfileid: "52552540"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | надстройка Office 365 планировщика для Outlook |
-| ID | WA104380147 |
+| Идентификатор | WA104380147 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | iGlobe |
-| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL-адрес политики конфиденциальности | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
 | URL-адрес терминов использования | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 

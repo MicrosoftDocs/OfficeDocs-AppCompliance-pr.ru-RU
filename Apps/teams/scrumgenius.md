@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ScrumGenius, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ba3b54f7d99672d657b200bf36725d0c7bf03d83
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: fb8b30ddc27b512a5731ef3ec42cb76ed097c56c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553910"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283053"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -33,10 +33,10 @@ ms.locfileid: "52553910"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ScrumGenius |
-| ID | WA104381097 |
+| Идентификатор | WA104381097 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ScrumGenius |
-| URL-адрес веб-сайта-партнера | [https://scrumgenius.com/](https://scrumgenius.com/) |
+| URL-адрес веб-сайта-партнера | [https://scrumgenius.com](https://scrumgenius.com) |
 | URL-адрес политики конфиденциальности | [https://scrumgenius.com/privacy/](https://scrumgenius.com/privacy/) |
 | URL-адрес терминов использования | [https://scrumgenius.com/tos/](https://scrumgenius.com/tos/) |
 

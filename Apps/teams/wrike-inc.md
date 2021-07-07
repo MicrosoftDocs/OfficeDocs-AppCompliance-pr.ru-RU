@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Wrike, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4ef844f9bf25ffa41a6054aa6ffcbebdb94be223
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c175c36e7ecb9bc19b2ff3ad95b56bfab38cdcab
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550769"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283343"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -32,13 +32,13 @@ ms.locfileid: "52550769"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Wrike |
-| ID | WA104381390 |
+| Идентификатор | WA104381390 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Wrike Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.wrike.com](https://www.wrike.com) |
+| URL-адрес веб-сайта-партнера | [https://www.wrike.com/](https://www.wrike.com/) |
 | URL-адрес страницы Teams приложения | [https://help.wrike.com/hc/en-us/articles/115001825869-Micro...](https://help.wrike.com/hc/en-us/articles/115001825869-Microsoft-Teams) |
-| URL-адрес политики конфиденциальности | [https://www.wrike.com/security/privacy/](https://www.wrike.com/security/privacy/) |
-| URL-адрес терминов использования | [https://www.wrike.com/security/terms/](https://www.wrike.com/security/terms/) |
+| URL-адрес политики конфиденциальности | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| URL-адрес терминов использования | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

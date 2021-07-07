@@ -2,17 +2,17 @@
 title: Microsoft Outlook безопасности и соответствия требованиям — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/21/2021
+ms.date: 07/02/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех Outlook приложений Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: bf0efa79460f5c5d794f1b300af9ff6af98dd2b7
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 00e8b55b4cb0767405adc0bab02a084256df0418
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629631"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53265775"
 ---
 # <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook безопасности и соответствия требованиям
 
@@ -24,6 +24,7 @@ ms.locfileid: "52629631"
 | [Видео Altru](./altru-videos.md) | Альтру | **✓** |  |
 | [Утвержденные календари контактов](./approved-contact-calendars.md) | Approved Contact | **✓** |  |
 | [Asana для Outlook](./asana-for-outlook.md) | Asana | **✓** |  |
+| [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [harmon.ie для Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Корпорация | **✓** |  |
 | [Счет и отслеживание времени — счет Zoho](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [надстройка Office 365 планировщика для Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

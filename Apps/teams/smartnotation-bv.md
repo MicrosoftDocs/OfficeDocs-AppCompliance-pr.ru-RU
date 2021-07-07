@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Smartnotation, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 14641479a5ede06ee099b17cb4d4b616bbc65df6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 956f45f76f1f43164ef668a929080f501394bc82
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553860"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283213"
 ---
 # <a name="smartnotation"></a>Smartnotation
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553860"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Smartnotation |
-| ID | WA200000681 |
+| Идентификатор | WA200000681 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Smartnotation B.V. |
-| URL-адрес веб-сайта-партнера | [https://www.smartnotation.com/](https://www.smartnotation.com/) |
-| URL-адрес политики конфиденциальности | [https://www.smartnotation.com/privacy_policy.pdf](https://www.smartnotation.com/privacy_policy.pdf) |
-| URL-адрес терминов использования | [https://www.smartnotation.com/tos.pdf](https://www.smartnotation.com/tos.pdf) |
+| URL-адрес веб-сайта-партнера | [https://www.smartnotation.com/landing/](https://www.smartnotation.com/landing/) |
+| URL-адрес политики конфиденциальности | [https://www.smartnotation.com/public/privacy_policy.pdf](https://www.smartnotation.com/public/privacy_policy.pdf) |
+| URL-адрес терминов использования | [https://www.smartnotation.com/public/tos.pdf](https://www.smartnotation.com/public/tos.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для OfficeSpace, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 216f79628f149fa3e62118b63d26bf63da16bb1f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4d72b695fe5078922922f5a26ca81c4ab7970fc1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551879"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283173"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -33,11 +33,10 @@ ms.locfileid: "52551879"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | OfficeSpace |
-| ID | WA200002052 |
+| Идентификатор | WA200002052 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | OfficeSpace Software |
-| URL-адрес веб-сайта-партнера | [https://www.officespacesoftware.com/](https://www.officespacesoftware.com/) |
-| URL-адрес страницы Teams приложения | [N/A](N/A) |
+| URL-адрес веб-сайта-партнера | [https://www.officespacesoftware.com](https://www.officespacesoftware.com) |
 | URL-адрес политики конфиденциальности | [https://www.officespacesoftware.com/oss-customer-privacy-po...](https://www.officespacesoftware.com/oss-customer-privacy-policy-25052018) |
 | URL-адрес терминов использования | [https://www.officespacesoftware.com/oss-teams-app-terms-of-...](https://www.officespacesoftware.com/oss-teams-app-terms-of-use) |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Teams Manager, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f941df5497b74f3558a56c0407456b42f3b2095d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: fbca7409c87bed006a18b31d7de2fa43afd9b95f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552770"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283193"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552770"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Teams Manager |
-| ID | WA200000764 |
+| Идентификатор | WA200000764 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Solutions2Share GmbH |
-| URL-адрес веб-сайта-партнера | [https://www.teams-manager.com](https://www.teams-manager.com) |
+| URL-адрес веб-сайта-партнера | [https://teams-manager.com/](https://teams-manager.com/) |
 | URL-адрес политики конфиденциальности | [https://www.teams-manager.com/privacy](https://www.teams-manager.com/privacy) |
 | URL-адрес терминов использования | [https://www.teams-manager.com/terms-of-use/](https://www.teams-manager.com/terms-of-use/) |
 
@@ -57,10 +57,10 @@ ms.locfileid: "52552770"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Group.ReadWrite.All | оба | Мы храним TenantID и TeamId для картографии шаблонов.  | Разрешить перечисление всех Teams, а также создать Teams. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| Notes.ReadWrite.All | приложение | Нет | Позволяет приложению добавлять записные книжки в утвержденную команду. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read | делегирована | Нет | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| Notes.ReadWrite.All | приложение | Нет. | Позволяет приложению добавлять записные книжки в утвержденную команду. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| User.Read | делегирована | Нет. | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
 >| User.Read.All | оба | Сохраняется id пользователя, вписавшегося в раздел approver/admin. | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.ReadBasic.All | делегирована | Нет | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| User.ReadBasic.All | делегирована | Нет. | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

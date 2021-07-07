@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для qChange Leader Experience, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 312240988228c487ea9d616ba0e62fe58d5ee8f1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 47a13e3336c443a861bf2c62d074767bf36eb816
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551956"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283123"
 ---
 # <a name="qchange-leader-experience"></a>qChange Leader Experience
 
@@ -33,10 +33,10 @@ ms.locfileid: "52551956"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | qChange Leader Experience |
-| ID | WA200001639 |
+| Идентификатор | WA200001639 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | qChange Software Solution, Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.qchange.com/](https://www.qchange.com/) |
+| URL-адрес веб-сайта-партнера | [https://qchange.com](https://qchange.com) |
 | URL-адрес страницы Teams приложения | [https://www.qchange.com/leader-experience](https://www.qchange.com/leader-experience) |
 | URL-адрес политики конфиденциальности | [https://www.qchange.com/privacy-policy](https://www.qchange.com/privacy-policy) |
 | URL-адрес терминов использования | [https://www.qchange.com/terms-of-service](https://www.qchange.com/terms-of-service) |

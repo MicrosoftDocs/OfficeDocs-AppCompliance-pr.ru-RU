@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Piazza, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b168fe7a5bc0b6f2f85c182c22667d6cfb2320ae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5c3e9c4d557ff73815181725e74e42433b0fb01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552860"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283153"
 ---
 # <a name="piazza"></a>Piazza
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552860"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Piazza |
-| ID | WA200001568 |
+| Идентификатор | WA200001568 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Piazza |
-| URL-адрес веб-сайта-партнера | [https://piazza.com](https://piazza.com) |
+| URL-адрес веб-сайта-партнера | [https://www.piazza.com](https://www.piazza.com) |
 | URL-адрес политики конфиденциальности | [https://piazza.com/legal/privacy](https://piazza.com/legal/privacy) |
 | URL-адрес терминов использования | [https://piazza.com/legal/terms](https://piazza.com/legal/terms) |
 

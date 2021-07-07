@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Tryane Analytics, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 265fa798414c907f25690252e1714bebfdbdde1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551109"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283575"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -33,12 +33,12 @@ ms.locfileid: "52551109"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Tryane Analytics |
-| ID | WA200001827 |
+| Идентификатор | WA200001827 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Tryane |
-| URL-адрес веб-сайта-партнера | [https://tryane.com/en/produit/tat/](https://tryane.com/en/produit/tat/) |
-| URL-адрес политики конфиденциальности | [https://tryane.com/tryane-analytics/privacy_policy.html](https://tryane.com/tryane-analytics/privacy_policy.html) |
-| URL-адрес терминов использования | [https://tryane.com/tryane-analytics/terms_of_use.html](https://tryane.com/tryane-analytics/terms_of_use.html) |
+| URL-адрес веб-сайта-партнера | [https://www.tryane.com](https://www.tryane.com) |
+| URL-адрес политики конфиденциальности | [https://analytics.tryane.com/docs/en/privacy_policy.html](https://analytics.tryane.com/docs/en/privacy_policy.html) |
+| URL-адрес терминов использования | [https://analytics.tryane.com/docs/en/terms_of_use.html](https://analytics.tryane.com/docs/en/terms_of_use.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

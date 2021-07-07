@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ngDesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c527842a226a4029f8c1d0ad842ef762c47ed85f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 307c22805fdb3f0b92d65fa5cc0b754d28e34519
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553770"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282933"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -32,12 +32,12 @@ ms.locfileid: "52553770"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ngDesk |
-| ID | WA200002505 |
+| Идентификатор | WA200002505 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Все синие решения |
-| URL-адрес веб-сайта-партнера | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| URL-адрес политики конфиденциальности | [https://ngdesk.com/privacy-policy-office-365](https://ngdesk.com/privacy-policy-office-365) |
-| URL-адрес терминов использования | [https://ngdesk.com/subscription-agreement](https://ngdesk.com/subscription-agreement) |
+| URL-адрес веб-сайта-партнера | [https://ngdesk.com](https://ngdesk.com) |
+| URL-адрес политики конфиденциальности | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
+| URL-адрес терминов использования | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

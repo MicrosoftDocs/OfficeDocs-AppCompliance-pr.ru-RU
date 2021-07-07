@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Загрузчик для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 15b81d268f091a702bcda34fdc15d25161098e9d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 872034760bea88cfe6e8b75b02d19819a6686b46
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552610"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283453"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork | Загрузщик для Office
 
@@ -31,10 +31,10 @@ ms.locfileid: "52552610"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — загрузщик для Office |
-| ID | WA104381430 |
+| Идентификатор | WA104381430 |
 | Office 365 поддерживаемые клиенты | Word on iPad, Word 2016 или более поздней основе на Mac, Word 2016 или более поздней Windows, Word в Интернете |
 | Имя компании-партнера | officeatwork |
-| URL-адрес веб-сайта-партнера | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL-адрес терминов использования | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

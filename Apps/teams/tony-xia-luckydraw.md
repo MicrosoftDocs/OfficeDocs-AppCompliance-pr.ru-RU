@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для LuckyDraw, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5ba1afff33ce27c6f520b34f73423c734c8859ec
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 24990484921465f2ad6a761efd6b3f3686344cc7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551269"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283403"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -33,10 +33,10 @@ ms.locfileid: "52551269"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | LuckyDraw |
-| ID | WA200000091 |
+| Идентификатор | WA200000091 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Tony Xia |
-| URL-адрес веб-сайта-партнера | [https://luckydraw.teetee365.com](https://luckydraw.teetee365.com) |
+| URL-адрес веб-сайта-партнера | [https://luckydraw.teetee365.com/](https://luckydraw.teetee365.com/) |
 | URL-адрес страницы Teams приложения | [https://luckydraw4web4prd.z7.web.core.windows.net/](https://luckydraw4web4prd.z7.web.core.windows.net/) |
 | URL-адрес политики конфиденциальности | [https://luckydraw.teetee365.com/privacy](https://luckydraw.teetee365.com/privacy) |
 | URL-адрес терминов использования | [https://luckydraw.teetee365.com/terms](https://luckydraw.teetee365.com/terms) |
@@ -77,7 +77,7 @@ ms.locfileid: "52551269"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->EUII регистрируется в некоторых ситуациях. Например, пользователь запускает счастливую ничью. Приложение использует Azure Application Insights, хранение данных которых по умолчанию составляет 90 дней.
+>EUII регистрируется в некоторых ситуациях. Например, пользователь запускает счастливую ничью. Приложение использует приложение Azure Аналитика хранения данных по умолчанию 90 дней.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 

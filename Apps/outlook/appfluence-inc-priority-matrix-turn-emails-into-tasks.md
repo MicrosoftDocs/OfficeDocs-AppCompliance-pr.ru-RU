@@ -2,23 +2,23 @@
 title: Сведения о приложениях для матрицы приоритетов — превратите сообщения электронной почты в задачи Appfluence Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствии требованиям для Priority Matrix — превратите электронные письма в задачи, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9843ece5a330f4a8b8adb6f1388a4a26e12dbe21
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 45ce05ada25cde937488b7372262dbb63c90f66c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553760"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282923"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>Матрица приоритетов — превратите электронные почты в задачи
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 16 апреля 2021 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">Просмотр в AppSource</a>
 
@@ -31,11 +31,11 @@ ms.locfileid: "52553760"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Матрица приоритетов — превратите электронные почты в задачи |
-| ID | WA104381735 |
-| Office 365 поддерживаемые клиенты | Outlook 2016 или более поздней версии Windows, Outlook 2016 или позднее на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
+| Идентификатор | WA104381735 |
+| Office 365 поддерживаемые клиенты | Outlook 2016 или позже Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | Appfluence Inc |
-| URL-адрес веб-сайта-партнера | [https://appfluence.com/](https://appfluence.com/) |
-| URL-адрес политики конфиденциальности | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| URL-адрес веб-сайта-партнера | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
+| URL-адрес политики конфиденциальности | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | URL-адрес терминов использования | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -117,7 +117,7 @@ ms.locfileid: "52553760"
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |

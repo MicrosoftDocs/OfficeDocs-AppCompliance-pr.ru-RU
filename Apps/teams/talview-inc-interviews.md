@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Talview Interviews, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4f6b1b560d06f7d1d3728eabd646ded7d99874db
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a641b49729a43c8b12339f162eeee395183f5859
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552700"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282943"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -33,13 +33,13 @@ ms.locfileid: "52552700"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Talview Interviews |
-| ID | WA200002437 |
+| Идентификатор | WA200002437 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Talview Inc |
 | URL-адрес веб-сайта-партнера | [https://talview.com](https://talview.com) |
 | URL-адрес страницы Teams приложения | [https://info.talview.com/talview-partners-microsoft-teams](https://info.talview.com/talview-partners-microsoft-teams) |
-| URL-адрес политики конфиденциальности | [https://talview.com/privacy](https://talview.com/privacy) |
-| URL-адрес терминов использования | [https://talview.com/terms](https://talview.com/terms) |
+| URL-адрес политики конфиденциальности | [https://www.talview.com/privacy](https://www.talview.com/privacy) |
+| URL-адрес терминов использования | [https://www.talview.com/terms](https://www.talview.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

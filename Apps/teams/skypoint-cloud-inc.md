@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для SkyPoint Cloud, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 898f7fc73ff32a8d5c999ab78141b2bcda59a09f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6c23bac241d7456f7811e74af2dff6b93ef57e6c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552830"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283233"
 ---
 # <a name="skypoint-cloud"></a>SkyPoint Cloud
 
@@ -33,10 +33,10 @@ ms.locfileid: "52552830"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | SkyPoint Cloud |
-| ID | WA200002580 |
+| Идентификатор | WA200002580 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SkyPoint Cloud Inc. |
-| URL-адрес веб-сайта-партнера | [https://skypointcloud.com/](https://skypointcloud.com/) |
+| URL-адрес веб-сайта-партнера | [https://skypointcloud.com](https://skypointcloud.com) |
 | URL-адрес страницы Teams приложения | [https://skypointcloud.com/platform/](https://skypointcloud.com/platform/) |
 | URL-адрес политики конфиденциальности | [https://skypointcloud.com/privacy/](https://skypointcloud.com/privacy/) |
 | URL-адрес терминов использования | [https://skypointcloud.com/terms/](https://skypointcloud.com/terms/) |

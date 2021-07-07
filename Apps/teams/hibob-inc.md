@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Hibob, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f2eae876022c6213b5f39532f44de4c127c3655e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6b35068bec11d40cf7cf1c21a77f12f526bc35ce
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553100"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283043"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -33,12 +33,12 @@ ms.locfileid: "52553100"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Hibob |
-| ID | WA200000765 |
+| Идентификатор | WA200000765 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hibob Inc. |
-| URL-адрес веб-сайта-партнера | [https://www.hibob.com/](https://www.hibob.com/) |
-| URL-адрес политики конфиденциальности | [https://www.hibob.com/privacy-policy](https://www.hibob.com/privacy-policy) |
-| URL-адрес терминов использования | [https://www.hibob.com/terms-and-conditions](https://www.hibob.com/terms-and-conditions) |
+| URL-адрес веб-сайта-партнера | [https://www.hibob.com](https://www.hibob.com) |
+| URL-адрес политики конфиденциальности | [https://www.hibob.com/privacy-policy/](https://www.hibob.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://www.hibob.com/terms-and-conditions/](https://www.hibob.com/terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для xLaw — система управления знаниями, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e10b2149f8d103ae9c9ab042402168be6ac73e9b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 57f63c4bc93739fa2a251d797ea4475ef786a09d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552660"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283493"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw — система управления знаниями
 
@@ -32,10 +32,10 @@ ms.locfileid: "52552660"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | xLaw — система управления знаниями |
-| ID | WA104381077 |
+| Идентификатор | WA104381077 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Имя компании-партнера | evertn |
-| URL-адрес веб-сайта-партнера | [https://xlaw.eu/](https://xlaw.eu/) |
+| URL-адрес веб-сайта-партнера | [https://extendlaw.com](https://extendlaw.com) |
 | URL-адрес политики конфиденциальности | [https://xlaw.eu/en/privacypolicy.html](https://xlaw.eu/en/privacypolicy.html) |
 | URL-адрес терминов использования | [https://xlaw.eu/en/tos.html](https://xlaw.eu/en/tos.html) |
 

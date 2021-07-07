@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для пакета notifier, политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a5d38cf65162adfcf236d955d881b77cba0ec7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 76f042a43f4a14b7ee1de71a9bb70a5e646413d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552820"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283133"
 ---
 # <a name="package-notifier"></a>Package Notifier
 
@@ -33,11 +33,10 @@ ms.locfileid: "52552820"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Package Notifier |
-| ID | WA200002737 |
+| Идентификатор | WA200002737 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | QBURST TECHNOLOGIES PVT LTD |
-| URL-адрес веб-сайта-партнера | [https://package-notifier.qburst.in](https://package-notifier.qburst.in) |
-| URL-адрес страницы Teams приложения | [N/A](N/A) |
+| URL-адрес веб-сайта-партнера | [https://www.qburst.in](https://www.qburst.in) |
 | URL-адрес политики конфиденциальности | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
 | URL-адрес терминов использования | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
 
