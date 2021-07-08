@@ -6,19 +6,19 @@ description: Microsoft 365 Сведения о сертификации
 keywords: App attestation Microsoft 365 certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a8abea4e9670f22583b8a7c718b3dec9883b9adb
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 4322695ea694e30d42925e8316c848b867394f3b
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053473"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315079"
 ---
 # <a name="what-is-microsoft-365-certification"></a>Что такое Microsoft 365 сертификация?
 
 Microsoft 365 Сертификация обеспечивает гарантии того, что данные и конфиденциальность надежно защищены и защищены при использовании сторонного приложения. Сертификация подтверждает, что приложение соответствует критериям, описанным в руководстве [Microsoft 365 сертификации.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) Приложения, которые проходят проверку, будут Microsoft 365 сертифицированы.
 Сертификация приложений достигается путем проверки и утверждения квалифицированным аналитиком комплексной оценки, в центре деятельности по обеспечению безопасности и соответствия требованиям, процессам и процедурам приложения. Хотя участие является необязательным, получение сертификата является стойким способом сигнализировать о том, что ваши приложения и операционные процедуры прошли интенсивный обзор безопасности.
 
-Microsoft 365 Сертификация применяется к Веб-приложениям и всем приложениям, которые интегрируются со следующими продуктами:
+Microsoft 365 Сертификация применяется к веб-приложениям и всем приложениям, которые интегрируются со следующими продуктами Майкрософт:
 - Teams
 - Word
 - Excel

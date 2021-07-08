@@ -6,12 +6,12 @@ description: Microsoft 365 Обзор сведений о сертификаци
 keywords: Аттестация Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4c4f5b3ab20038eb1d21e9bf24d60d64fa6a02d9
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053463"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315099"
 ---
 # <a name="complete-microsoft-365-certification"></a>Полное Microsoft 365 сертификации
 
@@ -34,6 +34,9 @@ ms.locfileid: "53053463"
 1. Перейдите в центр партнеров и просмотрите завершенную документацию [Publisher проверки.]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation) При необходимости можно изменить и обновить ответы; однако, если вы это сделаете, вам потребуется повторно предоставить документацию по проверке для утверждения. Если срок отправки превышает три месяца, мы требуем повторного Publisher проверки и проверки. 
 1. Внимательно ознакомьтесь с руководством [Microsoft 365 сертификации,](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) чтобы понять, что от вас потребуется. Убедитесь, что вы сможете выполнить требования по контролю, указанные в руководстве по сертификации Microsoft 365 сертификации. []( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)
 1. В центре партнеров нажмите кнопку "Начало сертификации". Это приведет вас на начальный портал отправки документов. Отправка [исходного документа](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission). Это поможет нам определить, какие возможности для вашей оценки основаны на том, как ваше приложение проектируются и обрабатывает данные клиентов. Часто проверяйте эту страницу, чтобы узнать, была ли принята ваша отправка.
+
+>[!NOTE]
+>Для всех приложений office вы можете ссылаться на [Office руководство по пользователям приложений.](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) Для всех веб-приложений вы можете ссылаться на наше [руководство по пользователю приложения SaaS](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide).
 
 ### <a name="assessment"></a>Оценка
 1. После первоначального представления документа на портале автоматически будет отображаться набор элементов управления безопасностью, необходимых для вашего приложения. После этого вам потребуется представить доказательства для каждого контроля, демонстрирующие, что этот контроль на месте. Имейте в виду, что вам будет **предоставлено 60 дней для** отправки всех доказательств. Аналитик рассмотрит ваши доказательства и утвердит управление или запросит новые или дополнительные доказательства. Часто проверяйте эту страницу, чтобы узнать, были ли приняты ваши доказательства.
