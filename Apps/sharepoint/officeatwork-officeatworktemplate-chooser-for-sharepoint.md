@@ -2,23 +2,23 @@
 title: Сведения о приложениях для officeatwork | Выбор шаблона для SharePoint officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор шаблона для SharePoint, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4ca57d9a566a058e8af0ae2929333361eea70f90
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2e3e8e58ebdcaae522dbcd840bd2c3794e2117a1
+ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281501"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366160"
 ---
 # <a name="officeatwork--template-chooser-for-sharepoint"></a>officeatwork | Выбор шаблона для SharePoint
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 8 декабря 2020 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200001923" target="_blank">Просмотр в AppSource</a>
 
@@ -31,7 +31,7 @@ ms.locfileid: "53281501"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — выбор шаблона для SharePoint |
-| Идентификатор | WA200001923 |
+| ID | WA200001923 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |

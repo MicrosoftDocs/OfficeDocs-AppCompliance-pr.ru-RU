@@ -2,17 +2,17 @@
 title: Microsoft Excel Безопасность и соответствие требованиям приложения — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel приложений.
 localization_priority: Normal
-ms.openlocfilehash: 0cb66e3c27ebd69c286e4250760207f93a0c56a4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 4e420551bcf1b60ddd0a36719fc12d60bb489cbf
+ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281171"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53341165"
 ---
 # <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel Безопасность приложений и соответствие требованиям
 
@@ -29,6 +29,7 @@ ms.locfileid: "53281171"
 | [Анализ текста MeaningCloud для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [Решения QuickCells](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |

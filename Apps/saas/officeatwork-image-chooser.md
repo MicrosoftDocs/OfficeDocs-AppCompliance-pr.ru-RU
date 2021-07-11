@@ -1,27 +1,27 @@
 ---
-title: Сведения о приложениях для выбора шаблонов по officeatwork
+title: Сведения о приложении для выбора изображений по officeatwork
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: Все доступные сведения о безопасности и соответствия требованиям для шаблона Chooser, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+certification_type: attested
+description: Все доступные сведения о безопасности и соответствия требованиям для выбора изображения, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c02525a5c8b78c2976de33f8ddc6c316e561d1c6
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: f5de723dfa038a621d06771b0bf4b329821eca97
+ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366221"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339838"
 ---
-# <a name="template-chooser"></a>Template Chooser
+# <a name="image-chooser"></a>Выбор изображения
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/13d1defc-6301-4e62-9c53-3361db865183" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000110" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.image-chooser" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
@@ -31,13 +31,11 @@ ms.locfileid: "53366221"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Template Chooser |
-| ID | WA200000110 |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя приложения | Выбор изображения |
+| Идентификатор | officeatwork-ag.image-chooser |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| URL-адрес страницы Teams приложения | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
-| URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
+| URL-адрес политики конфиденциальности | [https://www.officeatwork.com/privacy-policy.html](https://www.officeatwork.com/privacy-policy.html) |
 | URL-адрес терминов использования | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -56,15 +54,16 @@ ms.locfileid: "53366221"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive; OneDrive: возможность чтения и записи данных пользователям OneDrive. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Online: разрешение пользователя, чтобы включить чтение данных из SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| offline_access | делегирована | Данные не хранятся. | Sing-In: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение Officeatwork со своей организационной и/или учетной записью Майкрософт | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| profile | делегирована | Данные не хранятся. | Sing-In: чтобы показать в приложении officeatwork пользователя, вписавшись в него. Это позволяет убедить пользователя в том, какая учетная запись использовалась для регистрации в приложении officeatwork. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся. | OneDrive: возможность чтения и записи данных пользователям OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Поддержка групп безопасности: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые имеет доступ пользователь, входив в группу. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| offline_access | делегирована | Данные не хранятся. | Sing-In: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение officeatwork со своей организационной и/или учетной записью Майкрософт. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| profile | делегирована | Данные не хранятся. | Sing-In: чтобы показать в приложении officeatwork пользователя, вписавшись в него. Это позволяет убедить пользователя в том, какая учетная запись использовалась для регистрации в приложении officeatwork. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
@@ -80,11 +79,6 @@ ms.locfileid: "53366221"
 
 >Не службы Майкрософт не используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
-
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
-
->Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -113,9 +107,9 @@ ms.locfileid: "53366221"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40833' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/40833" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

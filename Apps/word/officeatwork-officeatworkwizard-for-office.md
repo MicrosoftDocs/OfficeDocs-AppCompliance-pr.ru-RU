@@ -2,23 +2,23 @@
 title: Сведения о приложениях для officeatwork | Мастер для Office officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Мастер для Office, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5cc8fa3937324d734558365d237ca612941b3be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5f60147ff25c431c6aab050894a5dbea46347a50
+ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279111"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366201"
 ---
 # <a name="officeatwork--wizard-for-office"></a>officeatwork | Мастер для Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 8 декабря 2020 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380519" target="_blank">Просмотр в AppSource</a>
 
@@ -31,7 +31,7 @@ ms.locfileid: "53279111"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — мастер для Office |
-| Идентификатор | WA104380519 |
+| ID | WA104380519 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word 2016 или более поздней Windows, Word на iPad, Word в Интернете |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |

@@ -2,23 +2,23 @@
 title: Сведения о приложениях для officeatwork | Выбор контента для Office officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор контента для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 39c7e2b45c8fa4d525d3b024533fbf63fa17b0be
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: fb8e0d9cb9f15856c5f877efc8980ebdc2785bf1
+ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281111"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366211"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | Выбор контента для Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 8 декабря 2020 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380602" target="_blank">Просмотр в AppSource</a>
 
@@ -31,7 +31,7 @@ ms.locfileid: "53281111"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — выбор контента для Office |
-| Идентификатор | WA104380602 |
+| ID | WA104380602 |
 | Office 365 поддерживаемые клиенты | Excel iPad, Excel 2016 или более поздней Excel 2013 Пакет обновления 1 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint на iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows, OneNote в Интернете |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
@@ -54,16 +54,16 @@ ms.locfileid: "53281111"
 
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Files.ReadWrite.All | делегирована | Данные не хранятся. | OneDrive: возможность чтения и записи данных пользователям OneDrive. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Поддержка групп безопасности: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые имеет доступ пользователь, входив в группу. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| offline_access | делегирована | Данные не хранятся. | Sing-In: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение officeatwork со своей организационной и/или учетной записью Майкрософт. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| profile | делегирована | Данные не хранятся. | Sing-In: чтобы показать в приложении officeatwork пользователя, вписавшись в него. Это позволяет убедить пользователя в том, какая учетная запись использовалась для регистрации в приложении officeatwork. | edb24f8f-38af-4b3e-9475-0da243678d5a |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся. | OneDrive: возможность чтения и записи данных пользователям OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Поддержка групп безопасности: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые имеет доступ пользователь, входив в группу. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| offline_access | делегирована | Данные не хранятся. | Sing-In: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение officeatwork со своей организационной и/или учетной записью Майкрософт. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| profile | делегирована | Данные не хранятся. | Sing-In: чтобы показать в приложении officeatwork пользователя, вписавшись в него. Это позволяет убедить пользователя в том, какая учетная запись использовалась для регистрации в приложении officeatwork. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 

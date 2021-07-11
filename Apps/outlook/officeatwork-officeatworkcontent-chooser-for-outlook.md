@@ -2,23 +2,23 @@
 title: Сведения о приложениях для officeatwork | Выбор контента для Outlook officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/24/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор контента для Outlook, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f7aa512ec63224aebff1ef61b2b6ffc3b6793916
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e4218aa4ef1cf61734b1234859e1203493b6e3b8
+ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282883"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366151"
 ---
 # <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork | Выбор контента для Outlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 24 ноября 2020 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380690" target="_blank">Просмотр в AppSource</a>
 
@@ -31,7 +31,7 @@ ms.locfileid: "53282883"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | officeatwork — выбор контента для Outlook |
-| Идентификатор | WA104380690 |
+| ID | WA104380690 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
