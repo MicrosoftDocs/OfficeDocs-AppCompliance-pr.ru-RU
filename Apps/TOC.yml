@@ -43,6 +43,8 @@
           href: excel/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | Выбор контента для Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Выбор изображения для Office
+          href: excel/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | Выбор шаблона для Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Диаграммы QuickCells
@@ -60,6 +62,8 @@
       items:
         - name: officeatwork | Выбор контента для Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Выбор изображения для Office
+          href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
         - name: Wunder365 для Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
     - name: Приложения Outlook Microsoft
@@ -126,6 +130,8 @@
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | Выбор контента для Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Выбор изображения для Office
+          href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | Выбор слайдов для Office
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork | Выбор шаблона для Office
@@ -616,6 +622,8 @@
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork | Конструктор для Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
+        - name: officeatwork | Выбор изображения для Office
+          href: word/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | Выбор шаблона для Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: officeatwork | Загрузщик для Office
@@ -653,6 +661,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: Выбор слайдов
+          href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser
           href: saas/officeatwork-template-chooser.md
         - name: Браузер выбора шаблона
