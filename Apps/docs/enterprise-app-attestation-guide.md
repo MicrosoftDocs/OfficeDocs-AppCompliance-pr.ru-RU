@@ -6,19 +6,19 @@ description: Дополнительные сведения о программе
 keywords: App attestation certification 365 questionnaire appSource publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: d91c11b53f1f807fbb4335918586a7748f14bf91
+ms.sourcegitcommit: a475d48e9538faa7ed682c11829c2e45ba675af6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315089"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53383732"
 ---
 # <a name="what-is-publisher-attestation"></a>Что такое Publisher проверки?
 
 Publisher Attestation — это следующий уровень в Microsoft 365 приложениях. Разработчику приложения необходимо выполнить самооценку, которая включает вопросы, часто задаваемые клиентами или ИТ-администраторами при оценке безопасности и соответствия требованиям приложения. Затем Корпорация Майкрософт публикует эти сведения для более простой и более точной оценки.
 
 > [!IMPORTANT]
-> Корпорация Майкрософт не проверяет предоставленные сведения. Разработчик приложения несет полную ответственность за сведения, которые они предоставляют в проверке публикации. 
+> Корпорация Майкрософт не проверяет всю предоставленную информацию. Разработчик приложения несет полную ответственность за сведения, которые они предоставляют в проверке издателя. 
 
 Publisher Проверки применяются к Веб-приложениям и всем приложениям, которые интегрируются со следующими платформами Майкрософт:
 - Teams
@@ -69,7 +69,7 @@ Publisher Проверки применяются к Веб-приложения
 
 **В [списке MIPA](https://docs.microsoft.com/microsoft-365-app-certification/teams/iglobe-mipa-your-personal-assistant?pivots=mcas) можно привести пример приложения, которое завершило проверку Publisher проверки.** 
 
-## <a name="learn-more"></a>Подробнее
+## <a name="learn-more"></a>Дополнительные сведения
 
 * [Microsoft 365 Обзор программы соответствия требованиям приложений](~/overview.md)
 * [Что такое Publisher проверки](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
