@@ -1,22 +1,22 @@
 ---
-title: Microsoft OneNote Безопасность и соответствие требованиям приложения — все приложения
+title: Microsoft OneNote Безопасность и соответствие требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/14/2021
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft OneNote приложений.
+description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft OneNote Apps.
 localization_priority: Normal
-ms.openlocfilehash: 0303adc7cf8b30f5e0445f2e1ce4592beb777d77
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: 9403718e45505b241bdd890d379323cb3827999a
+ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341155"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "53422720"
 ---
-# <a name="microsoft-onenote-app-security-and-compliance"></a>Microsoft OneNote Безопасность приложений и соответствие требованиям
+# <a name="microsoft-onenote-apps-security-and-compliance"></a>Microsoft OneNote Безопасность и соответствие требованиям приложений
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений о Microsoft OneNote приложениях и надстройких, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Microsoft OneNote приложений и надстройок, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|

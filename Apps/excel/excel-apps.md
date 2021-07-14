@@ -1,22 +1,22 @@
 ---
-title: Microsoft Excel Безопасность и соответствие требованиям приложения — все приложения
+title: Microsoft Excel Безопасность и соответствие требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/14/2021
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel приложений.
+description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 4e420551bcf1b60ddd0a36719fc12d60bb489cbf
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: a8cda8484e930dfce615338d027c97eaec60396a
+ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341165"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "53422690"
 ---
-# <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel Безопасность приложений и соответствие требованиям
+# <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Безопасность и соответствие требованиям приложений
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Microsoft Excel приложений и надстройок, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений Microsoft Excel приложений и надстройок, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -34,5 +34,4 @@ ms.locfileid: "53341165"
 | [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [Решения QuickCells](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
-| [Wrike для Office документов](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365 для Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |

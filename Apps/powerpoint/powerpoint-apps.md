@@ -1,22 +1,22 @@
 ---
-title: Microsoft PowerPoint безопасности и соответствия требованиям — все приложения
+title: Безопасность PowerPoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/14/2021
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для всех PowerPoint приложений Майкрософт.
+description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений PowerPoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: ceb3e1a04b3e9dad963f86a09f41e8405357c945
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: 38dd48a4754c1ef71ecbe544b8d4e0f049398d9e
+ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341185"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "53422710"
 ---
-# <a name="microsoft-powerpoint-app-security-and-compliance"></a>Microsoft PowerPoint безопасности и соответствия требованиям
+# <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Безопасность PowerPoint приложений и соответствие требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений PowerPoint приложений и надстройок Майкрософт, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений о приложениях и надстройке Microsoft PowerPoint и надстройки, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -30,4 +30,3 @@ ms.locfileid: "53341185"
 | [officeatwork | Выбор слайдов для Office](./officeatwork-officeatworkslide-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |
-| [Wrike для Office документов](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
