@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Q by ModuleQ
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/17/2020
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Q, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281752"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456595"
 ---
 # <a name="q"></a>Q
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 17 марта 2020 г.</p>
+<p>Последнее обновление разработчика: 8 июля 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/72bb25c7-3644-4318-8249-a08e5493a520" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381433" target="_blank">Просмотр в AppSource</a>
@@ -33,11 +33,12 @@ ms.locfileid: "53281752"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Q |
-| Идентификатор | WA104381433 |
+| ID | WA104381433 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ModuleQ |
 | URL-адрес веб-сайта-партнера | [https://moduleq.com](https://moduleq.com) |
-| URL-адрес политики конфиденциальности | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| URL-адрес страницы Teams приложения | [https://moduleq.com/product](https://moduleq.com/product) |
+| URL-адрес политики конфиденциальности | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -57,10 +58,10 @@ ms.locfileid: "53281752"
 >| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | приложение | сохраняет данные собраний, за исключением тела сообщения и любых вложений | Позволяет приложению читать события календаря пользователя, чтобы разумно понять бизнес-приоритеты пользователя. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | делегирована | Нет. | Позволяет приложению взаимодействовать в команде для обмена контентом. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| Group.Read.All | делегирована | Нет | Позволяет приложению взаимодействовать в команде для обмена контентом. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| Mail.Read | приложение | сохраняет данные электронной почты, за исключением тела сообщения и вложений | Позволяет приложению читать почту пользователя, чтобы разумно понимать бизнес-приоритеты пользователя | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| User.Read | делегирована | маркеры электронной почты и проверки подлинности пользователей | Позволяет пользователю войти и связать свою учетную запись Office 365 с учетной записью ModuleQ | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | делегирована | Нет. | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| User.Read.All | делегирована | Нет | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -110,3 +111,29 @@ ms.locfileid: "53281752"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения предоставлены moduleQ о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
