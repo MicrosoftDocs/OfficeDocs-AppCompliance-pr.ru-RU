@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SurveySparrow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ecf3c017f507dc0198042d45c11a393c1f1a2e8b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f27230d2cd0535b5828bff6eaa4e58eb03bf29e4
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552440"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522162"
 ---
 # <a name="surveysparrow"></a>SurveySparrow
 
@@ -33,7 +33,7 @@ ms.locfileid: "52552440"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | SurveySparrow |
-| ID | WA200002257 |
+| Идентификатор | WA200002257 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | admin@surveysparrow.com |
 | URL-адрес веб-сайта-партнера | [https://surveysparrow.com](https://surveysparrow.com) |
@@ -69,7 +69,7 @@ ms.locfileid: "52552440"
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Мы получили доступ к PII для получения id электронной почты, чтобы убедиться, что у пользователя есть учетная запись в SurveySparrow | Нет |  |
 
 

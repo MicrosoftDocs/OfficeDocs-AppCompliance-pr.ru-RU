@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Connector FormMachines для SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f550b89335a7ce75d23d01728478e121f10c6fd3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 56c08c242cb3822ebaea854026fb3f758768b7bf
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282695"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522232"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>Соединители FormMachines для SharePoint
 
@@ -53,9 +53,9 @@ ms.locfileid: "53282695"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | делегирована | (вход, электронная почта, Azure Guid, displayName, first_login_date_time) | позволяет пользователю войти в систему и предоставляет приложению доступ к его upN для обеспечения бесшумного входа, позволяет нам идентифицировать каждого пользователя. | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | делегирована | (вход, электронная почта, Azure Guid, displayName, first_login_date_time) | позволяет пользователю войти в систему и предоставляет приложению доступ к его upN для обеспечения бесшумного входа, позволяет нам идентифицировать каждого пользователя. | [8c87660f-d36f-41f6-b0ae-025253f380aa](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c87660f-d36f-41f6-b0ae-025253f380aa) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
