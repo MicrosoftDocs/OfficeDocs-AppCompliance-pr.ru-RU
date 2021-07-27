@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для социальной защиты, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e38ae1ab7bfe01792293819ef6bc57a13ba101d3
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 376dae946bfd5bf8fafcf10d33f2e7ae4e20a706
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987901"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521260"
 ---
-# <a name="social-advocacy"></a>Социальная защита
+# <a name="social-advocacy"></a>Social Advocacy
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "52987901"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Социальная защита |
-| ID | WA200002598 |
+| Имя приложения | Social Advocacy |
+| Идентификатор | WA200002598 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Oktopost |
 | URL-адрес веб-сайта-партнера | [https://www.oktopost.com](https://www.oktopost.com) |
@@ -69,7 +69,7 @@ ms.locfileid: "52987901"
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| PII используется для проверки подлинности и авторизации. | Имя, электронная почта, данные сеанса (IP, расположение) | PII используется для проверки подлинности, авторизации и ведения журнала. |
 
 

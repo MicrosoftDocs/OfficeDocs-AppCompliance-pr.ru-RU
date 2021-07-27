@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для ServiceDesk Plus Cloud, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 04797702995180e8a0a5305e88d49903eff80690
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 26c126d86f4cb50242c5a520a3939d3c78c4b59c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550549"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528030"
 ---
 # <a name="servicedesk-plus-cloud"></a>ServiceDesk Plus Cloud
 
@@ -33,7 +33,7 @@ ms.locfileid: "52550549"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ServiceDesk Plus Cloud |
-| ID | WA200000037 |
+| Идентификатор | WA200000037 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
@@ -55,17 +55,17 @@ ms.locfileid: "52550549"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | приложение |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | делегирована | ID электронной почты пользователя. | Позволяет пользователю войти и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | приложение |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | делегирована | Email ID, Name, Employee ID, Job title, Телефон, Mobile, Site, Department, Locale, Profile photo of the user. | Позволяет импортировать основные сведения пользователей из Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | делегирована | ID электронной почты пользователя. | Просмотр адреса электронной почты пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | делегирована |  | Просмотр основного профиля пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | приложение |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | делегирована | ID электронной почты пользователя. | Позволяет пользователю войти и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | приложение |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | делегирована | Email ID, Name, Employee ID, Job title, Телефон, Mobile, Site, Department, Locale, Profile photo of the user. | Позволяет импортировать основные сведения пользователей из Azure Active Directory. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | делегирована | ID электронной почты пользователя. | Просмотр адреса электронной почты пользователя. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | делегирована |  | Просмотр основного профиля пользователя. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MeisterTask, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f8a266078aad721307165b64150c5a9241bf4f35
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: dafbebb8b0bed7d06a3850a26ab205db0517ae5f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552950"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521278"
 ---
 # <a name="meistertask"></a>MeisterTask
 
@@ -33,7 +33,7 @@ ms.locfileid: "52552950"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | MeisterTask |
-| ID | WA104381349 |
+| Идентификатор | WA104381349 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MeisterLabs GmbH |
 | URL-адрес веб-сайта-партнера | [https://www.meistertask.com](https://www.meistertask.com) |
@@ -55,9 +55,9 @@ ms.locfileid: "52552950"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | делегирована | ID, displayName, e-mail address. | Для проверки подлинности и регистрации. |  |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | делегирована | ID, displayName, e-mail address. | Для проверки подлинности и регистрации. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

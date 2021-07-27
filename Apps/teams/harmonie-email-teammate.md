@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Email TeamMate, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 21c17ca6e6ac518063e9ba097b17422907e7189e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553110"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521662"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
@@ -33,7 +33,7 @@ ms.locfileid: "52553110"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Email TeamMate |
-| ID | WA200002338 |
+| Идентификатор | WA200002338 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | harmon.ie |
 | URL-адрес веб-сайта-партнера | [https://harmon.ie](https://harmon.ie) |
@@ -55,14 +55,14 @@ ms.locfileid: "52553110"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.Read | делегирована | Требуется teamMate, чтобы получить участников чата определенного разговора, чтобы поделиться файлами сохранить в SharePoint/ Один диск с участниками чата беседы | нет | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Files.ReadWrite.All | делегирована | Требуется teamMate для сохранения вложений электронной почты &amp; в SharePoint / Teams / OneDrive | нет | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Mail.ReadWrite | делегирована | Требуется от TeamMate показывать сообщения электронной почты пользователя и отвечать на сохраненные Teams | нет | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| People.Read | делегирована | Требуется teamMate для поиска сообщений электронной почты от людей, а также для того, чтобы предложить людям, с которых вы часто обращались. | нет | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.Read | делегирована | позволяет пользователям войти в TeamMate со своей учетной записью и позволяет TeamMate видеть основные сведения о профиле пользователя | нет | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.ReadBasic.All | делегирована | Требуется TeamMate для решения адресов электронной почты участников чата, чтобы сохранить файлы share в OneDrive с ними  | нет | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.Read | делегирована | Требуется teamMate, чтобы получить участников чата определенного разговора, чтобы поделиться файлами сохранить в SharePoint/ Один диск с участниками чата беседы | нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Files.ReadWrite.All | делегирована | Требуется teamMate для сохранения вложений электронной почты &amp; в SharePoint / Teams / OneDrive | нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Mail.ReadWrite | делегирована | Требуется от TeamMate показывать сообщения электронной почты пользователя и отвечать на сохраненные Teams | нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| People.Read | делегирована | Требуется teamMate для поиска сообщений электронной почты от людей, а также для того, чтобы предложить людям, с которых вы часто обращались. | нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.Read | делегирована | позволяет пользователям войти в TeamMate со своей учетной записью и позволяет TeamMate видеть основные сведения о профиле пользователя | нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.ReadBasic.All | делегирована | Требуется TeamMate для решения адресов электронной почты участников чата, чтобы сохранить файлы share в OneDrive с ними  | нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

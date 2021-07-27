@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Подключение+, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 831f29b4b5a7f15dbaf9f7672d0dece4fc50c645
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275461"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521182"
 ---
-# <a name="connect"></a>Подключение+
+# <a name="connect"></a>Connect+
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "53275461"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Подключение+ |
+| Имя приложения | Connect+ |
 | Идентификатор | WA200002611 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Шлюз "Вознаграждение" |
+| Имя компании-партнера | Reward Gateway |
 | URL-адрес веб-сайта-партнера | [https://www.rewardgateway.com](https://www.rewardgateway.com) |
 | URL-адрес страницы Teams приложения | [https://success.rewardgateway.com/hc/en-us/articles/3600158...](https://success.rewardgateway.com/hc/en-us/articles/360015834078-Installing-the-MS-Teams-Integration) |
 | URL-адрес политики конфиденциальности | [https://policies.rewardgateway.net/ms-teams-connect-plus/pr...](https://policies.rewardgateway.net/ms-teams-connect-plus/privacy-policy/) |
@@ -55,9 +55,9 @@ ms.locfileid: "53275461"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.Read.All | делегирована | Данные не собираются | Мы храним aadObjectId каждого пользователя, чтобы иметь возможность отслеживать, что они вошли в наше приложение по крайней мере один раз | 5e4dadf5-9f90-449b-9e39-934fd10b7c23 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.Read.All | делегирована | Данные не собираются | Мы храним aadObjectId каждого пользователя, чтобы иметь возможность отслеживать, что они вошли в наше приложение по крайней мере один раз | [5e4dadf5-9f90-449b-9e39-934fd10b7c23](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

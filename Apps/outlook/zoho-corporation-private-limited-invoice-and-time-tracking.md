@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для счета-фактуры и отслеживания времени — счета Zoho, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3879f8b00191c9dbd9f712e685430d0360bb74fb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281581"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527875"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Счет и отслеживание времени — счет Zoho
 
@@ -53,16 +53,16 @@ ms.locfileid: "53281581"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | делегирована |  |  Разрешить пользователям синхронизировать контакты Office365 с помощью счета Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Read | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Send | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Export.All | делегирована |  | Разрешить пользователю экспортировать всю связанную с пользователем информацию. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | делегирована |  | Разрешить пользователям вход и чтение профиля пользователя. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | делегирована |  | Разрешить пользователям импорт пользователей Office365 в Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.Read | делегирована |  |  Разрешить пользователям синхронизировать контакты Office365 с помощью счета Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Read | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Send | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Export.All | делегирована |  | Разрешить пользователю экспортировать всю связанную с пользователем информацию. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | делегирована |  | Разрешить пользователям вход и чтение профиля пользователя. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | делегирована |  | Разрешить пользователям импорт пользователей Office365 в Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

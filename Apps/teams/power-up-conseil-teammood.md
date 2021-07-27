@@ -2,24 +2,24 @@
 title: Сведения о приложениях для TeamMood по Power Up Conseil
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 06/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TeamMood, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствия требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83135e227edd83a4bf807f7a1c7d27cd094d3b4c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e64ee816ff86bfacca7e479d8d36a95272bd2e44
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551839"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521289"
 ---
 # <a name="teammood"></a>TeamMood
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 5 января 2021 г.</p>
+<p>Последнее обновление разработчика: 30 июня 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/670cd639-d430-4972-87b5-4c2eb18af991" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002451" target="_blank">Просмотр в AppSource</a>
@@ -33,7 +33,7 @@ ms.locfileid: "52551839"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | TeamMood |
-| ID | WA200002451 |
+| Идентификатор | WA200002451 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Power Up Conseil |
 | URL-адрес веб-сайта-партнера | [https://www.teammood.com](https://www.teammood.com) |
@@ -63,7 +63,7 @@ ms.locfileid: "52551839"
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS | адрес электронной почты компании, имя, имя последнего имени | Адреса электронной почты для управления учетной записью в TeamMood. Имена и имена последних имен для персонализации сообщений с пользователями. |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для пакета notifier, политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 76f042a43f4a14b7ee1de71a9bb70a5e646413d4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5ee07ef32944be2a98dc3f30902434771b8ccebb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283133"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521176"
 ---
 # <a name="package-notifier"></a>Package Notifier
 
@@ -61,7 +61,7 @@ ms.locfileid: "53283133"
 Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Azure DevOps Services REST API | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

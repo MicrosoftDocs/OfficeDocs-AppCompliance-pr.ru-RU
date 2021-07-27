@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho CRM, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5448307eeccd20e77b25282f299b52b094077b82
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5408c7dd2ce3a7cd27c98905156bdbb45c6edede
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550509"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528015"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -33,7 +33,7 @@ ms.locfileid: "52550509"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Zoho CRM |
-| ID | WA104382094 |
+| Идентификатор | WA104382094 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Pvt Ltd |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/](https://www.zoho.com/) |
@@ -55,17 +55,17 @@ ms.locfileid: "52550509"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | делегирована | ID папки календаря хранится для синхронизации контактов от Zoho CRM до Microsoft &amp; наоборот. Сведения о календаре event_name, event_location, participant_details хранятся. | Позволяет пользователю синхронизировать события Office365 с CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | делегирована | ID папки контактов хранится для синхронизации контактов из Zoho CRM в Microsoft &amp; наоборот. Сохраняются контактные first_name, last_name, адрес электронной почты. | Позволяет пользователю синхронизировать контакты Office365 с CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.All | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | делегирована | UserPrincipalName хранится для идентификации пользователя | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | делегирована | Свойства пользователей, такие как first_name, last_name, адрес электронной почты. | Чтение базовых профилей всех пользователей | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | делегирована | UserPrincipaName хранится для отступа пользователя | Просмотр адреса электронной почты пользователя | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | делегирована |  | Сохранение доступа к данным, к которым он был предоставлен | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | делегирована |  | Просмотр базового профиля пользователя | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | ID папки календаря хранится для синхронизации контактов от Zoho CRM до Microsoft &amp; наоборот. Сведения о календаре event_name, event_location, participant_details хранятся. | Позволяет пользователю синхронизировать события Office365 с CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | делегирована | ID папки контактов хранится для синхронизации контактов из Zoho CRM в Microsoft &amp; наоборот. Сохраняются контактные first_name, last_name, адрес электронной почты. | Позволяет пользователю синхронизировать контакты Office365 с CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.All | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | делегирована | UserPrincipalName хранится для идентификации пользователя | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | делегирована | Свойства пользователей, такие как first_name, last_name, адрес электронной почты. | Чтение базовых профилей всех пользователей | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | делегирована | UserPrincipaName хранится для отступа пользователя | Просмотр адреса электронной почты пользователя | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | делегирована |  | Сохранение доступа к данным, к которым он был предоставлен | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | делегирована |  | Просмотр базового профиля пользователя | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

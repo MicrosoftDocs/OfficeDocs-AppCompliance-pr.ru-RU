@@ -2,19 +2,19 @@
 title: Безопасность приложений Microsoft Teams и их соответствие требованиям для всех приложений
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 3aff0e5fd1a550d3b0a786711bb1e82ff895a5cd
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.openlocfilehash: e69279442c6edf7d53ff05120691eaf9975fd259
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339790"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547867"
 ---
-# <a name="microsoft-teams-app-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
+# <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
 Корпорация Майкрософт сотрудничает с нашими партнерами-разработчиками Microsoft 365, чтобы предоставить организациям информацию, ускоряющую принятие решений об используемых приложениях и надстройках Microsoft Teams. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/ru-RU/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
@@ -28,6 +28,7 @@ ms.locfileid: "53339790"
 | [Доска задач Agile](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [Служба поддержки Alvao](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [ApproveSimple](./capriza-inc-approvesimple.md) | Capriza, Inc | **✓** |  |
+| [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
 | [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
@@ -59,6 +60,7 @@ ms.locfileid: "53339790"
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [CodeStream](./codestream.md) | CodeStream | **✓** |  |
 | [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
@@ -85,6 +87,7 @@ ms.locfileid: "53339790"
 | [Freehand](./invisionapp-inc-freehand.md) | InVisionApp Inc. | **✓** |  |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  |
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
+| [GitHub](./microsoft-corporation-github.md) | Корпорация Майкрософт | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [Google Analytics Insights](./freevolut-ltd-google-analytics-insights.md) | Freevolut LTD | **✓** |  |
@@ -133,6 +136,7 @@ ms.locfileid: "53339790"
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [netDocShare](./kl-software-technologies-netdocshare.md) | KL Software Technologies | **✓** |  |
+| [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [Now Virtual Agent](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
@@ -231,7 +235,6 @@ ms.locfileid: "53339790"
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [Workboard](./workboard.md) | Workboard | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Workday](./workday.md) | Workday | **✓** |  |
-| [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
