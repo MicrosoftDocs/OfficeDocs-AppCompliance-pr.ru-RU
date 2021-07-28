@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор шаблона для Office, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c9bc3e8e62056582d37c7b1f4125cf29e35e9df1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 902198ce1bb7e3b805c2b6c20879a6b77b144954
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281531"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527755"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | Выбор шаблона для Office
 
@@ -52,24 +52,24 @@ ms.locfileid: "53281531"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive; OneDrive: возможность чтения и записи данных пользователям OneDrive. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Online: разрешение пользователя, чтобы включить чтение данных из SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| offline_access | делегирована | Данные не хранятся. | Sing-In: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение Officeatwork со своей организационной и/или учетной записью Майкрософт | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| profile | делегирована | Данные не хранятся. | Sing-In: чтобы показать в приложении officeatwork пользователя, вписавшись в него. Это позволяет убедить пользователя в том, какая учетная запись использовалась для регистрации в приложении officeatwork. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive; OneDrive: возможность чтения и записи данных пользователям OneDrive. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Online: разрешение пользователя, чтобы включить чтение данных из SharePoint Online. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| offline_access | делегирована | Данные не хранятся. | Sing-In: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение Officeatwork со своей организационной и/или учетной записью Майкрософт | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| profile | делегирована | Данные не хранятся. | Sing-In: чтобы показать в приложении officeatwork пользователя, вписавшись в него. Это позволяет убедить пользователя в том, какая учетная запись использовалась для регистрации в приложении officeatwork. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
 Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| REST API SharePoint | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

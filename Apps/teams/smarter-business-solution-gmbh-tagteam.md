@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TagTeam, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b4e3fcf89e816c115887fa5bd0df38cc95d4ae2f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: cd1411cff3f80788bc9a5677f595caad620484e1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53280951"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528315"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -55,12 +55,12 @@ ms.locfileid: "53280951"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Read.All | делегирована | Мы не собираем эти данные, а используем только для отображения бесед с тегами. Мы хотели бы изменить его на API поиска, но Graph API в настоящее время не поддерживает это.  | Нет. | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.Read | делегирована | Отображение User-Information (например, имя) на вкладке | Нет. | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.ReadBasic.All | делегирована | Отображение User-Avatars на вкладке | Нет. | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| openid | делегирована | Только для SignIn — данные не хранятся | Нет. | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Read.All | делегирована | Мы не собираем эти данные, а используем только для отображения бесед с тегами. Мы хотели бы изменить его на API поиска, но Graph API в настоящее время не поддерживает это.  | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| User.Read | делегирована | Отображение User-Information (например, имя) на вкладке | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| User.ReadBasic.All | делегирована | Отображение User-Avatars на вкладке | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| openid | делегирована | Только для SignIn — данные не хранятся | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

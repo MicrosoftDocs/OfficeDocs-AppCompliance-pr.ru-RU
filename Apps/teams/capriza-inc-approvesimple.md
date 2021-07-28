@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для ApproveSimple, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 99c004ca24967cff420bedb98cadbf227a88d3da
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a4e133d6f86ea92bc210af8399186701f6a4744f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553280"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525843"
 ---
 # <a name="approvesimple"></a>ApproveSimple
 
@@ -33,7 +33,7 @@ ms.locfileid: "52553280"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ApproveSimple |
-| ID | WA104381812 |
+| Идентификатор | WA104381812 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Capriza, Inc |
 | URL-адрес веб-сайта-партнера | [https://www.capriza.com/msteams-landing-page](https://www.capriza.com/msteams-landing-page) |
@@ -69,7 +69,7 @@ ms.locfileid: "52553280"
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Уведомление пользователя о новом ожидаемом запросе на утверждение | адрес электронной почты; |  |
 
 

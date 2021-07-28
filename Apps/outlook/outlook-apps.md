@@ -1,22 +1,22 @@
 ---
-title: Microsoft Outlook безопасности и соответствия требованиям — все приложения
+title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
-description: Вся доступная информация о безопасности и соответствии требованиям для всех Outlook приложений Майкрософт.
+description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 00e8b55b4cb0767405adc0bab02a084256df0418
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: c8c0a58ce6455b4853ad7042785b2963370f5abb
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53265775"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547897"
 ---
-# <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook безопасности и соответствия требованиям
+# <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений Outlook приложений и надстройок Майкрософт, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений о приложениях и надстройках Microsoft Outlook и надстройки, которые они используют. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -39,7 +39,6 @@ ms.locfileid: "53265775"
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [ServiceDesk Plus для электронной почты](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Надстройка StarLeaf для Outlook](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |
-| [Wrike для Outlook](./wrike-inc-for-outlook.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | JiJi Technologies Private Limited | **✓** |  |
 | [Средство zoho Campaigns для автоматизации маркетинга](./zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho CRM для электронной почты](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |

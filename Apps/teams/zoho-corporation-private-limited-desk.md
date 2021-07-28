@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Службы Zoho, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fd057117b21f9e99476356f1157301c19393a23d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8e76f0cce92e7aa5bac28df505613ec461a3fc06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550649"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528355"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -33,7 +33,7 @@ ms.locfileid: "52550649"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Zoho Desk |
-| ID | WA104382044 |
+| Идентификатор | WA104382044 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/desk](https://www.zoho.com/desk) |
@@ -55,15 +55,15 @@ ms.locfileid: "52550649"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | делегирована |  | Чтение файлов пользователей. |  |
->| Files.Read.All | делегирована |  | Ознакомьтесь со всеми файлами, к которые пользователь может получить доступ. |  |
->| User.Read | делегирована |  | Вход и чтение профиля пользователя. |  |
->| User.ReadBasic.All | делегирована |  | Ознакомьтесь с основными профилями всех пользователей. |  |
->| email | делегирована |  | Просмотр адреса электронной почты пользователя. |  |
->| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. |  |
->| profile | делегирована |  | Просмотр основного профиля пользователя. |  |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | делегирована |  | Чтение файлов пользователей. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read.All | делегирована |  | Ознакомьтесь со всеми файлами, к которые пользователь может получить доступ. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | делегирована |  | Вход и чтение профиля пользователя. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | делегирована |  | Ознакомьтесь с основными профилями всех пользователей. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| email | делегирована |  | Просмотр адреса электронной почты пользователя. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | делегирована |  | Просмотр основного профиля пользователя. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

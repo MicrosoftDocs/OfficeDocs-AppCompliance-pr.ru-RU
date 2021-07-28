@@ -6,23 +6,24 @@ description: Microsoft 365 Сведения о сертификации
 keywords: App attestation Microsoft 365 certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4322695ea694e30d42925e8316c848b867394f3b
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 64e4d36f58c36447c3af48cfde22de6ecc722998
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315079"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526095"
 ---
 # <a name="what-is-microsoft-365-certification"></a>Что такое Microsoft 365 сертификация?
 
 Microsoft 365 Сертификация обеспечивает гарантии того, что данные и конфиденциальность надежно защищены и защищены при использовании сторонного приложения. Сертификация подтверждает, что приложение соответствует критериям, описанным в руководстве [Microsoft 365 сертификации.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) Приложения, которые проходят проверку, будут Microsoft 365 сертифицированы.
 Сертификация приложений достигается путем проверки и утверждения квалифицированным аналитиком комплексной оценки, в центре деятельности по обеспечению безопасности и соответствия требованиям, процессам и процедурам приложения. Хотя участие является необязательным, получение сертификата является стойким способом сигнализировать о том, что ваши приложения и операционные процедуры прошли интенсивный обзор безопасности.
 
-Microsoft 365 Сертификация применяется к веб-приложениям и всем приложениям, которые интегрируются со следующими продуктами Майкрософт:
+Microsoft 365 Сертификация применяется к веб-приложениям (приложениям SaaS, опубликованным на коммерческой площадке в Центре партнеров). Приложения SaaS в настоящее время находятся в закрытом режиме предварительного просмотра, если вы заинтересованы в участии, заполните эту [форму.](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu) Сертификация также включает все приложения, которые интегрируются со следующими продуктами Майкрософт:
+
 - Teams
 - Word
 - Excel
-- PowerPoint
+- PowerPoint 
 - Outlook
 - SharePoint
 - Project

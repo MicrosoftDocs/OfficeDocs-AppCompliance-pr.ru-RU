@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CodeStream, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9d47c0ffe0f8f23cf09b175fce24a8dcccfa87dd
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 4875193923e2e34cf8e46d85437325128716bd47
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53459563"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525763"
 ---
 # <a name="codestream"></a>CodeStream
 
@@ -33,7 +33,7 @@ ms.locfileid: "53459563"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | CodeStream |
-| ID | WA200001475 |
+| Идентификатор | WA200001475 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | CodeStream |
 | URL-адрес веб-сайта-партнера | [https://www.codestream.com](https://www.codestream.com) |
@@ -62,7 +62,7 @@ ms.locfileid: "53459563"
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| sendgrid.com, segment.io, mixpanel.com, intercom.com, hubspot.com | адрес электронной почты; | аналитика, CRM, поддержка приложений |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов

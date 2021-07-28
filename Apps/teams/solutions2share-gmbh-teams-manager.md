@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Teams Manager, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fbca7409c87bed006a18b31d7de2fa43afd9b95f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 0f135c14a96849a21ebf424b152a257df8e5e9e9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283193"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528265"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -54,13 +54,13 @@ ms.locfileid: "53283193"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | оба | Мы храним TenantID и TeamId для картографии шаблонов.  | Разрешить перечисление всех Teams, а также создать Teams. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| Notes.ReadWrite.All | приложение | Нет. | Позволяет приложению добавлять записные книжки в утвержденную команду. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read | делегирована | Нет. | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read.All | оба | Сохраняется id пользователя, вписавшегося в раздел approver/admin. | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.ReadBasic.All | делегирована | Нет. | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | оба | Мы храним TenantID и TeamId для картографии шаблонов.  | Разрешить перечисление всех Teams, а также создать Teams. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| Notes.ReadWrite.All | приложение | Нет | Позволяет приложению добавлять записные книжки в утвержденную команду. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.Read | делегирована | Нет | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.Read.All | оба | Сохраняется id пользователя, вписавшегося в раздел approver/admin. | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.ReadBasic.All | делегирована | Нет | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

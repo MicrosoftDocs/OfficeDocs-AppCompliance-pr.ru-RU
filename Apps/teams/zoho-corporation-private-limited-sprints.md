@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Sprints, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc19b083312c4c8222b894ae6bb35b0bbdd5314e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cdc296898d2e9f6d18f01d9742ce8d0ca29c807b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552680"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527515"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -33,7 +33,7 @@ ms.locfileid: "52552680"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Zoho Sprints |
-| ID | WA200000188 |
+| Идентификатор | WA200000188 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/sprints/](https://www.zoho.com/sprints/) |
@@ -54,16 +54,16 @@ ms.locfileid: "52552680"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | делегирована | Alendar Folder Id хранится для синхронизации контактов от Zoho Sprints до Microsoft &amp; наоборот. |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | делегирована | Для синхронизации контактов сохраняется ИД папки контактов. |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.All | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | делегирована | UserPrincipalName хранится для идентификации пользователя. | Чтение файлов, выбранных пользователем | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | делегирована |  | Вход и чтение профиля пользователя | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | делегирована |  | Разрешить пользователям импорт пользователей Office365 в Zoho Sprints. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | делегирована |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | делегирована |  | Сохранение доступа к данным, к которым он был предоставлен | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | Alendar Folder Id хранится для синхронизации контактов от Zoho Sprints до Microsoft &amp; наоборот. |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | делегирована | Для синхронизации контактов сохраняется ИД папки контактов. |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.All | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | делегирована | UserPrincipalName хранится для идентификации пользователя. | Чтение файлов, выбранных пользователем | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | делегирована |  | Вход и чтение профиля пользователя | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | делегирована |  | Разрешить пользователям импорт пользователей Office365 в Zoho Sprints. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | делегирована |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | делегирована |  | Сохранение доступа к данным, к которым он был предоставлен | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

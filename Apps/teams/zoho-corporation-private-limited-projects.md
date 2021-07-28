@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Projects, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e447efd8259b94dbc41eed731912a2288600a5f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cb0d9ec4caabe3307474e0927adc4a793046a449
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552690"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528345"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -33,7 +33,7 @@ ms.locfileid: "52552690"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Zoho Projects |
-| ID | WA104381668 |
+| Идентификатор | WA104381668 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/projects/](https://www.zoho.com/projects/) |
@@ -55,18 +55,18 @@ ms.locfileid: "52552690"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | делегирована |  | Полный доступ к календарям пользователей. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read | делегирована |  | Чтение всех файлов. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read.All | делегирована |  | Ознакомьтесь со всеми файлами, к которые пользователь может получить доступ. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read.Selected | делегирована |  | Чтение файлов, выбранных пользователем. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.Read | делегирована |  | Чтение пользовательских задач. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.ReadWrite | делегирована |  | Создание, чтение, обновление и удаление пользовательских задач и проектов. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.ReadWrite.Shared | делегирована |  | Чтение и написание пользовательских и общих задач. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| User.Read | делегирована |  | Вход и чтение профиля пользователя. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| User.ReadBasic.All | делегирована |  | Ознакомьтесь с основными профилями всех пользователей. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована |  | Полный доступ к календарям пользователей. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read | делегирована |  | Чтение всех файлов. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read.All | делегирована |  | Ознакомьтесь со всеми файлами, к которые пользователь может получить доступ. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read.Selected | делегирована |  | Чтение файлов, выбранных пользователем. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.Read | делегирована |  | Чтение пользовательских задач. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.ReadWrite | делегирована |  | Создание, чтение, обновление и удаление пользовательских задач и проектов. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.ReadWrite.Shared | делегирована |  | Чтение и написание пользовательских и общих задач. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| User.Read | делегирована |  | Вход и чтение профиля пользователя. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| User.ReadBasic.All | делегирована |  | Ознакомьтесь с основными профилями всех пользователей. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

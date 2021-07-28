@@ -2,24 +2,24 @@
 title: Сведения о приложениях для TeamsChamp по TeamsChamp
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/10/2021
+ms.date: 07/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TeamsChamp, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 44d3d36d48e6af741cb25154e5a954b8366af9a3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8ba17c02a5478213d3666651efdbb5e4ed342147
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283443"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527575"
 ---
 # <a name="teamschamp"></a>TeamsChamp
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 10 марта 2021 г.</p>
+<p>Последнее обновление разработчика: 1 июля 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/4fea4594-3f83-4e33-9929-9af6b78a7340" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001487" target="_blank">Просмотр в AppSource</a>
@@ -55,11 +55,11 @@ ms.locfileid: "53283443"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | делегирована | Вход и чтение профиля пользователей | Данные, хранимые в нашем bbdd | 79d7af39-4f57-4e95-adaf-ec8ff756d0df |
->| User.ReadBasic.All | делегирована | Чтение базового профиля всех пользователей | Данные, хранимые в нашем bbdd | 79d7af39-4f57-4e95-adaf-ec8ff756d0df |
->| profile | делегирована | Просмотр базовых профилей пользователей | Данные, хранимые в нашем bbdd | 79d7af39-4f57-4e95-adaf-ec8ff756d0df |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | делегирована | Вход и чтение профиля пользователей | Данные, хранимые в нашем bbdd | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
+>| User.ReadBasic.All | делегирована | Чтение базового профиля всех пользователей | Данные, хранимые в нашем bbdd | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
+>| profile | делегирована | Просмотр базовых профилей пользователей | Данные, хранимые в нашем bbdd | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -67,7 +67,7 @@ ms.locfileid: "53283443"
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Stripe payments | Имя comnpany, CIF/VAT ID, финансовый адрес | Платежи |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов

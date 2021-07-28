@@ -6,12 +6,12 @@ description: Дополнительные сведения о программе
 keywords: App attestation certification 365 questionnaire appSource publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: d91c11b53f1f807fbb4335918586a7748f14bf91
-ms.sourcegitcommit: a475d48e9538faa7ed682c11829c2e45ba675af6
+ms.openlocfilehash: 06c64ab2aa09790a0c20ee9d555adf1177031f12
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53383732"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526105"
 ---
 # <a name="what-is-publisher-attestation"></a>Что такое Publisher проверки?
 
@@ -20,7 +20,8 @@ Publisher Attestation — это следующий уровень в Microsoft 
 > [!IMPORTANT]
 > Корпорация Майкрософт не проверяет всю предоставленную информацию. Разработчик приложения несет полную ответственность за сведения, которые они предоставляют в проверке издателя. 
 
-Publisher Проверки применяются к Веб-приложениям и всем приложениям, которые интегрируются со следующими платформами Майкрософт:
+Publisher Атестация применяется к веб-приложениям (SaaS-приложениям, опубликованным на коммерческой площадке в Центре партнеров). Приложения SaaS в настоящее время находятся в закрытом режиме предварительного просмотра, если вы заинтересованы в участии, заполните эту [форму.](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu) Кроме того, в проверку включены все приложения, которые интегрируются со следующими продуктами Майкрософт:
+
 - Teams
 - Word
 - Excel
@@ -69,7 +70,7 @@ Publisher Проверки применяются к Веб-приложения
 
 **В [списке MIPA](https://docs.microsoft.com/microsoft-365-app-certification/teams/iglobe-mipa-your-personal-assistant?pivots=mcas) можно привести пример приложения, которое завершило проверку Publisher проверки.** 
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 * [Microsoft 365 Обзор программы соответствия требованиям приложений](~/overview.md)
 * [Что такое Publisher проверки](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)

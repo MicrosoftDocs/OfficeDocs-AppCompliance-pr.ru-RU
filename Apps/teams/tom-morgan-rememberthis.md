@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для RememberThis, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cebe00c603a83f524ef9307cd9753fc3442ea69c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a1804f11eaf52e9715b3b50ba558561794fc8b26
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551289"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527565"
 ---
 # <a name="rememberthis"></a>RememberThis
 
@@ -33,7 +33,7 @@ ms.locfileid: "52551289"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | RememberThis |
-| ID | WA104381607 |
+| Идентификатор | WA104381607 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Tom Morgan |
 | URL-адрес веб-сайта-партнера | [https://www.thoughtstuff.co.uk/free-products/rememberthis](https://www.thoughtstuff.co.uk/free-products/rememberthis) |
@@ -69,7 +69,7 @@ ms.locfileid: "52551289"
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Напоминание пользователям в указанное время | Да - ConversationID, ActivityID, ServiceURL, DateTime, напомню. Ни один из этих данных не является PII или OII. |  |
 
 

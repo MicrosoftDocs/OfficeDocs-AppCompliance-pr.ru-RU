@@ -2,17 +2,17 @@
 title: Безопасность приложений Microsoft Teams и их соответствие требованиям для всех приложений
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/15/2021
+ms.date: 07/23/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: f54a599b7f74c565b64528e1d9b0d176e9748410
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 15dfabb965ea816f5cd6af091c45418b64b04174
+ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456617"
+ms.lasthandoff: 07/24/2021
+ms.locfileid: "53578245"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -136,6 +136,7 @@ ms.locfileid: "53456617"
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [netDocShare](./kl-software-technologies-netdocshare.md) | KL Software Technologies | **✓** |  |
+| [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [Now Virtual Agent](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
