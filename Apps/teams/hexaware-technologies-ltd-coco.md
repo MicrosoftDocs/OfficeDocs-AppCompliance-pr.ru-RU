@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5b1c7194ed42779d966c4d7d4f519374bbb78bb1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8a25a95b277f41f30477182c9eec0b3b25b9351e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281261"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525613"
 ---
 # <a name="coco"></a>COCO
 
@@ -53,15 +53,15 @@ ms.locfileid: "53281261"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | делегирована | Нет. | Каталог доступа в качестве подписанного пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.Read.All | приложение | Нет. | Чтение данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.ReadWrite.All | делегирована | Нет. | Чтение и запись данных каталога | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read | делегирована | Нет. | Вход и чтение профиля пользователя | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read.All | приложение | Нет. | Чтение полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.ReadWrite.All | делегирована | Нет. | Чтение и запись полных профилей всех пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| openid | делегирована | Нет. | Вход пользователей | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | делегирована | Нет | Каталог доступа в качестве подписанного пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.Read.All | приложение | Нет | Чтение данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.ReadWrite.All | делегирована | Нет | Чтение и запись данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read | делегирована | Нет | Вход и чтение профиля пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read.All | приложение | Нет | Чтение полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.ReadWrite.All | делегирована | Нет | Чтение и запись полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| openid | делегирована | Нет | Вход пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -75,7 +75,7 @@ ms.locfileid: "53281261"
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Ведение данных сеанса | Имя, id электронной почты |  |
 
 

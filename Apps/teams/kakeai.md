@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для KAKEAI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e001ccf28fad1bb616125df3f8849d853aca5d8f
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: a2c65a78c07d2724b73757df909c1a75262a02c6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987845"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525543"
 ---
 # <a name="kakeai"></a>KAKEAI
 
@@ -33,7 +33,7 @@ ms.locfileid: "52987845"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | KAKEAI |
-| ID | WA200001902 |
+| Идентификатор | WA200001902 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | KAKEAI |
 | URL-адрес веб-сайта-партнера | [https://kakeai.co.jp](https://kakeai.co.jp) |
@@ -62,7 +62,7 @@ ms.locfileid: "52987845"
 Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Microsoft Bot Framework | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для DICE DisasterTech, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d8eec2ad9c7047a33dae446943c3ab2d934cc78c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281924"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525713"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -54,13 +54,13 @@ ms.locfileid: "53281924"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | делегирована | Адрес электронной почты пользователя, хранимый для установления прав доступа, а также имени пользователя для идентификации пользователей по имени | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход, а также Teams входа, а также установить имена пользователей и адреса электронной почты. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| email | делегирована | Нет. | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | делегирована | Нет. | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | делегирована | Нет. | Требуется для Teams одноместных Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| profile | делегирована | Нет. | Требуется для Teams одного входного знака. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | делегирована | Адрес электронной почты пользователя, хранимый для установления прав доступа, а также имени пользователя для идентификации пользователей по имени | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход, а также Teams входа, а также установить имена пользователей и адреса электронной почты. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| email | делегирована | Нет | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| offline_access | делегирована | Нет | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| openid | делегирована | Нет | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| profile | делегирована | Нет | Требуется для Teams одного входного знака. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется

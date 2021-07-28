@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для LawToolBox, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2e97d65822a5baeb0cd78101660084e4142e98ea
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9023d2321d5c6a6a62c8480538cc5bf8315b2fc9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553010"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525523"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -33,7 +33,7 @@ ms.locfileid: "52553010"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | LawToolBox |
-| ID | WA104381656 |
+| Идентификатор | WA104381656 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LawToolBox.com Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
@@ -55,30 +55,30 @@ ms.locfileid: "52553010"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | делегирована |  | [Необязательный] Чтение календаря пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite | делегирована |  | Создание приглашения календаря в календарь пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite.Shared | делегирована |  | Создание приглашения календаря в общий календарь. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite | делегирована |  | [Необязательный] — чтение контактов пользователей и подключение пользователей из списка контактов к группе. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite.Shared | делегирована |  | [Необязательный] — чтение общих контактов пользователей для обслуживания списка контактов, соответствующих делу. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Directory.AccessAsUser.All | делегирована |  | [Необязательный] Чтение сведений о группах и пользователях в качестве пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Directory.ReadWrite.All | делегирована |  | [Необязательный] Чтение сведений о группах и пользователях в качестве пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read | делегирована |  | [Необязательный] Ознакомьтесь с OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read.All | делегирована |  | [Необязательный]-Чтение OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite | делегирована |  | [Необязательный]-Чтение и изменение файлов в OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite.All | делегирована |  | [Необязательный] Файл чтения и записи OneDrive, связанный с значением. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Group.ReadWrite.All | делегирована | GroupID, GroupName, GroupEmail | Мы создаем группу для каждого вопроса, созданного в нашей системе. Это помогает пользователю сохранять сведения, связанные с вопросами, в Группу, что, в свою очередь, сохраняет их данные в собственном клиенте. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Read | делегирована |  | [Необязательный] [InProgress] Чтение электронной почты пользователя для вопросов. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite | делегирована |  | [Необязательный] [InProgress] Чтение и написание электронной почты для пользователей. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite.Shared | делегирована |  | [Необязательный] [InProgress] Чтение и написание электронной почты для пользователей. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Send | делегирована |  | [Необязательный] [InProgress] Отправка крайних сроков по электронной почте в качестве пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Tasks.ReadWrite.Shared | делегирована |  | [Необязательный]-[InProgress] Читайте Сроки записи в качестве задачи для пользователей. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.Read | делегирована |  | Чтение сведений пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite | делегирована |  | Read/Write user's Information. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite.All | делегирована |  | Read/Write user's Information. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| email | делегирована | Электронная почта, UserID Office365, ObjectID, TenantID. | Ознакомьтесь с адресом электронной почты пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| profile | делегирована |  | Чтение сведений о профиле пользователя. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | делегирована |  | [Необязательный] Чтение календаря пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite | делегирована |  | Создание приглашения календаря в календарь пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite.Shared | делегирована |  | Создание приглашения календаря в общий календарь. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite | делегирована |  | [Необязательный] — чтение контактов пользователей и подключение пользователей из списка контактов к группе. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite.Shared | делегирована |  | [Необязательный] — чтение общих контактов пользователей для обслуживания списка контактов, соответствующих делу. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | делегирована |  | [Необязательный] Чтение сведений о группах и пользователях в качестве пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | делегирована |  | [Необязательный] Чтение сведений о группах и пользователях в качестве пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | делегирована |  | [Необязательный] Ознакомьтесь с OneDrive. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | делегирована |  | [Необязательный]-Чтение OneDrive. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | делегирована |  | [Необязательный]-Чтение и изменение файлов в OneDrive. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | делегирована |  | [Необязательный] Файл чтения и записи OneDrive, связанный с значением. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | делегирована | GroupID, GroupName, GroupEmail | Мы создаем группу для каждого вопроса, созданного в нашей системе. Это помогает пользователю сохранять сведения, связанные с вопросами, в Группу, что, в свою очередь, сохраняет их данные в собственном клиенте. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | делегирована |  | [Необязательный] [InProgress] Чтение электронной почты пользователя для вопросов. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite | делегирована |  | [Необязательный] [InProgress] Чтение и написание электронной почты для пользователей. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite.Shared | делегирована |  | [Необязательный] [InProgress] Чтение и написание электронной почты для пользователей. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Send | делегирована |  | [Необязательный] [InProgress] Отправка крайних сроков по электронной почте в качестве пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Tasks.ReadWrite.Shared | делегирована |  | [Необязательный]-[InProgress] Читайте Сроки записи в качестве задачи для пользователей. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | делегирована |  | Чтение сведений пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | делегирована |  | Read/Write user's Information. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | делегирована |  | Read/Write user's Information. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| email | делегирована | Электронная почта, UserID Office365, ObjectID, TenantID. | Ознакомьтесь с адресом электронной почты пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| profile | делегирована |  | Чтение сведений о профиле пользователя. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -92,7 +92,7 @@ ms.locfileid: "52553010"
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Определение вновь добавленного пользователя в команду и проверка потенциального свинца | Электронная почта, UserId |  |
 
 

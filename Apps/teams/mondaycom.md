@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для monday.com, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281221"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525463"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -62,7 +62,7 @@ ms.locfileid: "53281221"
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| monday.com использует следующие подработки для производительности своей службы:&#160;https://monday.com/terms/subprocessors |  | monday.com не использует API. Для производительности службы (как описано в нашем ответе выше) мы используем следующие инфраструктуры Майкрософт: &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
