@@ -2,17 +2,17 @@
 title: Безопасность SharePoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: 147de4919d6286d69ac0e428b1899514fd979c9d
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.openlocfilehash: f1cd651728f42db27b312ce27aa9b1213ae649f1f977461222edb138038a8957
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609809"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54803025"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -21,10 +21,11 @@ ms.locfileid: "53609809"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Agile Task Board for SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
+| [ArcGIS Карты](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
 | [Соединители FormMachines для SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | КОРПОРАТИВНЫЕ ЦИФРОВЫЕ МАШИНЫ PTY LTD | **✓** |  |
 | [Gaggle для SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net, Inc. | **✓** |  |
 | [Надстройки cRM iGlobe](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [cRM-Office 365 iGlobe для Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Parser электронной почты Konnect](./konnect-email-parser.md) | Электронная почта Konnect | **✓** |  |
 | [officeatwork | Выбор шаблона для SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Power BI Совместная работа](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [Cовместная работа Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
