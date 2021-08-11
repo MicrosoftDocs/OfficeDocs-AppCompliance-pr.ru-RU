@@ -6,12 +6,12 @@ description: Руководство пользователя ISV для Microsof
 keywords: Руководство пользователя ISV для Microsoft 365 SaaS программы соответствия требованиям к приложениям
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b3b8c37a1babf2f941f5764fddd30523319d9a34
-ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
+ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202780"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801493"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Руководство для пользователей партнеров для Microsoft 365 приложения - SaaS
 
@@ -83,7 +83,7 @@ ms.locfileid: "53202780"
         
 ![Publisher Заверение отклонено](../media/UserGuidePhotos/09.png)
 
-B.  Publisher Утверждение проверки
+Б.  Publisher Утверждение проверки
 - После утверждения партнер может:
      - Обновление и повторное тестирование
      - Просмотр завершенной Publisher проверки

@@ -1,43 +1,43 @@
 ---
-title: Сведения о приложениях для ngDesk всеми синими решениями
+title: Сведения о приложениях для SmartCite для документов по цифровой науке
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 05/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для ngDesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для SmartCite для документов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
+ms.openlocfilehash: f039eb5f2fd2cedc6110e380a5830a71472d600e
 ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772116"
+ms.locfileid: "53775032"
 ---
-# <a name="ngdesk"></a>ngDesk
+# <a name="smartcite-for-papers"></a>SmartCite для документов
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 28 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 29 мая 2021 г.</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002505" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104380917" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые корпорацией Майкрософт всеми синими решениями:
+Сведения, предоставляемые корпорацией Майкрософт в цифровой науке:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ngDesk |
-| ID | WA200002505 |
-| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
-| Имя компании-партнера | All Blue Solutions |
-| URL-адрес веб-сайта-партнера | [https://ngdesk.com](https://ngdesk.com) |
-| URL-адрес политики конфиденциальности | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
-| URL-адрес терминов использования | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
+| Имя приложения | SmartCite для документов |
+| ID | WA104380917 |
+| Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word 2016 или более поздней Windows, Word в Интернете |
+| Имя компании-партнера | Цифровая наука |
+| URL-адрес веб-сайта-партнера | [https://papersapp.com](https://papersapp.com) |
+| URL-адрес политики конфиденциальности | [https://www.papersapp.com/privacy](https://www.papersapp.com/privacy) |
+| URL-адрес терминов использования | [https://www.papersapp.com/terms](https://www.papersapp.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +47,7 @@ ms.locfileid: "53772116"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены всеми синими решениями о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эти сведения предоставлены в Digital Science о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -55,6 +55,13 @@ ms.locfileid: "53772116"
 
 >Это приложение не использует Microsoft Graph.
 
+#### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
+
+Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
+
+>| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| API диалогов, API word | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -68,13 +75,13 @@ ms.locfileid: "53772116"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->В телеметрии приложений или журналах не отображаются OII или EUII.
+>Адрес электронной почты. Мы храним журналы в течение 30 дней
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Мы не отправляем данные в другие системы партнеров
+>Enterprise организации могут включить SSO для удаления соленых и схващенных паролей из нашей системы
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -90,9 +97,9 @@ ms.locfileid: "53772116"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42197' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42197" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,7 +109,7 @@ ms.locfileid: "53772116"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения предоставлены всеми синими решениями о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эти сведения были предоставлены Digital Science о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

@@ -6,12 +6,12 @@ description: Microsoft 365 Обзор сведений о сертификаци
 keywords: Аттестация Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: bb6434cf94db1b7af437b3317397c0ba26a4c52df23e5837d9bcab1e98ff7a47
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315099"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54750469"
 ---
 # <a name="complete-microsoft-365-certification"></a>Полное Microsoft 365 сертификации
 

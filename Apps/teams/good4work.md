@@ -1,43 +1,45 @@
 ---
-title: Сведения о приложениях для ngDesk всеми синими решениями
+title: Сведения о приложениях для Good4work от Good4work
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 06/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для ngDesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Good4work, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
+ms.openlocfilehash: 3d6854fcf2b53d1eb7baefb2f64d258365d5bdaf
 ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772116"
+ms.locfileid: "53775047"
 ---
-# <a name="ngdesk"></a>ngDesk
+# <a name="good4work"></a>Good4work
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 28 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 15 июня 2021 г.</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002505" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/d1493af7-8634-4b6a-8cbe-eeb23c6724f4" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002962" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые корпорацией Майкрософт всеми синими решениями:
+Сведения, предоставляемые Good4work Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ngDesk |
-| ID | WA200002505 |
-| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
-| Имя компании-партнера | All Blue Solutions |
-| URL-адрес веб-сайта-партнера | [https://ngdesk.com](https://ngdesk.com) |
-| URL-адрес политики конфиденциальности | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
-| URL-адрес терминов использования | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
+| Имя приложения | Good4work |
+| ID | WA200002962 |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя компании-партнера | Good4work |
+| URL-адрес веб-сайта-партнера | [https://good4work.com/#product](https://good4work.com/#product) |
+| URL-адрес страницы Teams приложения | [https://good4work.com/support/](https://good4work.com/support/) |
+| URL-адрес политики конфиденциальности | [https://good4work.com/privacy-policy/](https://good4work.com/privacy-policy/) |
+| URL-адрес терминов использования | [https://good4work.com/good4work-terms/](https://good4work.com/good4work-terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +49,7 @@ ms.locfileid: "53772116"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены всеми синими решениями о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эта информация предоставлена good4work о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -62,6 +64,11 @@ ms.locfileid: "53772116"
 
 >Не службы Майкрософт не используются.
 
+#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+
+Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -74,13 +81,13 @@ ms.locfileid: "53772116"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Мы не отправляем данные в другие системы партнеров
+>Данные пользователей доступны через портал администрирования (панель мониторинга Django) с ограниченным доступом только к интерфейсу разработки и генеральному директору
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Нет
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -90,9 +97,9 @@ ms.locfileid: "53772116"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42196' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42196" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,7 +109,7 @@ ms.locfileid: "53772116"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения предоставлены всеми синими решениями о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эти сведения были предоставлены good4work о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
