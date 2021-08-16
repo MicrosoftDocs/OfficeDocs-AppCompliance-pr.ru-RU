@@ -1,45 +1,45 @@
 ---
-title: Сведения о приложениях для email TeamMate по harmon.ie
+title: Сведения о приложениях для Marvel от Marvel
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/10/2021
+ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для Email TeamMate, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для Marvel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1aecf8fedde78acae86eb654f066bb443ff387ed
+ms.openlocfilehash: 8ba6c9b80db76c43793c42d2265fc563402e39cd
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58239763"
+ms.locfileid: "58239741"
 ---
-# <a name="email-teammate"></a>Email TeamMate
+# <a name="marvel"></a>Marvel
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 10 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 22 июня 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/3ae27f31-ceea-4d13-a212-cdc9d786eae1" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002338" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/2e7fb70e-f75d-4e85-997e-90ce89000f43" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381801" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые harmon.ie Корпорации Майкрософт:
+Сведения, предоставленные Корпорацией Майкрософт от Marvel:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Email TeamMate |
-| Идентификатор | WA200002338 |
+| Имя приложения | Marvel |
+| Идентификатор | WA104381801 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | harmon.ie |
-| URL-адрес веб-сайта-партнера | [https://harmon.ie](https://harmon.ie) |
-| URL-адрес страницы Teams приложения | [https://harmon.ie](https://harmon.ie) |
-| URL-адрес политики конфиденциальности | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
-| URL-адрес терминов использования | [https://harmon.ie/legal/teammate-eula](https://harmon.ie/legal/teammate-eula) |
+| Имя компании-партнера | Marvel |
+| URL-адрес веб-сайта-партнера | [https://marvelapp.com](https://marvelapp.com) |
+| URL-адрес страницы Teams приложения | [https://marvelapp.com](https://marvelapp.com) |
+| URL-адрес политики конфиденциальности | [https://marvelapp.com/privacy/](https://marvelapp.com/privacy/) |
+| URL-адрес терминов использования | [https://marvelapp.com/terms/](https://marvelapp.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,20 +49,13 @@ ms.locfileid: "58239763"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены harmon.ie о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эта информация предоставлена Marvel о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Chat.Read | делегирована | Требуется teamMate, чтобы получить участников чата определенного разговора, чтобы поделиться файлами сохранить в SharePoint/ Один диск с участниками чата беседы | Нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| Files.ReadWrite.All | делегирована | Требуется teamMate для сохранения вложений электронной почты &amp; в SharePoint / Teams / OneDrive | Нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| Mail.ReadWrite | делегирована | Требуется от TeamMate показывать сообщения электронной почты пользователя и отвечать на сохраненные Teams | Нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| People.Read | делегирована | Требуется teamMate для поиска сообщений электронной почты от людей, а также для того, чтобы предложить людям, с которых вы часто обращались. | Нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| User.Read | делегирована | позволяет пользователям войти в TeamMate со своей учетной записью и позволяет TeamMate видеть основные сведения о профиле пользователя | Нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| User.ReadBasic.All | делегирована | Требуется TeamMate для решения адресов электронной почты участников чата, чтобы сохранить файлы share в OneDrive с ними  | Нет | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>Это приложение не использует Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -82,19 +75,19 @@ ms.locfileid: "58239763"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Данные об использовании и обилие пользователей
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->-
+>Мы синхронизировали все партнерские системы с нашими обязанностями GDPR с помощью автоматизированных скриптов и интеграций, управляемых нашей командой клиентов.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Нет
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,9 +97,9 @@ ms.locfileid: "58239763"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36364' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/32883' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36364" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/32883" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,24 +109,23 @@ ms.locfileid: "58239763"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения были предоставлены harmon.ie о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена Marvel о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Да |
 | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
 | Использует ли приложение API предварительного просмотра? | Да |
-| Использует ли ваше приложение неподготовленные API? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Да |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

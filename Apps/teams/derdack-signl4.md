@@ -2,24 +2,24 @@
 title: Сведения о приложениях для SIGNL4 от Derdack SIGNL4
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 08/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SIGNL4, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0e42f0d40c157819076af93cbd076c04e9326345
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525733"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58243520"
 ---
 # <a name="signl4"></a>SIGNL4
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 6 августа 2020 г.</p>
+<p>Последнее обновление разработчика: 6 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/bd19c878-00b7-47cd-9b65-74a2def84427" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001239" target="_blank">Просмотр в AppSource</a>
@@ -37,6 +37,7 @@ ms.locfileid: "53525733"
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Derdack SIGNL4 |
 | URL-адрес веб-сайта-партнера | [https://www.derdack.com](https://www.derdack.com) |
+| URL-адрес страницы Teams приложения | [https://www.signl4.com](https://www.signl4.com) |
 | URL-адрес политики конфиденциальности | [https://www.signl4.com/privacy-policy/](https://www.signl4.com/privacy-policy/) |
 | URL-адрес терминов использования | [https://www.signl4.com/terms_of_use/](https://www.signl4.com/terms_of_use/) |
 
@@ -63,7 +64,7 @@ ms.locfileid: "53525733"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Повторяем, адрес электронной почты, адрес электронной почты требуется для отправки уведомлений о выставлении счета клиенту при использовании приложения. Twilio, номера телефонов, оповещение контента для отправки оповещений с помощью SMS-сообщений |  | API управления Azure, сбор оповещений Azure Monitor, коллекция происходит из-за того, что системы отправляют уведомления для этих оповещений |
+>| Recurly, Twilio | Повторяем, адрес электронной почты, адрес электронной почты требуется для отправки уведомлений о выставлении счета клиенту при использовании приложения. Twilio, номера телефонов, оповещение контента для отправки оповещений с помощью SMS-сообщений | API управления Azure, сбор оповещений Azure Monitor, коллекция происходит из-за того, что системы отправляют уведомления для этих оповещений |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -107,3 +108,29 @@ ms.locfileid: "53525733"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения предоставлены Derdack SIGNL4 о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Да |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Да |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

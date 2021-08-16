@@ -2,17 +2,17 @@
 title: Безопасность SharePoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/06/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: f1cd651728f42db27b312ce27aa9b1213ae649f1f977461222edb138038a8957
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: f5feb7de008c94feeec4affd89d54b78d057847c
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54803025"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58241363"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -21,7 +21,7 @@ ms.locfileid: "54803025"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Agile Task Board for SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
-| [ArcGIS Карты](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
+| [ArcGIS Maps](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
 | [Соединители FormMachines для SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | КОРПОРАТИВНЫЕ ЦИФРОВЫЕ МАШИНЫ PTY LTD | **✓** |  |
 | [Gaggle для SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net, Inc. | **✓** |  |
 | [Надстройки cRM iGlobe](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

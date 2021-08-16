@@ -1,45 +1,45 @@
 ---
-title: Сведения о приложениях для чата в прямом эфире по социальным намерениям
+title: Сведения о приложениях для бизнес-коммуникаций Vonage от Vonage
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для live Chat, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для vonage Business Communications, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
+ms.openlocfilehash: 80665180e1abdd6783e7644a06b4d116dcedf6ae
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243540"
+ms.locfileid: "58241810"
 ---
-# <a name="live-chat"></a>Live Chat
+# <a name="vonage-business-communications"></a>Бизнес-коммуникации Vonage
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/a55635a5-8def-48e7-bcff-230cd43d3405" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000440" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/47c6b242-a067-426c-9a02-0f680a42c488" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002988" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые социальными намерениями Корпорации Майкрософт:
+Сведения, предоставляемые Vonage Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Live Chat |
-| Идентификатор | WA200000440 |
+| Имя приложения | Бизнес-коммуникации Vonage |
+| Идентификатор | WA200002988 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Social Intents |
-| URL-адрес веб-сайта-партнера | [https://www.socialintents.com](https://www.socialintents.com) |
-| URL-адрес страницы Teams приложения | [https://www.socialintents.com/teams-live-chat.jsp](https://www.socialintents.com/teams-live-chat.jsp) |
-| URL-адрес политики конфиденциальности | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| URL-адрес терминов использования | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| Имя компании-партнера | Vonage |
+| URL-адрес веб-сайта-партнера | [https://www.vonage.com](https://www.vonage.com) |
+| URL-адрес страницы Teams приложения | [https://www.vonage.com/unified-communications/](https://www.vonage.com/unified-communications/) |
+| URL-адрес политики конфиденциальности | [https://www.vonage.com/legal/privacy-policy](https://www.vonage.com/legal/privacy-policy) |
+| URL-адрес терминов использования | [https://www.vonage.com/legal/unified-communications/tos/glo...](https://www.vonage.com/legal/unified-communications/tos/global-vbc-tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,13 +49,16 @@ ms.locfileid: "58243540"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены социальными намерениями о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эта информация предоставлена в Vonage о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->Это приложение не использует Microsoft Graph.
+>| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsActivity.Send | приложение | С этим разрешением данные не хранятся | С этим разрешением данные не хранятся | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
+>| User.Read | делегирована | Получение ид пользователя Azure и его клиента, чтобы позже мы могли отправлять уведомления этому пользователю. |  Получение ИД пользователя Azure и его клиента, чтобы позже мы могли отправлять уведомления этому пользователю при получении SMS/MMS | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -68,22 +71,20 @@ ms.locfileid: "58243540"
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Когда члены группы нажимают кнопку Присоединиться к чату, мы используем электронную почту участников, чтобы определить, какой профиль агента принял чат. | Электронная почта и имя участника группы, который принял чат в прямом эфире, хранятся в базе данных истории чата. | Сведения дополнительно собираются для использования клиентом и могут быть отключены полностью клиентом в настройках предварительной продажи чата. |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Электронная почта и имя могут показываться в ежедневных журналах, которые удаляются или удаляются почасово.
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Данные хранятся в защищенном экземпляре RDS, ограниченном IP и 2FA.
+>Мы храним usersId и tenantId в защищенной базе данных на AWS, информация удаляется после входа пользователя.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -99,9 +100,9 @@ ms.locfileid: "58243540"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38766' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38766" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,7 +112,7 @@ ms.locfileid: "58243540"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения были предоставлены социальными намерениями о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена в Vonage о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

@@ -2,24 +2,24 @@
 title: Сведения о приложениях для AtBot от H3 Solutions, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для AtBot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 94cc732dc5f6cf6416fd1b386271b3694d6f3698
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: d71404e66489ba3f1e81ca5f1a1a92c17b36f9e6
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525623"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239744"
 ---
 # <a name="atbot"></a>AtBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 10 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/7c01af81-ae7d-416e-98a3-c139cae8cfb0" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381219" target="_blank">Просмотр в AppSource</a>
@@ -61,10 +61,10 @@ ms.locfileid: "53525623"
 >| Directory.Read.All | делегирована | AAD Group Name, AAD Group GUID, UPN | Переумейте группы AAD, чтобы обеспечить безопасность обрезки навыков бота. Переуметь пользователей, чтобы иметь возможность применять лицензии. Переумейте пользователей, которые будут добавляться в качестве администраторов и участников | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| People.Read | делегирована | Нет | Переуметь людей в действии Get Person из Flow.  Позволяет боту извлекать людей из конечной точки /People в Microsoft Graph. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| User.Read | делегирована | ID клиента, UPN | Предоставляет нам доступ к пользовательскому&#8217;ИД клиента и UPN, чтобы мы связывали созданные потоки и логические приложения с созданными ими пользователями. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| email | делегирована | Нет | Предоставляет нам доступ к адресу электронной почты пользователя. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| email | делегирована | Адреса электронной почты используются для контакта с поддержкой через нашу систему поддержки. | Предоставляет нам доступ к адресу электронной почты пользователя. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| offline_access | делегирована | Маркеры access/Refresh. | Позволяет использовать маркер обновления для входа пользователей. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| openid | делегирована | Нет | Позволяет пользователям войти в систему. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| profile | делегирована | UPN | Доступ к upN пользователя. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| openid | делегирована | UPN, идентифицирует пользователя в нашей системе | Позволяет пользователям войти в систему. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| profile | делегирована | Имя участника-пользователя | Доступ к upN пользователя. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -79,14 +79,14 @@ ms.locfileid: "53525623"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Создание упоминаний в сообщениях чата, созданных ботами | Нет |  |
+>| Бот может получить доступ к upN пользователя, чтобы @mention пользователям или отправлять им сообщения. | Имя участника-пользователя | Мы должны хранить upN, чтобы пользователи могли получать доступ к системе |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->ID клиента, UPN Мы используем Аналитика и журналы будут длиться в течение 90 дней, прежде чем автоматически архивироваться. (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+>ID клиента, UPN. Мы используем приложение Аналитика и журналы будут работать в течение 90 дней, прежде чем автоматически будут архивироваться. (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
@@ -96,6 +96,11 @@ ms.locfileid: "53525623"
 После отмены службы все UPNs будут удалены из базы данных лицензирования.
 См. в статье Azure Services в Data Residency.  Большая часть данных, производимых с помощью AtBot, хранится в клиенте клиента, поэтому администраторы этого клиента полностью контролируют данные.
 
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Нет
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,3 +118,27 @@ ms.locfileid: "53525623"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена H3 Solutions, Inc. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

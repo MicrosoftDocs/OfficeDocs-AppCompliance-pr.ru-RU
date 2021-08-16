@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям SaaS Apps — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/22/2021
+ms.date: 08/11/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 48815c31a70ab8d5ccc357c9069433132ba5a76018ebcd523ddcdb87a34449ab
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 966248f8beca85ba64ab3eb38082218f1a73001f
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54802165"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239726"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие требованиям SaaS Apps
 
@@ -20,6 +20,7 @@ ms.locfileid: "54802165"
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [Подписи электронной почты CodeTwo для Office 365](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
 | [Выбор контента](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
 | [cRM-Office 365 для Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** |  |

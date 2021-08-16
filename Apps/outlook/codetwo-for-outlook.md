@@ -1,45 +1,43 @@
 ---
-title: Сведения о приложениях для smartnotation с помощью Smartnotation B.V.
+title: Сведения о приложениях для CodeTwo для Outlook codeTwo
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 08/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Smartnotation, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для CodeTwo для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4b64237390587a005373b02901a11694f15c37d6
+ms.openlocfilehash: be70f483b2e8871375451bffe107de9b2f29f33d
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58239762"
+ms.locfileid: "58245384"
 ---
-# <a name="smartnotation"></a>Smartnotation
+# <a name="codetwo-for-outlook"></a>CodeTwo для Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 2 августа 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/424b1333-fbf0-4941-acbe-336bf1f316ae" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000681" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003022" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Smartnotation B.V. в Корпорацию Майкрософт:
+Сведения, предоставляемые CodeTwo в Корпорацию Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Smartnotation |
-| Идентификатор | WA200000681 |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Smartnotation B.V. |
-| URL-адрес веб-сайта-партнера | [https://www.smartnotation.com/landing/](https://www.smartnotation.com/landing/) |
-| URL-адрес страницы Teams приложения | [https://www.smartnotation.com/landing/integrations/](https://www.smartnotation.com/landing/integrations/) |
-| URL-адрес политики конфиденциальности | [https://www.smartnotation.com/public/privacy_policy.pdf](https://www.smartnotation.com/public/privacy_policy.pdf) |
-| URL-адрес терминов использования | [https://www.smartnotation.com/public/tos.pdf](https://www.smartnotation.com/public/tos.pdf) |
+| Имя приложения | CodeTwo для Outlook |
+| Идентификатор | WA200003022 |
+| Office 365 поддерживаемые клиенты | Outlook 2016 или позже Windows, Outlook в Интернете |
+| Имя компании-партнера | CodeTwo |
+| URL-адрес веб-сайта-партнера | [https://www.codetwo.com](https://www.codetwo.com) |
+| URL-адрес политики конфиденциальности | [https://www.codetwo.com/regulations/privacy](https://www.codetwo.com/regulations/privacy) |
+| URL-адрес терминов использования | [https://www.codetwo.com/license-agreement](https://www.codetwo.com/license-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +47,7 @@ ms.locfileid: "58239762"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены smartnotation B.V. о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет иметь контроль над данными, которые собирает приложение.
+Эта информация предоставлена codeTwo о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -64,24 +62,19 @@ ms.locfileid: "58239762"
 
 >Не службы Майкрософт не используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
-
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
-
->Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Н/д
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Данные шифруются. Только 2 администратора могут получить доступ к нему, 2FA настроен для всех администраторов, политика жизненного пароля на месте.
+>Мы не взаимодействуем с администратором клиентов в нашей системе для приложения Microsoft Outlook.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -97,9 +90,9 @@ ms.locfileid: "58239762"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35839' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36503' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35839" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36503" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,7 +102,7 @@ ms.locfileid: "58239762"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения предоставлены smartnotation B.V. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена CodeTwo о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

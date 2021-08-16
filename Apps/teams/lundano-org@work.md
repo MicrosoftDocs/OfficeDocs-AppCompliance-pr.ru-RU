@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Org@Work от Lundano
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/22/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Org@Work, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2c1cfec539c8db4ddd597b8125079521d40615c4
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 81e59d53704529ed26aa6760f3cd00799f77deaa
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521422"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58241262"
 ---
 # <a name="orgwork"></a>Org@Work
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 22 марта 2021 г.</p>
+<p>Последнее обновление разработчика: 10 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/b9f5d3b0-424e-473d-bcbe-dd01f17f9a41" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002461" target="_blank">Просмотр в AppSource</a>
@@ -61,7 +61,7 @@ ms.locfileid: "53521422"
 >| email | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 >| offline_access | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 >| openid | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| profile | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| profile | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -123,7 +123,7 @@ ms.locfileid: "53521422"
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
 | Список типов поддерживаемых политик | Сотрудник, менеджер планирования и администратор |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |

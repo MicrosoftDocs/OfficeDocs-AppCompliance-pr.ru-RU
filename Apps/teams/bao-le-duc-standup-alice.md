@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Standup Alice от Bao Le Duc
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Standup Alice, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 150d837b130b6ad2e75ddc0f8da82a1b90c2621f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525873"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58243535"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 10 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/724b774e-aa53-4d2d-885b-6008c114cb37" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000758" target="_blank">Просмотр в AppSource</a>
@@ -37,6 +37,7 @@ ms.locfileid: "53525873"
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Bao Le Duc |
 | URL-адрес веб-сайта-партнера | [https://www.standupalice.com](https://www.standupalice.com) |
+| URL-адрес страницы Teams приложения | [https://www.standupalice.com](https://www.standupalice.com) |
 | URL-адрес политики конфиденциальности | [https://www.standupalice.com/privacy](https://www.standupalice.com/privacy) |
 | URL-адрес терминов использования | [https://www.standupalice.com/terms](https://www.standupalice.com/terms) |
 
@@ -63,7 +64,7 @@ ms.locfileid: "53525873"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Облако Google — мы хозяймы бота в облаке Google |  | Недоступно |
+>| Облако Google — мы хозяймы бота в облаке Google | Microsoft Teams TeamId | Нам нужна TeamId для определения Microsoft Teams &quot; &quot; группы |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -71,14 +72,14 @@ ms.locfileid: "53525873"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Мы используем имя отображения для отображения в веб-приложении и автономных отчетах, чтобы сделать его значимым. Мы можем общаться Teams администратором о бесплатных пробных версиях платежей. | Отображение имени и адреса электронной почты. |  |
+>| Мы используем имя отображения для отображения в веб-приложении и автономных отчетах, чтобы сделать его значимым. Мы можем общаться Teams администратором о бесплатных пробных версиях платежей. | Отображение имени и адреса электронной почты. | Мы используем отображаемую именем и адресом электронной почты для создания ежедневных отчетов о standup.  |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Нет, мы не регистрим такие данные
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
@@ -108,3 +109,16 @@ ms.locfileid: "53525873"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена Bao Le Duc о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

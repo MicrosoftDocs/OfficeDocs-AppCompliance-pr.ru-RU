@@ -1,45 +1,45 @@
 ---
-title: Сведения о приложениях для MindMup от Sauf Pompiers Ltd
+title: Сведения о приложениях для BravoNow службами программного обеспечения SpadeWorx
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 08/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для MindMup, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для BravoNow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 018079ed1d80c0ea3127734a504d56007d06d54e
+ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243157"
+ms.locfileid: "58245385"
 ---
-# <a name="mindmup"></a>MindMup
+# <a name="bravonow"></a>BravoNow
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 2 августа 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001759" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/272032ad-0c2e-4928-910e-5d52b19f70d5" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000157" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставленные Корпорацией Майкрософт sauf Pompiers Ltd:
+Сведения, предоставляемые службами программного обеспечения SpadeWorx в Корпорацию Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MindMup |
-| Идентификатор | WA200001759 |
+| Имя приложения | BravoNow |
+| Идентификатор | WA200000157 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Sauf Pompiers Ltd |
-| URL-адрес веб-сайта-партнера | [https://www.mindmup.com](https://www.mindmup.com) |
-| URL-адрес страницы Teams приложения | [https://www.mindmup.com/tutorials/microsoft-teams.html](https://www.mindmup.com/tutorials/microsoft-teams.html) |
-| URL-адрес политики конфиденциальности | [https://www.mindmup.com/resources/privacy_policy.html](https://www.mindmup.com/resources/privacy_policy.html) |
-| URL-адрес терминов использования | [https://www.mindmup.com/resources/terms_mindmup.html](https://www.mindmup.com/resources/terms_mindmup.html) |
+| Имя компании-партнера | Службы программного обеспечения SpadeWorx |
+| URL-адрес веб-сайта-партнера | [https://www.spadeworx.com](https://www.spadeworx.com) |
+| URL-адрес страницы Teams приложения | [https://bravo.pozitive.io](https://bravo.pozitive.io) |
+| URL-адрес политики конфиденциальности | [https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf](https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf) |
+| URL-адрес терминов использования | [https://docs.pozitive.io/BRAVO_TermsOfService.pdf](https://docs.pozitive.io/BRAVO_TermsOfService.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "58243157"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация была предоставлена Sauf Pompiers Ltd о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
+Эти сведения были предоставлены службами программного обеспечения SpadeWorx о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -57,40 +57,35 @@ ms.locfileid: "58243157"
 
 >| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Teams.ReadBasic.All | делегирована | идентификаторы и имена команд для пользователей | Разрешить пользователю обмениваться документами с группами, в которые он входит | [c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2) |
->| User.Read | делегирована | Идентификатор пользователя, адрес электронной почты для отображения после проверки подлинности | identifer пользователя, адрес электронной почты | [c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2) |
+>| User.Read | делегирована | Адрес электронной почты пользователей. | Недоступно | [272032ad-0c2e-4928-910e-5d52b19f70d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/272032ad-0c2e-4928-910e-5d52b19f70d5) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Системы хранения AWS, используемые для сохраняемой базовой информации профилей пользователей, для поддержки обмена документами и обеспечения доступа к документам пользователей в MindMup | id клиента | управление доступом |
+>Не службы Майкрософт не используются.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
+>| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| Он имеет доступ к адресу электронной почты. | Хранение адреса электронной почты | Хранение для идентификации и целей руководства. |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Журналы доступа к безопасности записывают пользовательский ID, ID клиента Office 365 и время доступа. Они сохраняются для предотвращения мошенничества и злоупотреблений.
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Документы пользователя хранятся в AWS (us-east-1), шифруются при транзите и шифруются в покое. данные доступны пользователям, создавших документы, и любым пользователям, с которыми владелец явно поделился документом.
-
-Весь доступ оператора и администратора защищен 2FA.
-
-Доступ администратора пользователей и клиентов обеспечивается встроенной проверкой подлинности Microsoft/Azure AD, а 2FA-параметры доступны напрямую через SSO.
+>Н/д
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -106,9 +101,9 @@ ms.locfileid: "58243157"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35953' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42547' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35953" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42547" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,20 +113,20 @@ ms.locfileid: "58243157"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена Sauf Pompiers Ltd о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эти сведения были предоставлены службами программного обеспечения SpadeWorx о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/> |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |

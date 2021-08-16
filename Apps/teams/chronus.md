@@ -1,45 +1,45 @@
 ---
-title: Сведения о приложениях для чата в прямом эфире по социальным намерениям
+title: Сведения о приложениях для Chronus от Chronus
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для live Chat, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Chronus, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
+ms.openlocfilehash: a64d282947363ef5bbc2ef218edcade22d719f01
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243540"
+ms.locfileid: "58242551"
 ---
-# <a name="live-chat"></a>Live Chat
+# <a name="chronus"></a>Chronus
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 3 августа 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/a55635a5-8def-48e7-bcff-230cd43d3405" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000440" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/bb32d4e5-ae29-4c59-ba7e-a11611ca9710" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003051" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые социальными намерениями Корпорации Майкрософт:
+Сведения, предоставляемые корпорацией Майкрософт Chronus:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Live Chat |
-| Идентификатор | WA200000440 |
+| Имя приложения | Chronus |
+| Идентификатор | WA200003051 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Social Intents |
-| URL-адрес веб-сайта-партнера | [https://www.socialintents.com](https://www.socialintents.com) |
-| URL-адрес страницы Teams приложения | [https://www.socialintents.com/teams-live-chat.jsp](https://www.socialintents.com/teams-live-chat.jsp) |
-| URL-адрес политики конфиденциальности | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| URL-адрес терминов использования | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| Имя компании-партнера | Chronus |
+| URL-адрес веб-сайта-партнера | [https://chronus.com](https://chronus.com) |
+| URL-адрес страницы Teams приложения | [https://chronus.com/services](https://chronus.com/services) |
+| URL-адрес политики конфиденциальности | [https://chronus.com/privacy-policy](https://chronus.com/privacy-policy) |
+| URL-адрес терминов использования | [https://chronus.com/service-terms-conditions](https://chronus.com/service-terms-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "58243540"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены социальными намерениями о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эти сведения предоставлены Chronus о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -70,20 +70,20 @@ ms.locfileid: "58243540"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Когда члены группы нажимают кнопку Присоединиться к чату, мы используем электронную почту участников, чтобы определить, какой профиль агента принял чат. | Электронная почта и имя участника группы, который принял чат в прямом эфире, хранятся в базе данных истории чата. | Сведения дополнительно собираются для использования клиентом и могут быть отключены полностью клиентом в настройках предварительной продажи чата. |
+>| Определение и отправка уведомлений пользователям ms teams | ID пользователя Teams MS | Отправка упреждающих уведомлений пользователям ms teams |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Электронная почта и имя могут показываться в ежедневных журналах, которые удаляются или удаляются почасово.
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Данные хранятся в защищенном экземпляре RDS, ограниченном IP и 2FA.
+>Chronus надежно собирает и управляет данными от клиента, чтобы реализовать и поддерживать систему от имени клиента, только с единственной целью облегчения портала наставничества клиентов. Chronus не будет экспортировать, хранить или хранить информацию о клиентах отдельно от самого портала наставничества. В том случае, если клиент решил либо расторгнуть, либо не продлить соглашение об услугах наставника Chronus, все данные будут удалены из системы Chronus.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -99,9 +99,9 @@ ms.locfileid: "58243540"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37472' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37472" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,7 +111,7 @@ ms.locfileid: "58243540"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения были предоставлены социальными намерениями о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена Chronus о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
