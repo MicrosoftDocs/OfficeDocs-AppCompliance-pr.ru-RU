@@ -1,0 +1,140 @@
+---
+title: Сведения о приложениях для Koan от Koan, Inc.
+ms.author: elmalova
+author: elenamalova
+ms.date: 06/01/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: Вся доступная информация о безопасности и соответствии требованиям для Koan, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 7bd65669087e3e0cb934bf7cb3da4c70bba08d73
+ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58391895"
+---
+# <a name="koan"></a>Koan
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 1 июня 2021 г.</p>
+
+* <a href="https://teams.microsoft.com/l/app/dae2b2c3-b014-4188-a887-c87c3ca4a227" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002936" target="_blank">Просмотр в AppSource</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>Общие сведения
+
+Сведения, предоставленные корпорацией Koan, Inc. корпорации Майкрософт:
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Имя приложения | Koan |
+| ID | WA200002936 |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя компании-партнера | Koan, Inc. |
+| URL-адрес веб-сайта-партнера | [https://www.koan.co](https://www.koan.co) |
+| URL-адрес страницы Teams приложения | [https://www.koan.co/how-it-works](https://www.koan.co/how-it-works) |
+| URL-адрес политики конфиденциальности | [https://www.koan.co/privacy-policy](https://www.koan.co/privacy-policy) |
+| URL-адрес терминов использования | [https://www.koan.co/terms-of-service](https://www.koan.co/terms-of-service) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+
+Эти сведения предоставлены koan, Inc. о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | делегирована | Используется id канала и имя канала. Мы используем данные, чтобы пользователи могли выбрать, куда они хотят доставить уведомления reflection. | В конфигурации пользователей мы храним имя канала и имя канала. | [5b599e19-a609-432b-9074-c9d4457e8766](https://docs.microsoft.com/microsoft-365-app-certification/azure/5b599e19-a609-432b-9074-c9d4457e8766) |
+>| Team.ReadBasic.All | оба | Ид команды, и имя команды собираются и используются. Мы используем данные, чтобы пользователи могли выбрать, куда они хотят доставить уведомления reflection. | В конфигурации пользователей мы храним id и имя команды. | [5b599e19-a609-432b-9074-c9d4457e8766](https://docs.microsoft.com/microsoft-365-app-certification/azure/5b599e19-a609-432b-9074-c9d4457e8766) |
+>| User.Read | делегирована | Используется имя пользователя, пользовательский id, адрес электронной почты пользователя. Эти данные используются для связи учетных записей пользователей между Microsoft Teams и Koan. Применяется только для упоминаний. | Ни один из данных не хранится | [5b599e19-a609-432b-9074-c9d4457e8766](https://docs.microsoft.com/microsoft-365-app-certification/azure/5b599e19-a609-432b-9074-c9d4457e8766) |
+
+
+#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+
+Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| Intercom, Hubspot | Сведения о профиле пользователя | Служба поддержки клиентов |
+
+#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+
+Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+
+>| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| Имена пользователей, связывающие профиль между Microsoft Teams и Koan | Нет |  |
+
+
+#### <a name="telemetry-data"></a>Данные телеметрии
+
+В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+
+>В телеметрии приложений или журналах не отображаются OII или EUII.
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+
+Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+
+>Мы сохраняем административный доступ к удаляем, архивам и очистке данных в партнерских системах.
+
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Да
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена Koan, Inc. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
