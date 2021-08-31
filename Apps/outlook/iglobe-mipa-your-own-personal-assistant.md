@@ -2,23 +2,23 @@
 title: Сведения о приложениях для MIPA — ваш личный помощник по iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/05/2020
+ms.date: 08/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствии требованиям для MIPA — ваш личный помощник, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7db3c4f2e43ab80a84cc1421bff8489b2e467732
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 816d87c566fc50d3c6eaeaeaed2b333356d3ca00
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527025"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672926"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA — личный помощник
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 5 ноября 2020 г.</p>
+<p>Последнее обновление разработчика: 12 августа 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200000062" target="_blank">Просмотр в AppSource</a>
 
@@ -52,26 +52,26 @@ ms.locfileid: "53527025"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Целые календера чтения и обновления | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Contacts.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Целые календера чтения и обновления | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner. Чтобы проверить, у пользователя есть согласие и доступ к использованию API. | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планирования Outlook To Do, помечайте и обновляйте их. Создание новой задачи планировщика. | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Mail.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление помеченной почты | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| MailboxSettings.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календлеров, чтение и обновление почты с флагами, чтение и обновление Outlook To Do целых версий | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.Read | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.ReadBasic.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| email | делегирована | Данные не хранятся в базах данных приложений. | Позволяет приложению читать основной адрес электронной почты пользователей (для SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| offline_access | делегирована | Данные не хранятся в базах данных приложений. | Позволяет приложению видеть и обновлять данные, к которые вы предоставили ему доступ, даже если пользователи в настоящее время не используют приложение. Это не дает приложению дополнительных разрешений (для SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| openid | делегирована | Данные не хранятся в базе данных приложений | Позволяет пользователям войти в приложение со своими учетными записями работы или школы и позволяет приложению видеть основные сведения о профиле пользователя (для SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| profile | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Целые календера чтения и обновления | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Contacts.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Целые календера чтения и обновления | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner. Чтобы проверить, у пользователя есть согласие и доступ к использованию API. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планирования Outlook To Do, помечайте и обновляйте их. Создание новой задачи планировщика. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Mail.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление помеченной почты | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| MailboxSettings.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календлеров, чтение и обновление почты с флагами, чтение и обновление Outlook To Do целых версий | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadBasic.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| email | делегирована | Данные не хранятся в базах данных приложений. | Позволяет приложению читать основной адрес электронной почты пользователей (для SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| offline_access | делегирована | Данные не хранятся в базах данных приложений. | Позволяет приложению видеть и обновлять данные, к которые вы предоставили ему доступ, даже если пользователи в настоящее время не используют приложение. Это не дает приложению дополнительных разрешений (для SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| openid | делегирована | Данные не хранятся в базе данных приложений | Позволяет пользователям войти в приложение со своими учетными записями работы или школы и позволяет приложению видеть основные сведения о профиле пользователя (для SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| profile | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 

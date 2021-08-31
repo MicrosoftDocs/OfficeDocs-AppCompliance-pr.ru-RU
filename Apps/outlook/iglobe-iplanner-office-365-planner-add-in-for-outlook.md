@@ -2,23 +2,23 @@
 title: Сведения о приложениях для надстройки Office 365 планировщика для Outlook iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 08/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройки Office 365 планировщика для Outlook, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d83a6a47904835cb723c09ffc67bcf43117b3296
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 3503b068b8835037b578837cb7f7f264a91135c6
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527405"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672466"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>надстройка Office 365 планировщика для Outlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 17 ноября 2020 г.</p>
+<p>Последнее обновление разработчика: 12 августа 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380147" target="_blank">Просмотр в AppSource</a>
 
@@ -52,7 +52,7 @@ ms.locfileid: "53527405"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планировщика и добавить новые задачи, обновим ведро и линию плавания для конкретного пользователя | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 >| Contacts.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | создание встречи в календаре пользователей в срок выполнения задач | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
