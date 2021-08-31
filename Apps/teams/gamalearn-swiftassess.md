@@ -1,44 +1,45 @@
 ---
-title: Сведения о приложениях для SmartWork с помощью SmartWork intumit
+title: Сведения о приложениях для SwiftAssess от GamaLearn
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для SmartWork, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: Все доступные сведения о безопасности и соответствия требованиям для SwiftAssess, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 5b8cdd1539ce1e945cb819d129be9e861b163bd9
+ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404044"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58422651"
 ---
-# <a name="smartwork"></a>SmartWork
+# <a name="swiftassess"></a>SwiftAssess
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 23 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 3 августа 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/a938ae1e-a791-4751-9e6a-178c991fa0fa" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001149" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/0cd07157-f297-4c2c-a23b-64577bceea6c" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001973" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые SmartWork intumit Корпорации Майкрософт:
+Сведения, предоставленные GamaLearn корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SmartWork |
-| Идентификатор | WA200001149 |
+| Имя приложения | SwiftAssess |
+| Идентификатор | WA200001973 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | SmartWork of Intumit |
-| URL-адрес веб-сайта-партнера | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
-| URL-адрес политики конфиденциальности | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
-| URL-адрес терминов использования | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
+| Имя компании-партнера | GamaLearn |
+| URL-адрес веб-сайта-партнера | [https://gamalearn.com](https://gamalearn.com) |
+| URL-адрес страницы Teams приложения | [https://swiftassess.com/about/partners/microsoft#Teams](https://swiftassess.com/about/partners/microsoft#Teams) |
+| URL-адрес политики конфиденциальности | [https://www.gamalearn.com/Resources/Privacy.pdf](https://www.gamalearn.com/Resources/Privacy.pdf) |
+| URL-адрес терминов использования | [https://swiftassess.com/terms-and-conditions](https://swiftassess.com/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,15 +49,13 @@ ms.locfileid: "58404044"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена командой SmartWork of Intumit о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эта информация предоставлена GamaLearn о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | Использование userPrincipalName для определения того, является ли почта пользователя действительной AAD или нет. | Вход и чтение профиля пользователя | [a938ae1e-a791-4751-9e6a-178c991fa0fafa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>Это приложение не использует Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -69,28 +68,26 @@ ms.locfileid: "58404044"
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Использование для идентификации почты пользователя из допустимой AAD или нет. | Электронная почта пользователя | Сохраненный список почты пользователя, чтобы определить, является ли пользователь из допустимой AAD или нет. |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Нет. Во время беседы мы будем использовать режим сеанса для управления. Использование id для соответствующего элемента в DB, а затем доступ к данным. Мы не будем специально входить в журнал сведений о пользователе
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Только у вас есть допустимая учетная запись AAD, которая может получить доступ к приложению.
+>удаление, хранение, архивация, аудит
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Да
+>Нет
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,9 +97,9 @@ ms.locfileid: "58404044"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,22 +109,20 @@ ms.locfileid: "58404044"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация была предоставлена SmartWork intumit о том, как это приложение обрабатывает проверку подлинности, авторизацию, передовую практику регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена GamaLearn о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | ,<br/>- Неявные Flow OAuth2, если не требуется spa<br/> |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
-| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |
 
