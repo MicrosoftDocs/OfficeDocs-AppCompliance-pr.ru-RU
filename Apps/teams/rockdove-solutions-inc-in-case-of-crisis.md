@@ -1,0 +1,144 @@
+---
+title: Сведения о приложениях для в случае кризиса от RockDove Solutions, Inc.
+ms.author: elmalova
+author: elenamalova
+ms.date: 08/27/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: Все доступные сведения о безопасности и соответствия требованиям для В случае кризиса, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 4671d37d77d16004c171887f101ade7506598614
+ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836229"
+---
+# <a name="in-case-of-crisis"></a>В случае кризиса
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 27 августа 2021 г.</p>
+
+* <a href="https://teams.microsoft.com/l/app/cf430644-447e-4572-8467-3892596d05c7" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003194" target="_blank">Просмотр в AppSource</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>Общие сведения
+
+Сведения, предоставленные корпорацией Майкрософт в компании RockDove Solutions, Inc.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Имя приложения | В случае кризиса |
+| Идентификатор | WA200003194 |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя компании-партнера | RockDove Solutions, Inc. |
+| URL-адрес веб-сайта-партнера | [https://www.rockdovesolutions.com](https://www.rockdovesolutions.com) |
+| URL-адрес страницы Teams приложения | [https://www.rockdovesolutions.com/in-case-of-crisis/in-case...](https://www.rockdovesolutions.com/in-case-of-crisis/in-case-of-crisis-platform) |
+| URL-адрес политики конфиденциальности | [https://www.rockdovesolutions.com/privacy-policy](https://www.rockdovesolutions.com/privacy-policy) |
+| URL-адрес терминов использования | [https://www.rockdovesolutions.com/terms-of-use](https://www.rockdovesolutions.com/terms-of-use) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+
+Эта информация была предоставлена RockDove Solutions, Inc. о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | Это дает полный доступ к календарю пользователя. Наше приложение отображает описание, ссылку на конференцию и даты начала и окончания. Наше приложение также позволяет пользователю создавать событие в календаре outlook | В будущем ids событий могут храниться в базе данных | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Channel.ReadBasic.All | делегирована | Предоставляет доступ к каналу пользователей.  Список каналов пользователей используется для выбора канала для отправки файла в | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Files.ReadWrite | делегирована | Н/Д | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Files.ReadWrite.All | делегирована | Мы разрешаем пользователям загружать файлы из управления вопросами в Teams | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Sites.ReadWrite.All | делегирована | Это необходимо для загрузки на частный канал | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Team.ReadBasic.All | делегирована | Список групп необходим для получения списка каналов, к которые принадлежит пользователю. Это позволяет просматривать список доступных каналов загрузки. | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| email | делегирована | Необходимо получить электронную почту пользователя после проверки подлинности для сравнения с электронными письмами в нашей базе данных. Если у пользователя нет учетной записи в нашей системе, мы создадим ее. | Мы храним адрес электронной почты и создадим для него учетную запись приложения. | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| offline_access | делегирована | Это позволяет обновить маркер доступа к графу | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| openid | делегирована | Необходимое разрешение на проверку подлинности с помощью openid | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+
+
+#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+
+Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| AWS | Адрес электронной почты пользователя организации для проверки подлинности и связи | Адреса электронной почты используются в качестве имен пользователей в нашей службе, и мы используем AWS для нашего сервера электронной почты smTP-приложений |
+
+#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+
+Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+
+>Доступ к EUII не имеется.
+
+
+#### <a name="telemetry-data"></a>Данные телеметрии
+
+В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+
+>Адреса электронной почты используются в качестве основного имени пользователя в нашей системе.  Хранение сведений о пользователях для наших клиентов сохраняется в то время как клиент является текущим и удаляется после того, как они перестанут продлевать контракт на обслуживание.
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+
+Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+
+>Мы предоставляем нашим клиентам портал администрирования партнеров для управления (вставка, замена, удаление, аудит, архивативная информация компании, общие в нашей службе.
+
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Нет
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация была предоставлена RockDove Solutions, Inc. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Да |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

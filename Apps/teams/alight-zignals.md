@@ -1,0 +1,143 @@
+---
+title: Сведения о приложениях для Zignals alight
+ms.author: elmalova
+author: elenamalova
+ms.date: 08/17/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: Вся доступная информация о безопасности и соответствии требованиям для Zignals, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 313529eecfcf1e8e129bb22cb5ee4c7b53b9e2c5
+ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58835878"
+---
+# <a name="zignals"></a>Zignals
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 17 августа 2021 г.</p>
+
+* <a href="https://teams.microsoft.com/l/app/a0b58ca7-958d-4343-a2dc-a75f2eeb0953" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003201" target="_blank">Просмотр в AppSource</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>Общие сведения
+
+Сведения, предоставляемые Alight Корпорации Майкрософт:
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Имя приложения | Zignals |
+| Идентификатор | WA200003201 |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
+| Имя компании-партнера | Alight |
+| URL-адрес веб-сайта-партнера | [https://www.alight.eu](https://www.alight.eu) |
+| URL-адрес страницы Teams приложения | [https://zignals.eu/zignals-support/](https://zignals.eu/zignals-support/) |
+| URL-адрес политики конфиденциальности | [https://www.zignals.eu/privacy-policy-zignals-for-teams/](https://www.zignals.eu/privacy-policy-zignals-for-teams/) |
+| URL-адрес терминов использования | [https://zignals.eu/terms](https://zignals.eu/terms) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>Обработка данных приложением
+
+Эта информация предоставлена Alight о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | делегирована | В области Мои собрания мы получаем собрания пользователя сегодня &quot; &quot; и завтра. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| Sites.ReadWrite.All | делегирована | Мы получаем все последующие сайты SharePoint пользователя и отобразим их в области Моя работа в команде, и мы получаем все задачи SharePoint пользователя и отобразим их в области Мои задачи &quot; &quot; &quot; &quot; . | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| Tasks.ReadWrite | делегирована | Мы читаем задачи планировщика и To Do пользователя и отображаем их в области &quot; Мои &quot; задачи. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| Team.ReadBasic.All | делегирована | Мы получаем присоединяемую команду пользователя и отобразим их в области &quot; My &quot; Teamwork. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| User.ReadBasic.All | делегирована | В области &quot; Мои документы &quot; мы отображаем пользователя, которому было совместное | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| User.ReadWrite | делегирована | Последние документы пользователя отображаются в области &quot; Мои &quot; документы. Любимые приложения пользователя хранятся в качестве расширения схемы в ms Graph. Этот уровень разрешений необходим для чтения и записи данных на графике. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| email | делегирована | Получить электронную почту пользователей (стандартная область Teams MS) | Не хранится в нашем DB | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| offline_access | делегирована | Область стандартного Teams MS | Не хранится в нашем DB | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| openid | делегирована | Вход в пользователей. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| profile | делегирована | Вход в процесс MS Teams | Не хранится в нашем DB | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+
+
+#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
+
+Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
+
+>Не службы Майкрософт не используются.
+
+#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
+
+Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
+
+>Доступ к EUII не имеется.
+
+
+#### <a name="telemetry-data"></a>Данные телеметрии
+
+В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
+
+>В телеметрии приложений или журналах не отображаются OII или EUII.
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
+
+Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
+
+>Данные хранятся только в Azure. Здесь мы используем интерфейс администратора для управления данными (incl. удаление, аудит и т.д.)
+
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Да
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена Alight о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Да |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Да |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
