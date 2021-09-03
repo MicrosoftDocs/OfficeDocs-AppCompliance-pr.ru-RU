@@ -2,23 +2,23 @@
 title: Сведения о приложениях для MyHub от AvePoint, inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/25/2021
+ms.date: 08/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для MyHub, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ffca0a4df366662e86001bb3d685986d877e8cca
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: cc9d478d0395ad9b70531528bc5fd0f73bf84302
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527635"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58870024"
 ---
 # <a name="myhub"></a>MyHub
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 25 мая 2021 г.</p>
+<p>Последнее обновление разработчика: 24 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000726" target="_blank">Просмотр в AppSource</a>
@@ -54,14 +54,14 @@ ms.locfileid: "53527635"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | оба | Данные конфигурации приложений хранятся с точки зрения обработки данных | Чтение данных каталога | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 >| Group.ReadWrite.All | оба | Данные конфигурации приложений хранятся с точки зрения обработки данных | Чтение и запись всех групп | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 >| Mail.Send | делегирована | Данные конфигурации приложений хранятся с точки зрения обработки данных | Отправка почты от имени пользователя | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 >| Reports.Read.All | приложение | Данные конфигурации приложений хранятся с точки зрения обработки данных | Чтение всех отчетов об использовании | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 >| Sites.FullControl.All | приложение | Данные конфигурации приложений хранятся с точки зрения обработки данных | Полный контроль над всеми семействами веб-сайтов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.Read.All | приложение | Данные конфигурации приложений хранятся с точки зрения обработки данных | Чтение элементов во всех семействах веб-сайтов  | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.Read.All | приложение | Данные конфигурации приложений хранятся с точки зрения обработки данных | Чтение элементов во всех семействах веб-сайтов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 >| Sites.ReadWrite.All | делегирована | Данные конфигурации приложений хранятся с точки зрения обработки данных | Изменение или удаление элементов во всех коллекциях сайтов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 >| User.Read.All | оба | Данные конфигурации приложений хранятся с точки зрения обработки данных | Чтение всех&#8217; полных профилей | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
@@ -125,7 +125,8 @@ ms.locfileid: "53527635"
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
-| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Поддерживает ли ваше приложение политики условного доступа? | Да |
+| Список типов поддерживаемых политик | Приложение федератуется с Azure AD, поэтому можно использовать все правила условного доступа. |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение многотенантность? | Да |

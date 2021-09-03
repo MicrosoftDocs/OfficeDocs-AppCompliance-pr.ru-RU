@@ -2,17 +2,17 @@
 title: Безопасность PowerPoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений PowerPoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 865492d53a958a3bd434c42388b55c6b92d75058
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.openlocfilehash: f8b1cebabbe53310caf681e70b1b399fe1f53fc6
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58669045"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58870014"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Безопасность PowerPoint приложений и соответствие требованиям
 
