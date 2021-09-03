@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Salesforce salesforce.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Salesforce, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d0490ea422179e064443f7fad12abb64bc6efa47
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: a2a4cb54f96d35bfd12b3396da3cf5e9c63b1c96
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527915"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873464"
 ---
 # <a name="salesforce"></a>Salesforce
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 24 августа 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104379334" target="_blank">Просмотр в AppSource</a>
 
@@ -37,7 +37,7 @@ ms.locfileid: "53527915"
 | Имя компании-партнера | salesforce.com |
 | URL-адрес веб-сайта-партнера | [https://www.salesforce.com](https://www.salesforce.com) |
 | URL-адрес политики конфиденциальности | [https://www.salesforce.com/company/privacy/](https://www.salesforce.com/company/privacy/) |
-| URL-адрес терминов использования | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA104379334&amp;cmu=en-US) |
+| URL-адрес терминов использования | [https://www.salesforce.com/content/dam/web/en_us/www/docume...](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/software-order-form-supplements/Salesforce_Outlook_TOU_Order_Form_Addendum.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -61,8 +61,8 @@ ms.locfileid: "53527915"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API JavaScript для Office | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. |  | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. |  |
->| Веб-службы Exchange (EWS) | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. |  | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. |  |
+>| API JavaScript для Office | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. |
+>| Веб-службы Exchange (EWS) | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -106,3 +106,16 @@ ms.locfileid: "53527915"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения были предоставлены salesforce.com о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
