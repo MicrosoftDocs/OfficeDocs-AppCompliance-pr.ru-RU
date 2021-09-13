@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 8x8, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e6b886dc575994e36926847685d1de81647a10ea
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281481"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285065"
 ---
 # <a name="8x8"></a>8x8
 

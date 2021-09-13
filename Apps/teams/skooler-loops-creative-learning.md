@@ -9,13 +9,13 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Loops — creative Обучение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 00300dd552ae702e226d96721a3e9bfa5258ba39
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673174"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59283942"
 ---
-# <a name="loops---creative-learning"></a>Циклы — творческие Обучение
+# <a name="loops---creative-learning"></a>Loops - Creative Learning
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58673174"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Циклы — творческие Обучение |
+| Имя приложения | Loops - Creative Learning |
 | Идентификатор | WA200003074 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Skooler |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для JobPts, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 22c80e919a07b30f6b65dc055a514e9ce2a1eefc
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404712"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284993"
 ---
 # <a name="jobpts"></a>JobPts
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Talview Interviews, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 38ab0472b84fc2b53c357bed1ad32ed4e3a6ad11
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528165"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285622"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -55,7 +55,7 @@ ms.locfileid: "53528165"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | Вход и чтение профиля пользователя | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
 >| email | делегирована | Просмотр адреса электронной почты пользователей для сопоставления учетных записей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |

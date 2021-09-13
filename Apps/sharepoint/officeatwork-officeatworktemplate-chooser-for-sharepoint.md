@@ -9,11 +9,11 @@ certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор шаблона для SharePoint, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 071ccbcc6c5960ca533a4dd99ad3cae3e5a59a77
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527685"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284185"
 ---
 # <a name="officeatwork--template-chooser-for-sharepoint"></a>officeatwork | Выбор шаблона для SharePoint
 
@@ -52,7 +52,7 @@ ms.locfileid: "53527685"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive; OneDrive: возможность чтения и записи данных пользователям OneDrive. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 >| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
@@ -70,7 +70,7 @@ ms.locfileid: "53527685"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| REST API SharePoint | Нет |  |  |  |  |
+>| REST API SharePoint | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 

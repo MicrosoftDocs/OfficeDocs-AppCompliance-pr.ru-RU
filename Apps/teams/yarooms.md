@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для YAROOMS, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: ef2df7d6c616239b36036d4116bfc1f5ee5373bb
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404891"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284958"
 ---
 # <a name="yarooms"></a>YAROOMS
 

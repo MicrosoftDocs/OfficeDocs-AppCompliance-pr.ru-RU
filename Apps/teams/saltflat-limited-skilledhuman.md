@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SkilledHuman, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 73e0fe6ac097da2212173a467f38cdea21657dff
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275458"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285022"
 ---
 # <a name="skilledhuman"></a>SkilledHuman
 

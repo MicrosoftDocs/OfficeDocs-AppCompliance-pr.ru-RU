@@ -1,44 +1,45 @@
 ---
-title: Сведения о приложениях для SelfDrvn selfDrvn
+title: Сведения о приложениях для Totara от Totara Обучение
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/01/2021
+ms.date: 07/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для SelfDrvn, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1bec8e13c2cfbf53e2585abfa3cf01f0a534848e
+description: Все доступные сведения о безопасности и соответствия требованиям для Totara, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 5537ae869e4003664d71d4f04036548c432a1b8b
 ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285694"
+ms.locfileid: "59285598"
 ---
-# <a name="selfdrvn"></a>SelfDrvn
+# <a name="totara"></a>Totara
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 1 мая 2021 г.</p>
+<p>Последнее обновление разработчика: 1 июля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/227f2790-98ab-42dc-8d3f-1d76c83c9d04" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001861" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/5022e09d-d2f9-499f-8925-554c324ad23a" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003222" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые selfDrvn в Корпорацию Майкрософт:
+Сведения, предоставленные Корпорацией Майкрософт Обучение totara:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SelfDrvn |
-| Идентификатор | WA200001861 |
+| Имя приложения | Totara |
+| Идентификатор | WA200003222 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | SelfDrvn |
-| URL-адрес веб-сайта-партнера | [https://selfdrvn.com](https://selfdrvn.com) |
-| URL-адрес политики конфиденциальности | [https://selfdrvn.com/privacy](https://selfdrvn.com/privacy) |
-| URL-адрес терминов использования | [https://selfdrvn.com/eula](https://selfdrvn.com/eula) |
+| Имя компании-партнера | Totara Обучение |
+| URL-адрес веб-сайта-партнера | [https://www.totaralearning.com](https://www.totaralearning.com) |
+| URL-адрес страницы Teams приложения | [https://www.totaralearning.com/products/totara-talent-exper...](https://www.totaralearning.com/products/totara-talent-experience-platform) |
+| URL-адрес политики конфиденциальности | [https://www.totaralearning.com/en/privacy-policy](https://www.totaralearning.com/en/privacy-policy) |
+| URL-адрес терминов использования | [https://www.totaralearning.com/en/solutions/totara-cloud/te...](https://www.totaralearning.com/en/solutions/totara-cloud/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,13 +49,15 @@ ms.locfileid: "59285694"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена SelfDrvn о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
+Эта информация предоставлена totara Обучение о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->Это приложение не использует Microsoft Graph.
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | делегирована | Подключение пользователя teams к локальному пользователю системы с помощью адреса электронной почты | teams_id / mschannelid — подключение локального пользователя к пользователю teams. Эти данные хранятся в экземпляре клиента, а не на наших серверах. | [5022e09d-d2f9-499f-8925-554c324ad23a](https://docs.microsoft.com/microsoft-365-app-certification/azure/5022e09d-d2f9-499f-8925-554c324ad23a) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -80,7 +83,7 @@ ms.locfileid: "59285694"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Наше приложение взаимодействует непосредственно с экземпляром нашего клиента, а не с любой службой, принадлежащей нам или нашим партнерам.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -96,9 +99,9 @@ ms.locfileid: "59285694"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38777' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38777" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,23 +111,11 @@ ms.locfileid: "59285694"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена selfDrvn о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена totara Обучение о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
-| Поддерживает ли ваше приложение политики условного доступа? | Нет |
-| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
-| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
-| Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Нет |
-| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/> |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
-| Использует ли приложение API предварительного просмотра? | Нет |
-| Использует ли ваше приложение неподготовленные API? | Нет |
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

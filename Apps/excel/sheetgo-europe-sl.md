@@ -9,11 +9,11 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 77da98d015480716b848a47f4d6d04d35035f5fb
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526535"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285102"
 ---
 # <a name="sheetgo"></a>Sheetgo
 

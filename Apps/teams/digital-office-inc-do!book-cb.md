@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CB do!book, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 73d1777b2cbae078e0e43a13d6ad46b8a9b62bbb
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422739"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284022"
 ---
 # <a name="dobook-cb"></a>do!book CB
 

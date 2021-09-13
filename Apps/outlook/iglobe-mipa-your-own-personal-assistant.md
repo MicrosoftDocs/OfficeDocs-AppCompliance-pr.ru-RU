@@ -9,11 +9,11 @@ certification_type: certified
 description: Вся доступная информация о безопасности и соответствии требованиям для MIPA — ваш личный помощник, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 816d87c566fc50d3c6eaeaeaed2b333356d3ca00
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672926"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285078"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA — личный помощник
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для isLucid, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: d29616471c22a2fd4f01a849d14b965ae106aa80
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58872082"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285553"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -35,7 +35,7 @@ ms.locfileid: "58872082"
 | Имя приложения | isLucid |
 | Идентификатор | WA200002385 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Соглашения о люцидных соглашениях UAB |
+| Имя компании-партнера | UAB Lucid Agreements |
 | URL-адрес веб-сайта-партнера | [https://islucid.com](https://islucid.com) |
 | URL-адрес страницы Teams приложения | [https://islucid.com](https://islucid.com) |
 | URL-адрес политики конфиденциальности | [https://islucid.com/privacy-policy/](https://islucid.com/privacy-policy/) |

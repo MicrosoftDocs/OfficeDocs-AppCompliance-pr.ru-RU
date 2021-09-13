@@ -1,44 +1,44 @@
 ---
-title: Сведения о приложениях для Rezolve.ai actionable Science
+title: Сведения о приложениях для SysAid от SysAid
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 07/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Rezolve.ai, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 22c71b78374956fb69f0f3f5fd5fc860d2184363
+description: Все доступные сведения о безопасности и соответствия требованиям для SysAid, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 359d8c291f327d4f46903d3a1e5b2bddcd8d84a8
 ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285062"
+ms.locfileid: "59285625"
 ---
-# <a name="rezolveai"></a>Rezolve.ai
+# <a name="sysaid"></a>SysAid
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 27 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 4 июля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/762a660d-9fa5-461b-be81-310c102ba820" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002724" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/932c8be4-fac6-4df3-9e15-bc542f4ef88e" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003221" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые корпорацией Майкрософт actionable Science:
+Сведения, предоставляемые SysAid Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Rezolve.ai |
-| Идентификатор | WA200002724 |
+| Имя приложения | SysAid |
+| Идентификатор | WA200003221 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Actionable Science |
-| URL-адрес веб-сайта-партнера | [https://www.rezolve.ai](https://www.rezolve.ai) |
-| URL-адрес политики конфиденциальности | [https://www.rezolve.ai/privacyPolicy](https://www.rezolve.ai/privacyPolicy) |
-| URL-адрес терминов использования | [https://www.rezolve.ai/generalTerms](https://www.rezolve.ai/generalTerms) |
+| Имя компании-партнера | SysAid |
+| URL-адрес веб-сайта-партнера | [https://www.sysaid.com](https://www.sysaid.com) |
+| URL-адрес политики конфиденциальности | [https://www.sysaid.com/privacy](https://www.sysaid.com/privacy) |
+| URL-адрес терминов использования | [https://www.sysaid.com/wp-content/uploads/service-agreement...](https://www.sysaid.com/wp-content/uploads/service-agreement-cloud.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,15 +48,13 @@ ms.locfileid: "59285062"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена наукой Actionable о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемыми приложением.
+Эта информация предоставлена SysAid о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | Вход и чтение профиля пользователя | данные билетов, расшифровки чата, использование учебного процесса | [eb628055-f790-4ef0-9fce-ac95b4c61466](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb628055-f790-4ef0-9fce-ac95b4c61466) |
+>Это приложение не использует Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -69,9 +67,7 @@ ms.locfileid: "59285062"
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Имя и электронная почта захваченных в качестве каждого бизнеса должны создавать билеты и поднимать другие проблемы helpdesk | имя, электронная почта | Для пользователей электронной почты и других пользователей ролей об изменениях состояния и обновлениях на их билетах и потоках. |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -84,7 +80,7 @@ ms.locfileid: "59285062"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Интеграции на основе API rest, которые контролируются, аутентификация и авторизируются надлежащим образом
+>Мы управляем данными, основанными на нашей политике размежещения данных и следуя отраслевым лучшим практикам для удаления и т.д.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -100,9 +96,9 @@ ms.locfileid: "59285062"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42195' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42195" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,7 +108,7 @@ ms.locfileid: "59285062"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена Actionable Science о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена SysAid о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
@@ -123,10 +119,10 @@ ms.locfileid: "59285062"
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
-| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |
 

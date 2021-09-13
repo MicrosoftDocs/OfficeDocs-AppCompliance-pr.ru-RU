@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Agenda Boss, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e2f48c8a563e83f040907acf393d6794264a02cf
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987869"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284158"
 ---
 # <a name="agenda-boss"></a>Agenda Boss
 
@@ -33,7 +33,7 @@ ms.locfileid: "52987869"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Agenda Boss |
-| ID | WA200002607 |
+| Идентификатор | WA200002607 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Appfluence Inc |
 | URL-адрес веб-сайта-партнера | [https://agendaboss.com](https://agendaboss.com) |

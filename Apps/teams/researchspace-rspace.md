@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для RSpace, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3327e47994935c3beace465b60238a2c0978175c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551819"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59283998"
 ---
 # <a name="rspace"></a>RSpace
 
@@ -33,7 +33,7 @@ ms.locfileid: "52551819"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | RSpace |
-| ID | WA104381671 |
+| Идентификатор | WA104381671 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ResearchSpace |
 | URL-адрес веб-сайта-партнера | [https://www.researchspace.com](https://www.researchspace.com) |
