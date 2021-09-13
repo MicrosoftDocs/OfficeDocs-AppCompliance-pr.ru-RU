@@ -6,14 +6,16 @@ description: Архив информационных бюллетеней о с�
 keywords: Бюллетень соответствия требованиям
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a69495d35eaf69bee341efa7b15f479aa53e2ac0043e1aa8a422e1adc97cd83c
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 72d288c7409dea138e6150537f7f90df7be597ae
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54751709"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59274903"
 ---
 # <a name="newsletter-archive"></a>Архив бюллетеней
+
+[Май 2021](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/may2021)
 
 [Март 2021 г.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/March21%20NL)
 
