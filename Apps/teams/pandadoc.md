@@ -9,11 +9,11 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для PandaDoc, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 0ad06df6fb1b41955c2cb69e45f2ea84660b3e06
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774972"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288422"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -33,7 +33,7 @@ ms.locfileid: "53774972"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | PandaDoc |
-| ID | WA200002927 |
+| Идентификатор | WA200002927 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | PandaDoc |
 | URL-адрес веб-сайта-партнера | [https://www.pandadoc.com](https://www.pandadoc.com) |
@@ -55,7 +55,7 @@ ms.locfileid: "53774972"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | оба | получить списки каналов для каждой ранее полученной команды и получить ids дисков файлов для каждого канала. | Данные не хранятся | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
 >| ChannelSettings.Read.All | оба | получить списки каналов для каждой ранее полученной команды и получить ids дисков файлов для каждого канала.  | Данные не хранятся | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |

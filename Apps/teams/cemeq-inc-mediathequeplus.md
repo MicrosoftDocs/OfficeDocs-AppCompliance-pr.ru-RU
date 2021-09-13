@@ -1,5 +1,5 @@
 ---
-title: Сведения о приложениях для Mediatheque+ от CEMEQ inc.
+title: Сведения о приложениях для M&#233;&#232;que+ по CEMEQ inc.
 ms.author: elmalova
 author: elenamalova
 ms.date: 07/26/2021
@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для M&#233;&#232;que+, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3273664ff9280be9feeb29519f8434cd82415b13
-ms.sourcegitcommit: d4dc71e59ff046c02e575dbd9d73b66c3acce9b8
+ms.openlocfilehash: 8d2a991d23ad12ab197fc89471e4993da6e1e0a8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58699724"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286249"
 ---
 # <a name="m233diath232que"></a>M&#233;диафрагмы&#232;que+
 

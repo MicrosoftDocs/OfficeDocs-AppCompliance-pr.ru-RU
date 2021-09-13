@@ -9,11 +9,11 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для HunchBuzz, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: da50e7ef872263bd4d4d159733d631e4ba08f24d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552110"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285793"
 ---
 # <a name="hunchbuzz"></a>HunchBuzz
 
@@ -33,7 +33,7 @@ ms.locfileid: "52552110"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | HunchBuzz |
-| ID | WA200000160 |
+| Идентификатор | WA200000160 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | HunchBuzz |
 | URL-адрес веб-сайта-партнера | [https://hunchbuzz.com](https://hunchbuzz.com) |

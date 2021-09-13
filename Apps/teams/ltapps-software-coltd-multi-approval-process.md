@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для LTAPP многофазного процесса утверждения, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c001622957b8f1a56b776cbe2db034cc9225ef5d
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836209"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287446"
 ---
-# <a name="multi-approval-process-ltapps"></a>LTAPP процесса многофайлизации
+# <a name="multi-approval-process-ltapps"></a>Multi Approval Process LTAPPs
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58836209"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | LTAPP процесса многофайлизации |
+| Имя приложения | Multi Approval Process LTAPPs |
 | Идентификатор | WA200003188 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LTAPPs SOFTWARE CO.,LTD |

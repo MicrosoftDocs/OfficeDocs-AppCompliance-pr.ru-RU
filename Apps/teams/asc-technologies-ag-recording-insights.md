@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для asC Recording Аналитика, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391892"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287534"
 ---
-# <a name="asc-recording-insights"></a>AsC Recording Аналитика
+# <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "58391892"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | AsC Recording Аналитика |
-| ID | WA200000708 |
+| Имя приложения | ASC Recording Insights |
+| Идентификатор | WA200000708 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ASC Technologies AG |
 | URL-адрес веб-сайта-партнера | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |

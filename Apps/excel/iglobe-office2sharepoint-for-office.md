@@ -9,11 +9,11 @@ certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Office2SharePoint для Office, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 12b87e9addae70858503bb2d32def94cae657be2
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672766"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287561"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint для Office
 

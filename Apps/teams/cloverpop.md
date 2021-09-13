@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Cloverpop, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3865c07aca73134fd9029ee0550559d9a4f93fd2
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521872"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285921"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -54,7 +54,7 @@ ms.locfileid: "53521872"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | хранить пользовательские данные. email, oid, givenName, familyName, user avatar, user object id. Organization id (tenantId), organisation display name, Also we store on our side teams/channels names, ids, teams members. Когда пользователи создают и взаимодействуют с решениями, мы связываем эти данные с созданным пользователем, командой и организацией. Мы также должны отображать это владение в удобном для человека UX, поэтому мы храним сведения о отображениях, например,&#8217;аватара пользователя. | позволяет пользователю войти и предоставляет доступ приложения к своей upN для обеспечения бесшумного входа&#8221; - электронной почты, имени, oid, tid, givenName, surname, familyName, user avatar (photo), displayName организации | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
 >| openid | делегирована | Хранение пользовательских данных. email, oid, givenName, familyName, user avatar, user object id. Organization id (tenantId), organisation display name, Also we store on our side teams/channels names, ids, teams members. Когда пользователи создают и взаимодействуют с решениями, мы связываем эти данные с созданным пользователем, командой и организацией. Мы также должны отображать это владение в удобном для человека UX, поэтому мы храним сведения о отображениях, например,&#8217;аватара пользователя. | Чтобы реализовать &#8220;с помощью Teams&#8221; в нашем веб-приложении. | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |

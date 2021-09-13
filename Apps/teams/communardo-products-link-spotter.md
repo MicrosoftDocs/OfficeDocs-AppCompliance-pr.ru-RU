@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для корректировщика ссылок, его политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8a6c2ee716c7e07686e2c62e1cd79196acbdc5a3
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407654"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285902"
 ---
-# <a name="link-spotter"></a>Корректировщик ссылок
+# <a name="link-spotter"></a>Link Spotter
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58407654"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Корректировщик ссылок |
+| Имя приложения | Link Spotter |
 | Идентификатор | WA200003092 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Продукты Communardo |
+| Имя компании-партнера | Communardo Products |
 | URL-адрес веб-сайта-партнера | [https://www.communardo.com](https://www.communardo.com) |
 | URL-адрес страницы Teams приложения | [https://communardo.atlassian.net/wiki/spaces/LINK/overview](https://communardo.atlassian.net/wiki/spaces/LINK/overview) |
 | URL-адрес политики конфиденциальности | [https://www.communardo.com/privacy-statement/](https://www.communardo.com/privacy-statement/) |

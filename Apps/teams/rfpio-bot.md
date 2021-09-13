@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для бота RFPIO, политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 53a0dc00f9ac1c34577bd8351ebf6ecfda66cf4d
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53775050"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286358"
 ---
-# <a name="rfpio-bot"></a>Бот RFPIO
+# <a name="rfpio-bot"></a>RFPIO bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "53775050"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Бот RFPIO |
-| ID | WA200001880 |
+| Имя приложения | RFPIO bot |
+| Идентификатор | WA200001880 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | RFPIO |
 | URL-адрес веб-сайта-партнера | [https://www.rfpio.com](https://www.rfpio.com) |

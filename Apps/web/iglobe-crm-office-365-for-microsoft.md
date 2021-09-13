@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM Office 365 для Microsoft 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: dd871a1c4b9e8ef8dd0628ff73a2737e1b94550f
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275548"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288518"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>cRM-Office 365 для Microsoft 365
 
@@ -52,7 +52,7 @@ ms.locfileid: "53275548"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/применение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Доступ к календарям пользователей при обмывке отчетов о собраниях из canlendar в iGlobe | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
 >| Contacts.ReadWrite | делегирована | Directory.AccessAsUser.All | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя. | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |

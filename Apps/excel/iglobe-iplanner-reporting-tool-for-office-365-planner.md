@@ -9,11 +9,11 @@ certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для средства отчетности iPlanner для Office 365 Planner, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526055"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287585"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>средство отчетности iPlanner для Office 365 планировщика
 
@@ -52,7 +52,7 @@ ms.locfileid: "53526055"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Создание записи календаря в календаре пользователя&#8217;календаря в срок действия задачи. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы проверить, у пользователя есть согласие и доступ к использованию API. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |

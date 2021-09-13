@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Simple In/Out, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1dc9a66d7d49cb776fa82f7847ba9e06f74c6176
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552800"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286110"
 ---
 # <a name="simple-inout"></a>Simple In/Out
 
@@ -33,7 +33,7 @@ ms.locfileid: "52552800"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Simple In/Out |
-| ID | WA104382084 |
+| Идентификатор | WA104382084 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Simply Made Apps, Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.simpleinout.com](https://www.simpleinout.com) |

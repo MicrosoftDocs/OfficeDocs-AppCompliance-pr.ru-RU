@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ngDesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772116"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286062"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -32,7 +32,7 @@ ms.locfileid: "53772116"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | ngDesk |
-| ID | WA200002505 |
+| Идентификатор | WA200002505 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | All Blue Solutions |
 | URL-адрес веб-сайта-партнера | [https://ngdesk.com](https://ngdesk.com) |

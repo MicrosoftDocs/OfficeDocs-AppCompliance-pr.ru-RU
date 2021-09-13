@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Mindsets, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 95f3d60efa1c9cb8cb238fb51af9fa927c17a961
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405054"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288574"
 ---
-# <a name="mindsets"></a>Образ мышления
+# <a name="mindsets"></a>Mindsets
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58405054"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Образ мышления |
+| Имя приложения | Mindsets |
 | Идентификатор | WA200003000 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Мышления Обучение |
+| Имя компании-партнера | Mindsets Learning |
 | URL-адрес веб-сайта-партнера | [https://www.mindsets.com](https://www.mindsets.com) |
 | URL-адрес страницы Teams приложения | [https://www.mindsets.com](https://www.mindsets.com) |
 | URL-адрес политики конфиденциальности | [https://www.mindsets.com/terms](https://www.mindsets.com/terms) |

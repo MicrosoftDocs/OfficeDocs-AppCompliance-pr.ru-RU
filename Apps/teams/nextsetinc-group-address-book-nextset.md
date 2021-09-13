@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для групповой адресной книги — NextSet, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 1fe6aa3843708b6fac9f9688575708355d43d6a5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404844"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288113"
 ---
-# <a name="group-address-book---nextset"></a>Адресная книга группы — NextSet
+# <a name="group-address-book---nextset"></a>Group Address Book - NextSet
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58404844"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Адресная книга группы — NextSet |
+| Имя приложения | Group Address Book - NextSet |
 | Идентификатор | WA200001863 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | NextSet,Inc. |

@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для vonage Business Communications, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 80665180e1abdd6783e7644a06b4d116dcedf6ae
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241810"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288049"
 ---
-# <a name="vonage-business-communications"></a>Бизнес-коммуникации Vonage
+# <a name="vonage-business-communications"></a>Vonage Business Communications
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58241810"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Бизнес-коммуникации Vonage |
+| Имя приложения | Vonage Business Communications |
 | Идентификатор | WA200002988 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Vonage |
@@ -55,7 +55,7 @@ ms.locfileid: "58241810"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| TeamsActivity.Send | приложение | С этим разрешением данные не хранятся | С этим разрешением данные не хранятся | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
 >| User.Read | делегирована | Получение ид пользователя Azure и его клиента, чтобы позже мы могли отправлять уведомления этому пользователю. |  Получение ИД пользователя Azure и его клиента, чтобы позже мы могли отправлять уведомления этому пользователю при получении SMS/MMS | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |

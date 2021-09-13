@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Power BI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 642ac51a231bf583b6cac3facb64ade94b772c3e
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609624"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287526"
 ---
-# <a name="power-bi-collaboration"></a>Power BI Совместная работа
+# <a name="power-bi-collaboration"></a>Cовместная работа Power BI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "53609624"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Power BI Совместная работа |
+| Имя приложения | Cовместная работа Power BI |
 | Идентификатор | WA104381384 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Ataira |
@@ -55,7 +55,7 @@ ms.locfileid: "53609624"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | Кроме того, разрешения для ChannelMessage.Send Team.ReadBasic.All User.Read. Они используются для того, чтобы позволить пользователю выбрать группу Teams и канал уведомлений | Мониторинг использования, ошибок и лицензий. [callback_group_id] [datetime_id] ,[session_id] [app_type] [raw_url] [user_id] [list_name] [user_name] [user_name] ,[state] [priority] [user_domain] ,[url_text] group_name][group_name] [title_name] ,[comments] [file_name] [description] [group_pbi_name] [item_type] [organization_id] [user_objectid] [user_objectid] [organization_displayName] [group_id] | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5) |
 

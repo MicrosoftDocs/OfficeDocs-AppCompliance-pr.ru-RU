@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для ArcGIS Карты, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b8c18c7116dad546223fe3b799344d973fb1bc23
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774939"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289118"
 ---
-# <a name="arcgis-maps"></a>ArcGIS Карты
+# <a name="arcgis-maps"></a>ArcGIS Maps
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "53774939"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ArcGIS Карты |
-| ID | WA200002859 |
+| Имя приложения | ArcGIS Maps |
+| Идентификатор | WA200002859 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Esri |
 | URL-адрес веб-сайта-партнера | [https://www.esri.com](https://www.esri.com) |

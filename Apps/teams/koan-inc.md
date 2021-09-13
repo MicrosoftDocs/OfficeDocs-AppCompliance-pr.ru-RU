@@ -9,11 +9,11 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Koan, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 7bd65669087e3e0cb934bf7cb3da4c70bba08d73
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391895"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288134"
 ---
 # <a name="koan"></a>Koan
 
@@ -33,7 +33,7 @@ ms.locfileid: "58391895"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Koan |
-| ID | WA200002936 |
+| Идентификатор | WA200002936 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Koan, Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.koan.co](https://www.koan.co) |

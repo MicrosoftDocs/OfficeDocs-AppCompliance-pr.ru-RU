@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для текстовых сообщений электронной почты, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 1b07b7d55d9e12ec47b5c2f58b13bc3523299aa4
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407600"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286857"
 ---
-# <a name="email-texting"></a>отправка сообщений электронной почты
+# <a name="email-texting"></a>email-texting
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58407600"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | отправка сообщений электронной почты |
+| Имя приложения | email-texting |
 | Идентификатор | WA200003086 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Корпорация голосовых элементов |
+| Имя компании-партнера | Voice Elements Corporation |
 | URL-адрес веб-сайта-партнера | [https://www.email-texting.com](https://www.email-texting.com) |
 | URL-адрес страницы Teams приложения | [https://www.email-texting.com](https://www.email-texting.com) |
 | URL-адрес политики конфиденциальности | [https://www.email-texting.com/privacy](https://www.email-texting.com/privacy) |

@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3c774a017f4283646cf46c2042d33b19dc2b8e80
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407631"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286153"
 ---
-# <a name="powell-teams"></a>Пауэлл Teams
+# <a name="powell-teams"></a>Powell Teams
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58407631"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Пауэлл Teams |
+| Имя приложения | Powell Teams |
 | Идентификатор | WA200001585 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Программное обеспечение Пауэлла |
+| Имя компании-партнера | Powell Software |
 | URL-адрес веб-сайта-партнера | [https://www.powell-software.com](https://www.powell-software.com) |
 | URL-адрес страницы Teams приложения | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | URL-адрес политики конфиденциальности | [https://powell-software.com/en/powell-teams-privacy](https://powell-software.com/en/powell-teams-privacy) |

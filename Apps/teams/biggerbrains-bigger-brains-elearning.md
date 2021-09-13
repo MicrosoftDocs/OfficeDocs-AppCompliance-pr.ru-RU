@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для системы eLearning больших мозгов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 9256e0b115815ac4074057d794646fececd0baf4
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407643"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288758"
 ---
-# <a name="bigger-brains-elearning"></a>Большие мозги eLearning
+# <a name="bigger-brains-elearning"></a>Bigger Brains eLearning
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58407643"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Большие мозги eLearning |
+| Имя приложения | Bigger Brains eLearning |
 | Идентификатор | WA200002366 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Biggerbrains |

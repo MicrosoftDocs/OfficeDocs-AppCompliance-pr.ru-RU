@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для пространственного standup, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3e918bbb24a520f430e4db7b22fc76c829b37767
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567333"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285817"
 ---
-# <a name="spatial-standup"></a>Пространственное standup
+# <a name="spatial-standup"></a>Spatial Standup
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58567333"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Пространственное standup |
+| Имя приложения | Spatial Standup |
 | Идентификатор | WA200003161 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | High Fidelity Inc |

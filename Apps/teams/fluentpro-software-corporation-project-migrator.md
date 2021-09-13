@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Project, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c36f0ed0642705518d18a88068cd67c54f752ede
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673222"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289308"
 ---
-# <a name="project-migrator"></a>Project Переносчик
+# <a name="project-migrator"></a>Project Migrator
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58673222"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Project Переносчик |
+| Имя приложения | Project Migrator |
 | Идентификатор | WA200003160 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Корпорация программного обеспечения FluentPro |
+| Имя компании-партнера | FluentPro Software Corporation |
 | URL-адрес веб-сайта-партнера | [https://projectmigrator.com](https://projectmigrator.com) |
 | URL-адрес страницы Teams приложения | [https://help.fluentpro.com/147404-project-migrator](https://help.fluentpro.com/147404-project-migrator) |
 | URL-адрес политики конфиденциальности | [https://projectmigrator.com/privacy-policy](https://projectmigrator.com/privacy-policy) |

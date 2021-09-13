@@ -9,11 +9,11 @@ certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для LMS365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ab9a29c84b57da2f2a21a20bb22f6a1545fd6d2e
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672916"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286737"
 ---
 # <a name="lms365"></a>LMS365
 

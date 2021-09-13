@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Complish, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: d9cd325ef8585b5cdc6da00f4f0f40a306cf1b21
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987856"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289398"
 ---
 # <a name="complish"></a>Complish
 
@@ -33,7 +33,7 @@ ms.locfileid: "52987856"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Complish |
-| ID | WA200001641 |
+| Идентификатор | WA200001641 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cauzey Pty Ltd |
 | URL-адрес веб-сайта-партнера | [https://www.complish.app](https://www.complish.app) |

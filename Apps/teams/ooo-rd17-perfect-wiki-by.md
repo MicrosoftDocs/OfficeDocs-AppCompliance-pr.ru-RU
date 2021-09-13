@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Perfect Wiki по RD17, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: deacceb8c77fd935e6ff7dd03fe8195042b8e259
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673209"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287801"
 ---
-# <a name="perfect-wiki-by-rd17"></a>Perfect Wiki by RD17
+# <a name="perfect-wiki-by-rd17"></a>Perfect Wiki от RD17
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58673209"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Perfect Wiki by RD17 |
+| Имя приложения | Perfect Wiki от RD17 |
 | Идентификатор | WA200001679 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | OOO RD17 |

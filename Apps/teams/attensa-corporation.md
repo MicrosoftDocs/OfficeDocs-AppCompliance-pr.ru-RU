@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Attensa, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a63dcfb3441d9e0bec2c7ee340624f5daf4d61d5
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567320"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288918"
 ---
 # <a name="attensa"></a>Attensa
 
@@ -35,7 +35,7 @@ ms.locfileid: "58567320"
 | Имя приложения | Attensa |
 | Идентификатор | WA200003148 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Корпорация Attensa |
+| Имя компании-партнера | Attensa Corporation |
 | URL-адрес веб-сайта-партнера | [https://attensa.com](https://attensa.com) |
 | URL-адрес страницы Teams приложения | [https://attensa.com/product/](https://attensa.com/product/) |
 | URL-адрес политики конфиденциальности | [https://attensa.com/privacy/](https://attensa.com/privacy/) |

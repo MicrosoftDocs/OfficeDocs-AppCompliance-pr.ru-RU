@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MURAL, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3b940d83a9095e92424c4f18480507469526e9c1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551899"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287393"
 ---
 # <a name="mural"></a>MURAL
 
@@ -33,7 +33,7 @@ ms.locfileid: "52551899"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | MURAL |
-| ID | WA104381626 |
+| Идентификатор | WA104381626 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MURAL |
 | URL-адрес веб-сайта-партнера | [https://mural.co/](https://mural.co/) |

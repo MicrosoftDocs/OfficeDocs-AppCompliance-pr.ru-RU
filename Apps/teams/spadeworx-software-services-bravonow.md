@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для BravoNow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245385"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286545"
 ---
 # <a name="bravonow"></a>BravoNow
 
@@ -35,7 +35,7 @@ ms.locfileid: "58245385"
 | Имя приложения | BravoNow |
 | Идентификатор | WA200000157 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Службы программного обеспечения SpadeWorx |
+| Имя компании-партнера | SpadeWorx Software Services |
 | URL-адрес веб-сайта-партнера | [https://www.spadeworx.com](https://www.spadeworx.com) |
 | URL-адрес страницы Teams приложения | [https://bravo.pozitive.io](https://bravo.pozitive.io) |
 | URL-адрес политики конфиденциальности | [https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf](https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf) |
@@ -55,9 +55,9 @@ ms.locfileid: "58245385"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | Адрес электронной почты пользователей. | Недоступно | [272032ad-0c2e-4928-910e-5d52b19f70d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/272032ad-0c2e-4928-910e-5d52b19f70d5) |
+>| User.Read | делегирована | Адрес электронной почты пользователей. | Н/Д | [272032ad-0c2e-4928-910e-5d52b19f70d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/272032ad-0c2e-4928-910e-5d52b19f70d5) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -85,7 +85,7 @@ ms.locfileid: "58245385"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/д
+>Н/Д
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для FormMachines, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 36ee73c86e0ccb1d8943cbe04da24319789b31c7
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456601"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289126"
 ---
 # <a name="formmachines"></a>FormMachines
 
@@ -33,7 +33,7 @@ ms.locfileid: "53456601"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | FormMachines |
-| ID | WA200001217 |
+| Идентификатор | WA200001217 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Enterprise Digital Machines |
 | URL-адрес веб-сайта-партнера | [https://www.formmachines.com](https://www.formmachines.com) |

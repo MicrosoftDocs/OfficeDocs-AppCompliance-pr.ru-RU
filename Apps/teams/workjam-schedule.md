@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для WorkJam Schedule, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 27d4cbb5bd927c9cc139fb8752e4cc3293fcbbd0
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404894"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288497"
 ---
-# <a name="workjam-schedule"></a>Расписание WorkJam
+# <a name="workjam-schedule"></a>WorkJam Schedule
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58404894"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Расписание WorkJam |
+| Имя приложения | WorkJam Schedule |
 | Идентификатор | WA200003058 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | WorkJam |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wired2Perform, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774969"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288857"
 ---
 # <a name="wired2perform"></a>Wired2Perform
 
@@ -33,7 +33,7 @@ ms.locfileid: "53774969"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | Wired2Perform |
-| ID | WA200002935 |
+| Идентификатор | WA200002935 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Wired2Perform |
 | URL-адрес веб-сайта-партнера | [https://wired2perform.com](https://wired2perform.com) |

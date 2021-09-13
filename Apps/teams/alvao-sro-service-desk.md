@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для службы Alvao, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 4202c82d8b67030e035c32a8b893b76f8b870979
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527665"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287097"
 ---
 # <a name="alvao-service-desk"></a>Служба поддержки Alvao
 
@@ -55,7 +55,7 @@ ms.locfileid: "53527665"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | Маркеры проверки подлинности | Позволяет пользователю войти и связать свою учетную запись Office 365 с учетной записью Alvao | [ef5fa233-c0bb-424e-b9dc-0466d46bade2](https://docs.microsoft.com/microsoft-365-app-certification/azure/ef5fa233-c0bb-424e-b9dc-0466d46bade2) |
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для hi Digital Coach, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2ff4472c9c54234c388508039fd10ab4818154ce
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282687"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288254"
 ---
 # <a name="hi-digital-coach"></a>hi Digital Coach
 
@@ -35,7 +35,7 @@ ms.locfileid: "53282687"
 | Имя приложения | hi Digital Coach |
 | Идентификатор | WA200002347 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Цифровое отношение Srl |
+| Имя компании-партнера | Digital Attitude Srl |
 | URL-адрес веб-сайта-партнера | [https://www.habitinspiringplatform.com](https://www.habitinspiringplatform.com) |
 | URL-адрес страницы Teams приложения | [https://www.habitinspiringplatform.com/coaching-plan](https://www.habitinspiringplatform.com/coaching-plan) |
 | URL-адрес политики конфиденциальности | [https://www.iubenda.com/privacy-policy/98527945/full-legal](https://www.iubenda.com/privacy-policy/98527945/full-legal) |

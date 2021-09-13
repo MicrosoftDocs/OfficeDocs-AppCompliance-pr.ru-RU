@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Amplify hootsuite, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 511693fe2d9c32e3e611fbec8c55045199e83c68
-ms.sourcegitcommit: a905d46054853025c0366c5e2efbe2139a4682d9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58632360"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288913"
 ---
-# <a name="amplify-by-hootsuite"></a>Amplify by Hootsuite
+# <a name="amplify-by-hootsuite"></a>Amplify от Hootsuite
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58632360"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Amplify by Hootsuite |
+| Имя приложения | Amplify от Hootsuite |
 | Идентификатор | WA200003153 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hootsuite Inc. |

@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Сейф Spaces, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836212"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288230"
 ---
-# <a name="safe-spaces"></a>Сейф Пробелы
+# <a name="safe-spaces"></a>Safe Spaces
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58836212"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Сейф Пробелы |
+| Имя приложения | Safe Spaces |
 | Идентификатор | WA200002691 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | eCare Vault Inc. |

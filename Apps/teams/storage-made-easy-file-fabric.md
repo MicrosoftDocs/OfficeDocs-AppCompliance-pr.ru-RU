@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для File Fabric, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3070723eecc0e7dda11aff31da6b20a785f558b5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404643"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287313"
 ---
 # <a name="file-fabric"></a>File Fabric
 
@@ -35,7 +35,7 @@ ms.locfileid: "58404643"
 | Имя приложения | File Fabric |
 | Идентификатор | WA200003017 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | служба хранилища Made Easy |
+| Имя компании-партнера | Хранение данных без проблем |
 | URL-адрес веб-сайта-партнера | [https://storagemadeeasy.com](https://storagemadeeasy.com) |
 | URL-адрес страницы Teams приложения | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
 | URL-адрес политики конфиденциальности | [https://www.storagemadeeasy.com/privacy](https://www.storagemadeeasy.com/privacy) |

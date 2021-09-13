@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для 50, политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3f2a62aba86c4267a815307be1d132164b252d73
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404664"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289318"
 ---
-# <a name="fifty"></a>Пятьдесят
+# <a name="fifty"></a>Fifty
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58404664"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Пятьдесят |
+| Имя приложения | Fifty |
 | Идентификатор | WA200002393 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Пятьдесят |
+| Имя компании-партнера | Fifty |
 | URL-адрес веб-сайта-партнера | [https://app.fifty.do](https://app.fifty.do) |
 | URL-адрес страницы Teams приложения | [https://www.fifty.do](https://www.fifty.do) |
 | URL-адрес политики конфиденциальности | [https://app.fifty.do/PrivacyPolicy.pdf](https://app.fifty.do/PrivacyPolicy.pdf) |

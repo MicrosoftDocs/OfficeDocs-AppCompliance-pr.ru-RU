@@ -7,15 +7,15 @@ keywords: Аттестация Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: 9f93edb4bead62eb626f6b65544fbf1a35ad48dd
-ms.sourcegitcommit: 854938b0495a6a30c2d03a6645e32ca52b4ce295
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58922986"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287665"
 ---
 # <a name="complete-microsoft-365-certification"></a>Полное Microsoft 365 сертификации
 
-## <a name="introduction"></a>Введение
+## <a name="introduction"></a>Общие сведения
 
 Сертификация Microsoft 365 требует оценки процессов и процедур безопасности и соответствия требованиям. Эта оценка включает проверку доказательств, чтобы проверить, что вы встречались с серией элементов управления безопасностью, охватывающих три домена: безопасность приложений, оперативная безопасность и безопасное развертывание, безопасность обработки данных и конфиденциальность, описанные в руководстве по сертификации Microsoft 365. [](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)
 
@@ -53,7 +53,7 @@ ms.locfileid: "58922986"
 
 
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 * [Microsoft 365 Обзор программы соответствия требованиям приложений](~/overview.md)  
 * [Что такое Publisher проверки?](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)

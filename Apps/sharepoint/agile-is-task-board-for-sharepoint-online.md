@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Agile Task Board для SharePoint Online, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 649c3ee34514214e91eaa1fe5ed43b43f6d9a43b
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282250"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286617"
 ---
 # <a name="agile-task-board-for-sharepoint-online"></a>Agile Task Board for SharePoint Online
 

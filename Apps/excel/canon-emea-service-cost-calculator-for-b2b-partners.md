@@ -9,11 +9,11 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для калькулятора затрат службы Canon EMEA для B2B Partners, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a5e1d55a50474f1085b6ac856a29c74c8cb0e2a5
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407594"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286798"
 ---
 # <a name="canon-emea-service-cost-calculator-for-b2b-partners"></a>Калькулятор стоимости службы Canon EMEA для партнеров B2B
 

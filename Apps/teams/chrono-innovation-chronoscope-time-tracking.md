@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для отслеживания времени Chronoscope, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 9e87baec293d3c18e48da28e1714fce9703f446f
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407589"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287014"
 ---
-# <a name="chronoscope-time-tracking"></a>Отслеживание времени Chronoscope
+# <a name="chronoscope-time-tracking"></a>Chronoscope Time Tracking
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58407589"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Отслеживание времени Chronoscope |
+| Имя приложения | Chronoscope Time Tracking |
 | Идентификатор | WA200003095 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Инновации Chrono |
+| Имя компании-партнера | Chrono Innovation |
 | URL-адрес веб-сайта-партнера | [https://www.chronoinnovation.com](https://www.chronoinnovation.com) |
 | URL-адрес страницы Teams приложения | [https://www.chronoscope.app](https://www.chronoscope.app) |
 | URL-адрес политики конфиденциальности | [https://www.chronoscope.app/privacy-policy](https://www.chronoscope.app/privacy-policy) |

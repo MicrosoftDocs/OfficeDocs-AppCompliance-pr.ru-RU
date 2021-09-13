@@ -9,11 +9,11 @@ certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройки Office 365 планировщика для Outlook, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3503b068b8835037b578837cb7f7f264a91135c6
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672466"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286001"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>надстройка Office 365 планировщика для Outlook
 

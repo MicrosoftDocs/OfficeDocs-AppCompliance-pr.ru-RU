@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для решений, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 19a710fc8edbcb5243b81755ce3d61e8bcaa5b25
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391902"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287006"
 ---
-# <a name="decisions"></a>Решения
+# <a name="decisions"></a>Decisions
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58391902"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Решения |
-| ID | WA104381880 |
+| Имя приложения | Decisions |
+| Идентификатор | WA104381880 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Решения |
+| Имя компании-партнера | Decisions |
 | URL-адрес веб-сайта-партнера | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | URL-адрес страницы Teams приложения | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | URL-адрес политики конфиденциальности | [https://www.meetingdecisions.com/privacy](https://www.meetingdecisions.com/privacy) |

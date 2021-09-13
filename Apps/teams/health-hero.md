@@ -9,13 +9,13 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Героя здоровья, его политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 53f2892563172775e8dc6def8c4ae9cb7d2af0c8
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245365"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288174"
 ---
-# <a name="health-hero"></a>Герой здоровья
+# <a name="health-hero"></a>Health Hero
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58245365"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Герой здоровья |
+| Имя приложения | Health Hero |
 | Идентификатор | WA200001405 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Герой здоровья |
+| Имя компании-партнера | Health Hero |
 | URL-адрес веб-сайта-партнера | [https://gohealthhero.com](https://gohealthhero.com) |
 | URL-адрес политики конфиденциальности | [https://www.gohealthhero.com/privacy-policy](https://www.gohealthhero.com/privacy-policy) |
 | URL-адрес терминов использования | [https://www.gohealthhero.com/terms](https://www.gohealthhero.com/terms) |
@@ -54,7 +54,7 @@ ms.locfileid: "58245365"
 
 Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | приложение | Только сведения о пользователях для создания учетной записи. | Мы храним external_id, object_id для проверки подлинности пользователя с помощью графа ms, а также для использования служб бота | [5f1f4eb7-479e-42f3-b86f-4c1f53e1c222](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222) |
 

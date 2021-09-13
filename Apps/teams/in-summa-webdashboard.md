@@ -9,11 +9,11 @@ certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для webdashboard, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8ddd4071026cbbbc8480594b8d5ab6998ddcbf20
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404781"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289288"
 ---
 # <a name="webdashboard"></a>Webdashboard
 
@@ -35,7 +35,7 @@ ms.locfileid: "58404781"
 | Имя приложения | Webdashboard |
 | Идентификатор | WA200002970 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | В "Сумме" |
+| Имя компании-партнера | In Summa |
 | URL-адрес веб-сайта-партнера | [https://www.webdashboard.com](https://www.webdashboard.com) |
 | URL-адрес страницы Teams приложения | [https://www.webdashboard.com/#/features](https://www.webdashboard.com/#/features) |
 | URL-адрес политики конфиденциальности | [https://www.webdashboard.com/#/privacy-policy](https://www.webdashboard.com/#/privacy-policy) |

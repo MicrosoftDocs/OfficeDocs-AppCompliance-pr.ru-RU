@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Goodera, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ca4ac668f6eec944a1fc697568ddd637240130cc
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525633"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286177"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -82,7 +82,7 @@ ms.locfileid: "53525633"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Недоступно
+>Н/Д
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 

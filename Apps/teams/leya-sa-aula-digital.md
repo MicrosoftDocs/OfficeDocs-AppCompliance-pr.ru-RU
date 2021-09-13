@@ -9,11 +9,11 @@ certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Aula Digital, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 85f3ee66709c9d5d8c6df21bb08cb4b7cf636d7c
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407588"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287473"
 ---
 # <a name="aula-digital"></a>Aula Digital
 
@@ -35,7 +35,7 @@ ms.locfileid: "58407588"
 | Имя приложения | Aula Digital |
 | Идентификатор | WA200003108 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Лея, S.A. |
+| Имя компании-партнера | Leya, S.A. |
 | URL-адрес веб-сайта-партнера | [https://auladigital.leya.com](https://auladigital.leya.com) |
 | URL-адрес страницы Teams приложения | [https://auladigital.leya.com](https://auladigital.leya.com) |
 | URL-адрес политики конфиденциальности | [https://www.leyaeducacao.com/politica_de_privacidade](https://www.leyaeducacao.com/politica_de_privacidade) |
