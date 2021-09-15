@@ -1,44 +1,43 @@
 ---
-title: Сведения о приложениях для Mediatheque+ от CEMEQ inc.
+title: Сведения о приложениях для безопасной электронной почты XQ по XQ Message
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/26/2021
+ms.date: 07/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для Mediatheque+, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для XQ Secure Email, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7645c55391a224202c418e01ba9661bbd9e0fb5c
+ms.openlocfilehash: 32a27529004dc7c2b5d5981f84466e31a94dec7a
 ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/15/2021
-ms.locfileid: "59353890"
+ms.locfileid: "59353836"
 ---
-# <a name="mediatheque"></a>Mediatheque+
+# <a name="xq-secure-email"></a>Безопасная электронная почта XQ
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 26 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 4 июля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/d546d064-6146-4341-b997-3a83855cafb3" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003099" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000090" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставленные корпорацией CEMEQ inc. корпорации Майкрософт:
+Сведения, предоставляемые XQ Message в Корпорацию Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Mediatheque+ |
-| Идентификатор | WA200003099 |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | CEMEQ inc. |
-| URL-адрес веб-сайта-партнера | [https://www.cemeq.qc.ca](https://www.cemeq.qc.ca) |
-| URL-адрес политики конфиденциальности | [https://www.mediatheque.plus/privacy.html](https://www.mediatheque.plus/privacy.html) |
-| URL-адрес терминов использования | [https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/Conditio...](https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/ConditionsUtilisationMEDPLUS.pdf) |
+| Имя приложения | Безопасная электронная почта XQ |
+| Идентификатор | WA200000090 |
+| Office 365 поддерживаемые клиенты | Outlook 2016 или позже Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
+| Имя компании-партнера | XQ-сообщение |
+| URL-адрес веб-сайта-партнера | [https://xqmsg.co](https://xqmsg.co) |
+| URL-адрес политики конфиденциальности | [https://xqmsg.com/privacy.html](https://xqmsg.com/privacy.html) |
+| URL-адрес терминов использования | [https://xqmsg.com/terms.html](https://xqmsg.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +47,7 @@ ms.locfileid: "59353890"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены ceMEQ inc. о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
+Эти сведения были предоставлены XQ Message о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -63,11 +62,6 @@ ms.locfileid: "59353890"
 
 >Не службы Майкрософт не используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
-
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
-
->Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -80,7 +74,7 @@ ms.locfileid: "59353890"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Администраторы имеют доступ ко всем необходимым данным для выполнения запросов.
+>Отзови ключи для расшифровки. Deprovision their accounts. Транзакции безопасности журнала.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -108,7 +102,7 @@ ms.locfileid: "59353890"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения предоставлены ceMEQ Inc. о том, как это приложение обрабатывает проверку подлинности, авторизацию, применение методов регистрации приложений и другие критерии удостоверения.
+Эти сведения были предоставлены XQ Message о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
