@@ -2,24 +2,23 @@
 title: Сведения о приложениях для iPlanner Pro Office 365 iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/22/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для iPlanner Pro Office 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 614bdfc648f2f16d8c96c3ad699c5a022690c0d0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a194afeb22ee861895461f8e21b818ac1aa85f00
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286721"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438360"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 22 июня 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 16 августа 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/17859280.iplannerpro" target="_blank">Просмотр в AppSource</a>
 
@@ -32,7 +31,7 @@ ms.locfileid: "59286721"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Имя приложения | iPlanner Pro Office 365 |
-| Идентификатор | 17859280.iplannerpro |
+| ID | 17859280.iplannerpro |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL-адрес политики конфиденциальности | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
