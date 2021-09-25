@@ -2,23 +2,23 @@
 title: Azure App ID Information for affadfb6-f17b-428f-97f9-9aae3b6175bc
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для affadfb6-f17b-428f-97f9-9aae3b6175bc.
-ms.openlocfilehash: 657e1fb1438ff095abf16e116e614c5c53177c9c
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 81d014e84c27e0838371af3f01d12e8bf75ab660
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59437640"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59783409"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure App ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим ID:
-| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Priority Matrix](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104382005) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104382005](https://appsource.microsoft.com/product/office/WA104382005) |
 | [Матрица приоритетов — превратите электронные почты в задачи](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381735) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381735](https://appsource.microsoft.com/product/office/WA104381735) |

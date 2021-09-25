@@ -2,24 +2,24 @@
 title: Сведения о приложениях для отслеживания отпусков с помощью отслеживания отпусков
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/05/2021
+ms.date: 09/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для службы отслеживания отпусков, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 55d54fbb94141dec562a829fdc647279a3cc006e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7fb611741379a3c4d2f9f7a80708385e1b7f2675
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285534"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59785159"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 5 февраля 2021 г.</p>
+<p>Последнее обновление разработчика: 15 сентября 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/eab5463e-8168-40ee-887a-7ac78de1d266" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002167" target="_blank">Просмотр в AppSource</a>
@@ -32,8 +32,8 @@ ms.locfileid: "59285534"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Vacation Tracker |
-| Идентификатор | WA200002167 |
+| Название приложения | Vacation Tracker |
+| ID | WA200002167 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Vacation Tracker |
 | URL-адрес веб-сайта-партнера | [https://vacationtracker.io](https://vacationtracker.io) |
@@ -127,20 +127,7 @@ ms.locfileid: "59285534"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
-| Поддерживает ли ваше приложение политики условного доступа? | Нет |
-| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
-| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
-| Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Да |
-| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
-| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
-| Использует ли приложение API предварительного просмотра? | Нет |
-| Использует ли ваше приложение неподготовленные API? | Нет |
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

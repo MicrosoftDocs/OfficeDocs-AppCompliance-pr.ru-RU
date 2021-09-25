@@ -2,17 +2,17 @@
 title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 63baa4a1cf8d3e9a0d50dd4a10a946afe54e4854
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 15e11ed9334d1db23d1cf2403db95f62354b039a
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438340"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59785339"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
@@ -26,6 +26,7 @@ ms.locfileid: "59438340"
 | [Asana для Outlook](./asana-for-outlook.md) | Asana | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [CodeTwo для Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
+| [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [harmon.ie для Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Корпорация | **✓** |  |
 | [Счет и отслеживание времени — счет Zoho](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [надстройка Office 365 планировщика для Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

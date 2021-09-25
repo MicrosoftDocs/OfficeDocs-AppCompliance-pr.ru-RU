@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Evernote от Evernote
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Evernote, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3eaaa3cacc4affc866a967a495687bc53abcfae5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6965e328f3e976462d900e227a74411599ad959c
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289094"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59785309"
 ---
 # <a name="evernote"></a>Evernote
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 21 сентября 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/4e1f8576-93d5-4c24-abb5-f02782e00a4e" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381639" target="_blank">Просмотр в AppSource</a>
@@ -32,13 +32,13 @@ ms.locfileid: "59289094"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Evernote |
-| Идентификатор | WA104381639 |
+| Название приложения | Evernote |
+| ID | WA104381639 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Evernote |
-| URL-адрес веб-сайта-партнера | [https://evernote.com/](https://evernote.com/) |
-| URL-адрес страницы Teams приложения | [https://help.evernote.com/hc/en-us/articles/360001244667](https://help.evernote.com/hc/en-us/articles/360001244667) |
-| URL-адрес политики конфиденциальности | [https://evernote.com/privacy](https://evernote.com/privacy) |
+| URL-адрес веб-сайта-партнера | [https://evernote.com](https://evernote.com) |
+| URL-адрес страницы Teams приложения | [https://evernote.com/about-us](https://evernote.com/about-us) |
+| URL-адрес политики конфиденциальности | [https://evernote.com/privacy/policy](https://evernote.com/privacy/policy) |
 | URL-адрес терминов использования | [https://evernote.com/legal/terms-of-service](https://evernote.com/legal/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -75,18 +75,19 @@ ms.locfileid: "59289094"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Данные OII или EUII действительно отображаются в телеметрии или журналах.
+>В телеметрии приложений или журналах не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Консоль администрирования — это место, где администраторы учетных записей могут управлять сведениями учетной записи, пользователями и контентом Evernote Business. Некоторые из вещей, которые администраторы учетных записей могут сделать в консоли администрирования:
-- Просмотр сводки учетных записей
-- Добавление и управление пользователями
-- Просмотр и управление пробелами, блокнотами, заметками, тегами и мусором
-- Просмотр и управление выставлением счетов, безопасностью и интеграцией https://help.evernote.com/hc/en-us/articles/209005497-Evernote-Business-Admin-Console-Overview
+>Политика конечных пользователей отправляет только анонимные данные. Никогда не отправлять PII
 
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Нет
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,3 +105,16 @@ ms.locfileid: "59289094"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена Evernote о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

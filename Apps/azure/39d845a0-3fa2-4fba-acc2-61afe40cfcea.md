@@ -2,23 +2,23 @@
 title: Azure App ID Information for 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для 39d845a0-3fa2-4fba-acc2-61afe40cfcea.
-ms.openlocfilehash: 9f528fea0109f26f1db75410e819730295042ef0
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: efd1b5966871d0635858ace5f77f09d0afdb4444
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59436040"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59782759"
 ---
 # <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>Azure App ID: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим ID:
-| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Move Work Forward с Jira](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA200002855) |  | [https://appsource.microsoft.com/product/office/WA200002855](https://appsource.microsoft.com/product/office/WA200002855) |
 
