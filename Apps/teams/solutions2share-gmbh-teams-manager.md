@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Teams manager по Solutions2Share GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Teams Manager, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0f135c14a96849a21ebf424b152a257df8e5e9e9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: e51b08446bed1f22f1e058b92604841ce255eb8f
+ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288897"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59971801"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
+<p>Последнее обновление разработчика: 24 сентября 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/87000000-3db9-bb44-5015-0b4a327a6597" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000764" target="_blank">Просмотр в AppSource</a>
@@ -32,11 +32,12 @@ ms.locfileid: "59288897"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Teams Manager |
-| Идентификатор | WA200000764 |
+| Название приложения | Teams Manager |
+| ID | WA200000764 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Solutions2Share GmbH |
-| URL-адрес веб-сайта-партнера | [https://teams-manager.com/](https://teams-manager.com/) |
+| URL-адрес веб-сайта-партнера | [https://teams-manager.com](https://teams-manager.com) |
+| URL-адрес страницы Teams приложения | [https://teams-manager.com](https://teams-manager.com) |
 | URL-адрес политики конфиденциальности | [https://www.teams-manager.com/privacy](https://www.teams-manager.com/privacy) |
 | URL-адрес терминов использования | [https://www.teams-manager.com/terms-of-use/](https://www.teams-manager.com/terms-of-use/) |
 
@@ -111,3 +112,29 @@ ms.locfileid: "59288897"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения были предоставлены Solutions2Share GmbH о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
+| Использует ли приложение API предварительного просмотра? | Да |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
