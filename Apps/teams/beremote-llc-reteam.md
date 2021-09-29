@@ -1,45 +1,44 @@
 ---
-title: Сведения о приложениях для HighSide от HighSide, Inc
+title: Сведения о приложениях для ReTeam от BeRemote LLC
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для HighSide, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eb6def1ce0eb93badd11f9a11d370c8533101656
+description: Все доступные сведения о безопасности и соответствия требованиям для ReTeam, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: db4d194eb5452bcec65fef5479509b533fed6c52
 ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992069"
+ms.locfileid: "59992249"
 ---
-# <a name="highside"></a>HighSide
+# <a name="reteam"></a>ReTeam
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 24 сентября 2021 г.</p>
+<p>Последнее обновление разработчика: 28 сентября 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/3c77edc8-0136-4ca2-8d4b-3558923c0e77" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002220" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/92c90c0c-9a22-42ae-be52-c078eae02dea" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003293" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Корпорацией Майкрософт в Корпорации Майкрософт, в HighSide, Inc.
+Сведения, предоставленные корпорацией BeRemote LLC в Корпорацию Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | HighSide |
-| ID | WA200002220 |
+| Название приложения | ReTeam |
+| ID | WA200003293 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | HighSide, Inc |
-| URL-адрес веб-сайта-партнера | [https://highside.io](https://highside.io) |
-| URL-адрес страницы Teams приложения | [https://highside.io/secureteams](https://highside.io/secureteams) |
-| URL-адрес политики конфиденциальности | [https://highside.io/privacy-shield](https://highside.io/privacy-shield) |
-| URL-адрес терминов использования | [https://highside.io/terms-of-service](https://highside.io/terms-of-service) |
+| Имя компании-партнера | BeRemote LLC |
+| URL-адрес веб-сайта-партнера | [https://www.beremote.com](https://www.beremote.com) |
+| URL-адрес политики конфиденциальности | [https://www.beremote.com/privacy-policy](https://www.beremote.com/privacy-policy) |
+| URL-адрес терминов использования | [https://www.beremote.com/terms-of-use](https://www.beremote.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +48,7 @@ ms.locfileid: "59992069"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация была предоставлена HighSide, Inc о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
+Эта информация предоставлена BERemote LLC о том, как это приложение собирает и хранит организационные данные и контроль, который будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -62,17 +61,13 @@ ms.locfileid: "59992069"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| AWS | Microsoft Teams ID клиента | Таким образом, мы знаем, из каких команд приходят запросы и к кому относятся пользователи |
+>Не службы Майкрософт не используются.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Возможности поиска | Username | Возможности поиска |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -85,13 +80,13 @@ ms.locfileid: "59992069"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Недоступно
+>Администратор команды ReTeam может удалять любые данные 
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
->Нет
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,9 +96,9 @@ ms.locfileid: "59992069"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37581' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37581" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +108,7 @@ ms.locfileid: "59992069"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена HighSide, Inc о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена BERemote LLC о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

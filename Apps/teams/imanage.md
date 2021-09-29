@@ -1,45 +1,45 @@
 ---
-title: Сведения о приложениях для HighSide от HighSide, Inc
+title: Сведения о приложениях для iManage по iManage
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для HighSide, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eb6def1ce0eb93badd11f9a11d370c8533101656
+description: Все доступные сведения о безопасности и соответствии требованиям для iManage, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 659f885563e9250f5bc827390007dd15d45f329a
 ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992069"
+ms.locfileid: "59992282"
 ---
-# <a name="highside"></a>HighSide
+# <a name="imanage"></a>iManage
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 24 сентября 2021 г.</p>
+<p>Последнее обновление разработчика: 27 сентября 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/3c77edc8-0136-4ca2-8d4b-3558923c0e77" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002220" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/c941fa60-c3a3-4bc6-b846-a63406009c15" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003178" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые Корпорацией Майкрософт в Корпорации Майкрософт, в HighSide, Inc.
+Сведения, предоставляемые iManage Корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | HighSide |
-| ID | WA200002220 |
+| Название приложения | iManage |
+| ID | WA200003178 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | HighSide, Inc |
-| URL-адрес веб-сайта-партнера | [https://highside.io](https://highside.io) |
-| URL-адрес страницы Teams приложения | [https://highside.io/secureteams](https://highside.io/secureteams) |
-| URL-адрес политики конфиденциальности | [https://highside.io/privacy-shield](https://highside.io/privacy-shield) |
-| URL-адрес терминов использования | [https://highside.io/terms-of-service](https://highside.io/terms-of-service) |
+| Имя компании-партнера | iManage |
+| URL-адрес веб-сайта-партнера | [https://imanage.com](https://imanage.com) |
+| URL-адрес страницы Teams приложения | [https://imanage.com/products/work/](https://imanage.com/products/work/) |
+| URL-адрес политики конфиденциальности | [https://imanage.com/about/privacy-notice/](https://imanage.com/about/privacy-notice/) |
+| URL-адрес терминов использования | [https://support.imanage.com/worksite/iManage_Cloud_Services...](https://support.imanage.com/worksite/iManage_Cloud_Services_Agreement.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "59992069"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация была предоставлена HighSide, Inc о том, как это приложение собирает и хранит организационные данные и управление, которое будет иметь ваша организация над данными, собираемой приложением.
+Эта информация предоставлена iManage о том, как это приложение собирает и хранит организационные данные, а также о контроле, которое будет иметь ваша организация над данными, которые собирает приложение.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -62,17 +62,13 @@ ms.locfileid: "59992069"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| AWS | Microsoft Teams ID клиента | Таким образом, мы знаем, из каких команд приходят запросы и к кому относятся пользователи |
+>Не службы Майкрософт не используются.
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Возможности поиска | Username | Возможности поиска |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -85,7 +81,7 @@ ms.locfileid: "59992069"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Недоступно
+>Все экспорты данных отслеживаются и архивируются.  Данные, управляемые iManage, не покидают нашу систему, если пользователь явно не действует.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -101,9 +97,9 @@ ms.locfileid: "59992069"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37581' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37581" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +109,7 @@ ms.locfileid: "59992069"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена HighSide, Inc о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена iManage о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

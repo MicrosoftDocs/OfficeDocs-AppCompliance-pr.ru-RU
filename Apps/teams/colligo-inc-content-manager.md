@@ -1,45 +1,44 @@
 ---
-title: Сведения о приложениях для qbo от Unscrambl
+title: Сведения о приложениях для диспетчера контента от Colligo Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для qbo, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57d228504c0432aea96d8fc915606b1c71d36cf1
+description: Все доступные сведения о безопасности и соответствия требованиям для диспетчера контента, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 7392dc618ff6f22b935b5760e97d72155ea41660
 ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992079"
+ms.locfileid: "59992243"
 ---
-# <a name="qbo"></a>qbo
+# <a name="content-manager"></a>Диспетчер контента
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 28 сентября 2021 г.</p>
+<p>Последнее обновление разработчика: 14 июня 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/834c6939-152c-450b-a305-c65b4dd5d1c7" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001708" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/36ad88c6-ffce-4c52-a5a5-3eae64ed65bf" target="_blank">Просмотр в Teams магазине</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003250" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые корпорацией Майкрософт unscrambl:
+Сведения, предоставляемые корпорацией Colligo Inc корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | qbo |
-| ID | WA200001708 |
+| Название приложения | Диспетчер контента |
+| ID | WA200003250 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Unscrambl |
-| URL-адрес веб-сайта-партнера | [https://unscrambl.com](https://unscrambl.com) |
-| URL-адрес страницы Teams приложения | [https://qbo.ai](https://qbo.ai) |
-| URL-адрес политики конфиденциальности | [https://qbo.ai/legal/](https://qbo.ai/legal/) |
-| URL-адрес терминов использования | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
+| Имя компании-партнера | Colligo Inc |
+| URL-адрес веб-сайта-партнера | [https://www.colligo.com](https://www.colligo.com) |
+| URL-адрес политики конфиденциальности | [https://www.colligo.com/product-policy/](https://www.colligo.com/product-policy/) |
+| URL-адрес терминов использования | [https://www.colligo.com/media/Colligo-Software-License-Agre...](https://www.colligo.com/media/Colligo-Software-License-Agreement-Schedule-A.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +48,7 @@ ms.locfileid: "59992079"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена Unscrambl о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эти сведения предоставлены Colligo Inc о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -63,7 +62,7 @@ ms.locfileid: "59992079"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API bot Framework | Да | Доменное имя, как идентифицировано в электронной почте пользователя | При желании пользователя мы собираем электронную почту для отправки отчета. | Только электронная почта | Хранение в рамках профиля пользователя |
+>| CSOM SharePoint | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -75,9 +74,7 @@ ms.locfileid: "59992079"
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| У нас есть функциональность приложения, которая позволяет пользователю отправлять по электронной почте PDF отчетов для себя. | адрес электронной почты; | У нас есть функциональность приложения, которая позволяет пользователю отправлять по электронной почте PDF отчетов для себя, это хранится как часть профиля пользователя. |
+>Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -90,7 +87,7 @@ ms.locfileid: "59992079"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Эти данные хранятся в mariaDB, который находится в VM на Azure (Юго-Восточная Азия). Доступ к VM ограничен IP, защищен паролем, а доступ к DB также защищен паролем.
+>Перемещение документов с компьютера пользователей в один из выбранных пользователем направлений (SharePoint Online, Teams и OneDrive)
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -106,9 +103,9 @@ ms.locfileid: "59992079"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,11 +115,24 @@ ms.locfileid: "59992079"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена Unscrambl о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена Colligo Inc о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Поддерживает ли ваше приложение политики условного доступа? | Да |
+| Список типов поддерживаемых политик | Многофакторная проверка подлинности |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
