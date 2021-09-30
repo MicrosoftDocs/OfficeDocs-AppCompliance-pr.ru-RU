@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 8f6d8c6942b2844ec262e0ccc8d13d703a0d26cf
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+ms.openlocfilehash: eface3779c8df01a720d7b7528361f504a01e0db
+ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59974864"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "59992089"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -30,6 +30,7 @@ ms.locfileid: "59974864"
 | [Доска задач Agile](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [Служба поддержки Alvao](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [Ambition](./ambition.md) | Ambition | **✓** |  |
+| [AMEX GBT](./30secondstofly-thailand-co-ltd-amex-gbt.md) | 30SecondsToFly (Thailand) Co Ltd | **✓** |  |
 | [Amplify от Hootsuite](./hootsuite-inc-amplify-by.md) | Hootsuite Inc. | **✓** |  |
 | [AmTrav Business Travel](./amtrav-business-travel.md) | AmTrav | **✓** |  |
 | [Appraisd](./appraisd-ltd.md) | Appraisd ltd. | **✓** |  |
@@ -74,6 +75,7 @@ ms.locfileid: "59974864"
 | [Calendar Pro](./witivio-calendar-pro.md) | Witivio | **✓** |  |
 | [CalendarHero](./calendarhero-inc.md) | CalendarHero Inc | **✓** |  |
 | [Canary](./yattee-inc-canary.md) | YATTEE Inc. | **✓** |  |
+| [Casedoc Virtual Hearing](./casedoc-virtual-hearing.md) | Casedoc | **✓** |  |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  |
 | [Centrical](./biz-effective-centrical.md) | Biz-Effective | **✓** |  |
 | [Chronoscope Time Tracking](./chrono-innovation-chronoscope-time-tracking.md) | Chrono Innovation | **✓** |  |
@@ -97,6 +99,7 @@ ms.locfileid: "59974864"
 | [Confluence Connector](./move-work-forward-confluence-connector.md) | Move Work Forward | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
 | [Contact Center](./landis-technologies-llc-contact-center.md) | Landis Technologies LLC | **✓** |  |
+| [Content Manager](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [Contextere AVA](./contextere-ava.md) | Contextere | **✓** |  |
 | [CSOD Learn](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Тренировки Cuckoo](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
@@ -169,6 +172,7 @@ ms.locfileid: "59974864"
 | [Hoylu](./hoylu.md) | Hoylu | **✓** |  |
 | [HunchBuzz](./hunchbuzz.md) | HunchBuzz | **✓** |  |
 | [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  |
+| [iManage](./imanage.md) | iManage | **✓** |  |
 | [In Case of Crisis](./rockdove-solutions-inc-in-case-of-crisis.md) | RockDove Solutions, Inc. | **✓** |  |
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  |
@@ -255,6 +259,7 @@ ms.locfileid: "59974864"
 | [PostBeyond](./postbeyond.md) | PostBeyond | **✓** |  |
 | [Powell Teams](./powell-software-teams.md) | Powell Software | **✓** |  |
 | [Cовместная работа Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [Presentations AI](./infographfx-technologies-presentations-ai.md) | Infographfx Technologies | **✓** |  |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ProdBot](./prodoscore-prodbot.md) | Prodoscore | **✓** |  |
@@ -275,6 +280,7 @@ ms.locfileid: "59974864"
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
 | [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
 | [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
+| [ReTeam](./beremote-llc-reteam.md) | BeRemote LLC | **✓** |  |
 | [Retro](./baltic-amadeus-retro.md) | Baltic Amadeus | **✓** |  |
 | [Rezolve.ai](./actionable-science-rezolveai.md) | Actionable Science | **✓** |  |
 | [RFPIO bot](./rfpio-bot.md) | RFPIO | **✓** |  |
