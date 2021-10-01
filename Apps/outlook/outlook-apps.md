@@ -2,17 +2,17 @@
 title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 15e11ed9334d1db23d1cf2403db95f62354b039a
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 430c4c9b40caeb717899d7d6d0983ca6e531701d
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785339"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080870"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
@@ -38,6 +38,7 @@ ms.locfileid: "59785339"
 | [officeatwork | Выбор контента для Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [OnePlaceMail для Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | Решения OnePlace | **✓** |  |
 | [Участие в информационно-пропагандистских продажах для Outlook](./outreach-sales-engagement-for-outlook.md) | Информационно-пропагандистская работа | **✓** |  |
+| [Pexip One для Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [Матрица приоритетов — превратите электронные почты в задачи](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
