@@ -2,24 +2,24 @@
 title: Сведения о приложениях для OnePlaceMail для Outlook onePlace Solutions
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/31/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для OnePlaceMail для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287113"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080650"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail для Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 31 января 2021 г.</p>
+<p>Последнее обновление разработчика: 30 сентября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380723" target="_blank">Просмотр в AppSource</a>
 
@@ -31,8 +31,8 @@ ms.locfileid: "59287113"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | OnePlaceMail для Outlook |
-| Идентификатор | WA104380723 |
+| Название приложения | OnePlaceMail для Outlook |
+| ID | WA104380723 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или позднее на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | Решения OnePlace |
 | URL-адрес веб-сайта-партнера | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
@@ -56,13 +56,13 @@ ms.locfileid: "59287113"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.ReadWrite.All | делегирована | Необходимо определить Teams, в который входит текущий пользователь. | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Mail.ReadWrite.Shared | делегирована | Необходимо получить доступ к свойствам почты для SharePoint столбцов и добавить в SharePoint категорию для элемента почты | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| MailboxSettings.ReadWrite | делегирована | Данные, собранные или используемые, используются для добавления категории в список категорий в почтовом ящике пользователей. | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Mail.ReadWrite.Shared | делегирована | Необходимо получить доступ к свойствам почты для SharePoint столбцов и добавить в SharePoint категорию для элемента почты | Отсутствует | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| MailboxSettings.ReadWrite | делегирована | Данные, собранные или используемые, используются для добавления категории в список категорий в почтовом ящике пользователей. | Отсутствует | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 >| Sites.ReadWrite.All | делегирована | Необходимо установить свойства для элементов, загруженных приложением в SharePoint. | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 >| User.Read | делегирована | Необходимые для проверки подлинности в microsoft Graph. | Следующие данные хранятся приложением в базе данных и используются для отслеживания подписок и лицензий пользователей: User Id, Email, First Name, Last Name. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 >| User.ReadBasic.All | делегирована | Требуется показать изображение профиля пользователя в поле выборщика людей. | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 >| User.ReadBasic.All | делегирована | Требуется показать изображение профиля пользователя в поле выборщика людей. | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadWrite.All | делегирована | Необходимо определить, включена ли Teams служба в пользователях, Office 365 аренды. | Нет | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadWrite.All | делегирована | Необходимо определить, включена ли Teams служба в пользователях, Office 365 аренды. | Отсутствует | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
@@ -126,7 +126,7 @@ ms.locfileid: "59287113"
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
