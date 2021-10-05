@@ -2,17 +2,17 @@
 title: Microsoft Word Безопасность и соответствие требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех Microsoft Word Apps.
 localization_priority: Normal
-ms.openlocfilehash: 98817d7e3b75bc3ce8c07dc5c1e297afd2e73bc7
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 3c40ee92ac084d0e61e33cd14e4642f6dd434b30
+ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59434860"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60123429"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Безопасность и соответствие требованиям приложений
 
@@ -26,6 +26,7 @@ ms.locfileid: "59434860"
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Надстройка Office Fabasoft Cloud](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  |
+| [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Добавление word LegalMind](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Помощник по контракту Loio](./loio-inc-contract-assistant.md) | Loio Inc. | **✓** |  |
 | [Диаграммы Lucidchart для Word](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Lucid Software Inc | **✓** |  |
