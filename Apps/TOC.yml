@@ -85,6 +85,8 @@
           href: outlook/ci-solution-gmbh-signature.md
         - name: CodeTwo для Outlook
           href: outlook/codetwo-for-outlook.md
+        - name: Коммутайт
+          href: outlook/commuty.md
         - name: Evernote
           href: outlook/evernote.md
         - name: harmon.ie для Outlook
@@ -875,7 +877,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker by Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Teamwork
+        - name: Командная работа
           href: teams/teamwork.md
         - name: TELUS Business Connect
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -1059,6 +1061,8 @@
           href: saas/elearningforce-international-aps-lms365.md
         - name: MIPA — мой интеллектуальный персональный помощник
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
+        - name: MyHub для Teams
+          href: saas/avepoint-inc-myhub-for-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
         - name: Priority Matrix

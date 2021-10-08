@@ -2,17 +2,17 @@
 title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 6357d5364c1cc66b57d2c401073c88fd6fd7d00c
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 45f96f7433f5096420e675ba3b23b75b06b10a18
+ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123749"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60233233"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
@@ -26,6 +26,7 @@ ms.locfileid: "60123749"
 | [Asana для Outlook](./asana-for-outlook.md) | Asana | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [CodeTwo для Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
+| [Коммутайт](./commuty.md) | Коммутайт | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [harmon.ie для Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Корпорация | **✓** |  |
 | [Подписи впечатлений для Outlook](./impression-signatures-for-outlook.md) | Подписи впечатлений | **✓** |  |
@@ -36,7 +37,7 @@ ms.locfileid: "60123749"
 | [MIPA — личный помощник](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [Office2SharePoint для Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Выбор контента для Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Выбор контента для Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** |  |
 | [OnePlaceMail для Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | Решения OnePlace | **✓** |  |
 | [Участие в информационно-пропагандистских продажах для Outlook](./outreach-sales-engagement-for-outlook.md) | Информационно-пропагандистская работа | **✓** |  |
 | [Pexip One для Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |

@@ -2,24 +2,24 @@
 title: Сведения о приложениях для MURAL по MURAL
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 09/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MURAL, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b940d83a9095e92424c4f18480507469526e9c1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 58349e188a709d1f74a3a3b6426ca4b4a34c34d4
+ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287393"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60233623"
 ---
 # <a name="mural"></a>MURAL
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 23 марта 2020 г.</p>
+<p>Последнее обновление разработчика: 22 сентября 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381626" target="_blank">Просмотр в AppSource</a>
@@ -32,13 +32,13 @@ ms.locfileid: "59287393"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MURAL |
-| Идентификатор | WA104381626 |
+| Название приложения | MURAL |
+| ID | WA104381626 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MURAL |
-| URL-адрес веб-сайта-партнера | [https://mural.co/](https://mural.co/) |
-| URL-адрес страницы Teams приложения | [https://support.mural.co/](https://support.mural.co/) |
-| URL-адрес политики конфиденциальности | [https://mural.co/terms/privacy-policy](https://mural.co/terms/privacy-policy) |
+| URL-адрес веб-сайта-партнера | [https://mural.co](https://mural.co) |
+| URL-адрес страницы Teams приложения | [https://support.mural.co](https://support.mural.co) |
+| URL-адрес политики конфиденциальности | [https://mural.co/terms/privacy-policy/](https://mural.co/terms/privacy-policy/) |
 | URL-адрес терминов использования | [https://mural.co/terms](https://mural.co/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -62,13 +62,17 @@ ms.locfileid: "59287393"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->Не службы Майкрософт не используются.
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| Мы делимся информацией с нашими подпроцессорами. Их можно увидеть здесь: https://www.mural.co/terms/subprocessors | Мы делимся информацией с нашими подпроцессорами. Их можно увидеть здесь: https://www.mural.co/terms/subprocessors | Мы делимся информацией с нашими подпроцессорами. Их можно увидеть здесь: https://www.mural.co/terms/subprocessors |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
 Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
 
->Доступ к EUII не имеется.
+>| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| Мы собираем пользовательский id для событий и имя, фамилию, электронную почту в потоке регистрации. | Пользовательский id, имя, фамилия и электронная почта | Мы собираем пользовательский id для событий и имя, фамилию, электронную почту в потоке регистрации. |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -83,6 +87,11 @@ ms.locfileid: "59287393"
 
 >Администраторы могут управлять пользователями, удалять их, удалять фрески и т.д. Политика пользователя здесь: https://mural.co/terms
 
+#### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
+
+Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
+
+>Да
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,3 +109,16 @@ ms.locfileid: "59287393"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эти сведения предоставлены MURAL о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
