@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Go1 по Go1
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Go1, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 265d4cf5cef2f7fb685159ebf2cb6d516d32cb0f
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286193"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60287361"
 ---
 # <a name="go1"></a>Go1
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 3 июня 2020 г.</p>
+<p>Последнее обновление разработчика: 23 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/c859de61-8a6b-42e6-ba88-f639df33bc72" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001484" target="_blank">Просмотр в AppSource</a>
@@ -32,12 +32,12 @@ ms.locfileid: "59286193"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Go1 |
+| Название приложения | Go1 |
 | Идентификатор | WA200001484 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Go1 |
 | URL-адрес веб-сайта-партнера | [https://www.go1.com/user/login](https://www.go1.com/user/login) |
-| URL-адрес политики конфиденциальности | [https://www.go1.com/en-au/terms/privacy-policy](https://www.go1.com/en-au/terms/privacy-policy) |
+| URL-адрес политики конфиденциальности | [https://www.go1.com/terms/privacy-policy](https://www.go1.com/terms/privacy-policy) |
 | URL-адрес терминов использования | [https://www.go1.com/en-au/terms/user-terms](https://www.go1.com/en-au/terms/user-terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -67,7 +67,7 @@ ms.locfileid: "59286193"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Пользователи первого и последнего имени могут быть совместно с поставщиками контента GO1 во время воспроизведения контента курса. Это общий доступ только в тех случаях, когда поставщик контента требует этого для поставщика персонализированого обучения. |  | Н/Д |
+>| Пользователи первого и последнего имени могут быть совместно с поставщиками контента GO1 во время воспроизведения контента курса. Это общий доступ только в тех случаях, когда поставщик контента требует этого для поставщика персонализированого обучения. | Имя, фамилия, адрес электронной почты | Н/Д |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -110,3 +110,28 @@ ms.locfileid: "59286193"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена go1 о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Нет |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
+| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Нет |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Нет |
+| Поддерживает ли ваше приложение многотенантность? | Да |
+| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/><br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли приложение API предварительного просмотра? | Нет |
+| Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
