@@ -2,17 +2,17 @@
 title: Microsoft Excel Безопасность и соответствие требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/13/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 9ed44653197211f48c34afdf826eb0c311674d8b
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 91dbd64f43724919c4e65cb1a79cb695517af950
+ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123109"
+ms.lasthandoff: 10/14/2021
+ms.locfileid: "60340898"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Безопасность и соответствие требованиям приложений
 
@@ -30,11 +30,12 @@ ms.locfileid: "60123109"
 | [Диаграммы Lucidchart для Excel](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid Software Inc | **✓** |  |
 | [Анализ текста MeaningCloud для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | Выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [Решения QuickCells](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
+| [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Wunder365 для Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |
 | [Данные XBRL](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
