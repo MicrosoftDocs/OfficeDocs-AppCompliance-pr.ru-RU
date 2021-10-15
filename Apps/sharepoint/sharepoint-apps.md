@@ -2,17 +2,17 @@
 title: Безопасность SharePoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: e440f85e4bd0957a95c3eb8681c1108b50b7fba8
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 9b21ca00253596b5253626985215a871c61d87f9
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123769"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378827"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -25,9 +25,11 @@ ms.locfileid: "60123769"
 | [ArcGIS Maps](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
 | [Соединители FormMachines для SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | КОРПОРАТИВНЫЕ ЦИФРОВЫЕ МАШИНЫ PTY LTD | **✓** |  |
 | [Gaggle для SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net, Inc. | **✓** |  |
+| [HelloSign для SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [Надстройки cRM iGlobe](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [cRM-Office 365 iGlobe для Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Parser электронной почты Konnect](./konnect-email-parser.md) | Электронная почта Konnect | **✓** |  |
 | [Lightning Tools Lightning Conductor](./lightning-tools-conductor.md) | Средства lightning | **✓** |  |
-| [officeatwork | Выбор шаблона для SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Выбор шаблона для SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** |  |
 | [Cовместная работа Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [Более умное бронирование событий](./smarter-business-solutions-gmbh-event-booking.md) | Smarter Business Solutions GmbH | **✓** |  |
