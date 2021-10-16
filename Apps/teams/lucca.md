@@ -2,20 +2,20 @@
 title: Сведения о приложениях для Lucca от Lucca
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/23/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Lucca, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c98f76c08e966923606d9242449f4c11719342b2
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 61f53fe653ebce1a833005082c8254392e61b2c1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785630"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411604"
 ---
-# <a name="lucca"></a>Лукка
+# <a name="lucca"></a>Lucca
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "59785630"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Лукка |
-| ID | WA200001650 |
+| Название приложения | Lucca |
+| Идентификатор | WA200001650 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Лукка |
+| Имя компании-партнера | Lucca |
 | URL-адрес веб-сайта-партнера | [https://www.lucca.fr](https://www.lucca.fr) |
 | URL-адрес политики конфиденциальности | [https://www.lucca.fr/privacy-policy](https://www.lucca.fr/privacy-policy) |
 | URL-адрес терминов использования | [https://cdn2.hubspot.net/hubfs/1582050/3-DOWNLOAD_FILES/Ter...](https://cdn2.hubspot.net/hubfs/1582050/3-DOWNLOAD_FILES/TermsAndConditions.pdf) |
@@ -101,17 +101,6 @@ ms.locfileid: "59785630"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -126,3 +115,4 @@ ms.locfileid: "59785630"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

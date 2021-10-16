@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Adobe Sign for Word и PowerPoint Adobe Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/12/2021
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign for Word и PowerPoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca8f1f0aba2f18c81c76cb50d8d76cb2e86efa84
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5ed7e962014ea7cf2c63c2ff2bbcb97da3939233
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283926"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411313"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -30,7 +30,7 @@ ms.locfileid: "59283926"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Adobe Sign for Word and PowerPoint |
+| Название приложения | Adobe Sign for Word and PowerPoint |
 | Идентификатор | WA104381155 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word в Интернете, Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint 2016 или более поздней PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows |
 | Имя компании-партнера | Adobe Inc. |
@@ -129,3 +129,4 @@ ms.locfileid: "59283926"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

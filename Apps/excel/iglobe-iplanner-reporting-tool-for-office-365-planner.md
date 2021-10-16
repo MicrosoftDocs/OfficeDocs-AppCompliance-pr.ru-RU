@@ -2,18 +2,18 @@
 title: Сведения о приложениях для средства отчетности iPlanner для Office 365 планировщика по iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/24/2019
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для средства отчетности iPlanner для Office 365 Planner, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ac38f244a862b89ee17ded8ce1432fdb00fb451a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287585"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411273"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>средство отчетности iPlanner для Office 365 планировщика
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287585"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | средство отчетности iPlanner для Office 365 планировщика |
+| Название приложения | средство отчетности iPlanner для Office 365 планировщика |
 | Идентификатор | WA104380686 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или более поздней Windows, Excel в Интернете, Excel 2016 или позднее на Mac |
 | Имя компании-партнера | iGlobe |
@@ -56,14 +56,14 @@ ms.locfileid: "59287585"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Создание записи календаря в календаре пользователя&#8217;календаря в срок действия задачи. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы проверить, у пользователя есть согласие и доступ к использованию API. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планирования Outlook To Do, помечайте и обновляйте их. Создание новой задачи планировщика. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планирования Outlook сделать, пометить электронные почты и обновить их. Создание новой задачи планировщика. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Доступ к файлу в виде вложения и отправка файлов в задачу. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить список планов и обновить задачу. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить задачу планировщика и добавить новые задачи, обновим ковш и линию плавания. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Mail.Read | делегирована | Данные не хранятся в базах данных приложений. | User.Read, чтобы получить задачу планирования Outlook To Do, помеченные электронные почты и их обновление. Создание новой задачи планировщика | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | делегирована | Данные не хранятся в базах данных приложений. | User.Read, чтобы получить задачу планирования Outlook сделать, помечены электронные почты и их обновление. Создание новой задачи планировщика | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Mail.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы показать почту и отправить почту. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Mail.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Получите тему почты из выбранной почты. Позволяет приложению получать сведения из выбранной электронной почты, что позволяет скопировать поле описания в описание задачи и сохранить вложения от почты или самой почты к задаче. Отправить уведомление. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить подписанный в пользователях Outlook To Do и обновить User.Read, чтобы получить задачу планирования Outlook To Do, помечены электронные почты и обновить их. Создание новой задачи планировщика. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтобы получить подпись в пользователях Outlook и обновить User.Read, чтобы получить задачу планирования Outlook Сделать, пометить электронные почты и обновить их. Создание новой задачи планировщика. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| User.Read | делегирована | Данные не хранятся в базах данных приложений. | Вход и чтение профиля пользователя | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
@@ -110,4 +110,5 @@ ms.locfileid: "59287585"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

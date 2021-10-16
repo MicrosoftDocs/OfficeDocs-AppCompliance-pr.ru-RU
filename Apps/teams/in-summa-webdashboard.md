@@ -2,18 +2,18 @@
 title: Сведения о приложениях для webdashboard в "Сумме"
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/17/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для webdashboard, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8ddd4071026cbbbc8480594b8d5ab6998ddcbf20
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 58609a958487f6447e32f0ad961819060b0c0b38
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289288"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410182"
 ---
 # <a name="webdashboard"></a>Webdashboard
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289288"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Webdashboard |
+| Название приложения | Webdashboard |
 | Идентификатор | WA200002970 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | In Summa |
@@ -102,17 +102,6 @@ ms.locfileid: "59289288"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -140,3 +129,4 @@ ms.locfileid: "59289288"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

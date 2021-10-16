@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SmartWork с помощью SmartWork intumit
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SmartWork, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: fab20b7cfe9fd8008f98a44e473102acd6efbadc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283934"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410883"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -32,7 +32,7 @@ ms.locfileid: "59283934"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SmartWork |
+| Название приложения | SmartWork |
 | Идентификатор | WA200001149 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SmartWork of Intumit |
@@ -71,7 +71,7 @@ ms.locfileid: "59283934"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Использование для идентификации почты пользователя из допустимой AAD или нет. | Электронная почта пользователя | Сохраненный список почты пользователя, чтобы определить, является ли пользователь из допустимой AAD или нет. |
+>| Использование для определения почты пользователя, является ли оно из допустимой AAD или нет | Электронная почта пользователя | Сохраненный список почты пользователя, чтобы определить, является ли пользователь из допустимой AAD или нет |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -84,7 +84,7 @@ ms.locfileid: "59283934"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Только у вас есть допустимая учетная запись AAD, которая может получить доступ к приложению.
+>Только у вас есть AAD учетная запись может получить доступ к приложению.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -134,3 +134,4 @@ ms.locfileid: "59283934"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

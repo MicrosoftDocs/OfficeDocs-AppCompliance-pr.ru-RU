@@ -2,18 +2,18 @@
 title: Сведения о приложениях для NewCOS от Newtech
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/17/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для NewCOS, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cb787aa76a30e5c7b0559eaf4ec28b7035636fbe
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: baeb52e72158bcb796e90c5daea2bfdba9c80985
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288425"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411564"
 ---
 # <a name="newcos"></a>NewCOS
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288425"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | NewCOS |
+| Название приложения | NewCOS |
 | Идентификатор | WA200001104 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Newtech |
@@ -133,3 +133,4 @@ ms.locfileid: "59288425"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

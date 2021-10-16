@@ -2,18 +2,18 @@
 title: Сведения о приложениях для TeamMood по Power Up Conseil
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/30/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TeamMood, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствия требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e64ee816ff86bfacca7e479d8d36a95272bd2e44
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 84b93fc1dfeed38d4566ad77c05fcbdb06b7c313
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285713"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410953"
 ---
 # <a name="teammood"></a>TeamMood
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285713"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TeamMood |
+| Название приложения | TeamMood |
 | Идентификатор | WA200002451 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Power Up Conseil |
@@ -133,3 +133,4 @@ ms.locfileid: "59285713"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

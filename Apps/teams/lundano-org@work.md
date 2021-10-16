@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Org@Work, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 81e59d53704529ed26aa6760f3cd00799f77deaa
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 91b7ef759bc74937a27ae2c3d146a7738a9c499c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287425"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410152"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287425"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Org@Work |
+| Название приложения | Org@Work |
 | Идентификатор | WA200002461 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Lundano |
@@ -59,8 +59,8 @@ ms.locfileid: "59287425"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 >| email | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| offline_access | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| openid | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| offline_access | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Отсутствует | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| openid | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Отсутствует | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 >| profile | делегирована | Мы храним данные. Мы просто используем данные для входа пользователя в Org@work | Нет | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 
 
@@ -139,3 +139,4 @@ ms.locfileid: "59287425"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

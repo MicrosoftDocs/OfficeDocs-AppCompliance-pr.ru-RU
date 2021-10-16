@@ -2,18 +2,18 @@
 title: Сведения о приложениях для LMS365 от ELEARNINGFORCE International
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для LMS365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5a88349d6fa62769d528c66baeb428b791a007b0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37053d460cd8619379f7a2e5b3f581f789d00986
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289174"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410272"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -31,7 +31,7 @@ ms.locfileid: "59289174"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | LMS365 |
+| Название приложения | LMS365 |
 | Идентификатор | WA104381467 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ELEARNINGFORCE International |
@@ -61,10 +61,10 @@ ms.locfileid: "59289174"
 >| OnlineMeetings.ReadWrite | делегирована | Разрешение запрашивается динамически при настройке учетной записи электронной почты для уведомления. Позволяет приложению создавать и читать собрания в Интернете | URL-адрес собрания в Интернете хранится в качестве ссылки в сущности сеанса курсов | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| RoleManagement.Read.Directory | приложение | Нет | Позволяет приложению получать SharePoint домена во время предварительного обеспечения клиента. Домен используется для построения URL-адресов. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Invite.All | делегирована | Нет | Позволяет приложению приглашать внешних пользователей в текущий журнал от имени пользователя | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
->| User.Read | делегирована | Нет | Вход и чтение профиля пользователя. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read | делегирована | Отсутствует | Вход и чтение профиля пользователя. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Read.All | делегирована | Нет | Позволяет приложению считыть полный профиль текущего входа в пользователя. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Read.All | приложение | Позволяет приложению читать полный профиль пользователя. Это&#8217;, необходимое для чтения пользователей&#8217; менеджеров для создания отчетов иерархии. | Следующие персональные данные хранятся в специальной базе данных для соответствующего клиента, используемого для функции панели мониторинга диспетчера управления для пользователей &amp; в приложении. Имя учетной записи, имя отображения пользователя, адрес электронной почты, отдел, название задания, Office, страна, город, ID/Email диспетчера | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
->| profile | делегирована | Нет | Просмотр основного профиля пользователя. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| profile | делегирована | Отсутствует | Просмотр основного профиля пользователя. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
@@ -149,3 +149,4 @@ ms.locfileid: "59289174"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

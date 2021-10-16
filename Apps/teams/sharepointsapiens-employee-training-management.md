@@ -2,18 +2,18 @@
 title: Сведения о приложениях для управления обучением сотрудников по SharePoint| Sapiens
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/31/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для управления обучением сотрудников, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a4d2ce3475ce082060bc632d439d0c79770486c2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37505e2f1ba531b3aa1a03a3fb8c93e6da8f121a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285689"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410923"
 ---
 # <a name="employee-training-management"></a>Управление обучением сотрудников
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285689"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Управление обучением сотрудников |
+| Название приложения | Управление обучением сотрудников |
 | Идентификатор | WA200001512 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SharePoint|Sapiens |
@@ -141,3 +141,4 @@ ms.locfileid: "59285689"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

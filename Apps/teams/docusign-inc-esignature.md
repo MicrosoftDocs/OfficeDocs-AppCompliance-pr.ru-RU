@@ -2,18 +2,18 @@
 title: Сведения о приложениях для eSignature DocuSign от DocuSign, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/14/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для eSignature DocuSign, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6f924fd6777e53a6b854d2249d334fbdab2a54c0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 839ac6f0dcbdadb7428c68ba6da9b46e6ed9a862
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287921"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410292"
 ---
 # <a name="docusign-esignature"></a>DocuSign eSignature
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287921"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | DocuSign eSignature |
+| Название приложения | DocuSign eSignature |
 | Идентификатор | WA200002755 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | DocuSign, Inc. |
@@ -118,3 +118,4 @@ ms.locfileid: "59287921"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

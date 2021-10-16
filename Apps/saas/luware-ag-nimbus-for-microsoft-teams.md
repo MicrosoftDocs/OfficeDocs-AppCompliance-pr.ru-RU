@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Luware Nimbus для Microsoft Teams luware AG
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/01/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Luware Nimbus для Microsoft Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ee4101bb8116bec2db6a095ef170368eb9dfff6b
-ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
+ms.openlocfilehash: d7139f3ca934da20e58bb9f838217796ca5644da
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60290414"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410493"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus для Microsoft Teams
 
@@ -54,12 +54,12 @@ ms.locfileid: "60290414"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.Read | делегирована | Сопутствующие консоли: Чтение календаря входа в пользовательское шоу Календарь с назначениями | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Calendars.Read.Shared | делегирована | Сопутствующие консоли: Чтение общих календарей, чтобы показать календарь с назначениями | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Calendars.Read | делегирована | Сопутствующие консоли: Чтение календаря входа в пользовательское шоу Календарь с назначениями | Отсутствует | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Calendars.Read.Shared | делегирована | Сопутствующие консоли: Чтение общих календарей, чтобы показать календарь с назначениями | Отсутствует | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
 >| Contacts.Read | делегирована | Сопровождающий консоли: поиск Exchange контактов зарегистрированного пользователя | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
 >| Contacts.Read.Shared | делегирована | Сопутствующие консоли: поиск в общих Exchange контактов | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
 >| GroupMember.Read.All | приложение | Получить членов группы, прочитать группы безопасности | Мы храним эту информацию, так как агенты центра обработки вызовов управляются через членство в группе | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Presence.Read.All | делегирована | Показать присутствие в поиске контактов на странице Сопутствующие консоли | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Presence.Read.All | делегирована | Показать присутствие в поиске контактов на странице Сопутствующие консоли | Отсутствует | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
 >| User.Read | делегирована | Get UserInformation (от входа в пользователя) | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
 >| User.Read.All | оба | Nimbus App — get CallerInformation. При внутреннем вызове в контакт-центр мы делаем обратный разглядывание того, кто это может быть, чтобы мы могли показать эту информацию агенту. В консоли Attendant (с делегированным разрешением) мы ищем весь внутренний каталог для целей передачи. | Для отчета REasons о том, кто больше всех вызвал, мы храним эти данные. | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
 >| User.ReadBasic.All | делегирована | Ограниченный поиск пользователей | Нет | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
@@ -99,17 +99,6 @@ ms.locfileid: "60290414"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ ms.locfileid: "60290414"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Trivia по hr Tech Springworks
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Trivia, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e22205d2584abd257a6fdff585f129fb915ff6b2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f2e79a1843977a1c8c1ea0f62259cfa4bde8f076
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284977"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410853"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284977"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Trivia |
+| Название приложения | Trivia |
 | Идентификатор | WA200001956 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Springworks HR Tech |
@@ -129,3 +129,4 @@ ms.locfileid: "59284977"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

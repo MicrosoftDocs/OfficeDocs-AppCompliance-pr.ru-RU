@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SlideHub от nomorehours
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SlideHub, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7eca7f35cb46db8450f6805c9e8a4c2503934dd6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: dacb6758c2fe3d1d551daec80bc53642b3e6b607
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284246"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410513"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -31,7 +31,7 @@ ms.locfileid: "59284246"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SlideHub |
+| Название приложения | SlideHub |
 | Идентификатор | WA200001625 |
 | Office 365 поддерживаемые клиенты | PowerPoint 2016 или позже на Mac, PowerPoint в Интернете, PowerPoint 2013 или более поздней Windows |
 | Имя компании-партнера | nomorehours |
@@ -76,7 +76,7 @@ ms.locfileid: "59284246"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -113,3 +113,4 @@ ms.locfileid: "59284246"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Medxnote MT от Medxnote
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/19/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Medxnote MT, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5eff51e5045f299ad8fe9e8335b3c5dac41af919
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 35f038dcfc9a7ee49153c585741465f444a4e1a4
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285777"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411594"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285777"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Medxnote MT |
+| Название приложения | Medxnote MT |
 | Идентификатор | WA200001823 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Medxnote |
@@ -108,4 +108,5 @@ ms.locfileid: "59285777"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

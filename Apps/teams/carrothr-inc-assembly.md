@@ -2,18 +2,18 @@
 title: Сведения о приложениях для сборки в CarrotHR Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/21/2021
+ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Assembly, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f8d63c77c3fd9b52353ce22954dfa4dadb8dea2f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3597930ccf3200a42afe3ac7335199cbe5e9e885
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289408"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411113"
 ---
 # <a name="assembly"></a>Assembly
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289408"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Assembly |
+| Название приложения | Assembly |
 | Идентификатор | WA200002271 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | CarrotHR Inc. |
@@ -139,3 +139,4 @@ ms.locfileid: "59289408"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для кармы от Sliday LTD
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/14/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Karma, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a7603ed4676653b26d93027e5c3e3d47065e83db
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 69163a7c191e9a7e8d460a7f20623466d208042e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285681"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410913"
 ---
 # <a name="karma"></a>Karma
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285681"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Karma |
+| Название приложения | Karma |
 | Идентификатор | WA104381640 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sliday LTD |
@@ -145,4 +145,5 @@ VMs автоматически возвращается каждую недел�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

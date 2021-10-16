@@ -2,18 +2,18 @@
 title: Сведения о приложениях для корректировщика ссылок по продуктам Communardo
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для корректировщика ссылок, его политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8a6c2ee716c7e07686e2c62e1cd79196acbdc5a3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1224640f839a0e7147f75cad57ea8bf701f88477
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285902"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411103"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285902"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Link Spotter |
+| Название приложения | Link Spotter |
 | Идентификатор | WA200003092 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Communardo Products |
@@ -110,17 +110,6 @@ ms.locfileid: "59285902"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -148,3 +137,4 @@ ms.locfileid: "59285902"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

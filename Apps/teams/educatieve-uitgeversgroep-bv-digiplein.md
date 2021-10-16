@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Digiplein от Educatieve Uitgeversgroep B.V.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 09/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Digiplein, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 92f299ff3838c2a8c25c0e5a624ebfad651bc0f8
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 0f74b7dbe065573e2679404475c30251ac86cd53
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112300"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411757"
 ---
 # <a name="digiplein"></a>Digiplein
 
@@ -33,7 +33,7 @@ ms.locfileid: "60112300"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Digiplein |
-| ID | WA200003298 |
+| Идентификатор | WA200003298 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Educatieve Uitgeversgroep B.V. |
 | URL-адрес веб-сайта-партнера | [https://www.uitgeversgroep.nl](https://www.uitgeversgroep.nl) |
@@ -93,17 +93,6 @@ ms.locfileid: "60112300"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "60112300"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

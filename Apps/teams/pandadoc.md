@@ -2,18 +2,18 @@
 title: Сведения о приложениях для PandaDoc от PandaDoc
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/19/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для PandaDoc, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0ad06df6fb1b41955c2cb69e45f2ea84660b3e06
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 8d3a04daba9ebcbcf435f46beb6313c22310fe22
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288422"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408984"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288422"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | PandaDoc |
+| Название приложения | PandaDoc |
 | Идентификатор | WA200002927 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | PandaDoc |
@@ -162,3 +162,4 @@ ms.locfileid: "59288422"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

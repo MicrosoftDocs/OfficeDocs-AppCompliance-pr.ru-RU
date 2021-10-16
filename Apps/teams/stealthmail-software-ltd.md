@@ -2,18 +2,18 @@
 title: Сведения о приложениях для StealthMail от Stealthmail Software Ltd
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/31/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для StealthMail, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 322cdc906ab0cd2ae8980d1412bb4dd9c897a5f6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 117f7c791048373b4e1d985c991b001f5aa595dd
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286881"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60407368"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286881"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | StealthMail |
+| Название приложения | StealthMail |
 | Идентификатор | WA200001748 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Stealthmail Software Ltd |
@@ -139,3 +139,4 @@ ms.locfileid: "59286881"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

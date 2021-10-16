@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MURAL по MURAL
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/22/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MURAL, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 58349e188a709d1f74a3a3b6426ca4b4a34c34d4
-ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
+ms.openlocfilehash: 547125dfa636a60f8a95153c5b75b060ee2f65f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60233623"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60409452"
 ---
 # <a name="mural"></a>MURAL
 
@@ -33,7 +33,7 @@ ms.locfileid: "60233623"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | MURAL |
-| ID | WA104381626 |
+| Идентификатор | WA104381626 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MURAL |
 | URL-адрес веб-сайта-партнера | [https://mural.co](https://mural.co) |
@@ -122,3 +122,4 @@ ms.locfileid: "60233623"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

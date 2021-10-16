@@ -2,18 +2,18 @@
 title: Сведения о приложениях для PlayQuiz - Aprende &amp; Juega by TeamsChamp
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/11/2021
+ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для PlayQuiz - Aprende Juega, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре &amp; CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 8d3cc87e089321333074ef577ba2afca0172e31c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286089"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411444"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz — Aprende &amp; Juega
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286089"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | PlayQuiz — Aprende &amp; Juega |
+| Название приложения | PlayQuiz — Aprende &amp; Juega |
 | Идентификатор | WA200002820 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | TeamsChamp |
@@ -135,3 +135,4 @@ ms.locfileid: "59286089"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

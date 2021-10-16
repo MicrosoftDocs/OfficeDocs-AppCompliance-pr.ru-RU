@@ -2,18 +2,18 @@
 title: Сведения о приложениях для TagTeam от Smarter Business Solution GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/21/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TagTeam, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cd1411cff3f80788bc9a5677f595caad620484e1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 025d0040bdd58a01cd3993445c025b9a61f90822
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285673"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408338"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285673"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TagTeam |
+| Название приложения | TagTeam |
 | Идентификатор | WA200002829 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Smarter Business Solution GmbH |
@@ -60,7 +60,7 @@ ms.locfileid: "59285673"
 >| ChannelMessage.Read.All | делегирована | Мы не собираем эти данные, а используем только для отображения бесед с тегами. Мы хотели бы изменить его на API поиска, но Graph API в настоящее время не поддерживает это.  | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 >| User.Read | делегирована | Отображение User-Information (например, имя) на вкладке | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 >| User.ReadBasic.All | делегирована | Отображение User-Avatars на вкладке | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
->| openid | делегирована | Только для SignIn — данные не хранятся | Нет | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| openid | делегирована | Только для SignIn — данные не хранятся | Отсутствует | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -136,3 +136,4 @@ ms.locfileid: "59285673"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

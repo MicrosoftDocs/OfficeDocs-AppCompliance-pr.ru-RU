@@ -2,18 +2,18 @@
 title: Сведения о приложениях для C.AI-бота по contexxt.ai
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для C.AI,его политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5bb11c96f750701128470f3e1c61ea0f5d476233
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 655d6801d05e2f909cbe5d1ee9578092a43f6778
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285854"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410342"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285854"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | C.AI Adoption Bot |
+| Название приложения | C.AI Adoption Bot |
 | Идентификатор | WA200002633 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | contexxt.ai |
@@ -139,3 +139,4 @@ ms.locfileid: "59285854"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

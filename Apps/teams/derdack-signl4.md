@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SIGNL4 от Derdack SIGNL4
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2021
+ms.date: 08/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SIGNL4, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7042695f0bfb257552e4e040a1b8d254016b612a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286977"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411083"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286977"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SIGNL4 |
+| Название приложения | SIGNL4 |
 | Идентификатор | WA200001239 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Derdack SIGNL4 |
@@ -84,7 +84,7 @@ ms.locfileid: "59286977"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Данные хранятся в центре обработки данных Azure в Европе. Доступ к нему возможен для администраторов. 2FA с помощью проверки подлинности AAD. Ключи доступа к учетным записям хранилища также используются для управления доступом.
+>Данные хранятся в центре обработки данных Azure в Европе. Доступ к нему возможен для администраторов. 2FA с AAD проверки подлинности. Ключи доступа к учетным записям хранилища также используются для управления доступом.
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -134,3 +134,4 @@ ms.locfileid: "59286977"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

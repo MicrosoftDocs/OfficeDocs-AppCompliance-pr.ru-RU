@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MeasureUp с помощью решений взаимодействия мультимедиа
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MeasureUp, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 066526334e1936de0348f06f56239eab3370d0e0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 19ce585f62580ae5aca1b1ee936980c8bed9a1e5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285782"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410142"
 ---
 # <a name="measureup"></a>MeasureUp
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285782"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MeasureUp |
+| Название приложения | MeasureUp |
 | Идентификатор | WA200003111 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Media Interactiva Solutions |
@@ -97,17 +97,6 @@ ms.locfileid: "59285782"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -134,3 +123,4 @@ ms.locfileid: "59285782"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

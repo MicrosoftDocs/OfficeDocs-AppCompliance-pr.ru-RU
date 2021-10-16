@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ambition by Ambition
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/17/2021
+ms.date: 08/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Ambition, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d6c4a598cd115edd52e6dbd37cabd60b7a011aad
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 41a69c23e64a1059d99c18511837cb166bcf27a0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284166"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410473"
 ---
 # <a name="ambition"></a>Ambition
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284166"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Ambition |
+| Название приложения | Ambition |
 | Идентификатор | WA200003159 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Ambition |
@@ -62,7 +62,7 @@ ms.locfileid: "59284166"
 >| User.Read | делегирована | Определение администратора, уполномовшего приложение Ambition | Пользователи называют &amp; электронную почту, чтобы синхронизироваться с пользователями Ambition | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 >| User.ReadBasic.All | делегирована | Имена пользователей &amp; электронной почты, чтобы синхронизировать пользователей со своими учетными записями Ambition. | Хранятся имена &amp; пользователей. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 >| offline_access | делегирована | Синхронизация Microsoft Teams данных в автономном режиме. | Сохраняется маркер обновления маркера доступа &amp; OAuth. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| openid | делегирована | Это необходимо для использования функции регистрации Майкрософт | Н/Д | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| openid | делегирована | Это необходимо для использования функции регистрации Майкрософт | Недоступно | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -104,17 +104,6 @@ ms.locfileid: "59284166"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -142,3 +131,4 @@ ms.locfileid: "59284166"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для live Chat, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b0fff6d4f5f7fce95b06d5a54bc0e9d178e2ce63
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288065"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410873"
 ---
 # <a name="live-chat"></a>Live Chat
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288065"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Live Chat |
+| Название приложения | Live Chat |
 | Идентификатор | WA200000440 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Social Intents |
@@ -120,3 +120,4 @@ ms.locfileid: "59288065"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

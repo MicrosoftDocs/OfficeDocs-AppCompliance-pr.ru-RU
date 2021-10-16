@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Q by ModuleQ
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Q, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a1a9995b6b723d7ed712f9a0fdbe9315ee53c7f0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 25c9ce55aae852632170f5926c480f2369da97e5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288561"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410112"
 ---
 # <a name="q"></a>Q
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288561"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Q |
+| Название приложения | Q |
 | Идентификатор | WA104381433 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ModuleQ |
@@ -61,7 +61,7 @@ ms.locfileid: "59288561"
 >| Group.Read.All | делегирована | Нет | Позволяет приложению взаимодействовать в команде для обмена контентом. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 >| Mail.Read | приложение | сохраняет данные электронной почты, за исключением тела сообщения и вложений | Позволяет приложению читать почту пользователя, чтобы разумно понимать бизнес-приоритеты пользователя | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 >| User.Read | делегирована | маркеры электронной почты и проверки подлинности пользователей | Позволяет пользователю войти и связать свою учетную запись Office 365 с учетной записью ModuleQ | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| User.Read.All | делегирована | Нет | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read.All | делегирована | Отсутствует | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -137,3 +137,4 @@ ms.locfileid: "59288561"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

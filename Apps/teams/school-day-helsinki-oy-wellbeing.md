@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для wellbeing дня школы, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9b953bd648ecc795e57e22dd505676d755b1ee32
-ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
+ms.openlocfilehash: babc51460ddb23fd19007f2ebfc8ebab00300a69
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2021
-ms.locfileid: "60337916"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408428"
 ---
-# <a name="school-day-wellbeing"></a>Благополучие учебного дня
+# <a name="school-day-wellbeing"></a>School Day Wellbeing
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "60337916"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Благополучие учебного дня |
+| Название приложения | School Day Wellbeing |
 | Идентификатор | WA200001430 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Школьный день Хельсинки Oy |
+| Имя компании-партнера | School Day Helsinki Oy |
 | URL-адрес веб-сайта-партнера | [https://www.schoolday.com](https://www.schoolday.com) |
 | URL-адрес страницы Teams приложения | [https://www.schoolday.com/en/resources/faq](https://www.schoolday.com/en/resources/faq) |
 | URL-адрес политики конфиденциальности | [https://www.schoolday.com/privacy](https://www.schoolday.com/privacy) |
@@ -109,17 +109,6 @@ ms.locfileid: "60337916"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -146,3 +135,4 @@ ms.locfileid: "60337916"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

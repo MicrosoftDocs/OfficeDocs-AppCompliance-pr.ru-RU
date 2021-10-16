@@ -2,18 +2,18 @@
 title: Сведения о приложениях для FormMachines Enterprise цифровых машин
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/05/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для FormMachines, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 36ee73c86e0ccb1d8943cbe04da24319789b31c7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: be8e514f248b177d0b09e856d5537e770d50220c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289126"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411053"
 ---
 # <a name="formmachines"></a>FormMachines
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289126"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | FormMachines |
+| Название приложения | FormMachines |
 | Идентификатор | WA200001217 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Enterprise Digital Machines |
@@ -131,3 +131,4 @@ ms.locfileid: "59289126"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

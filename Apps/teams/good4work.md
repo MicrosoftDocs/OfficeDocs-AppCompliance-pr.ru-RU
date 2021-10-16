@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Good4work от Good4work
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/15/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Good4work, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3d6854fcf2b53d1eb7baefb2f64d258365d5bdaf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 88316601077073b99109491c06b949dd27a0c944
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286185"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410252"
 ---
 # <a name="good4work"></a>Good4work
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286185"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Good4work |
+| Название приложения | Good4work |
 | Идентификатор | WA200002962 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Good4work |
@@ -118,3 +118,4 @@ ms.locfileid: "59286185"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

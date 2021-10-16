@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wunder365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7762883d8a13c9c914cc88db4c03f20be2f830f3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4bd6d8579cda1b05a447e7c8151fe9cb3da1a813
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287126"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411203"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -31,7 +31,7 @@ ms.locfileid: "59287126"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Wunder365 |
+| Название приложения | Wunder365 |
 | Идентификатор | WA200000391 |
 | Office 365 поддерживаемые клиенты | Outlook 2016 или более поздней Windows, Outlook 2016 или позднее на Mac, Outlook в Интернете |
 | Имя компании-партнера | JiJi Technologies Private Limited |
@@ -81,7 +81,7 @@ ms.locfileid: "59287126"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Все веб-приложения и служба хранилища находятся в подписке, не подключенной к нашей компании AAD, с помощью только администраторов, имеющих доступ к ресурсам. Для этих администраторов требуется 2FA. 
+>Все веб-приложения и служба хранилища находятся в подписке, которая не подключена к нашей AAD с помощью только администраторов, имеющих доступ к ресурсам. Для этих администраторов требуется 2FA. 
 
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
@@ -132,3 +132,4 @@ ms.locfileid: "59287126"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

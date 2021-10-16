@@ -2,18 +2,18 @@
 title: Сведения о приложениях для мест ti8m по ti &amp; m AG
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/16/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для мест ti8m, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0da49dc42dfb173165ad01f55d5d10c656c0e4e0
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 92b67a17394d796e0d743c6b3c570698e54e2fec
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60124082"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411434"
 ---
 # <a name="ti8m-places"></a>ti8m places
 
@@ -33,9 +33,9 @@ ms.locfileid: "60124082"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | ti8m places |
-| ID | WA200003311 |
+| Идентификатор | WA200003311 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | ti &amp; m AG |
+| Имя компании-партнера | ti&amp;m AG |
 | URL-адрес веб-сайта-партнера | [https://www.ti8m.com/places](https://www.ti8m.com/places) |
 | URL-адрес страницы Teams приложения | [https://www.ti8m.ch/places](https://www.ti8m.ch/places) |
 | URL-адрес политики конфиденциальности | [https://ti8m.com/products/places/places-datenschutzerklaeru...](https://ti8m.com/products/places/places-datenschutzerklaerung) |
@@ -58,7 +58,7 @@ ms.locfileid: "60124082"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite.Shared | делегирована | Отмена событий в календарях рабочих мест и пользователей  | ID события, если запись в календаре должна быть отменена | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
->| Directory.ReadWrite.All | делегирована | Установка и создание групп административная AAD — группы безопасности  | GroupNames и GroupIDs | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
+>| Directory.ReadWrite.All | делегирована | Установка и создание групп административных AAD — группы безопасности  | GroupNames и GroupIDs | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 >| Place.ReadWrite.All | делегирована | Список рабочих мест и имен карт  | Код рабочего места, адрес электронной почты Adresse of Workplace и Displayname. Используется для бронирования рабочего места | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 >| User.Read | делегирована | Имя пользователя, имя электронной почты и имя отображения, необходимое для отображения пользовательских данных в приложении | Имя пользователя, имя электронной почты и имя отображения, необходимое для отображения пользовательских данных в приложении | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 
@@ -98,17 +98,6 @@ ms.locfileid: "60124082"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -134,3 +123,4 @@ ms.locfileid: "60124082"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

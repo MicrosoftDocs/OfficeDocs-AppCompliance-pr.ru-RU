@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Zoho Sprints от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Sprints, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cdc296898d2e9f6d18f01d9742ce8d0ca29c807b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3a70374751225581c7279ce01140a269bc2d80eb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284881"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411334"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284881"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zoho Sprints |
+| Название приложения | Zoho Sprints |
 | Идентификатор | WA200000188 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -107,4 +107,5 @@ ms.locfileid: "59284881"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

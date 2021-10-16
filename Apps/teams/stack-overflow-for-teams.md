@@ -2,18 +2,18 @@
 title: Сведения о приложениях для переполнения стека для Teams с помощью переполнения стеков
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 12/17/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для переполнения стека для Teams, политики обработки данных, сведения об Microsoft Cloud App Security каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7ea59acc5a3a85fd8ad827947c117266e95901fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3c6493326d8b58ad4c8e7e4fc5486a7f03cd2b8b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289014"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410843"
 ---
 # <a name="stack-overflow-for-teams"></a>Stack Overflow for Teams
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289014"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Stack Overflow for Teams |
+| Название приложения | Stack Overflow for Teams |
 | Идентификатор | WA200000739 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Stack Overflow |
@@ -107,4 +107,5 @@ MS Teams отправляет нам их идентифицируемые ids �
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

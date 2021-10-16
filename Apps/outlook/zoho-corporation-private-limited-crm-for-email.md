@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Zoho CRM для электронной почты от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для zoho CRM для электронной почты, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 70b8cb54057dfb9c08068a444127bc78e736c84c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2d18e904a02190310c94dde3010c2db103705b32
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288638"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410523"
 ---
 # <a name="zoho-crm-for-email"></a>Zoho CRM для электронной почты
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288638"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zoho CRM для электронной почты |
+| Название приложения | Zoho CRM для электронной почты |
 | Идентификатор | WA104379468 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -102,4 +102,5 @@ ms.locfileid: "59288638"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

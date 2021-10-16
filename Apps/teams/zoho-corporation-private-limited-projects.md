@@ -2,18 +2,18 @@
 title: Сведения о приложениях для проектов Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Projects, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cb0d9ec4caabe3307474e0927adc4a793046a449
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7bc0d1f79ec7464cdd76775a636a1098aa7b8a2d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288017"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410773"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288017"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zoho Projects |
+| Название приложения | Zoho Projects |
 | Идентификатор | WA104381668 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -110,4 +110,5 @@ ms.locfileid: "59288017"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

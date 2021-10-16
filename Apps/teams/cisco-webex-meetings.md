@@ -2,18 +2,18 @@
 title: Сведения о приложениях для собраний Вебекс Cisco от Cisco Webex Meetings
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/28/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для собраний Cisco Webex, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b46674ef9171747267a6f2142fa2d83c8cb7687b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f26139e928a283f45b3ac76f054b64c480d09230
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285942"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410352"
 ---
 # <a name="cisco-webex-meetings"></a>Cisco Webex Meetings
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285942"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Cisco Webex Meetings |
+| Название приложения | Cisco Webex Meetings |
 | Идентификатор | WA104381435 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cisco Webex Meetings |
@@ -101,4 +101,5 @@ ms.locfileid: "59285942"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

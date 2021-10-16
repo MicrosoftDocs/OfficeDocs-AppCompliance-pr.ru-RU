@@ -2,20 +2,20 @@
 title: Сведения о приложениях для бизнеса AmTrav от AmTrav
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/11/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для бизнеса AmTrav Travel, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b5a4bb145a5cdc574088ca47e1198e5d09e8fdae
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: b872e6b1a915bca45002240703283b1e0e58be33
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785719"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410463"
 ---
-# <a name="amtrav-business-travel"></a>Бизнес-путешествия AmTrav
+# <a name="amtrav-business-travel"></a>AmTrav Business Travel
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "59785719"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Бизнес-путешествия AmTrav |
-| ID | WA200003235 |
+| Название приложения | AmTrav Business Travel |
+| Идентификатор | WA200003235 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | AmTrav |
 | URL-адрес веб-сайта-партнера | [https://www.Amtrav.com](https://www.Amtrav.com) |
@@ -93,17 +93,6 @@ ms.locfileid: "59785719"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "59785719"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

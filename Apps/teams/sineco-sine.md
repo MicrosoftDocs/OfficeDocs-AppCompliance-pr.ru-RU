@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Sine по Sine.co
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/29/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Sine, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 233f6122be0b8fd3e36af99a421ccc2bac26e36a
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 749b438732b24b9b742e377a665ce96da6e42fb9
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785694"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411504"
 ---
 # <a name="sine"></a>Sine
 
@@ -33,7 +33,7 @@ ms.locfileid: "59785694"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Sine |
-| ID | WA200003244 |
+| Идентификатор | WA200003244 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sine.co |
 | URL-адрес веб-сайта-партнера | [https://www.sine.co](https://www.sine.co) |
@@ -97,17 +97,6 @@ ms.locfileid: "59785694"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -122,3 +111,4 @@ ms.locfileid: "59785694"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

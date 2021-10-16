@@ -2,18 +2,18 @@
 title: Сведения о приложениях для smartsheet от Smartsheet
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/11/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Smartsheet, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b6f823a27352d3623826cf09f97c9a2f560307a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f95e090af5a83db8053bf60582a73dd77a2905d0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283945"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410893"
 ---
 # <a name="smartsheet"></a>Smartsheet
 
@@ -32,7 +32,7 @@ ms.locfileid: "59283945"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Smartsheet |
+| Название приложения | Smartsheet |
 | Идентификатор | WA104380975 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Smartsheet |
@@ -70,7 +70,7 @@ ms.locfileid: "59283945"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API bot Framework | Да | Мы используем API Bot Framework для доставки сообщений в качестве приложения для приложения teams. Smartsheet хранит сведения userId, чтобы отслеживать, с кем разговаривает бот Smartsheet. |  | Нет |  |
+>| API bot Framework | Да | Мы используем API Bot Framework для доставки сообщений в качестве приложения для приложения teams. Smartsheet хранит сведения userId, чтобы отслеживать, с кем разговаривает бот Smartsheet. |  | Отсутствует |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -122,4 +122,5 @@ ms.locfileid: "59283945"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для qbo, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57d228504c0432aea96d8fc915606b1c71d36cf1
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 74734019fc35da357552739b3ddabbd223cf541d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992079"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410813"
 ---
 # <a name="qbo"></a>qbo
 
@@ -33,7 +33,7 @@ ms.locfileid: "59992079"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | qbo |
-| ID | WA200001708 |
+| Идентификатор | WA200001708 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Unscrambl |
 | URL-адрес веб-сайта-партнера | [https://unscrambl.com](https://unscrambl.com) |
@@ -127,3 +127,4 @@ ms.locfileid: "59992079"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

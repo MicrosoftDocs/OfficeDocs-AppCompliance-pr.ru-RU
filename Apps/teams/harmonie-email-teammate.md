@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Email TeamMate, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1aecf8fedde78acae86eb654f066bb443ff387ed
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c36dba77d67a638c035b34cea1d88113fb082466
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288177"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411644"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288177"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Email TeamMate |
+| Название приложения | Email TeamMate |
 | Идентификатор | WA200002338 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | harmon.ie |
@@ -138,3 +138,4 @@ ms.locfileid: "59288177"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

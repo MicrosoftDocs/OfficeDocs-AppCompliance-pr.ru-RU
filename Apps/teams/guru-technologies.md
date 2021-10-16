@@ -2,18 +2,18 @@
 title: Сведения о приложениях для гуру по технологиям гуру
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/01/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Guru, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87316d020c6658b00fe7e12cc7326917779f2623
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 014546ad1e5e4ee5beb0b8512ed2247e1ae34ccf
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286161"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411677"
 ---
 # <a name="guru"></a>Guru
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286161"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Guru |
+| Название приложения | Guru |
 | Идентификатор | WA200001719 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Guru Technologies |
@@ -120,3 +120,4 @@ ms.locfileid: "59286161"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

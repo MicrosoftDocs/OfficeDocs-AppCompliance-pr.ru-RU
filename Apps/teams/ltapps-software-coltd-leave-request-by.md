@@ -2,18 +2,18 @@
 title: Сведения о приложении для запроса на отпуск по LTAPP по LTAPPs SOFTWARE CO.,LTD
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/11/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для запроса на отпуск LTAPPs, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2db2812a4ba1c2cd191e181ba16b13563752f90a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4202639a726a320c311b5093ab8e6547d9b39306
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287449"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411614"
 ---
 # <a name="leave-request-by-ltapps"></a>Leave Request by LTAPPs
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287449"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Leave Request by LTAPPs |
+| Название приложения | Leave Request by LTAPPs |
 | Идентификатор | WA200001928 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LTAPPs SOFTWARE CO.,LTD |
@@ -107,4 +107,5 @@ ms.locfileid: "59287449"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

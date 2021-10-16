@@ -2,18 +2,18 @@
 title: Сведения о приложениях для sentry sentry
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2020
+ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Sentry, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fb959fbccb6b1ceddfaa6496cb155803fc9f9a28
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0dfca194e173992cec4cfc244a9c13638602aeb6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286897"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410933"
 ---
 # <a name="sentry"></a>Sentry
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286897"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Sentry |
+| Название приложения | Sentry |
 | Идентификатор | WA200002106 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sentry |
@@ -89,7 +89,7 @@ ms.locfileid: "59286897"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -126,3 +126,4 @@ ms.locfileid: "59286897"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
