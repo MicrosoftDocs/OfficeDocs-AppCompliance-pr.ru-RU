@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Agile Task Board для SharePoint Online с помощью Agile-IS
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/30/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Agile Task Board для SharePoint Online, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 649c3ee34514214e91eaa1fe5ed43b43f6d9a43b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 34526c1037ee220cabfecf6dd06fac93bb0e4952
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286617"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412108"
 ---
 # <a name="agile-task-board-for-sharepoint-online"></a>Agile Task Board for SharePoint Online
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286617"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Agile Task Board for SharePoint Online |
+| Название приложения | Agile Task Board for SharePoint Online |
 | Идентификатор | WA200002087 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | Agile-IS |
@@ -100,4 +100,5 @@ ms.locfileid: "59286617"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

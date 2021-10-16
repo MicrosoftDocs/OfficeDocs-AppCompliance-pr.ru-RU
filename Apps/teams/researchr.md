@@ -2,18 +2,18 @@
 title: Сведения о приложениях для researcHR по KBE&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для researcHR, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: bc174eb69b69cdf2d04c27bc4649f18111d87811
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284009"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412809"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284009"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | researcHR |
+| Название приложения | researcHR |
 | Идентификатор | WA200002557 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | KBE&#26666;&#24335;&#20250;&#31038; |
@@ -62,7 +62,7 @@ ms.locfileid: "59284009"
 >| Group.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/channel-list | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Team.ReadBasic.All | приложение | Мы используем эту область, чтобы получить членов команды, чтобы пользователи могли видеть своих членов команды на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/group-list-members | Мы не храним эти данные в базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| User.Read.All | приложение | Мы используем эту область для получения каналов, присоединимых к пользователю, чтобы пользователи могли видеть их присоединились к группам на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | делегирована | Мы используем эту область, чтобы включить вход OAuth и собрать AAD-ID пользователя, маркер доступа и маркер обновления. См.: https://docs.microsoft.com/en-us/graph/auth-v2-user | Мы храним ВАД пользователя, маркер доступа и маркер обновления в нашей базе данных, чтобы пользователь может войти на наш веб-сайт с помощью OAuth. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| User.ReadBasic.All | делегирована | Мы используем эту область, чтобы включить вход oAuth и собрать AAD пользователя, маркер доступа и маркер обновления. См.: https://docs.microsoft.com/en-us/graph/auth-v2-user | Мы храним AAD, маркер доступа и маркер обновления в нашей базе данных, чтобы пользователь может войти на наш веб-сайт с помощью OAuth. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| offline_access | делегирована | Мы используем эту область для получения маркера обновления, чтобы мы могли обновить маркер доступа для пользователей с строгим режимом без взаимодействия с пользователем. См.: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | Мы храним маркер обновления в базе данных, чтобы обновить маркер доступа без взаимодействия с пользователем. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 
 
@@ -101,17 +101,6 @@ ms.locfileid: "59284009"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -126,3 +115,4 @@ ms.locfileid: "59284009"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

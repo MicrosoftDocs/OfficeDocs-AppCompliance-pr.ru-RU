@@ -2,18 +2,18 @@
 title: Сведения о приложениях для GoToConnect от LogMeIn Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/19/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для GoToConnect, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2e3b563c4799049e9447ba7c0dbe56aa84e24a44
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4525d41f301f1d9c0b131a7af6b605f0c93c1798
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287457"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412248"
 ---
 # <a name="gotoconnect"></a>GoToConnect
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287457"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | GoToConnect |
+| Название приложения | GoToConnect |
 | Идентификатор | WA200000962 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LogMeIn Inc. |
@@ -118,3 +118,4 @@ ms.locfileid: "59287457"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

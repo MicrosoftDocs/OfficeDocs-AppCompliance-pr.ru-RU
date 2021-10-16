@@ -2,18 +2,18 @@
 title: Сведения о приложениях для AVA от AvePoint, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для AVA, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 462181d4ba98d11e5aeae15a4827c6138bc80924
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a23ab8dfa165d43d6f2a9afafab0bc2ac12534bb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288817"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411898"
 ---
 # <a name="ava"></a>AVA
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288817"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | AVA |
+| Название приложения | AVA |
 | Идентификатор | WA104381883 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | AvePoint, Inc. |
@@ -116,4 +116,5 @@ ms.locfileid: "59288817"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

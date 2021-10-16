@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Report Builder, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3cdce812cc93cb5a42abf0180f99cf4858a2fc09
-ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
+ms.openlocfilehash: eaba58a8a2a63b51dad4489c1104dc5d38ae51b1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2021
-ms.locfileid: "60340860"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412158"
 ---
 # <a name="report-builder"></a>Report Builder
 
@@ -88,17 +88,6 @@ ms.locfileid: "60340860"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -113,3 +102,4 @@ ms.locfileid: "60340860"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

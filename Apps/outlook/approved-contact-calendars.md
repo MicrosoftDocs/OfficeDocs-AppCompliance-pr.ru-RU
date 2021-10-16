@@ -2,18 +2,18 @@
 title: Сведения о приложениях для утвержденных календарей контактов по утвержденному контакту
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/10/2021
+ms.date: 05/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для утвержденных календарей контактов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 49aac5c5b6544d9324243d704cfaad6dc7bd8732
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 19d7bdeab6ec2d8f3d9a490d74cb2d59020a8952
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286022"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414193"
 ---
 # <a name="approved-contact-calendars"></a>Утвержденные календари контактов
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286022"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Утвержденные календари контактов |
+| Название приложения | Утвержденные календари контактов |
 | Идентификатор | WA104380294 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Approved Contact |
@@ -129,3 +129,4 @@ ms.locfileid: "59286022"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

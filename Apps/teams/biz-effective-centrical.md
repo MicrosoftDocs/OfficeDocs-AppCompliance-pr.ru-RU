@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Centrical Biz-Effective
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Centrical, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5ae0fcf2e8bd17619f723eeadcf1be5ec505dfe1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f1d447f3d7a8dcd717d0a29eedd29e8b081f8ed6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284086"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414775"
 ---
 # <a name="centrical"></a>Centrical
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284086"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Centrical |
+| Название приложения | Centrical |
 | Идентификатор | WA200001531 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Biz-Effective |
@@ -118,3 +118,4 @@ ms.locfileid: "59284086"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

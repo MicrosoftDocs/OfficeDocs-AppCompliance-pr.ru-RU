@@ -2,18 +2,18 @@
 title: Сведения о приложениях для xLaw — система управления знаниями по evertn
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/26/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для xLaw — система управления знаниями, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57f63c4bc93739fa2a251d797ea4475ef786a09d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b07ad480387dac712f6b9195fd74a82706d2629b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284870"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413240"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw — система управления знаниями
 
@@ -31,7 +31,7 @@ ms.locfileid: "59284870"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | xLaw — система управления знаниями |
+| Название приложения | xLaw — система управления знаниями |
 | Идентификатор | WA104381077 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Имя компании-партнера | evertn |
@@ -111,3 +111,4 @@ ms.locfileid: "59284870"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

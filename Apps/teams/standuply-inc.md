@@ -2,18 +2,18 @@
 title: Сведения о приложениях для standuply by Standuply Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/04/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Standuply, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0b1613f70b1909faf9582a5a88e73273ae5bcc77
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4544d1a06a779dfc4b4e28c099353aaf09e886ea
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286094"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413371"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286094"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Standuply |
+| Название приложения | Standuply |
 | Идентификатор | WA200003001 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Standuply Inc. |
@@ -137,3 +137,4 @@ ms.locfileid: "59286094"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

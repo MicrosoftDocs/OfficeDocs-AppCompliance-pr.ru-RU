@@ -2,18 +2,18 @@
 title: Сведения о приложениях для BlackBerry AtHoc по BlackBerry
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для BlackBerry AtHoc, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38d1d54293b3f406a0a5c8028850dae27a9c9294
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 38e85981b12faf81ce3b737300aacdbee42dc2a1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284081"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415206"
 ---
 # <a name="blackberry-athoc"></a>BlackBerry AtHoc
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284081"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | BlackBerry AtHoc |
+| Название приложения | BlackBerry AtHoc |
 | Идентификатор | WA200003065 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | BlackBerry |
@@ -57,12 +57,12 @@ ms.locfileid: "59284081"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage.Send | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, маркер AAD, маркер BlackBerry AtHoc, параметры BlackBerry AtHoc Server в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| Group.Read.All | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, маркер AAD, маркер BlackBerry AtHoc, параметры BlackBerry AtHoc Server в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| User.Read | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, маркер AAD, маркер BlackBerry AtHoc, параметры BlackBerry AtHoc Server в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| email | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, маркер AAD, маркер BlackBerry AtHoc, параметры BlackBerry AtHoc Server в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| openid | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, маркер AAD, маркер BlackBerry AtHoc, параметры BlackBerry AtHoc Server в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| profile | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, маркер AAD, маркер BlackBerry AtHoc, параметры BlackBerry AtHoc Server в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| ChannelMessage.Send | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, AAD Маркер, Маркер BlackBerry AtHoc, BlackBerry AtHoc Server предпочтения/конфигурации в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| Group.Read.All | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, AAD Маркер, Маркер BlackBerry AtHoc, BlackBerry AtHoc Server предпочтения/конфигурации в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| User.Read | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, AAD Маркер, Маркер BlackBerry AtHoc, BlackBerry AtHoc Server предпочтения/конфигурации в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| email | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, AAD Маркер, Маркер BlackBerry AtHoc, BlackBerry AtHoc Server предпочтения/конфигурации в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| openid | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, AAD Маркер, Маркер BlackBerry AtHoc, BlackBerry AtHoc Server предпочтения/конфигурации в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| profile | делегирована | Для отправки карты оповещения в группы мы&#8217;основные сведения пользователя, такие как имя principal и ссылку на общий канал teams (для которого подписан пользователь. | Мы не&#8217;хранить данные пользователей в базе данных, а в памяти Бота. Мы храним подписанный в основном имени пользователя, AAD Маркер, Маркер BlackBerry AtHoc, BlackBerry AtHoc Server предпочтения/конфигурации в памяти бота. Нужна информация для отправки запроса API в API Microsoft Graph и нашему серверу AtHoc BlackBerry. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -125,3 +125,4 @@ ms.locfileid: "59284081"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

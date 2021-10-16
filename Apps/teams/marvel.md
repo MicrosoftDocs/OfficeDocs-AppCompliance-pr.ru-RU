@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Marvel от Marvel
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/22/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Marvel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8ba6c9b80db76c43793c42d2265fc563402e39cd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d4c6121d8b593fd9b4061209da4fde77daeaa74a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288582"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412869"
 ---
 # <a name="marvel"></a>Marvel
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288582"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Marvel |
+| Название приложения | Marvel |
 | Идентификатор | WA104381801 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Marvel |
@@ -130,3 +130,4 @@ ms.locfileid: "59288582"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

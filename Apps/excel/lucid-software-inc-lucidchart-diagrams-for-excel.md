@@ -2,18 +2,18 @@
 title: Сведения о приложениях для диаграмм Lucidchart для Excel lucid Software Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для диаграмм Lucidchart для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: eedc4340815926a96f52e2abebc2d553f07583e3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3ff6b23fcb2f771ebfee071bc9140cccb76eed35
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286793"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415256"
 ---
 # <a name="lucidchart-diagrams-for-excel"></a>Диаграммы Lucidchart для Excel
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286793"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Диаграммы Lucidchart для Excel |
+| Название приложения | Диаграммы Lucidchart для Excel |
 | Идентификатор | WA104380194 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2013 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | Lucid Software Inc |
@@ -110,4 +110,5 @@ ms.locfileid: "59286793"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

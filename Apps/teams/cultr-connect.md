@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Подключение cultr
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/28/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для cultr Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: fd1859943d358808752e0c2a511d63ad985ca446
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b27b187fe2d898f873fecbde6a45bdc908edeb1b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289378"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412469"
 ---
 # <a name="cultr-connect"></a>Cultr Connect
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289378"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Cultr Connect |
+| Название приложения | Cultr Connect |
 | Идентификатор | WA200003008 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cultr |
@@ -102,17 +102,6 @@ ms.locfileid: "59289378"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -139,3 +128,4 @@ ms.locfileid: "59289378"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

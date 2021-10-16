@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Berrycast, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 714db08e839b60403a567b2cab1af888c4cb7b6f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 030445266b1d97ed39ac5943d6af343218b9a494
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288990"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414013"
 ---
 # <a name="berrycast"></a>Berrycast
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288990"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Berrycast |
+| Название приложения | Berrycast |
 | Идентификатор | WA200002798 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Technologies Openmind Inc, Les |
@@ -59,7 +59,7 @@ ms.locfileid: "59288990"
 >| People.Read | делегирована | Для получения всех контактов пользователей | Сообщения электронной почты контактов, фистовое имя, фамилия и изображение хранятся для быстрого доступа к записям. | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 >| User.Read | делегирована | Определение пользователя с базовой информацией (имя и фамилия и изображение) | Отображение первого имени. последнее имя и изображение в приложении | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 >| email | делегирована | Определение пользователя | Определение пользователя для ведения журнала и отправка уведомления | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
->| offline_access | делегирована | Сохранение доступа к данным, к которым он был предоставлен | Н/Д | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| offline_access | делегирована | Сохранение доступа к данным, к которым он был предоставлен | Недоступно | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 >| openid | делегирована | Определение пользователя | Определение пользователя для ведения журнала | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 
 
@@ -137,3 +137,4 @@ ms.locfileid: "59288990"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

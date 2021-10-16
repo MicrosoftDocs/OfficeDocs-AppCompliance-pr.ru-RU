@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Power BI совместной работы Ataira
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Power BI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 642ac51a231bf583b6cac3facb64ade94b772c3e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2e015b1596c02f6841609f1dba61577f25c738e4
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287526"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411918"
 ---
 # <a name="power-bi-collaboration"></a>Cовместная работа Power BI
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287526"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Cовместная работа Power BI |
+| Название приложения | Cовместная работа Power BI |
 | Идентификатор | WA104381384 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Ataira |
@@ -90,7 +90,7 @@ ms.locfileid: "59287526"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -140,3 +140,4 @@ ms.locfileid: "59287526"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

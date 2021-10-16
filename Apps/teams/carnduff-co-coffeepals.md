@@ -2,18 +2,18 @@
 title: Сведения о приложениях для CoffeePals от Carnduff Co
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/09/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CoffeePals, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2f058ef9ce4f3d19644a6223c394afefa257085b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b88028bd31f6ad32b8c0007644fa407a0d968604
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287510"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415196"
 ---
 # <a name="coffeepals"></a>CoffeePals
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287510"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | CoffeePals |
+| Название приложения | CoffeePals |
 | Идентификатор | WA200003040 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Carnduff Co |
@@ -122,3 +122,4 @@ ms.locfileid: "59287510"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

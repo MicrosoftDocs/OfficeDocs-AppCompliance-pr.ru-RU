@@ -2,18 +2,18 @@
 title: Сведения о приложениях для навыков по Pipe9 по Pipe9.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/11/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Skills by Pipe9, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2fc2175eab043dce659f00c0c5e9ae66e702e94e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5248d640209c480eee1f862ecbb7f2ceb7d2a659
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289049"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413691"
 ---
 # <a name="skills-by-pipe9"></a>Skills by Pipe9
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289049"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Skills by Pipe9 |
+| Название приложения | Skills by Pipe9 |
 | Идентификатор | WA200002038 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Pipe9.com |
@@ -103,4 +103,5 @@ ms.locfileid: "59289049"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

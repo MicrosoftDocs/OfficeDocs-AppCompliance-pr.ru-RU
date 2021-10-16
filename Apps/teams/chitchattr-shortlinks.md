@@ -2,18 +2,18 @@
 title: Сведения о приложениях для коротких ссылок от ChitChattr
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Shortlinks, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b044b73c3623e94a7ecf39a6116a33ea81343d60
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a09e1e359600b4025a87d3c85208d0936bdc0657
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287022"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415176"
 ---
 # <a name="shortlinks"></a>Shortlinks
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287022"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Shortlinks |
+| Название приложения | Shortlinks |
 | Идентификатор | WA200001846 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ChitChattr |
@@ -125,3 +125,4 @@ ms.locfileid: "59287022"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

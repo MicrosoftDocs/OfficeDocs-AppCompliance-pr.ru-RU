@@ -2,18 +2,18 @@
 title: Сведения о приложениях для доски от Workboard Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствия требованиям для Workboard, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0b2e460bf569a55b6a0179e7009ea92a5319ebab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e4eb373bba9f98978e08fee875bb14c0e057096c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288502"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414856"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288502"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Workboard |
+| Название приложения | Workboard |
 | Идентификатор | WA104381599 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Workboard Inc. |
@@ -134,3 +134,4 @@ ms.locfileid: "59288502"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

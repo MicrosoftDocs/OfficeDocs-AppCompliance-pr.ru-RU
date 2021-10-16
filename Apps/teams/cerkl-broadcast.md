@@ -2,18 +2,18 @@
 title: Сведения о приложениях для трансляции cerkl
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/11/2021
+ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для вещания, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ab386fe99e96bbe2dae26d2045c8d46447d35fd5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 405bc777e87f5338d663347f609fcd41d33538c3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287078"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413893"
 ---
 # <a name="broadcast"></a>Вещание
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287078"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Вещание |
+| Название приложения | Вещание |
 | Идентификатор | WA200002697 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cerkl |
@@ -120,3 +120,4 @@ ms.locfileid: "59287078"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

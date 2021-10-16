@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для перемещения вперед с Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7120519c2ecb0643465760677b2bef895b1e2f4d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c2bd8d856eca48f9afc79a42aeff36b887faaf8d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288430"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413671"
 ---
 # <a name="move-work-forward-with-jira"></a>Move Work Forward с Jira
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288430"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Move Work Forward с Jira |
+| Название приложения | Move Work Forward с Jira |
 | Идентификатор | WA200002855 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Move Work Forward |
@@ -139,3 +139,4 @@ ms.locfileid: "59288430"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

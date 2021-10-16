@@ -2,18 +2,18 @@
 title: Сведения о приложениях для в случае кризиса от RockDove Solutions, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для В случае кризиса, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4671d37d77d16004c171887f101ade7506598614
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d6cb978afddcd7b87851ac515e0594757d63fb21
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287361"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412799"
 ---
 # <a name="in-case-of-crisis"></a>In Case of Crisis
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287361"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | In Case of Crisis |
+| Название приложения | In Case of Crisis |
 | Идентификатор | WA200003194 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | RockDove Solutions, Inc. |
@@ -58,14 +58,14 @@ ms.locfileid: "59287361"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | делегирована | Это дает полный доступ к календарю пользователя. Наше приложение отображает описание, ссылку на конференцию и даты начала и окончания. Наше приложение также позволяет пользователю создавать событие в календаре outlook | В будущем ids событий могут храниться в базе данных | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Channel.ReadBasic.All | делегирована | Предоставляет доступ к каналу пользователей.  Список каналов пользователей используется для выбора канала для отправки файла в | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Channel.ReadBasic.All | делегирована | Предоставляет доступ к каналу пользователей.  Список каналов пользователей используется для выбора канала для отправки файла в | Недоступно | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
 >| Files.ReadWrite | делегирована | Н/Д | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Files.ReadWrite.All | делегирована | Мы разрешаем пользователям загружать файлы из управления вопросами в Teams | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Sites.ReadWrite.All | делегирована | Это необходимо для загрузки на частный канал | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Team.ReadBasic.All | делегирована | Список групп необходим для получения списка каналов, к которые принадлежит пользователю. Это позволяет просматривать список доступных каналов загрузки. | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Files.ReadWrite.All | делегирована | Мы разрешаем пользователям загружать файлы из управления вопросами в Teams | Недоступно | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Sites.ReadWrite.All | делегирована | Это необходимо для загрузки на частный канал | Недоступно | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Team.ReadBasic.All | делегирована | Список групп необходим для получения списка каналов, к которые принадлежит пользователю. Это позволяет просматривать список доступных каналов загрузки. | Недоступно | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
 >| email | делегирована | Необходимо получить электронную почту пользователя после проверки подлинности для сравнения с электронными письмами в нашей базе данных. Если у пользователя нет учетной записи в нашей системе, мы создадим ее. | Мы храним адрес электронной почты и создадим для него учетную запись приложения. | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| offline_access | делегирована | Это позволяет обновить маркер доступа к графу | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| openid | делегирована | Необходимое разрешение на проверку подлинности с помощью openid | Н/Д | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| offline_access | делегирована | Это позволяет обновить маркер доступа к графу | Недоступно | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| openid | делегирована | Необходимое разрешение на проверку подлинности с помощью openid | Недоступно | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -105,17 +105,6 @@ ms.locfileid: "59287361"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -142,3 +131,4 @@ ms.locfileid: "59287361"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

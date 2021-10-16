@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MyHub для Teams AvePoint Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/29/2021
+ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MyHub для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a815018ce2128fbe3fcff00310e7599a96f56464
-ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
+ms.openlocfilehash: a19a24cc9178bbbaa16b337cd92fc11686d8d09c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60234101"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412639"
 ---
 # <a name="myhub-for-teams"></a>MyHub для Teams
 
@@ -32,7 +32,7 @@ ms.locfileid: "60234101"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | MyHub для Teams |
-| ID | avepoint.myhubforteams |
+| Идентификатор | avepoint.myhubforteams |
 | Имя компании-партнера | AvePoint Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.avepoint.com](https://www.avepoint.com) |
 | URL-адрес политики конфиденциальности | [https://www.avepoint.com/company/privacy-policy](https://www.avepoint.com/company/privacy-policy) |
@@ -95,17 +95,6 @@ ms.locfileid: "60234101"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -133,3 +122,4 @@ ms.locfileid: "60234101"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

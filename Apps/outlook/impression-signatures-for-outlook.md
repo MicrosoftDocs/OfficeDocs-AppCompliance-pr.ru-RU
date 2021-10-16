@@ -2,18 +2,18 @@
 title: Сведения о приложениях для подписей впечатлений для Outlook с помощью подписей отпечаток
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для подписей показов для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f731ecc144d64db372bbc539a9961b05fc81ccc6
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 66fca767e647970b1fbfa5447e687d66f724095f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60124085"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414263"
 ---
 # <a name="impression-signatures-for-outlook"></a>Подписи впечатлений для Outlook
 
@@ -32,7 +32,7 @@ ms.locfileid: "60124085"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Подписи впечатлений для Outlook |
-| ID | WA200003199 |
+| Идентификатор | WA200003199 |
 | Office 365 поддерживаемые клиенты | Outlook 2016 или более поздней Windows, Outlook 2016 или позднее на Mac, Outlook в Интернете |
 | Имя компании-партнера | Подписи впечатлений |
 | URL-адрес веб-сайта-партнера | [https://www.impression-signatures.com](https://www.impression-signatures.com) |
@@ -90,17 +90,6 @@ ms.locfileid: "60124085"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -115,3 +104,4 @@ ms.locfileid: "60124085"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

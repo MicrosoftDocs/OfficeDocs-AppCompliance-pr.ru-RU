@@ -2,18 +2,18 @@
 title: Сведения о приложениях для harmon.ie для Office по harmon.ie Корпорации
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для harmon.ie для Office, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c5a4cc10fdb936e6e0a9c04cc492cd301a374cd8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c9e803a02b2db799b0aeb2230955746fa905ccbe
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288606"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413190"
 ---
 # <a name="harmonie-for-office"></a>harmon.ie для Office
 
@@ -31,9 +31,9 @@ ms.locfileid: "59288606"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | harmon.ie для Office |
+| Название приложения | harmon.ie для Office |
 | Идентификатор | WA104381050 |
-| Office 365 поддерживаемые клиенты | PowerPoint 2016 или позже Windows, Word 2016 или более поздней Windows, Excel в Интернете, Word в Интернете, PowerPoint в Интернете, Word 2016 или более поздней PowerPoint 2016 на Mac, PowerPoint 2016 или более поздней основе на Mac |
+| Office 365 поддерживаемые клиенты | PowerPoint 2016 или позже Windows, Word 2016 или позже Windows, Excel в Интернете, Word в Интернете, PowerPoint в Интернете, Word 2016 или позже на Mac, PowerPoint 2016 или позже на Mac |
 | Имя компании-партнера | harmon.ie Корпорация |
 | URL-адрес веб-сайта-партнера | [https://harmon.ie](https://harmon.ie) |
 | URL-адрес политики конфиденциальности | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
@@ -129,3 +129,4 @@ ms.locfileid: "59288606"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

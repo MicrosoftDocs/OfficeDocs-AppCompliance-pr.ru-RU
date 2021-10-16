@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Goalhub от Momentum Cloud Pty Ltd
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/01/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Goalhub, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 40639ecd98fcb754eef6286910cdc5972c3ebaf0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 81dae2dab8755d85d72645843ee1094318c8b75e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288526"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414513"
 ---
 # <a name="goalhub"></a>Goalhub
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288526"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Goalhub |
+| Название приложения | Goalhub |
 | Идентификатор | WA200002400 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Momentum Cloud Pty Ltd |
@@ -130,3 +130,4 @@ ms.locfileid: "59288526"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

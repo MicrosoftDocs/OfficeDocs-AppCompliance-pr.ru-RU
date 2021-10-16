@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Appspace по Appspace, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Appspace, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 592194c022b276a07d7fb91d9c0253724d8f28e7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 24221bfb9ac02fe9bc7b62127648d9f0cb9e9ca5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284097"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414785"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284097"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Appspace |
+| Название приложения | Appspace |
 | Идентификатор | WA200001738 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Appspace, Inc. |
@@ -121,3 +121,4 @@ ms.locfileid: "59284097"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

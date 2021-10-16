@@ -2,18 +2,18 @@
 title: Сведения о приложениях для знака Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для знака Zoho, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9841df652531e49025ed8021527c6da1dd77d8a3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284913"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413250"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284913"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zoho Sign |
+| Название приложения | Zoho Sign |
 | Идентификатор | WA104382011 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -109,4 +109,5 @@ ms.locfileid: "59284913"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Cloverpop от Cloverpop
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 08/04/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Cloverpop, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3865c07aca73134fd9029ee0550559d9a4f93fd2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 28d424f384d8b16ff70e7d00f366c3a0f89f64b5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285921"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412519"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285921"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Cloverpop |
+| Название приложения | Cloverpop |
 | Идентификатор | WA200001803 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cloverpop |
@@ -115,4 +115,5 @@ ID команды отображается в журналах, когда на�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

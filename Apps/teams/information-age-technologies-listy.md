@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Listy по технологиям информационного возраста
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/22/2021
+ms.date: 02/11/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Listy, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9f8d7a9060a53b5261bbb0378c2181a2ec8bfa3b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5d0a25a0174fd4dd41183be21ad3e34ccdd8e106
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289070"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415086"
 ---
 # <a name="listy"></a>Listy
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289070"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Listy |
+| Название приложения | Listy |
 | Идентификатор | WA200000798 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Information Age Technologies |
@@ -133,3 +133,4 @@ ms.locfileid: "59289070"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

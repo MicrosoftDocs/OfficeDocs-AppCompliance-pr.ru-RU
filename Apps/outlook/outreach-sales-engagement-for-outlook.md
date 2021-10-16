@@ -2,18 +2,18 @@
 title: Application Information for Outreach Sales Engagement for Outlook by Outreach
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для участия в Outlook для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 6a009dbc5c075f99bb71105834f3f5208ed91dea
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 483fb4fd6741e479403e4cd05ad284b50a87f9c4
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288278"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413561"
 ---
 # <a name="outreach-sales-engagement-for-outlook"></a>Участие в информационно-пропагандистских продажах для Outlook
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288278"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Участие в информационно-пропагандистских продажах для Outlook |
+| Название приложения | Участие в информационно-пропагандистских продажах для Outlook |
 | Идентификатор | WA104381052 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Информационно-пропагандистская работа |
@@ -95,17 +95,6 @@ ms.locfileid: "59288278"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ ms.locfileid: "59288278"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

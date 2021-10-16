@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Koan от Koan, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/01/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Koan, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7bd65669087e3e0cb934bf7cb3da4c70bba08d73
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7509cd9adf527396bd833ddaa3ee525e428670e9
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288134"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412318"
 ---
 # <a name="koan"></a>Koan
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288134"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Koan |
+| Название приложения | Koan |
 | Идентификатор | WA200002936 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Koan, Inc. |
@@ -101,17 +101,6 @@ ms.locfileid: "59288134"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ ms.locfileid: "59288134"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

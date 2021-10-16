@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wunder365 для Office, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 22da4d3ff5dbfc02a1d9609b1d618a9d1b4d939c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287545"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414223"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 для Office
 
@@ -31,7 +31,7 @@ ms.locfileid: "59287545"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Wunder365 для Office |
+| Название приложения | Wunder365 для Office |
 | Идентификатор | WA200001529 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позднее на Mac, Excel 2013 или более поздней Windows, Excel в Интернете, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 или более поздней Windows, OneNote в Интернете |
 | Имя компании-партнера | JiJi Technologies Private Limited |
@@ -81,7 +81,7 @@ ms.locfileid: "59287545"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Все веб-приложения и служба хранилища находятся в подписке, не подключенной к нашей компании AAD, с помощью только администраторов, имеющих доступ к ресурсам. Для этих администраторов требуется 2FA. 
+>Все веб-приложения и служба хранилища находятся в подписке, которая не подключена к нашей AAD с помощью только администраторов, имеющих доступ к ресурсам. Для этих администраторов требуется 2FA. 
 
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
@@ -132,3 +132,4 @@ ms.locfileid: "59287545"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

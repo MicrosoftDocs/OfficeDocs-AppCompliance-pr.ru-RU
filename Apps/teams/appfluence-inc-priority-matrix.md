@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Priority Matrix, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e88ba3c98c9ab444f2500ed09013071a6b5ab2c3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f92d80badce772b5de28faef4a6330b58ea204c1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284113"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413110"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -31,7 +31,7 @@ ms.locfileid: "59284113"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Priority Matrix |
+| Название приложения | Priority Matrix |
 | Идентификатор | WA104382005 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Appfluence Inc |
@@ -142,3 +142,4 @@ ms.locfileid: "59284113"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

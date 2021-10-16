@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MindMup, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 018079ed1d80c0ea3127734a504d56007d06d54e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 75588e4a5c58969377568884cf709309026b6029
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283937"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413421"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -32,7 +32,7 @@ ms.locfileid: "59283937"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MindMup |
+| Название приложения | MindMup |
 | Идентификатор | WA200001759 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sauf Pompiers Ltd |
@@ -139,3 +139,4 @@ ms.locfileid: "59283937"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

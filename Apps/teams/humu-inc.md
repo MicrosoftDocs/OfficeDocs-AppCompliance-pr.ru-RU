@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Humu от Humu Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/20/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Humu, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1c4f09d20ef885ae5c7e26a4c02d3d877bf7ef00
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 772974445cbe3962521bd25019a1172f961590dc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112316"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415096"
 ---
 # <a name="humu"></a>Humu
 
@@ -33,7 +33,7 @@ ms.locfileid: "60112316"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Humu |
-| ID | WA200003302 |
+| Идентификатор | WA200003302 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Humu Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.humu.com](https://www.humu.com) |
@@ -96,17 +96,6 @@ ms.locfileid: "60112316"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/4e95a4f5-304c-4629-901c-72341d8f2a0' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/4e95a4f5-304c-4629-901c-72341d8f2a0" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -121,3 +110,4 @@ ms.locfileid: "60112316"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

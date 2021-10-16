@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MIPA — мой интеллектуальный персональный помощник по iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/03/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для MIPA — мой интеллектуальный персональный помощник, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7bf8ccf2523fcaa5a479e40eba4ee17d44cbbbf
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: de23eced9a34fda3d30758dea16b80332d99afe2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438280"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412118"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA — мой интеллектуальный персональный помощник
 
@@ -30,8 +30,8 @@ ms.locfileid: "59438280"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MIPA — мой интеллектуальный персональный помощник |
-| ID | 17859280.mipa |
+| Название приложения | MIPA — мой интеллектуальный персональный помощник |
+| Идентификатор | 17859280.mipa |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL-адрес политики конфиденциальности | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
@@ -61,7 +61,7 @@ ms.locfileid: "59438280"
 >| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| Mail.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление помеченной почты | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| MailboxSettings.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календлеров, чтение и обновление почты с флагами, чтение и обновление Outlook To Do целых версий | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| MailboxSettings.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календлеров, чтение и обновление почты с флагами, чтение и обновление Outlook Do entires | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| User.Read | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календера, чтение и обновление Outlook do Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| User.Read.All | делегирована | Данные не хранятся в базах данных приложений. | Чтение и обновление целых календеров, чтение и обновление Outlook, чтение, обновление, создание задач panner | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
@@ -153,6 +153,43 @@ ms.locfileid: "59438280"
 | Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Microsoft 365 Результат сертификации** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обзор оценки уязвимости (тест DAST/SAST/Penetration) | Недоступно |
+| [**ОПЕРАТИВНАЯ БЕЗОПАСНОСТЬ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирус | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAFs) (необязательный) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление изменениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасные разработки и развертывания программного обеспечения | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетной записью | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательный) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (ведение журнала данных) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ ПРИ ОБРАБОТКЕ &amp; ДАННЫХ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в транзите | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в покое | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

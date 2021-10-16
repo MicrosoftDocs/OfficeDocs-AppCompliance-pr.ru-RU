@@ -2,18 +2,18 @@
 title: Сведения о приложениях для gaggle для SharePoint Gaggle.net, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 05/14/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 72f13f1e2db58d8376c857bac1d41433a09321a6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37d1b1811e3e4fff4306e98501ca98da0a7ca8b0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288598"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412088"
 ---
 # <a name="gaggle-for-sharepoint"></a>Gaggle для SharePoint
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288598"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Gaggle для SharePoint |
+| Название приложения | Gaggle для SharePoint |
 | Идентификатор | WA104374324 |
 | Office 365 поддерживаемые клиенты | SharePoint 2013 или более поздней |
 | Имя компании-партнера | Gaggle.net, Inc. |
@@ -97,4 +97,5 @@ ms.locfileid: "59288598"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

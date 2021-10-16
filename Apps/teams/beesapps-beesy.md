@@ -2,18 +2,18 @@
 title: Сведения о приложениях для beesy от BeesApps
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 01/31/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Beesy, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ff8d420d7ea17219b2c94e9e9ac6bf4b8fa4efcb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2d6c04408ab08da89a858987981beb3fafc30229
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288761"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411858"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288761"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Beesy |
+| Название приложения | Beesy |
 | Идентификатор | WA200001248 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | BeesApps |
@@ -56,7 +56,7 @@ ms.locfileid: "59288761"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | Мы храним только ID UPN, чтобы сравнить данный, запросив маркер AAD, чтобы проверить, существует ли учетная запись в нашей системе. | позволяет пользователю войти в систему и предоставляет доступ приложения к его upN, чтобы включить бесшумный вход | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
+>| User.Read | делегирована | Мы храним только ID upN, чтобы сравнить данный, запросив AAD маркера, чтобы проверить, существует ли учетная запись в нашей системе. | позволяет пользователю войти в систему и предоставляет доступ приложения к его upN, чтобы включить бесшумный вход | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -107,4 +107,5 @@ ms.locfileid: "59288761"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

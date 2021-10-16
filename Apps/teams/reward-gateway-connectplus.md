@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Подключение+ по Шлюзу вознаграждения
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/25/2021
+ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Подключение+, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ff17f1dd70ce7d6a5e6c33ee325cda0e87a1e526
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284001"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414093"
 ---
 # <a name="connect"></a>Connect+
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284001"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Connect+ |
+| Название приложения | Connect+ |
 | Идентификатор | WA200002611 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Reward Gateway |
@@ -120,3 +120,4 @@ ms.locfileid: "59284001"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

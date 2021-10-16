@@ -1,44 +1,43 @@
 ---
-title: Сведения о приложениях для SysAid от SysAid
+title: Сведения о приложениях для ArcGIS для SharePoint Esri, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/09/2021
+ms.date: 08/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для SysAid, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: bfbd5801a3788ec088d02a7f8f9aeed34e3ac250
+description: Все доступные сведения о безопасности и соответствия требованиям для ArcGIS для SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: dff8fbff60364c07cb2e0c5849ae63be7410daca
 ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412709"
+ms.locfileid: "60412284"
 ---
-# <a name="sysaid"></a>SysAid
+# <a name="arcgis-for-sharepoint"></a>ArcGIS для SharePoint
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 4 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 21 июля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/932c8be4-fac6-4df3-9e15-bc542f4ef88e" target="_blank">Просмотр в Teams магазине</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003221" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003118" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые SysAid Корпорации Майкрософт:
+Сведения, предоставленные корпорацией Esri, Inc. корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | SysAid |
-| Идентификатор | WA200003221 |
-| Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | SysAid |
-| URL-адрес веб-сайта-партнера | [https://www.sysaid.com](https://www.sysaid.com) |
-| URL-адрес политики конфиденциальности | [https://www.sysaid.com/privacy](https://www.sysaid.com/privacy) |
-| URL-адрес терминов использования | [https://www.sysaid.com/wp-content/uploads/service-agreement...](https://www.sysaid.com/wp-content/uploads/service-agreement-cloud.pdf) |
+| Название приложения | ArcGIS для SharePoint |
+| Идентификатор | WA200003118 |
+| Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
+| Имя компании-партнера | Esri, Inc. |
+| URL-адрес веб-сайта-партнера | [https://www.esri.com](https://www.esri.com) |
+| URL-адрес политики конфиденциальности | [https://www.esri.com/legal/privacy-arcgis](https://www.esri.com/legal/privacy-arcgis) |
+| URL-адрес терминов использования | [https://www.esri.com/en-us/legal/terms/master-agreement-pro...](https://www.esri.com/en-us/legal/terms/master-agreement-product) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +47,7 @@ ms.locfileid: "60412709"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена SysAid о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эти сведения предоставлены Esri, Inc. о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -63,11 +62,6 @@ ms.locfileid: "60412709"
 
 >Не службы Майкрософт не используются.
 
-#### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
-
-Если это приложение содержит бот или расширение обмена сообщениями, оно может получить доступ к идентифицируемым данным конечного пользователя (EUII): реестр (имя, фамилия, имя отображения, адрес электронной почты) любого члена группы или чата, в который он добавлен. Использует ли это приложение эту возможность?
-
->Доступ к EUII не имеется.
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -80,7 +74,7 @@ ms.locfileid: "60412709"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Мы управляем данными, основанными на нашей политике размежещения данных и следуя отраслевым лучшим практикам для удаления и т.д.
+>Администраторы клиентов могут управлять доступом пользователей к данным на уровне организации или проекта. Запросы проверяются в списках управления доступом перед чтением или записью данных. Данные при транзите конечным пользователям и внешним службам шифруются с помощью HTTPS (только TLS 1.2).
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -92,26 +86,38 @@ ms.locfileid: "60412709"
 
 ::: zone-end
 
+::: zone pivot="mcas"
+
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
+
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233" target="_blank">Просмотр на новой вкладке</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
 
 ::: zone pivot="identity"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эта информация предоставлена SysAid о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+Эта информация предоставлена Esri, Inc. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
-| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
-| Поддерживает ли ваше приложение политики условного доступа? | Нет |
+| Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
+| Поддерживает ли ваше приложение политики условного доступа? | Да |
+| Список типов поддерживаемых политик | ArcGIS Online использует модель управления доступом на основе ролей (RBAC). Все пользователи в решении должны иметь роль, для которой им предоставляется доступ. |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
-| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Да |
+| Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые ваше приложение запрашивает динамически и постепенно? | Нет |
 | Поддерживает ли ваше приложение многотенантность? | Да |
-| У вашего приложения есть конфиденциальный клиент? | Нет |
+| У вашего приложения есть конфиденциальный клиент? | Да |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
+| Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |
 

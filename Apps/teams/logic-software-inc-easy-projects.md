@@ -2,18 +2,18 @@
 title: Сведения о приложениях для простых проектов logic Software Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/24/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Easy Projects, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c9c544f6c166a89c334a856082598097058a25a0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d559239ced69af3379f51379dc4895731d8b4b6c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288438"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414565"
 ---
 # <a name="easy-projects"></a>Easy Projects
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288438"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Easy Projects |
+| Название приложения | Easy Projects |
 | Идентификатор | WA200002647 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Logic Software Inc. |
@@ -81,7 +81,7 @@ ms.locfileid: "59288438"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -130,3 +130,4 @@ ms.locfileid: "59288438"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

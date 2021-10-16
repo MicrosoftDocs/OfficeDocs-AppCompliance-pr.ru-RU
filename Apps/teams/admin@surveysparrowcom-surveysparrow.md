@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SurveySparrow admin@surveysparrow.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SurveySparrow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f27230d2cd0535b5828bff6eaa4e58eb03bf29e4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0abbaa0a9615c1196a56efc3e07e893c1f964e1f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289413"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411978"
 ---
 # <a name="surveysparrow"></a>SurveySparrow
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289413"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SurveySparrow |
+| Название приложения | SurveySparrow |
 | Идентификатор | WA200002257 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | admin@surveysparrow.com |
@@ -132,3 +132,4 @@ ms.locfileid: "59289413"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для RowShare от RowShare
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/24/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для RowShare, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fd0b3530a08eb3071beded8497fbd21995b2221a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: eaae1560a6e90e5ff5d3231e3f128a3eee9a2071
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285038"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412789"
 ---
 # <a name="rowshare"></a>RowShare
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285038"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | RowShare |
+| Название приложения | RowShare |
 | Идентификатор | WA200002567 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | RowShare |
@@ -133,3 +133,4 @@ ms.locfileid: "59285038"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

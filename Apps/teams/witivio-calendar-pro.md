@@ -2,20 +2,20 @@
 title: Сведения о приложениях для Pro от Witivio
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/02/2021
+ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для календаря Pro, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 89731f0dcdbcd6fcb8d27588179189a0d634284b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5f8b6dcbf99d26e867cc79194cb57c1393316a2b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288974"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414866"
 ---
-# <a name="calendar-pro"></a>Календарь Pro
+# <a name="calendar-pro"></a>Calendar Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "59288974"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Календарь Pro |
+| Название приложения | Calendar Pro |
 | Идентификатор | WA200002152 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Witivio |
@@ -60,7 +60,7 @@ ms.locfileid: "59288974"
 >| User.ReadBasic.All | делегирована | Данные используются | Эти данные используются для списка людей для включения выборщика людей | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 >| email | делегирована | Используется электронная почта | Электронная почта используется для идентификации пользователя в пользовательском интерфейсе | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 >| offline_access | делегирована | Данные используются | Автономный доступ используется для того, чтобы включить SSO с Microsoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| openid | делегирована | Аутентификация | OpenID используется для проверки подлинности с помощью Microsoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
+>| openid | делегирована | Проверка подлинности | OpenID используется для проверки подлинности с помощью Microsoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 >| profile | делегирована | Данные используются | Профиль используется для того, чтобы включить SSO с Microsoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 
 
@@ -81,7 +81,7 @@ ms.locfileid: "59288974"
 
 В телеметрии или журналах этого приложения отображаются какие-либо идентифицируемые организационные сведения (OII) или данные, идентифицируемые конечным пользователем (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->Телеметрия содержит upN и AAD ID для диагностики. Доступ к производственной телеметрии имеют только администраторы PROD/Run. Журналы хранятся в течение 90 дней и могут быть удалены по запросу электронной почты по dpo@witivio.com
+>Телеметрия содержит upN и AAD для диагностики. Доступ к производственной телеметрии имеют только администраторы PROD/Run. Журналы хранятся в течение 90 дней и могут быть удалены по запросу электронной почты по dpo@witivio.com
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления данными, хранимые партнером
 
@@ -99,17 +99,6 @@ ms.locfileid: "59288974"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59288974"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

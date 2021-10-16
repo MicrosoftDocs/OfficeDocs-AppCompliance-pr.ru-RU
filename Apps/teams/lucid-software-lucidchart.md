@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Lucidchart lucid Software
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2f074d098f4a1819a7c5b2236e5e1a6e957f884c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4a81e9672714aab3c5842cf16d06348237ce3375
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287441"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412238"
 ---
 # <a name="lucidchart"></a>Lucidchart
 
@@ -21,7 +21,7 @@ ms.locfileid: "59287441"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 16 декабря 2019 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/7f905be6-3226-4a4c-9c54-ab1edce3c99c" target="_blank">Просмотр в магазине Teams</a>
+* <a href="https://teams.microsoft.com/l/app/7f905be6-3226-4a4c-9c54-ab1edce3c99c" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381935" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -32,12 +32,12 @@ ms.locfileid: "59287441"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Lucidchart |
+| Название приложения | Lucidchart |
 | Идентификатор | WA104381935 |
-| Поддерживаемые клиенты Office 365 | Microsoft Teams |
+| Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Lucid Software |
 | URL-адрес веб-сайта-партнера | [https://www.lucidchart.com](https://www.lucidchart.com) |
-| URL-адрес страницы info приложения Teams | [https://lucidchart.zendesk.com/](https://lucidchart.zendesk.com/) |
+| URL-адрес страницы Teams приложения | [https://lucidchart.zendesk.com/](https://lucidchart.zendesk.com/) |
 | URL-адрес политики конфиденциальности | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | URL-адрес терминов использования | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 
@@ -53,7 +53,7 @@ ms.locfileid: "59287441"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Microsoft Graph,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
@@ -63,17 +63,17 @@ ms.locfileid: "59287441"
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
-Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph, для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Microsoft, кроме Microsoft Graph, которые использует это приложение.
+Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API JavaScript для Office | Да | Мы используем javaScript SDK Office OneDrive для открытия выбора файла OneDrive с помощью OneDrive.open(). Мы не генерируем маркеры доступа и сами не запрашиваем API OneDrive; SDK-выборщик файлов OneDrive делает это для нас. Мы видим только имена файлов, которые выбирает пользователь. |  | Если пользователь выбирает файл с помощью выбора файла OneDrive, мы храним имя файла. |  |
+>| API JavaScript для Office | Да | Мы используем Office OneDrive javascript SDK для открытия выбора OneDrive файла с помощью OneDrive.open(). Мы не генерируем маркеры доступа и не запрашиваем OneDrive API. выбор OneDrive файла SDK делает это для нас. Мы видим только имена файлов, которые выбирает пользователь. |  | Если пользователь выбирает файл с OneDrive выбора файла, мы храним имя файла. |  |
 
-#### <a name="non-microsoft-services-used"></a>Службы, не используемые Корпорацией Майкрософт
+#### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все OII служб, не в microsoft, передаются в** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Данные Lucidchart хранятся в AWS. |  | Мы не используем API Майкрософт. Мы используем openID для получения базовых пользовательских данных для выполнения SSO. Мы используем API их выборщика файлов, но это не дает нам доступа к файлам пользователя, кроме файлов, которые они представляют нам через выборщик. |
 
@@ -108,13 +108,14 @@ ms.locfileid: "59287441"
 
 ::: zone pivot="mcas"
 
-Ниже приведены сведения [из каталога безопасности облачных](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) приложений Майкрософт.
+Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Сведения о безопасности облачных приложений Майкрософт' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/12761' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/12761' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/12761" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

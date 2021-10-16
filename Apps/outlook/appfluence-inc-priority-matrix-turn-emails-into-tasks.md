@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствии требованиям для Priority Matrix — превратите электронные письма в задачи, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 26eb40120926c63d7514ffdde02623ee86d0477d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b175c992f970dfa2477f549f88be6a4db905f217
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286025"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414203"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>Матрица приоритетов — превратите электронные почты в задачи
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286025"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Матрица приоритетов — превратите электронные почты в задачи |
+| Название приложения | Матрица приоритетов — превратите электронные почты в задачи |
 | Идентификатор | WA104381735 |
 | Office 365 поддерживаемые клиенты | Outlook 2016 или позже Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | Appfluence Inc |
@@ -133,3 +133,4 @@ ms.locfileid: "59286025"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

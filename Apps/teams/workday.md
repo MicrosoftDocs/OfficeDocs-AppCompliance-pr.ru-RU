@@ -2,18 +2,18 @@
 title: Сведения о приложениях для рабочего дня к рабочим дням
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2021
+ms.date: 02/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Workday, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 38b56caaf5bc20986cec75615725e601a6f12562
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288046"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414845"
 ---
 # <a name="workday"></a>Workday
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288046"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Workday |
+| Название приложения | Workday |
 | Идентификатор | WA200001555 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Workday |
@@ -57,7 +57,7 @@ ms.locfileid: "59288046"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | приложение | Retreive the App ID, install App for User, Get Teams license details from AAD | Мы не храним данные, связанные с этой функцией.  Это позволяет нам установить приложение для пользователя. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| TeamsAppInstallation.ReadWriteForUser.All | приложение | Retreive ID app, install App for User, Get Teams лицензии из AAD | Мы не храним данные, связанные с этой функцией.  Это позволяет нам установить приложение для пользователя. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 >| User.Read.All | приложение | Извлечение пользователей AAID для отправки сообщений пользователей. | Только AAID и Teams AAID  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "59288046"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Организационные данные делятся между службами рабочего дня и Корпорацией Майкрософт. Дополнительные сведения можно найти в условиях соглашения с Workday. | Организационные данные делятся между службами рабочего дня и Корпорацией Майкрософт. Дополнительные сведения можно найти в условиях соглашения с Workday. | Н/Д |
+>| Организационные данные делятся между службами рабочего дня и Корпорацией Майкрософт. Дополнительные сведения можно найти в условиях соглашения с Workday. | Организационные данные делятся между службами рабочего дня и Корпорацией Майкрософт. Дополнительные сведения можно найти в условиях соглашения с Workday. | Недоступно |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -125,3 +125,4 @@ ms.locfileid: "59288046"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

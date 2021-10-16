@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Waldo by Kickle
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/30/2021
+ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Waldo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7a9b7d0595dcd6496222b786f1e2a3df90177e97
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 31c6c4b1240c9920a24f013c9d7ac6c61a30c90b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288745"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413751"
 ---
 # <a name="waldo"></a>Waldo
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288745"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Waldo |
+| Название приложения | Waldo |
 | Идентификатор | WA200003139 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Kickle |
@@ -58,10 +58,10 @@ ms.locfileid: "59288745"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Chat.ReadBasic | делегирована | Основываясь на истории чата, Waldo идентифицирует ваших коллег. Этот список используется после этого, чтобы показать состояние в представлении календаря. | Waldo сохраняет пользовательский id каждого коллеги. Эти ID используются для демонстрации списка коллег, с которые мы привыкли работать. | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| User.Read | делегирована | Это разрешение используется компонентом microsoft Graph набор средств | Н/Д | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| User.ReadBasic.All | делегирована | Это разрешение используется компонентом microsoft Graph набор средств | Н/Д | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| offline_access | делегирована | Используется приложением для выполнения фоновых задач от имени пользователя (обновление маркера для проверки подлинности) | Н/Д | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| openid | делегирована | Необходимые для проверки подлинности | Н/Д | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
+>| User.Read | делегирована | Это разрешение используется компонентом microsoft Graph набор средств | Недоступно | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
+>| User.ReadBasic.All | делегирована | Это разрешение используется компонентом microsoft Graph набор средств | Недоступно | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
+>| offline_access | делегирована | Используется приложением для выполнения фоновых задач от имени пользователя (обновление маркера для проверки подлинности) | Недоступно | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
+>| openid | делегирована | Необходимые для проверки подлинности | Недоступно | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -99,17 +99,6 @@ ms.locfileid: "59288745"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59288745"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

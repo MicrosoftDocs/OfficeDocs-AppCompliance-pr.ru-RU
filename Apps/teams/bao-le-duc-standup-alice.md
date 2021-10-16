@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Standup Alice, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4fe2dfa0ccacd8ed19088536deb3fdf82e3f3d46
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288801"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411878"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288801"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Standup Alice |
+| Название приложения | Standup Alice |
 | Идентификатор | WA200000758 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Bao Le Duc |
@@ -122,3 +122,4 @@ ms.locfileid: "59288801"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

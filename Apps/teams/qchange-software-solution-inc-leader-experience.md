@@ -2,18 +2,18 @@
 title: Сведения о приложениях для qChange Leader Experience by qChange Software Solution, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для qChange Leader Experience, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: efa6d9c9165a852ff45f1d6c68d8aeb3343a18e3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2123fe401ab5da425903d7821bfc598d7f0d2723
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286377"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414113"
 ---
 # <a name="qchange-leader-experience"></a>qChange Leader Experience
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286377"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | qChange Leader Experience |
+| Название приложения | qChange Leader Experience |
 | Идентификатор | WA200001639 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | qChange Software Solution, Inc. |
@@ -135,3 +135,4 @@ ms.locfileid: "59286377"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

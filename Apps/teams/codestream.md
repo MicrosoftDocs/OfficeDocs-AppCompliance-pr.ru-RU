@@ -2,18 +2,18 @@
 title: Сведения о приложениях для CodeStream по CodeStream
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/28/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CodeStream, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4875193923e2e34cf8e46d85437325128716bd47
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 47c8c1335c88f37a1c775e5d44dc040e211dca42
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285918"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412509"
 ---
 # <a name="codestream"></a>CodeStream
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285918"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | CodeStream |
+| Название приложения | CodeStream |
 | Идентификатор | WA200001475 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | CodeStream |
@@ -119,3 +119,4 @@ ms.locfileid: "59285918"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

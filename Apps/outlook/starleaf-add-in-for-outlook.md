@@ -2,18 +2,18 @@
 title: Сведения о приложениях для надстройки StarLeaf для Outlook starLeaf
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 06/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройки StarLeaf для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 66f31eb44942e20b4db10d5e718eb67e3e50b03e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a47dfedd6354fae038e4fbcc3ed768866fd8aec2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288654"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413521"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>Надстройка StarLeaf для Outlook
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288654"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Надстройка StarLeaf для Outlook |
+| Название приложения | Надстройка StarLeaf для Outlook |
 | Идентификатор | WA104381343 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | StarLeaf |
@@ -65,7 +65,7 @@ ms.locfileid: "59288654"
 
 >| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Если возникают проблемы с технической поддержкой, то организационные данные могут быть переданы в SalesForce для управления случаями. Если пользователь использует функцию набора PSTN, вызов будет поступать через Twilio, Plivo или Voxbone. |  | Н/Д |
+>| Если возникают проблемы с технической поддержкой, то организационные данные могут быть переданы в SalesForce для управления случаями. Если пользователь использует функцию набора PSTN, вызов будет поступать через Twilio, Plivo или Voxbone. |  | Недоступно |
 
 
 
@@ -102,4 +102,5 @@ ms.locfileid: "59288654"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

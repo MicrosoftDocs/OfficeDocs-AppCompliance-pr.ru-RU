@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Timeneye от DM Digital SRL
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Timeneye, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ab8d61b542baaacd406df7596ecdcd4d8c87e327
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 30c0543469970b94d1020a3c1c64f668ab833075
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285841"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412449"
 ---
 # <a name="timeneye"></a>Timeneye
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285841"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Timeneye |
+| Название приложения | Timeneye |
 | Идентификатор | WA200001950 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | DM Digital SRL |
@@ -111,17 +111,6 @@ ms.locfileid: "59285841"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -149,3 +138,4 @@ ms.locfileid: "59285841"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

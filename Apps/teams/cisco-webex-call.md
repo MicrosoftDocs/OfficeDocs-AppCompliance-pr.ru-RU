@@ -2,18 +2,18 @@
 title: Сведения о приложениях для webex Call от Cisco
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Webex Call, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4addbd6b3ad932c9c987f57cca03c1e6e77cfcd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 50ff8ddaab9be9b66da02156761931de44770340
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285953"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414735"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285953"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Webex Call |
+| Название приложения | Webex Call |
 | Идентификатор | WA200001495 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cisco |
@@ -125,3 +125,4 @@ ms.locfileid: "59285953"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

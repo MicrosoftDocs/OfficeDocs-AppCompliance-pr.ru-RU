@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Verto 365 от TMI Systems
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/13/2021
+ms.date: 09/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Verto 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a916afa97cc18603de2faf2d1604e0e59f1b148d
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: c82879bb30fc4c24b6e4f4bdb9103a2fe2290286
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438476"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414425"
 ---
 # <a name="verto-365"></a>Verto 365
 
@@ -32,8 +32,8 @@ ms.locfileid: "59438476"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Verto 365 |
-| ID | WA200003230 |
+| Название приложения | Verto 365 |
+| Идентификатор | WA200003230 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | TMI Systems |
 | URL-адрес веб-сайта-партнера | [https://www.vertocloud.co.uk](https://www.vertocloud.co.uk) |
@@ -59,7 +59,7 @@ ms.locfileid: "59438476"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | Общие сведения о пользователях, имя, фамилия &amp; электронной почты. Используется для создания учетной записи. | Имя, фамилия, электронная почта, OID. Используется для создания учетной записи в базе данных, OID используется для связи входа с учетной записью Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| email | делегирована | Общие сведения о пользователях, имя, фамилия &amp; электронной почты. Используется для создания учетной записи. | Имя, фамилия, электронная почта, OID. Используется для создания учетной записи в базе данных, OID используется для связи входа с учетной записью Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| offline_access | делегирована | Используется для получения маркеров обновления и сохраняемой регистрации | Н/д | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
+>| offline_access | делегирована | Используется для получения маркеров обновления и сохраняемой регистрации | Недоступно | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| openid | делегирована | Общие сведения о пользователях, имя, фамилия &amp; электронной почты. Используется для создания учетной записи. | Имя, фамилия, электронная почта, OID. Используется для создания учетной записи в базе данных, OID используется для связи входа с учетной записью Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| profile | делегирована | Общие сведения о пользователях, имя, фамилия &amp; электронной почты. Используется для создания учетной записи. | Имя, фамилия, электронная почта, OID. Используется для создания учетной записи в базе данных, OID используется для связи входа с учетной записью Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 
@@ -99,17 +99,6 @@ ms.locfileid: "59438476"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59438476"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

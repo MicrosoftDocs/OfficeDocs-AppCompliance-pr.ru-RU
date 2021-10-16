@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Jira Cloud от Atlassian
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 06/28/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Jira Cloud, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8044715d2f2f743b194d080c9a74b9651f9dac24
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: bb6857d460cb648d45cf63a5bfcac66508ec6f1d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288921"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413100"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288921"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Jira Cloud |
+| Название приложения | Jira Cloud |
 | Идентификатор | WA200002140 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Atlassian |
@@ -120,4 +120,5 @@ Send Do Not Track Signals: Некоторые браузеры включили 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

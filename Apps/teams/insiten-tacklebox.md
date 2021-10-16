@@ -2,18 +2,18 @@
 title: Сведения о приложениях для TackleBox от Insiten
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/12/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для TackleBox, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a40a1d6e1acb87917956766be21b0d6b364dfcba
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289057"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413771"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289057"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TackleBox |
+| Название приложения | TackleBox |
 | Идентификатор | WA200002310 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Insiten |
@@ -58,7 +58,7 @@ ms.locfileid: "59289057"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | делегирована | Позволяет пользователям просматривать OneDrive, папок и файлов; ссылки файлов на TackleBox; чтение Excel в автоматические диаграммы, графики, таблицы, области печати и названные диапазоны; создание и обновление PowerPoint с помощью этих Excel визуальных эффектов | Drive ID, Folder ID, File ID, View Link, Created By, Created Date, Modified By, Modified Date, Version ID, File Name | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
->| Sites.Read.All | делегирована | Разрешить пользователям просматривать и связывать Excel, расположенные в частных Teams каналах | Нет | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| Sites.Read.All | делегирована | Разрешить пользователям просматривать и связывать Excel, расположенные в частных Teams каналах | Отсутствует | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| User.Read | делегирована | Позволяет приложению считыть профиль вписаных пользователей и перенастраить их адрес электронной почты для уведомлений | Электронная почта | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| openid | делегирована | Позволяет пользователям войти в наше приложение с помощью Microsoft 365 учетной записи | ID клиента и объектный ID для пользователя | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| profile | делегирована | Позволяет приложению отображать базовый профиль пользователей (имя, имя пользователя) для фасилитации совместной работы | UPN, имя, фамилия | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
@@ -136,3 +136,4 @@ ms.locfileid: "59289057"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

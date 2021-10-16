@@ -2,18 +2,18 @@
 title: Сведения о приложениях для iManage по iManage
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/27/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для iManage, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 659f885563e9250f5bc827390007dd15d45f329a
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 5d413ed291d986a2fa8622bc2e4b2874cfdf1f67
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992282"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412969"
 ---
 # <a name="imanage"></a>iManage
 
@@ -33,7 +33,7 @@ ms.locfileid: "59992282"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | iManage |
-| ID | WA200003178 |
+| Идентификатор | WA200003178 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | iManage |
 | URL-адрес веб-сайта-партнера | [https://imanage.com](https://imanage.com) |
@@ -93,17 +93,6 @@ ms.locfileid: "59992282"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "59992282"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

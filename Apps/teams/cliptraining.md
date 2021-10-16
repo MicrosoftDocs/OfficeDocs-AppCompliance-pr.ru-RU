@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ClipTraining с помощью ClipTraining
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ClipTraining, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f69ccfc65a7f5b3f27610b424bf27817436bc065
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285934"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413861"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285934"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ClipTraining |
+| Название приложения | ClipTraining |
 | Идентификатор | WA200001687 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ClipTraining |
@@ -125,3 +125,4 @@ ms.locfileid: "59285934"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

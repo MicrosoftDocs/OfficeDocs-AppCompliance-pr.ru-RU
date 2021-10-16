@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ProdBot от Prodoscore
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/23/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ProdBot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 46b5682dc3b3c5052c5b3912125d2caebcb9f662
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 32a35c90fbd3043a944eedd2027b199cc5d50a59
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286553"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414123"
 ---
 # <a name="prodbot"></a>ProdBot
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286553"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ProdBot |
+| Название приложения | ProdBot |
 | Идентификатор | WA200002620 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Prodoscore |
@@ -132,3 +132,4 @@ ms.locfileid: "59286553"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

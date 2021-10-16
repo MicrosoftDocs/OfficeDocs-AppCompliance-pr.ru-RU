@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для OnePlaceMail для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 310e662c42247476df716e42159ecd5e348ed4e2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080650"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414173"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail для Outlook
 
@@ -32,7 +32,7 @@ ms.locfileid: "60080650"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | OnePlaceMail для Outlook |
-| ID | WA104380723 |
+| Идентификатор | WA104380723 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или позднее на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | Решения OnePlace |
 | URL-адрес веб-сайта-партнера | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
@@ -142,3 +142,4 @@ ms.locfileid: "60080650"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

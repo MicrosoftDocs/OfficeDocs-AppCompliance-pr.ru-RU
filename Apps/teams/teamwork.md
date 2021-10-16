@@ -2,20 +2,20 @@
 title: Сведения о приложениях для командной работы по teamwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Teamwork, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4f70d4f2b788d67886b030728a5f9dbd587532ba
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: c6ff65ae2c380e741b6e6567ac05f70a39b76565
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785654"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412699"
 ---
-# <a name="teamwork"></a>Командная работа
+# <a name="teamwork"></a>Teamwork
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "59785654"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Командная работа |
-| ID | WA200001552 |
+| Название приложения | Teamwork |
+| Идентификатор | WA200001552 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Командная работа |
+| Имя компании-партнера | Teamwork |
 | URL-адрес веб-сайта-партнера | [https://www.teamwork.com](https://www.teamwork.com) |
 | URL-адрес страницы Teams приложения | [https://support.teamwork.com/projects/microsoft-teams/conne...](https://support.teamwork.com/projects/microsoft-teams/connecting-to-teamwork-in-microsoft-teams) |
 | URL-адрес политики конфиденциальности | [https://www.teamwork.com/legal/privacy-policy/](https://www.teamwork.com/legal/privacy-policy/) |
@@ -93,17 +93,6 @@ ms.locfileid: "59785654"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "59785654"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

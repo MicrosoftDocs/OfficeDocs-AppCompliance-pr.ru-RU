@@ -2,18 +2,18 @@
 title: Сведения о приложениях для бизнеса TELUS Подключение RingCentral, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для telus Business Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4dcb3d75594ed7c09736be8e6291bbbead9393ef
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 465b92171bb82a617d2369298037c06fce1fa84a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284006"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413451"
 ---
 # <a name="telus-business-connect"></a>TELUS Business Connect
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284006"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TELUS Business Connect |
+| Название приложения | TELUS Business Connect |
 | Идентификатор | WA200002300 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | RingCentral, Inc. |
@@ -57,7 +57,7 @@ ms.locfileid: "59284006"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована |  Позволяет приложению отправлять приглашения на собрания через календарь | Нет | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
+>| Calendars.ReadWrite | делегирована |  Позволяет приложению отправлять приглашения на собрания через календарь | Отсутствует | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
 >| User.Read | делегирована |  Позволяет приложению читать базовый профиль пользователя&#8217;(электронная почта, имя), чтобы связаться со совпадениями в конце. И позволяет пользователю войти и связать свою учетную запись O365 с учетной записью RingCentral |  Электронная почта, имя, фамилия | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
 >| User.Read.All | делегирована | Позволяет приложению считывать полный профиль пользователя с номерами телефонов, чтобы сделать телефонные звонки с помощью наших служб. | Нет | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
 >| offline_access | делегирована |  Позволяет приложению получать и обновлять маркер oauth |  Маркер доступа, маркер обновления для доступа к API Graph MS | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
@@ -98,17 +98,6 @@ ms.locfileid: "59284006"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -123,3 +112,4 @@ ms.locfileid: "59284006"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

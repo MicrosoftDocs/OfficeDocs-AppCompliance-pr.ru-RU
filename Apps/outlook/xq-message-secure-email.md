@@ -2,18 +2,18 @@
 title: Сведения о приложениях для безопасной электронной почты XQ по XQ Message
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/04/2021
+ms.date: 09/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для XQ Secure Email, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 32a27529004dc7c2b5d5981f84466e31a94dec7a
-ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
+ms.openlocfilehash: 02dbb1e1ce0204485f67b54edeb75258fe0a29ff
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59353836"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413511"
 ---
 # <a name="xq-secure-email"></a>Безопасная электронная почта XQ
 
@@ -31,7 +31,7 @@ ms.locfileid: "59353836"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Безопасная электронная почта XQ |
+| Название приложения | Безопасная электронная почта XQ |
 | Идентификатор | WA200000090 |
 | Office 365 поддерживаемые клиенты | Outlook 2016 или позже Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | XQ-сообщение |
@@ -86,17 +86,6 @@ ms.locfileid: "59353836"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -111,3 +100,4 @@ ms.locfileid: "59353836"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

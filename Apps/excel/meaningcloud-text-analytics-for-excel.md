@@ -2,18 +2,18 @@
 title: Сведения о приложениях для аналитики текста MeaningCloud для Excel в MeaningCloud
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/29/2020
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MeaningCloud Text Analytics для Excel, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d1361025e7379890dac4921e6a05737d381513e0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7f35702530ddb9b9f4fed03e3f2594e97ab41b3b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286782"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414213"
 ---
 # <a name="meaningcloud-text-analytics-for-excel"></a>Анализ текста MeaningCloud для Excel
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286782"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Анализ текста MeaningCloud для Excel |
+| Название приложения | Анализ текста MeaningCloud для Excel |
 | Идентификатор | WA200002421 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2013 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | MeaningCloud |
@@ -111,3 +111,4 @@ ms.locfileid: "59286782"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Projectplace по Planview, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Projectplace, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c74950778b78f425e44a8e80c9d2319f7a2942ae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2c1f16170dbc19d7fbfb38366c43a3efb8fdf5d6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288385"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414143"
 ---
 # <a name="projectplace"></a>Projectplace
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288385"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Projectplace |
+| Название приложения | Projectplace |
 | Идентификатор | WA200000103 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Planview, Inc. |
@@ -95,17 +95,6 @@ ms.locfileid: "59288385"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ ms.locfileid: "59288385"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

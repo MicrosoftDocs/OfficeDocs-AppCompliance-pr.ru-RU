@@ -2,20 +2,20 @@
 title: Сведения о приложениях для диспетчера контента от Colligo Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для диспетчера контента, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7392dc618ff6f22b935b5760e97d72155ea41660
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 040e1705caa5df9997bb28db8a103f2f76167b1a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992243"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413060"
 ---
-# <a name="content-manager"></a>Диспетчер контента
+# <a name="content-manager"></a>Content Manager
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "59992243"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Диспетчер контента |
-| ID | WA200003250 |
+| Название приложения | Content Manager |
+| Идентификатор | WA200003250 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Colligo Inc |
 | URL-адрес веб-сайта-партнера | [https://www.colligo.com](https://www.colligo.com) |
@@ -99,17 +99,6 @@ ms.locfileid: "59992243"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59992243"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

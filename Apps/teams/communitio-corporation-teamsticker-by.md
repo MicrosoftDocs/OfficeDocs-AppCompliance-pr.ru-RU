@@ -2,18 +2,18 @@
 title: Сведения о приложениях для TeamSticker by Communitio от Communitio Corporation
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 871c410b520fc7b8697942a4921104329a239338
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d90eba269fb77fa8b86d20da16ef70baa72d686c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285878"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411817"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285878"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TeamSticker by Communitio |
+| Название приложения | TeamSticker by Communitio |
 | Идентификатор | WA200000894 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Communitio Corporation |
@@ -98,7 +98,7 @@ ms.locfileid: "59285878"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -148,3 +148,4 @@ ms.locfileid: "59285878"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

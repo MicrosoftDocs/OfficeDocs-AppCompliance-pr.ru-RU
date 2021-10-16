@@ -2,18 +2,18 @@
 title: Сведения о приложениях для X0PA ROOM от X0PA AI Singapore
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/25/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для X0PA ROOM, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a20b81928065203536f914a6b15d76745b2bc01a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 080a1ef879f271bfb6332b0ad1e10b677dfebff3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288729"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414354"
 ---
 # <a name="x0pa-room"></a>X0PA ROOM
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288729"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | X0PA ROOM |
+| Название приложения | X0PA ROOM |
 | Идентификатор | WA200003028 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | X0PA AI Singapore |
@@ -93,17 +93,6 @@ ms.locfileid: "59288729"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "59288729"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

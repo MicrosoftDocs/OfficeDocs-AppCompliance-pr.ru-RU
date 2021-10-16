@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ScanBuddy.ai, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e9fbc11281494fe1c5a12fbbe1124ea7953a24b7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 24f183b93a237b5b2dea25dd65306a72517ce935
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288569"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413701"
 ---
 # <a name="scanbuddyai"></a>ScanBuddy.ai
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288569"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ScanBuddy.ai |
+| Название приложения | ScanBuddy.ai |
 | Идентификатор | WA200001305 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Moblize.it LLC |
@@ -103,4 +103,5 @@ ms.locfileid: "59288569"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

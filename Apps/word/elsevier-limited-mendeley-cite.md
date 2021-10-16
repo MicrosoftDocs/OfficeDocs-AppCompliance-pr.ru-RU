@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Mendeley Cite by ELSEVIER LIMITED
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Mendeley Cite, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e6fd3ba9f600549aba80beb00738c6bd529eb18b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3ea90c96be3257c18c7a56400decbf16d201a743
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287753"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414334"
 ---
 # <a name="mendeley-cite"></a>Сит Менделея
 
@@ -31,7 +31,7 @@ ms.locfileid: "59287753"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Сит Менделея |
+| Название приложения | Сит Менделея |
 | Идентификатор | WA104382081 |
 | Office 365 поддерживаемые клиенты | Word on iPad, Word 2016 или более поздней Windows, Word 2016 или более поздней Word в Интернете |
 | Имя компании-партнера | ELSEVIER LIMITED |
@@ -119,3 +119,4 @@ ms.locfileid: "59287753"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

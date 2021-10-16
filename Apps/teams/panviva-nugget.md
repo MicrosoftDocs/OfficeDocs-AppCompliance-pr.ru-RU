@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Самородка от Panviva
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/12/2020
+ms.date: 08/06/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Nugget, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6108617e72e1996a335b53941989a707a6544337
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: de483c47b529b889a6e3cc0b6ff51de8546c2f93
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288409"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413611"
 ---
 # <a name="nugget"></a>Nugget
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288409"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Nugget |
+| Название приложения | Nugget |
 | Идентификатор | WA200001737 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Panviva |
@@ -105,4 +105,5 @@ Teams id организации. Это сохраняется, чтобы мы 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

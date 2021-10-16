@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Bizfone от MobiKOM
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2021
+ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Bizfone, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 20f1497c8cb4541982082a6bfbccd0f4968a8663
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c9e2f8ce67921b36adaa058d59e2ae3ca188e083
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285734"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415056"
 ---
 # <a name="bizfone"></a>Bizfone
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285734"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Bizfone |
+| Название приложения | Bizfone |
 | Идентификатор | WA200000874 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MobiKOM |
@@ -107,17 +107,6 @@ ms.locfileid: "59285734"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -145,3 +134,4 @@ ms.locfileid: "59285734"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

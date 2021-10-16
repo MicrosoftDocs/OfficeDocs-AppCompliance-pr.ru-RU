@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Chronus от Chronus
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Chronus, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a64d282947363ef5bbc2ef218edcade22d719f01
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6b674ec46174e65bc870c4359893fddd815e3c9e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287937"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415166"
 ---
 # <a name="chronus"></a>Chronus
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287937"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Chronus |
+| Название приложения | Chronus |
 | Идентификатор | WA200003051 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Chronus |
@@ -120,3 +120,4 @@ ms.locfileid: "59287937"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

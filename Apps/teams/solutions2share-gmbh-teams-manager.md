@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Teams manager по Solutions2Share GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Teams Manager, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e51b08446bed1f22f1e058b92604841ce255eb8f
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+ms.openlocfilehash: 8587859f26feebffb31fd9b7eb23e8728e5d60fa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59971801"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412749"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -33,7 +33,7 @@ ms.locfileid: "59971801"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Teams Manager |
-| ID | WA200000764 |
+| Идентификатор | WA200000764 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Solutions2Share GmbH |
 | URL-адрес веб-сайта-партнера | [https://teams-manager.com](https://teams-manager.com) |
@@ -58,10 +58,10 @@ ms.locfileid: "59971801"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.ReadWrite.All | оба | Мы храним TenantID и TeamId для картографии шаблонов.  | Разрешить перечисление всех Teams, а также создать Teams. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
->| Notes.ReadWrite.All | приложение | Нет | Позволяет приложению добавлять записные книжки в утвержденную команду. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| Notes.ReadWrite.All | приложение | Отсутствует | Позволяет приложению добавлять записные книжки в утвержденную команду. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
 >| User.Read | делегирована | Нет | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
 >| User.Read.All | оба | Сохраняется id пользователя, вписавшегося в раздел approver/admin. | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
->| User.ReadBasic.All | делегирована | Нет | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.ReadBasic.All | делегирована | Отсутствует | Список всех пользователей, чтобы показать их в списке пользователей в приложении. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -138,3 +138,4 @@ ms.locfileid: "59971801"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

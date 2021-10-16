@@ -2,18 +2,18 @@
 title: Сведения о приложениях для 8x8 на 8x8, Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/10/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 8x8, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e6b886dc575994e36926847685d1de81647a10ea
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 41d722a2c11cd573bbdd855675045259925efd50
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285065"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411998"
 ---
 # <a name="8x8"></a>8x8
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285065"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | 8x8 |
+| Название приложения | 8x8 |
 | Идентификатор | WA200002665 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | 8x8, Inc |
@@ -118,3 +118,4 @@ ms.locfileid: "59285065"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

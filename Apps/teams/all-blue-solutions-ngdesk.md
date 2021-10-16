@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ngDesk всеми синими решениями
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/30/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ngDesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b361541352b4fb5c21431403aaea8d7b13a0e104
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0cf3f69794fb007c824e065ba3b153bb980090f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287102"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414795"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287102"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ngDesk |
+| Название приложения | ngDesk |
 | Идентификатор | WA200002968 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | All Blue Solutions |
@@ -118,3 +118,4 @@ ms.locfileid: "59287102"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

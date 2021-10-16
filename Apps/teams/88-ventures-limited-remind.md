@@ -2,18 +2,18 @@
 title: Сведения о приложениях для remind by 88 Ventures Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/18/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Remind, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f39e0c35b88e3212743e30c7ab5ac40c74c708c3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e44cb7a148a9cd1c6a1b1c497863eaced9259f41
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284174"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412008"
 ---
 # <a name="remind"></a>Remind
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284174"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Remind |
+| Название приложения | Remind |
 | Идентификатор | WA200001444 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | 88 Ventures Limited |
@@ -107,4 +107,5 @@ ms.locfileid: "59284174"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

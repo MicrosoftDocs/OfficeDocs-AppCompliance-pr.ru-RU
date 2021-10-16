@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Viima от Viima Solutions Oy
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 12/07/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Viima, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c9db86a4ffce9107b7345f178fe850a66e26560
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5b9233ff1a9a5cb8613ac7a9c6c2e1e00e71e860
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286870"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414886"
 ---
 # <a name="viima"></a>Viima
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286870"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Viima |
+| Название приложения | Viima |
 | Идентификатор | WA200001589 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Viima Solutions Oy |
@@ -133,3 +133,4 @@ ms.locfileid: "59286870"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Подключение по Engage Squared
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/05/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c04b8be94b4d9a6367c8baa2b3370d82c2bdff5c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 576d4b4b8107d0e4807818b44faf983d99ee98d1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289129"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414675"
 ---
 # <a name="board-connect"></a>Подключение к доске
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289129"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Подключение к доске |
+| Название приложения | Подключение к доске |
 | Идентификатор | WA200001955 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Engage Squared |
@@ -138,3 +138,4 @@ ms.locfileid: "59289129"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

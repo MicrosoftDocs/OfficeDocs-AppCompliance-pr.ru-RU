@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Aula Digital от Leya, S.A.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/13/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Aula Digital, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 85f3ee66709c9d5d8c6df21bb08cb4b7cf636d7c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 45ccd105d370b2b74625c352cfe501ad6fe39ade
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287473"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413731"
 ---
 # <a name="aula-digital"></a>Aula Digital
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287473"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Aula Digital |
+| Название приложения | Aula Digital |
 | Идентификатор | WA200003108 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Leya, S.A. |
@@ -95,17 +95,6 @@ ms.locfileid: "59287473"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -131,3 +120,4 @@ ms.locfileid: "59287473"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

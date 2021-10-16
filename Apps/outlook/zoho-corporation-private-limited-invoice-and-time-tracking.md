@@ -2,18 +2,18 @@
 title: Сведения о приложениях для отслеживания счетов и времени — Накладная Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для счета-фактуры и отслеживания времени — счета Zoho, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3879f8b00191c9dbd9f712e685430d0360bb74fb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 657663aaae99a7a11efb113ea8b598714cd5e075
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288833"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413200"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Счет и отслеживание времени — счет Zoho
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288833"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Счет и отслеживание времени — счет Zoho |
+| Название приложения | Счет и отслеживание времени — счет Zoho |
 | Идентификатор | WA104381067 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -101,4 +101,5 @@ ms.locfileid: "59288833"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

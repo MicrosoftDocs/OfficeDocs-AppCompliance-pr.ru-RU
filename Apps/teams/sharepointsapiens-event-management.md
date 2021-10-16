@@ -2,18 +2,18 @@
 title: Сведения о приложениях для управления событиями SharePoint| Sapiens
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для управления событиями, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 39480c170eb59a9f16b703a5182a2f2f23847955
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 74e6e3963a03ff6cc6da44ffc33184f6b5fe1cf9
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287345"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412759"
 ---
 # <a name="event-management"></a>Управление событиями
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287345"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Управление событиями |
+| Название приложения | Управление событиями |
 | Идентификатор | WA200000714 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SharePoint|Sapiens |
@@ -141,3 +141,4 @@ ms.locfileid: "59287345"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

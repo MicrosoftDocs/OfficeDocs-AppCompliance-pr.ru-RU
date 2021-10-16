@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройок CRM iGlobe, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3d5551ff00fa5439329176cf412a45d0490d6d64
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a48e2f3798d80229c51556e6712d4ebf31da183b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288593"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412078"
 ---
 # <a name="iglobe-crm-add-ons"></a>Надстройки cRM iGlobe
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288593"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Надстройки cRM iGlobe |
+| Название приложения | Надстройки cRM iGlobe |
 | Идентификатор | WA200002010 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | iGlobe |
@@ -159,3 +159,4 @@ ms.locfileid: "59288593"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

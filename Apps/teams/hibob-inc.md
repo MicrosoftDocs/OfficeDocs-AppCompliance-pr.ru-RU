@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Hibob от Hibob Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/13/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Hibob, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9168d876cfdf6abc2839311d3820ec8a024f29d1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b6eaaa5c8e9b7a707bdd88b965964089c5dce472
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285830"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412368"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285830"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Hibob |
+| Название приложения | Hibob |
 | Идентификатор | WA200000765 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hibob Inc. |
@@ -108,4 +108,5 @@ ms.locfileid: "59285830"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

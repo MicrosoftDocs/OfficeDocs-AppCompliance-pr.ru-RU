@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Soapbox по Soapbox
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 07/28/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Soapbox, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 89151d495479f3390aa179f810325ab56f77337a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e072f8c987b3fc551a98970a7134535ec275b594
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286097"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414063"
 ---
 # <a name="soapbox"></a>Soapbox
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286097"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Soapbox |
+| Название приложения | Soapbox |
 | Идентификатор | WA104381501 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Soapbox |
@@ -110,4 +110,5 @@ ms.locfileid: "59286097"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

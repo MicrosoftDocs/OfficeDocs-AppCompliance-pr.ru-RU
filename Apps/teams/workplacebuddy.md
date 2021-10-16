@@ -2,18 +2,18 @@
 title: Сведения о приложениях для WorkplaceBuddy по WorkplaceBuddy
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для WorkplaceBuddy, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: cfbab9d138e1ee0fa846f8c9e3454f7af6c86c29
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: bd37d51a5316ba906d6e7fc1314fe2974d1aa502
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286841"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412689"
 ---
 # <a name="workplacebuddy"></a>WorkplaceBuddy
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286841"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | WorkplaceBuddy |
+| Название приложения | WorkplaceBuddy |
 | Идентификатор | WA200001238 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | WorkplaceBuddy |
@@ -88,7 +88,7 @@ ms.locfileid: "59286841"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -100,17 +100,6 @@ ms.locfileid: "59286841"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ ms.locfileid: "59286841"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

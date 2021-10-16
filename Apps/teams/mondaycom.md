@@ -2,18 +2,18 @@
 title: Сведения о приложениях для monday.com по monday.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для monday.com, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3779d91614f3413034e8bd86d28ec329cf341b67
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: 9cd1bfefcd9a56e23cae31f18638cea652d1becd
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131699"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415046"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -33,7 +33,7 @@ ms.locfileid: "60131699"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | monday.com |
-| ID | WA200001798 |
+| Идентификатор | WA200001798 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | monday.com |
 | URL-адрес веб-сайта-партнера | [https://monday.com](https://monday.com) |
@@ -131,3 +131,4 @@ ms.locfileid: "60131699"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

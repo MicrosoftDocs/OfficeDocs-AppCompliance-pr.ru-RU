@@ -2,18 +2,18 @@
 title: Сведения о приложениях для службы Alvao от ALVAO s.r.o.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/08/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для службы Alvao, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4202c82d8b67030e035c32a8b893b76f8b870979
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 98d25694a2a0ea3079490e97dfc8ea9baecc0a07
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287097"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411938"
 ---
 # <a name="alvao-service-desk"></a>Служба поддержки Alvao
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287097"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Служба поддержки Alvao |
+| Название приложения | Служба поддержки Alvao |
 | Идентификатор | WA200002488 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ALVAO s.r.o. |
@@ -133,3 +133,4 @@ ms.locfileid: "59287097"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

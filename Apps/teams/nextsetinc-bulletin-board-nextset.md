@@ -2,18 +2,18 @@
 title: Сведения о приложениях для доски объявлений — NextSet by NextSet,Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/21/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для доски объявлений — NextSet, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c423181155ac9b777bb03576032f01a8a16578b4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d08a21f9d99f37ed754239729387e34eb928ad8d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286558"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414163"
 ---
 # <a name="bulletin-board---nextset"></a>Bulletin Board - NextSet
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286558"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Bulletin Board - NextSet |
+| Название приложения | Bulletin Board - NextSet |
 | Идентификатор | WA200002122 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | NextSet,Inc. |
@@ -93,7 +93,7 @@ ms.locfileid: "59286558"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -143,3 +143,4 @@ ms.locfileid: "59286558"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Geekbot от Geekbot Ltd
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/21/2021
+ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Geekbot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0f8886757004bcde0ab9cd37dd45dc8f08c5b4dd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7caa639e4a1a9bf0034750222872a2a6f1dc0365
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286209"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412989"
 ---
 # <a name="geekbot"></a>Geekbot
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286209"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Geekbot |
+| Название приложения | Geekbot |
 | Идентификатор | WA200003224 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Geekbot Ltd |
@@ -94,17 +94,6 @@ ms.locfileid: "59286209"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -132,3 +121,4 @@ ms.locfileid: "59286209"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

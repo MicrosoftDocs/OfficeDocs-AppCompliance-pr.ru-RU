@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Lucidspark от Lucid software
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/13/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Lucidspark, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e79bed420b3081ae31a0abda25299610eeb1bc5f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 97dd4245e0bba6f82adea01c08638f6cfc20698e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287438"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412228"
 ---
 # <a name="lucidspark"></a>Lucidspark
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287438"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Lucidspark |
+| Название приложения | Lucidspark |
 | Идентификатор | WA200002583 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Lucid Software |
@@ -124,3 +124,4 @@ ms.locfileid: "59287438"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

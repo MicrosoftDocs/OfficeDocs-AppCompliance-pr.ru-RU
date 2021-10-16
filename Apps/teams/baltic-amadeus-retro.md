@@ -2,18 +2,18 @@
 title: Сведения о приложениях для retro by Baltic Amadeus
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 10/07/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Retro, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2ccca5bd5160eb1772245841df037d2033f58881
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f9f42dedcf61d229dd925aa095520535e933d7f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287521"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411888"
 ---
 # <a name="retro"></a>Retro
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287521"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Retro |
+| Название приложения | Retro |
 | Идентификатор | WA200001892 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Baltic Amadeus |
@@ -109,4 +109,5 @@ ms.locfileid: "59287521"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

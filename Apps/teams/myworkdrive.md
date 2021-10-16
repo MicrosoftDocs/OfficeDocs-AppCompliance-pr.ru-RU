@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MyWorkDrive от MyWorkDrive
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2021
+ms.date: 02/11/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MyWorkDrive, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5bea09ee9777395feca68f12a16c6abb7b37a3b3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: dc5e648effa725e0916417563618fd05e7f9ed35
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287374"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412859"
 ---
 # <a name="myworkdrive"></a>MyWorkDrive
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287374"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MyWorkDrive |
+| Название приложения | MyWorkDrive |
 | Идентификатор | WA200002325 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MyWorkDrive |
@@ -130,3 +130,4 @@ ms.locfileid: "59287374"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

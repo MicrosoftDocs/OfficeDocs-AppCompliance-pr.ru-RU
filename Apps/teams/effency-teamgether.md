@@ -2,18 +2,18 @@
 title: Сведения о приложениях для TeamGether по EFFENCY
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для TeamGether, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6d52f732a372663b3bb089ee57d43fb5f46299ca
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 732342d7f6fe531ec57cfbd53ae425b27b0f1205
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288217"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413841"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288217"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | TeamGether |
+| Название приложения | TeamGether |
 | Идентификатор | WA200002660 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | EFFENCY |
@@ -120,3 +120,4 @@ ms.locfileid: "59288217"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для isLucid по соглашениям ОАО Lucid
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для isLucid, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d29616471c22a2fd4f01a849d14b965ae106aa80
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7270fa4f4a08ca820d1fe7452dea13fb107f2294
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285553"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414906"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285553"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | isLucid |
+| Название приложения | isLucid |
 | Идентификатор | WA200002385 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | UAB Lucid Agreements |
@@ -105,17 +105,6 @@ ms.locfileid: "59285553"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -143,3 +132,4 @@ ms.locfileid: "59285553"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

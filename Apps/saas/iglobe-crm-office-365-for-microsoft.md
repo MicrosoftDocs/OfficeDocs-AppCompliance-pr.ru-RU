@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM Office 365 для Microsoft 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 79ae347ccea2f9ee3dda6f2b506fc02f802b3ca9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 43e4cd6cd51d901b15e514a2706784f4eea022c6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286729"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413150"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>cRM-Office 365 для Microsoft 365
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286729"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | cRM-Office 365 для Microsoft 365 |
+| Название приложения | cRM-Office 365 для Microsoft 365 |
 | Идентификатор | 17859280.iglobecrmoffice365 |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
@@ -159,3 +159,4 @@ ms.locfileid: "59286729"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

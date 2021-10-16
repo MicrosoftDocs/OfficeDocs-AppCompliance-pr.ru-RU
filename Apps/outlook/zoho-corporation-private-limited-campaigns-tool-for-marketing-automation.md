@@ -2,18 +2,18 @@
 title: Сведения о приложениях для средства zoho Campaigns для автоматизации маркетинга от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для средства автоматизации маркетинга Zoho Campaigns, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2eaae419f204cfdc5650ca66a3cfa4e6cc116c4a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288649"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413210"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>Средство zoho Campaigns для автоматизации маркетинга
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288649"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Средство zoho Campaigns для автоматизации маркетинга |
+| Название приложения | Средство zoho Campaigns для автоматизации маркетинга |
 | Идентификатор | WA104380835 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -102,4 +102,5 @@ ms.locfileid: "59288649"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для надстройки Office 365 планировщика для Outlook, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ce453be96beb466b4420912a29b30593851f3547
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: 0dd9e0dfbff342238dd46dd9db8a9338158c7f2f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59436440"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412128"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>надстройка Office 365 планировщика для Outlook
 
@@ -30,8 +30,8 @@ ms.locfileid: "59436440"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | надстройка Office 365 планировщика для Outlook |
-| ID | WA104380147 |
+| Название приложения | надстройка Office 365 планировщика для Outlook |
+| Идентификатор | WA104380147 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | iGlobe |
 | URL-адрес веб-сайта-партнера | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
@@ -143,6 +143,43 @@ ms.locfileid: "59436440"
 | Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
 | Использует ли приложение API предварительного просмотра? | Нет |
 | Использует ли ваше приложение неподготовленные API? | Нет |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Microsoft 365 Результат сертификации** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обзор оценки уязвимости (тест DAST/SAST/Penetration) | Недоступно |
+| [**ОПЕРАТИВНАЯ БЕЗОПАСНОСТЬ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирус | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAFs) (необязательный) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление изменениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасные разработки и развертывания программного обеспечения | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетной записью | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательный) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (ведение журнала данных) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ ПРИ ОБРАБОТКЕ &amp; ДАННЫХ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в транзите | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в покое | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

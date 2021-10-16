@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Подключение Jira от yasoon GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/21/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Smart Подключение для Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a4a5a1ad980bba5214811bea5d981a1705ec4f1f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4342897ef390842396e62798debc54e146a979e3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288841"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413260"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288841"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Smart Connect for Jira |
+| Название приложения | Smart Connect for Jira |
 | Идентификатор | WA200002055 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | yasoon GmbH |
@@ -59,13 +59,13 @@ ms.locfileid: "59288841"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | делегирована | Разрешение используется для того, чтобы разрешить пользователю выбрать один из этих каналов в Jira. | ID канала для кэшинга | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| ChannelMessage.Read.Group | приложение | Позволяет приложению показывать сообщения связанных каналов в Jira. | ID сообщений для привязки сообщений к вопросам Jira | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Send | делегирована | Данные не используются, этот API используется для того, чтобы позволить пользователю отвечать на сообщения каналов из Jira. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelSettings.Read.Group | приложение | Используется для получения подробных сведений о канале. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Chat.ReadWrite | делегирована | Используется для того, чтобы разрешить пользователю добавлять новые ответы в чаты и просматривать сообщения чата из Jira. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Member.Read.Group | приложение | Используется для проверки разрешений, позволяет приложению проверять членство пользователей в команде. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Send | делегирована | Данные не используются, этот API используется для того, чтобы позволить пользователю отвечать на сообщения каналов из Jira. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelSettings.Read.Group | приложение | Используется для получения подробных сведений о канале. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Chat.ReadWrite | делегирована | Используется для того, чтобы разрешить пользователю добавлять новые ответы в чаты и просматривать сообщения чата из Jira. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Member.Read.Group | приложение | Используется для проверки разрешений, позволяет приложению проверять членство пользователей в команде. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| Team.ReadBasic.All | делегирована | Разрешение используется, чтобы позволить пользователю выбрать одну из этих присоединились группы в Jira. | Team IDs for caching purposes | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| TeamSettings.Read.Group | приложение | Позволяет приложению читать параметры Team для соблюдения определенных по умолчанию. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| User.ReadBasic.All | делегирована | Позволяет пользователю выбирать сотрудников для @-mention в сообщении канала | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| TeamSettings.Read.Group | приложение | Позволяет приложению читать параметры Team для соблюдения определенных по умолчанию. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| User.ReadBasic.All | делегирована | Позволяет пользователю выбирать сотрудников для @-mention в сообщении канала | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -144,3 +144,4 @@ ms.locfileid: "59288841"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

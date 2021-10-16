@@ -2,18 +2,18 @@
 title: Сведения о приложениях для CloudExtend Analytics для NetSuite от Celigo CloudExtend
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/19/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CloudExtend Analytics для NetSuite, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 489f4f04afc52476b34a98ecd808c035ff47a676
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3dc8880f51ad68e09bb71276a33b9b2a864a8eaa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287598"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413220"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>Аналитика CloudExtend для NetSuite
 
@@ -31,7 +31,7 @@ ms.locfileid: "59287598"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Аналитика CloudExtend для NetSuite |
+| Название приложения | Аналитика CloudExtend для NetSuite |
 | Идентификатор | WA200002784 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | Celigo CloudExtend |
@@ -79,7 +79,7 @@ ms.locfileid: "59287598"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -129,3 +129,4 @@ ms.locfileid: "59287598"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

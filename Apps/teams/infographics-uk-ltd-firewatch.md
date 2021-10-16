@@ -2,18 +2,18 @@
 title: Сведения о приложениях для FireWatch по Инфографике UK Ltd.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/29/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для FireWatch, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: af093437be4542d0ffb9e00e6f27623961ef9673
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 4d8834b9f87199517fc355d9f7c7560d7d63ee32
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112311"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413791"
 ---
 # <a name="firewatch"></a>FireWatch
 
@@ -33,9 +33,9 @@ ms.locfileid: "60112311"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | FireWatch |
-| ID | WA200003303 |
+| Идентификатор | WA200003303 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Инфографика UK Ltd. |
+| Имя компании-партнера | Infographics UK Ltd. |
 | URL-адрес веб-сайта-партнера | [https://www.infographics.co.uk](https://www.infographics.co.uk) |
 | URL-адрес страницы Teams приложения | [https://www.firewatch.co.uk](https://www.firewatch.co.uk) |
 | URL-адрес политики конфиденциальности | [https://www.infographics.co.uk/privacy-policy/](https://www.infographics.co.uk/privacy-policy/) |
@@ -93,17 +93,6 @@ ms.locfileid: "60112311"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "60112311"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

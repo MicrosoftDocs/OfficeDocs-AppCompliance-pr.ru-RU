@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Adobe Sign для SharePoint Adobe Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/16/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign для SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 50837228d42f7c5419f78f823e2f6c40317d35eb
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: fbe0a3e7e649be8b3958df6c041db62d39006ca9
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60124094"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412619"
 ---
 # <a name="adobe-sign-for-sharepoint"></a>Adobe Sign для SharePoint
 
@@ -32,7 +32,7 @@ ms.locfileid: "60124094"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Adobe Sign для SharePoint |
-| ID | WA104381012 |
+| Идентификатор | WA104381012 |
 | Office 365 поддерживаемые клиенты | SharePoint 2013 или более поздней |
 | Имя компании-партнера | Adobe Inc. |
 | URL-адрес веб-сайта-партнера | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
@@ -95,17 +95,6 @@ ms.locfileid: "60124094"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -133,3 +122,4 @@ ms.locfileid: "60124094"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

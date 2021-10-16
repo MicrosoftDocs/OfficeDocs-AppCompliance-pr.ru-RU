@@ -2,18 +2,18 @@
 title: Сведения о приложениях для structural by Structural Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/21/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Structural, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 311eff24ac87991f640975efeff0373d7afc8a87
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 66e66041bbbaf9c1c9f982969ac7f23c43a315f3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284966"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414043"
 ---
 # <a name="structural"></a>Structural
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284966"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Structural |
+| Название приложения | Structural |
 | Идентификатор | WA200002514 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Structural Inc. |
@@ -57,9 +57,9 @@ ms.locfileid: "59284966"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Нет | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| email | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Нет | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| offline_access | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Нет | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
+>| Directory.AccessAsUser.All | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Отсутствует | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
+>| email | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Отсутствует | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
+>| offline_access | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Отсутствует | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
 >| openid | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Нет | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
 >| profile | делегирована | Да. Для проверки подлинности пользователей при одном входе. | Нет | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
 
@@ -99,17 +99,6 @@ ms.locfileid: "59284966"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59284966"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

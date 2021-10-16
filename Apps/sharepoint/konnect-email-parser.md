@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Parser электронной почты Konnect от Konnect eMail
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/12/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Konnect eMail Parser, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 055f7e45fccf858a233fe5849333dc870d445fe3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289198"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412058"
 ---
 # <a name="konnect-email-parser"></a>Parser электронной почты Konnect
 
@@ -31,7 +31,7 @@ ms.locfileid: "59289198"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Parser электронной почты Konnect |
+| Название приложения | Parser электронной почты Konnect |
 | Идентификатор | WA200001893 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | Электронная почта Konnect |
@@ -74,7 +74,7 @@ ms.locfileid: "59289198"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -111,3 +111,4 @@ ms.locfileid: "59289198"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

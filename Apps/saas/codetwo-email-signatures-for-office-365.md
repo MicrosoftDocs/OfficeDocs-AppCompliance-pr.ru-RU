@@ -2,18 +2,18 @@
 title: Сведения о приложениях для подписей электронной почты CodeTwo для Office 365 codeTwo
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CodeTwo Email Signatures для Office 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 79db12fe65495df15e21b46e810abd8bbd017359
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 13a8b7200513d09c77416ea93be55178c9b2a762
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284190"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413160"
 ---
 # <a name="codetwo-email-signatures-for-office-365"></a>Подписи электронной почты CodeTwo для Office 365
 
@@ -31,7 +31,7 @@ ms.locfileid: "59284190"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Подписи электронной почты CodeTwo для Office 365 |
+| Название приложения | Подписи электронной почты CodeTwo для Office 365 |
 | Идентификатор | codetwo.3d2daeb9-a008-4070-a35c-cda39bd30a69 |
 | Имя компании-партнера | CodeTwo |
 | URL-адрес веб-сайта-партнера | [https://www.codetwo.com](https://www.codetwo.com) |
@@ -134,3 +134,4 @@ ms.locfileid: "59284190"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

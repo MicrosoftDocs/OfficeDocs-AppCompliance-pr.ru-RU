@@ -2,18 +2,18 @@
 title: Сведения о приложениях для широких идей с помощью широких идей
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wide Ideas, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 075136dcf0c7e03d3f70461490f1b8c181478c43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59783339"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414375"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -33,7 +33,7 @@ ms.locfileid: "59783339"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Wide Ideas |
-| ID | WA200000819 |
+| Идентификатор | WA200000819 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Wide Ideas |
 | URL-адрес веб-сайта-партнера | [https://getwideideas.com](https://getwideideas.com) |
@@ -144,3 +144,4 @@ ms.locfileid: "59783339"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для календаря команд Planyway от Rubius
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/19/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для календаря команды Planyway, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d712799259406f65b30a7d186763bb0addba9d1e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d118e41b6c93f2eca85b86f870240f31f9911dd1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285033"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412783"
 ---
 # <a name="planyway-team-calendar"></a>Planyway Team Calendar
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285033"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Planyway Team Calendar |
+| Название приложения | Planyway Team Calendar |
 | Идентификатор | WA200002712 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Rubius |
@@ -118,3 +118,4 @@ ms.locfileid: "59285033"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

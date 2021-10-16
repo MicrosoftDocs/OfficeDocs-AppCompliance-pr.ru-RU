@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MindMeister от MeisterLabs GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 10/31/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MindMeister, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6b36f41be86496cdca75a77d9564b2c13e5536b3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285769"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413711"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285769"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MindMeister |
+| Название приложения | MindMeister |
 | Идентификатор | WA104381116 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MeisterLabs GmbH |
@@ -57,7 +57,7 @@ ms.locfileid: "59285769"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | AAD ID, Tenant ID, email, displayName - за возможность идентифицировать каждого пользователя в нашем приложении и возможность связывать данные MindMeister с пользователем Майкрософт (то есть, какие карты принадлежат пользователю). | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
+>| User.Read | делегирована | AAD ID, ID клиента, электронная почта, displayName — за возможность идентифицировать каждого пользователя в нашем приложении и возможность связывать данные MindMeister с пользователем Майкрософт (то есть, какие карты принадлежат пользователю). | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -108,4 +108,5 @@ ms.locfileid: "59285769"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Yeeflow by Akmii
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/25/2020
+ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Yeeflow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: be7c69f2f08c4e8710499a0cf831fe020e69d86f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f9bbd85e5fca9b96f95a8fd5075968e4250b1fc3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287110"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412599"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287110"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Yeeflow |
+| Название приложения | Yeeflow |
 | Идентификатор | WA200000089 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Akmii |
@@ -133,3 +133,4 @@ ms.locfileid: "59287110"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

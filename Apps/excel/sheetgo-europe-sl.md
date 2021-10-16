@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Sheetgo в SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/30/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 77da98d015480716b848a47f4d6d04d35035f5fb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 491049af0b675c477fce225476afb1e05919ae2a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285102"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414815"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -31,7 +31,7 @@ ms.locfileid: "59285102"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Sheetgo |
+| Название приложения | Sheetgo |
 | Идентификатор | WA200002128 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | SHEETGO EUROPE SL |
@@ -101,4 +101,5 @@ ms.locfileid: "59285102"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

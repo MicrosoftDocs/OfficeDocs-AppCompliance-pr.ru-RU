@@ -2,18 +2,18 @@
 title: Сведения о приложении для героя здоровья по герою здоровья
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/01/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Героя здоровья, его политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53f2892563172775e8dc6def8c4ae9cb7d2af0c8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d1b716209a69f4526b900fd1a56049ffc2d3dbc8
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288174"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414605"
 ---
 # <a name="health-hero"></a>Health Hero
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288174"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Health Hero |
+| Название приложения | Health Hero |
 | Идентификатор | WA200001405 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Health Hero |
@@ -131,3 +131,4 @@ ms.locfileid: "59288174"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

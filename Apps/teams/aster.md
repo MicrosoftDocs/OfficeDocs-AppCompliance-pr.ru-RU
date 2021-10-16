@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Aster от Aster
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2021
+ms.date: 09/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Aster, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 10fcbb93f3d6e7b8c851b1f1ecaf63a57f4d1204
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 11edf7f1d092a565b0c69155a1c2be4213c206e2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080921"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415266"
 ---
 # <a name="aster"></a>Aster
 
@@ -33,7 +33,7 @@ ms.locfileid: "60080921"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Aster |
-| ID | WA200002379 |
+| Идентификатор | WA200002379 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Aster |
 | URL-адрес веб-сайта-партнера | [https://asterapp.co](https://asterapp.co) |
@@ -57,12 +57,12 @@ ms.locfileid: "60080921"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | делегирована | Список каталогов для отправки задач планировщика в документы Sharepoint | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
->| Group.ReadWrite.All | делегирована | Список групп для отправки задач планировщика в документы Sharepoint в существующих или созданных группах | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
->| Notes.ReadWrite.All | делегирована | Заметки содержимого для записи в OneNote | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| Directory.Read.All | делегирована | Список каталогов для отправки задач планировщика в документы Sharepoint | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| Group.ReadWrite.All | делегирована | Список групп для отправки задач планировщика в документы Sharepoint в существующих или созданных группах | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| Notes.ReadWrite.All | делегирована | Заметки содержимого для записи в OneNote | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
 >| Tasks.ReadWrite.Shared | делегирована | Задачи, назначения, сроки | Все эти данные для синхронизации Graph API с задачами Aster | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
 >| User.Read | делегирована | Электронная почта пользователя для идентификации пользователя | Например, электронная почта пользователя в назначениях | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
->| offline_access | делегирована | Нет данных, собранных, только для seemlessly обновить маркер | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| offline_access | делегирована | Нет данных, собранных, только для seemlessly обновить маркер | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -102,17 +102,6 @@ ms.locfileid: "60080921"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ ms.locfileid: "60080921"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

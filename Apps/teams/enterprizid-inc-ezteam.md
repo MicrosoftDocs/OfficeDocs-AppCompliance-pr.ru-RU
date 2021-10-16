@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ezTeam от EnterprizID Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/24/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для ezTeam, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6c4ad813b21963005857c69a05727ca261a73f9c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0c7b8022a8d629af9dbce0c2f97c381b4a15ca2b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289134"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414665"
 ---
 # <a name="ezteam"></a>ezTeam
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289134"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ezTeam |
+| Название приложения | ezTeam |
 | Идентификатор | WA200002546 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | EnterprizID Inc |
@@ -57,30 +57,30 @@ ms.locfileid: "59289134"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| AppCatalog.Read.All | делегирована | Список приложений, доступных в Teams, чтобы мы могли показать его в Teams процессе создания запроса | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Application.Read.All | делегирована | Позволяет приложению читать приложения и субъекты-службы от имени вошедшего пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.AccessAsUser.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| AppCatalog.Read.All | делегирована | Список приложений, доступных в Teams, чтобы мы могли показать его в Teams процессе создания запроса | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Application.Read.All | делегирована | Позволяет приложению читать приложения и субъекты-службы от имени вошедшего пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.AccessAsUser.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| Directory.Read.All | делегирована | Позволяет приложению читать данные в каталоге вашей организации, такие как сведения о пользователях, группах и приложениях. | Teams Сведения о владении и членстве  | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.Read.All | приложение | Позволяет приложению считывать данные в каталоге вашей организации, такие как группы, пользователи и приложения, в случаях, когда вход пользователя не предусмотрен. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.ReadWrite.All | делегирована | Позволяет приложению читать и записывать данные в каталоге организации, такие как пользователи и группы | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.ReadWrite.All | приложение | Позволяет приложению читать и записывать данные в каталоге вашей организации, например пользователей и группы, без вошедшего пользователя. Не позволяет удалять пользователей или группы. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.Read.All | приложение | Позволяет приложению считывать данные в каталоге вашей организации, такие как группы, пользователи и приложения, в случаях, когда вход пользователя не предусмотрен. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.ReadWrite.All | делегирована | Позволяет приложению читать и записывать данные в каталоге организации, такие как пользователи и группы | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.ReadWrite.All | приложение | Позволяет приложению читать и записывать данные в каталоге вашей организации, например пользователей и группы, без вошедшего пользователя. Не позволяет удалять пользователей или группы. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| Files.Read.All | приложение | Позволяет приложению считывать все файлы во всех семействах веб-сайтов без пользователя, выполнившего вход в систему. | Объем данных под управлением конечного пользователя в ГБ | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| Group.Create | приложение | Позволяет приложению создавать группы без подписанного пользователя. | Новые сведения о свойствах группы. | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.Read.All | делегирована | Приложение сможет выводить список групп, а также просматривать их свойства и все данные о членстве в группах от имени вошедшего пользователя. Используется для определения Teams  | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.Read.All | приложение | Позволяет приложению читать свойства и членство в группах, а также читать календарь и беседы для всех групп без подписывного пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.ReadWrite.All | делегирована | Приложение сможет создавать группы, а также просматривать все их свойства и данные о членстве от имени вошедшего пользователя.  | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | делегирована | Приложение сможет выводить список групп, а также просматривать их свойства и все данные о членстве в группах от имени вошедшего пользователя. Используется для определения Teams  | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | приложение | Позволяет приложению читать свойства и членство в группах, а также читать календарь и беседы для всех групп без подписывного пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.ReadWrite.All | делегирована | Приложение сможет создавать группы, а также просматривать все их свойства и данные о членстве от имени вошедшего пользователя.  | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| Group.ReadWrite.All | приложение | Позволяет приложению создавать группы, читать все свойства и членство группы, обновлять свойства и членство групп и удалять группы. Кроме того, приложение может читать и записывать групповой календарь и беседы.  | Последнее действие группы. | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| GroupMember.Read.All | приложение | Позволяет приложению считывать сведения об участии и основные свойства для всех групп без необходимости входа пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| GroupMember.ReadWrite.All | приложение | Позволяет приложению перечислять группы, читать основные свойства, читать и обновлять сведения об участии в группах, к которым у приложения есть доступ без необходимости входа пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| People.Read.All | приложение | Позволяет приложению читать забитый пользователем список соответствующих людей без подписаного пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Reports.Read.All | делегирована | Позволяет приложению читать все отчеты об использовании служб от имени вошедшего пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| GroupMember.Read.All | приложение | Позволяет приложению считывать сведения об участии и основные свойства для всех групп без необходимости входа пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| GroupMember.ReadWrite.All | приложение | Позволяет приложению перечислять группы, читать основные свойства, читать и обновлять сведения об участии в группах, к которым у приложения есть доступ без необходимости входа пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| People.Read.All | приложение | Позволяет приложению читать забитый пользователем список соответствующих людей без подписаного пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Reports.Read.All | делегирована | Позволяет приложению читать все отчеты об использовании служб от имени вошедшего пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| Reports.Read.All | приложение | Позволяет приложению читать все отчеты об использовании без вошедшего пользователя. | Последняя активность пользователя в группе | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| Sites.ReadWrite.All | приложение | Позволяет приложению создавать, считывать, изменять и удалять документы и элементы списков во всех семействах веб-сайтов без пользователя, выполнившего вход в систему. | Топ-10 сайтов по размеру для каждого пользователя | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| User.Read | делегирована | Пользователи смогут входить в приложение, а оно сможет просматривать профили вошедших пользователей. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| User.Read.All | приложение | Позволяет приложению читать профили пользователей без подписи пользователя. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| User.Read | делегирована | Пользователи смогут входить в приложение, а оно сможет просматривать профили вошедших пользователей. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| User.Read.All | приложение | Позволяет приложению читать профили пользователей без подписи пользователя. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| offline_access | делегирована | Позволяет приложению видеть и обновлять данные, к которые вы предоставили ему доступ, даже если пользователи в настоящее время не используют приложение.  | Уведомления бота | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| openid | делегирована | Пользователи смогут входить в приложение с помощью своей рабочей или учебной учетной записи, а приложение сможет просматривать основные данные профилей пользователей. | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| profile | делегирована | Позволяет приложению видеть базовый профиль пользователей (имя, изображение, имя пользователя) | Н/Д | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| openid | делегирована | Пользователи смогут входить в приложение с помощью своей рабочей или учебной учетной записи, а приложение сможет просматривать основные данные профилей пользователей. | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| profile | делегирована | Позволяет приложению видеть базовый профиль пользователей (имя, изображение, имя пользователя) | Недоступно | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -158,3 +158,4 @@ ms.locfileid: "59289134"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для MailClark от MailClark
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/29/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MailClark, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e6ca42781075001c4f78fdf52c09dd6ab51039d6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286382"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412218"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286382"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | MailClark |
+| Название приложения | MailClark |
 | Идентификатор | WA104381679 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MailClark |
@@ -108,4 +108,5 @@ ms.locfileid: "59286382"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

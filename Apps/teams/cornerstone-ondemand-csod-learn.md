@@ -2,18 +2,18 @@
 title: Сведения о приложениях для CSOD Learn by Cornerstone OnDemand
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/01/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CSOD Learn, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 2064ed00ba6306d86a09b3eff9dc6e56c8d1cc40
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 76046422709a8472b17d1b4b6c51f672f043eed8
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289393"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414715"
 ---
 # <a name="csod-learn"></a>CSOD Learn
 
@@ -32,7 +32,7 @@ ms.locfileid: "59289393"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | CSOD Learn |
+| Название приложения | CSOD Learn |
 | Идентификатор | WA200003020 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Cornerstone OnDemand |
@@ -96,17 +96,6 @@ ms.locfileid: "59289393"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -121,3 +110,4 @@ ms.locfileid: "59289393"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

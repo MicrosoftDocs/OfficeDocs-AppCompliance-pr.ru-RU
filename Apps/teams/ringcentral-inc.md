@@ -2,18 +2,18 @@
 title: Сведения о приложениях для RingCentral от RingCentral, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для RingCentral, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bb0787720195363368e3d822e45f173acee67870
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 74b9fdc5cedc126fb613e244badac7cc728418f2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283950"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413441"
 ---
 # <a name="ringcentral"></a>RingCentral
 
@@ -32,7 +32,7 @@ ms.locfileid: "59283950"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | RingCentral |
+| Название приложения | RingCentral |
 | Идентификатор | WA200000135 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | RingCentral, Inc. |
@@ -57,10 +57,10 @@ ms.locfileid: "59283950"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована |  Позволяет приложению отправлять приглашения на собрания через календарь | Нет | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| Calendars.ReadWrite | делегирована |  Позволяет приложению отправлять приглашения на собрания через календарь | Отсутствует | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 >| offline_access | делегирована |  Позволяет приложению получать и обновлять маркер oauth |  Маркер доступа, маркер обновления для доступа к API Graph MS | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 >| User.Read | делегирована |  Позволяет приложению читать базовый профиль пользователя&#8217;(электронная почта, имя), чтобы связаться со совпадениями в конце. И позволяет пользователю войти и связать свою учетную запись O365 с учетной записью RingCentral |  Электронная почта, имя, фамилия | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
->| User.Read.All | делегирована | Позволяет приложению считывать полный профиль пользователя с номерами телефонов, чтобы сделать телефонные звонки с помощью наших служб. | Нет | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read.All | делегирована | Позволяет приложению считывать полный профиль пользователя с номерами телефонов, чтобы сделать телефонные звонки с помощью наших служб. | Отсутствует | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -123,3 +123,4 @@ ms.locfileid: "59283950"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

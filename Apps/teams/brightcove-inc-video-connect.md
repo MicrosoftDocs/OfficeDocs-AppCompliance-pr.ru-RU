@@ -2,20 +2,20 @@
 title: Сведения о приложениях для brightcove Video Подключение Brightcove Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/15/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для brightcove Video Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ff2235d0ba6c3607581e03a5a48d6ccad9a415e2
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 53b0ea912c57bb18b70a42712263aba6c4e67551
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785646"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413090"
 ---
-# <a name="brightcove-video-connect"></a>Brightcove Video Подключение
+# <a name="brightcove-video-connect"></a>Brightcove Video Connect
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +32,8 @@ ms.locfileid: "59785646"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Brightcove Video Подключение |
-| ID | WA200003247 |
+| Название приложения | Brightcove Video Connect |
+| Идентификатор | WA200003247 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Brightcove Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.brightcove.com/en/](https://www.brightcove.com/en/) |
@@ -95,17 +95,6 @@ ms.locfileid: "59785646"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ ms.locfileid: "59785646"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

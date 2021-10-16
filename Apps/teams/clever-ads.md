@@ -2,18 +2,18 @@
 title: Сведения о приложениях для умных объявлений по умным объявлениям
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/24/2020
+ms.date: 03/25/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Clever Ads, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7880682782fe62fad68426bb59b74e3997bb7f64
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6f9fbf26799878bdf119bad1133dd4e48a9a2b5d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285937"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412533"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285937"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Clever Ads |
+| Название приложения | Clever Ads |
 | Идентификатор | WA200001182 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Clever Ads |
@@ -107,4 +107,5 @@ ms.locfileid: "59285937"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

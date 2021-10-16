@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Brochesia от Brochesia
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/10/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Brochesia, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b23afa2d040eb71d2bc15b4931b2bed386148a2d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4f139d61054cb64ddaab4066e6ccfc2675ead23b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287094"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412539"
 ---
 # <a name="brochesia"></a>Brochesia
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287094"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Brochesia |
+| Название приложения | Brochesia |
 | Идентификатор | WA200002876 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Brochesia |
@@ -81,7 +81,7 @@ ms.locfileid: "59287094"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -129,3 +129,4 @@ ms.locfileid: "59287094"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

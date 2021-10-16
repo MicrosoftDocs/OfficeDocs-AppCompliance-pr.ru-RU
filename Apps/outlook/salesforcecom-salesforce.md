@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Salesforce salesforce.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Salesforce, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 152885012f81c077fc0bb018fda7080867c54986
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 749e4cf95c8eefb650f6fd0f8ceb59721d7efcc8
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288657"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413531"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -31,7 +31,7 @@ ms.locfileid: "59288657"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Salesforce |
+| Название приложения | Salesforce |
 | Идентификатор | WA104379334 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | salesforce.com |
@@ -61,8 +61,8 @@ ms.locfileid: "59288657"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API JavaScript для Office | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. |
->| Веб-службы Exchange (EWS) | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего удостоверения пользователя Outlook, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в парную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков CreateItem (.js), которая используется для создания черновика сообщения. |
+>| API JavaScript для Office | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего Outlook пользователя, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в сопряженную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков,  CreateItem (.js), который используется для создания черновика сообщения. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего Outlook пользователя, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в сопряженную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков,  CreateItem (.js), который используется для создания черновика сообщения. |
+>| Веб-службы Exchange (EWS) | Да | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует функции Office.js и EWS для копирования контента и вложений по электронной почте, Outlook пользователь решил войти в Salesforce. Аналогичные возможности используются в стороне календаря для входа встреч в Salesforce. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего Outlook пользователя, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в сопряженную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков,  CreateItem (.js), который используется для создания черновика сообщения. | Надстройка использует такие функции, как getUserIdentityTokenAsync для получения текущего Outlook пользователя, GetItem (.js и EWS) для получения и набора дополнительных свойств и содержимого текущего сообщения электронной почты при сохранении записей Salesforce, GetAttachment (EWS) для получения вложений из Exchange и добавления в сопряженную электронную почту Salesforce, UpdateItem (.js), GetFolder (.js) для получения папки черновиков,  CreateItem (.js), который используется для создания черновика сообщения. |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -94,17 +94,6 @@ ms.locfileid: "59288657"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -119,3 +108,4 @@ ms.locfileid: "59288657"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

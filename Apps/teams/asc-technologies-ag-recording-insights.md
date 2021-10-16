@@ -2,18 +2,18 @@
 title: Сведения о приложениях для записи ASC Аналитика asC Technologies AG
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/02/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для asC Recording Аналитика, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4d3e2f1ec03c2437e12576b0fdff68b06392ae9c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287534"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412584"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287534"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ASC Recording Insights |
+| Название приложения | ASC Recording Insights |
 | Идентификатор | WA200000708 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ASC Technologies AG |
@@ -108,17 +108,6 @@ ms.locfileid: "59287534"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -145,3 +134,4 @@ ms.locfileid: "59287534"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для lucidchart Диаграммы для Word по Lucid Software Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart Diagrams for Word, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 36eb26fa83f894db60f1b615ce58f5c17ba3f19c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1e5c76df854304b05af209288315c762c8300ca7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286473"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414304"
 ---
 # <a name="lucidchart-diagrams-for-word"></a>Диаграммы Lucidchart для Word
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286473"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Диаграммы Lucidchart для Word |
+| Название приложения | Диаграммы Lucidchart для Word |
 | Идентификатор | WA104380118 |
 | Office 365 поддерживаемые клиенты | Word 2016 mac, Word 2013 или более поздней Windows, Word в Интернете |
 | Имя компании-партнера | Lucid Software Inc |
@@ -110,4 +110,5 @@ ms.locfileid: "59286473"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

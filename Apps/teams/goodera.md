@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Goodera от Goodera
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/09/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Goodera, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca4ac668f6eec944a1fc697568ddd637240130cc
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e497a3be7a795e83556a527179d28b5fe40cb0df
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286177"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414615"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286177"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Goodera |
+| Название приложения | Goodera |
 | Идентификатор | WA200002136 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Goodera |
@@ -82,7 +82,7 @@ ms.locfileid: "59286177"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -119,3 +119,4 @@ ms.locfileid: "59286177"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

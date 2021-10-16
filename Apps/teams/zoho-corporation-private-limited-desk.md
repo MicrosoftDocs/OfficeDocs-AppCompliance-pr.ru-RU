@@ -2,18 +2,18 @@
 title: Сведения о приложениях для службы Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Службы Zoho, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8e76f0cce92e7aa5bac28df505613ec461a3fc06
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2882f70ce6c44de4b797ae15bee2bec446212a82
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288030"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414344"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288030"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zoho Desk |
+| Название приложения | Zoho Desk |
 | Идентификатор | WA104382044 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -107,4 +107,5 @@ ms.locfileid: "59288030"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для HighSide от HighSide, Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для HighSide, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eb6def1ce0eb93badd11f9a11d370c8533101656
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 100614a26cfc18f467eb58f44951f3c4090bae5f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992069"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412358"
 ---
 # <a name="highside"></a>HighSide
 
@@ -33,7 +33,7 @@ ms.locfileid: "59992069"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | HighSide |
-| ID | WA200002220 |
+| Идентификатор | WA200002220 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | HighSide, Inc |
 | URL-адрес веб-сайта-партнера | [https://highside.io](https://highside.io) |
@@ -122,3 +122,4 @@ ms.locfileid: "59992069"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

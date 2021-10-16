@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SelfDrvn selfDrvn
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/01/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SelfDrvn, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1bec8e13c2cfbf53e2585abfa3cf01f0a534848e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 663c09f6f2ce51de7d8986953f955bd2ecb7ff95
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285694"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413411"
 ---
 # <a name="selfdrvn"></a>SelfDrvn
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285694"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SelfDrvn |
+| Название приложения | SelfDrvn |
 | Идентификатор | WA200001861 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SelfDrvn |
@@ -80,7 +80,7 @@ ms.locfileid: "59285694"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -129,3 +129,4 @@ ms.locfileid: "59285694"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

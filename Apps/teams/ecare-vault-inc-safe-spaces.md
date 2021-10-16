@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Сейф пробелов по eCare Vault Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/14/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Сейф Spaces, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39ca1a0a99e62bbedb14d0248cb751bf4089a70f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288230"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414695"
 ---
 # <a name="safe-spaces"></a>Safe Spaces
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288230"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Safe Spaces |
+| Название приложения | Safe Spaces |
 | Идентификатор | WA200002691 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | eCare Vault Inc. |
@@ -59,11 +59,11 @@ ms.locfileid: "59288230"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| EduRoster.Read | делегирована | Имя и дата рождения используются для предварительного населения полей ввода | Нет - все хранимые данные представлены пользователем (данные только предварительно заселяются в поля, а затем отправлены пользователем) | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| Group.Read.All | делегирована | Используется для получения информации о каналах, доступных для отображения в приложении | Нет из этого разрешения | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| GroupMember.Read.All | делегирована | AAD-ID членов группы, используемый для создания реестра группы eCare Vault | ID пользователя AAD хранится для связи с учетной записью пользователя eCare Vault для каждого участника | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read | делегирована | адрес электронной почты и AAD ID, используемые для регистрации пользователей и их связи с учетными записями &amp; пользователей eCare Vault | адрес электронной почты и AAD-ID для учетных записей пользователей и отправки уведомления пользователю с помощью Bot Framework | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read.All | делегирована | Имя и, AAD-ID и адрес электронной почты только для пользователей, которые являются членами канала, Сейф установлен пробелы | Имя, AAD-ID и адрес электронной почты, хранимые в учетных записях пользователей eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| GroupMember.Read.All | делегирована | AAD ID участников группы, используемый для создания реестра команд eCare Vault | AAD Пользовательский ID хранится для связи с учетной записью пользователя eCare Vault для каждого участника | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read | делегирована | адрес электронной почты и AAD, используемый для регистрации пользователей и их связи с учетными записями &amp; пользователей eCare Vault | адрес электронной почты и AAD для учетных записей пользователей и отправки уведомления пользователю с помощью Bot Framework | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read.All | делегирована | Имя и, AAD ИД и адрес электронной почты, только для пользователей, которые являются членами канала, Сейф места установлены | Имя, AAD и адрес электронной почты, хранимые в учетных записях пользователей eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| email | делегирована | Только адрес электронной почты | Нет . Пользователь решает отправить форму, которая будет  | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| openid | делегирована | адрес электронной почты и AAD ID, используемые для регистрации пользователей и их связи с учетными записями &amp; пользователей eCare Vault | адрес электронной почты и AAD-ID для учетных записей пользователей и отправки уведомления пользователю с помощью Bot Framework | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| openid | делегирована | адрес электронной почты и AAD, используемый для регистрации пользователей и их связи с учетными записями &amp; пользователей eCare Vault | адрес электронной почты и AAD для учетных записей пользователей и отправки уведомления пользователю с помощью Bot Framework | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| profile | делегирована | Имя пользователя используется для заполнения экрана регистрации пользователя. | Нет напрямую — пользователь выбирает отправку своего имени в систему при регистрации | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
@@ -111,17 +111,6 @@ ms.locfileid: "59288230"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -149,3 +138,4 @@ ms.locfileid: "59288230"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

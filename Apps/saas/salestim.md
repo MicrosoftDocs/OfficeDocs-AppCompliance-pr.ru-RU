@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SalesTim, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 90e9a29a28b5496e4f5f63837c28d94546c76979
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 98b5d538e9fe73f6c1bf63fe5c53c780adb39548
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286625"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413130"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286625"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SalesTim |
+| Название приложения | SalesTim |
 | Идентификатор | salestim.salestim |
 | Имя компании-партнера | SalesTim |
 | URL-адрес веб-сайта-партнера | [https://salestim.com](https://salestim.com) |
@@ -138,3 +138,4 @@ ms.locfileid: "59286625"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

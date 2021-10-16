@@ -2,18 +2,18 @@
 title: Сведения о приложениях для atSpoke by Townsend Street Labs, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 04/14/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для atSpoke, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2d72ea33577e386c61be6bcd09feeba813e9e1f5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 86a4512603429feff61ceeee485e8e4042bb9a6d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285609"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413311"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285609"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | atSpoke |
+| Название приложения | atSpoke |
 | Идентификатор | WA200001454 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Компания Townsend Street Labs, Inc. |
@@ -112,4 +112,5 @@ ms.locfileid: "59285609"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

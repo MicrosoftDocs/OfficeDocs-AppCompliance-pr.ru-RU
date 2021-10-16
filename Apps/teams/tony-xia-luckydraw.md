@@ -2,18 +2,18 @@
 title: Сведения о приложениях для LuckyDraw Тони Ся
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/21/2020
+ms.date: 07/02/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для LuckyDraw, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9a9f6b919b9e803b2a9cb81a2caa504126e4a697
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 32568a24ba4bf4dc00a9076e3f95676c7ba86c29
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288881"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413321"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288881"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | LuckyDraw |
+| Название приложения | LuckyDraw |
 | Идентификатор | WA200000091 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Tony Xia |
@@ -106,4 +106,5 @@ ms.locfileid: "59288881"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

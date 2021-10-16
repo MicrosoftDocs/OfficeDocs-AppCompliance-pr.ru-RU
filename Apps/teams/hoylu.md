@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Hoylu от Hoylu
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/20/2020
+ms.date: 06/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Hoylu, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a091c480731e69a51ec002f24f6d62924a814b7b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287881"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412338"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287881"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Hoylu |
+| Название приложения | Hoylu |
 | Идентификатор | WA200001573 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hoylu |
@@ -103,4 +103,5 @@ ms.locfileid: "59287881"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

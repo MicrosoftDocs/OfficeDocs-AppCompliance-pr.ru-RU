@@ -2,23 +2,23 @@
 title: Сведения о приложениях для COCO от Hexaware Technologies Ltd.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8a25a95b277f41f30477182c9eec0b3b25b9351e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 8e0dbf1b70767805b01cb6a318e4d00c3399c8ee
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288158"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414595"
 ---
 # <a name="coco"></a>COCO
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 23 июня 2020 г.</p>
+<p>Последнее обновление разработчика: 9 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/c3f021f9-1fe2-44c7-972e-58f3cd0e7762" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001468" target="_blank">Просмотр в AppSource</a>
@@ -31,13 +31,14 @@ ms.locfileid: "59288158"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | COCO |
+| Название приложения | COCO |
 | Идентификатор | WA200001468 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hexaware Technologies Ltd. |
 | URL-адрес веб-сайта-партнера | [https://hexaware.com](https://hexaware.com) |
+| URL-адрес страницы Teams приложения | [https://tinyurl.com/2c6b9cdm](https://tinyurl.com/2c6b9cdm) |
 | URL-адрес политики конфиденциальности | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
-| URL-адрес терминов использования | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
+| URL-адрес терминов использования | [https://tinyurl.com/2c6b9cdm](https://tinyurl.com/2c6b9cdm) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,13 +56,13 @@ ms.locfileid: "59288158"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | делегирована | Нет | Каталог доступа в качестве подписанного пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| Directory.Read.All | приложение | Нет | Чтение данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| Directory.ReadWrite.All | делегирована | Нет | Чтение и запись данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| User.Read | делегирована | Нет | Вход и чтение профиля пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.AccessAsUser.All | делегирована | Отсутствует | Каталог доступа в качестве подписанного пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.Read.All | приложение | Отсутствует | Чтение данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.ReadWrite.All | делегирована | Отсутствует | Чтение и запись данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read | делегирована | Отсутствует | Вход и чтение профиля пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 >| User.Read.All | приложение | Нет | Чтение полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| User.ReadWrite.All | делегирована | Нет | Чтение и запись полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| openid | делегирована | Нет | Вход пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.ReadWrite.All | делегирована | Отсутствует | Чтение и запись полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| openid | делегирована | Отсутствует | Вход пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -76,7 +77,7 @@ ms.locfileid: "59288158"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Ведение данных сеанса | Имя, id электронной почты |  |
+>| Ведение данных сеанса | Имя, id электронной почты | Управление сеансами чат-ботов |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -108,6 +109,20 @@ ms.locfileid: "59288158"
 <iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906" target="_blank">Просмотр на новой вкладке</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Сведения о удостоверениях
+
+Эта информация предоставлена hexaware Technologies Ltd. о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
+
+| **Information** | **Отклик** |
+|:----------------|:-------------|
+| Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

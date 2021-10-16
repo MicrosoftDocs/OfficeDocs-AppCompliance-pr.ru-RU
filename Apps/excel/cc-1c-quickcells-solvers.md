@@ -2,18 +2,18 @@
 title: Сведения о приложениях для решений QuickCells от CC-1C
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для разработчиков решений QuickCells, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 82e644360c38b9add9c7426bf788177fe0da7698
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: df49b24ba9d9d2164866a507aacf795523ce8dde
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287606"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414233"
 ---
 # <a name="quickcells-solvers"></a>Решения QuickCells
 
@@ -31,7 +31,7 @@ ms.locfileid: "59287606"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Решения QuickCells |
+| Название приложения | Решения QuickCells |
 | Идентификатор | WA200001864 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Excel в Интернете |
 | Имя компании-партнера | CC-1C |
@@ -123,3 +123,4 @@ ms.locfileid: "59287606"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

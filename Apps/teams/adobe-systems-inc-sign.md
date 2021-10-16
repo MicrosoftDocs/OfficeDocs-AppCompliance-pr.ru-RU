@@ -2,23 +2,23 @@
 title: Сведения о приложениях для Adobe Sign от Adobe Systems Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/01/2021
+ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 98b936fd86d111e9bb6c194318dab50d115b6a28
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 873ce70caf1e4d9212d43e4bc8e9c94e100f6996
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286254"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411968"
 ---
 # <a name="adobe-sign"></a>Adobe Sign
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 1 марта 2021 г.</p>
+<p>Последнее обновление разработчика: 26 августа 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/0f56a9d1-f502-40f9-a9e8-816d7adbb68b" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381233" target="_blank">Просмотр в AppSource</a>
@@ -31,7 +31,7 @@ ms.locfileid: "59286254"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Adobe Sign |
+| Название приложения | Adobe Sign |
 | Идентификатор | WA104381233 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Adobe Systems Inc. |
@@ -56,11 +56,11 @@ ms.locfileid: "59286254"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Mail.ReadWrite | делегирована | Чтобы заполнить присоединенный документ, отправитель и приемник электронной почты, а также содержимое сообщений из электронной почты в знак Adobe для отправки для подписи. Это необходимо для экономии времени пользователя, чтобы перепечатывать эти поля в Adobe Sign. После подписания соглашения мы автоматически сочиняем новое сообщение электронной почты для отправки электронной почты для информирования получателей о том, что транзакция сделана. | Adobe Sign сохранит вложения как временные файлы, срок действия которых составляет 24 часа. | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
->| People.Read | делегирована | Чтобы автозаполнеть адрес электронной почты в режиме Отправка для подписи, введя некоторые начальные буквы, не требуется вводить &quot; &quot; целые сообщения электронной почты. | Adobe Sign будет хранить только адресатов электронной почты и displayName в соглашениях. | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
->| User.Read | делегирована | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
->| offline_access | делегирована | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, нам необходимо обновить новый маркер, чтобы сохранить &quot; &quot; активность пользователя. | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, нам необходимо обновить новый маркер, чтобы сохранить &quot; &quot; активность пользователя.. | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
->| openid | делегирована | Электронная почта и UserId. Для регистрации пользователя, чтобы убедиться в его согласии на разрешение на использование приложения Adobe Sign.  | Электронная почта — уникальный идентификатор для пользователей в Adobe Sign. Мы храним ИД электронной почты, чтобы мы могли соедино все действия этого пользователя с его записью Adobe Sign.  | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| Mail.ReadWrite | делегирована | Чтобы заполнить присоединенный документ, отправитель и приемник электронной почты, а также содержимое сообщений из электронной почты в знак Adobe для отправки для подписи. Это необходимо для экономии времени пользователя, чтобы перепечатывать эти поля в Adobe Sign. После подписания соглашения мы автоматически сочиняем новое сообщение электронной почты для отправки электронной почты для информирования получателей о том, что транзакция сделана. | Adobe Sign сохранит вложения как временные файлы, срок действия которых составляет 24 часа. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| People.Read | делегирована | Чтобы автозаполнеть адрес электронной почты в режиме Отправка для подписи, введя некоторые начальные буквы, не требуется вводить &quot; &quot; целые сообщения электронной почты. | Adobe Sign будет хранить только адресатов электронной почты и displayName в соглашениях. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| User.Read | делегирована | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| offline_access | делегирована | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, нам необходимо обновить новый маркер, чтобы сохранить &quot; &quot; активность пользователя. | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, нам необходимо обновить новый маркер, чтобы сохранить &quot; &quot; активность пользователя.. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| openid | делегирована | Электронная почта и UserId. Для регистрации пользователя, чтобы убедиться в его согласии на разрешение на использование приложения Adobe Sign.  | Электронная почта — уникальный идентификатор для пользователей в Adobe Sign. Мы храним ИД электронной почты, чтобы мы могли соедино все действия этого пользователя с его записью Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
@@ -145,3 +145,4 @@ ms.locfileid: "59286254"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

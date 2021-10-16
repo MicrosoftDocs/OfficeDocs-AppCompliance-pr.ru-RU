@@ -2,18 +2,18 @@
 title: Сведения о приложениях для помощника по контракту Loio от Loio Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/24/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для помощника по контракту Loio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 5a6d1718ce6e6aefe04e8487a0077293720f57df
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a401513fe8d84c569614268cfedbe5860939456e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286489"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414243"
 ---
 # <a name="loio-contract-assistant"></a>Помощник по контракту Loio
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286489"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Помощник по контракту Loio |
+| Название приложения | Помощник по контракту Loio |
 | Идентификатор | WA200002273 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Имя компании-партнера | Loio Inc. |
@@ -88,17 +88,6 @@ ms.locfileid: "59286489"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -113,3 +102,4 @@ ms.locfileid: "59286489"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

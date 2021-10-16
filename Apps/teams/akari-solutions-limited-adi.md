@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ADI от Akari Solutions Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/28/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ADI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ad4b6c68e867a057a3b2b6dc85d5016fee92f3ed
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 35024a6a3166d3273812fd687344bb8a5e2f1843
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285990"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412609"
 ---
 # <a name="adi"></a>ADI
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285990"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | ADI |
+| Название приложения | ADI |
 | Идентификатор | WA200002615 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Akari Solutions Limited |
@@ -130,3 +130,4 @@ ms.locfileid: "59285990"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

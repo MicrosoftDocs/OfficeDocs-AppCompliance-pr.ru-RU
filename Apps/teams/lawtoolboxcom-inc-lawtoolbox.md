@@ -2,18 +2,18 @@
 title: Сведения о приложениях для LawToolBox LawToolBox.com Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для LawToolBox, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9023d2321d5c6a6a62c8480538cc5bf8315b2fc9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 492b1d4652bc4b6dd110be7aa59d3cfbd3b4cb59
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288737"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412298"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288737"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | LawToolBox |
+| Название приложения | LawToolBox |
 | Идентификатор | WA104381656 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LawToolBox.com Inc. |
@@ -124,4 +124,5 @@ ms.locfileid: "59288737"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

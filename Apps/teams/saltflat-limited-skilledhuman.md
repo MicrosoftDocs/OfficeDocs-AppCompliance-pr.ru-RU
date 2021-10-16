@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SkilledHuman от SaltFlat Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/25/2021
+ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для SkilledHuman, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 73e0fe6ac097da2212173a467f38cdea21657dff
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 83bb59f395113df664016c9e30f0bc7358e3cae7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285022"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413431"
 ---
 # <a name="skilledhuman"></a>SkilledHuman
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285022"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SkilledHuman |
+| Название приложения | SkilledHuman |
 | Идентификатор | WA200002603 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SaltFlat Limited |
@@ -130,3 +130,4 @@ ms.locfileid: "59285022"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

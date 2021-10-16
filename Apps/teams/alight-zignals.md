@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Zignals alight
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/17/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Zignals, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 313529eecfcf1e8e129bb22cb5ee4c7b53b9e2c5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9a9e3f1cd6456e1e3c943091325caaff8b934b98
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288262"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413120"
 ---
 # <a name="zignals"></a>Zignals
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288262"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zignals |
+| Название приложения | Zignals |
 | Идентификатор | WA200003201 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Alight |
@@ -59,7 +59,7 @@ ms.locfileid: "59288262"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | делегирована | В области Мои собрания мы получаем собрания пользователя сегодня &quot; &quot; и завтра. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| Sites.ReadWrite.All | делегирована | Мы получаем все последующие сайты SharePoint пользователя и отобразим их в области Моя работа в команде, и мы получаем все задачи SharePoint пользователя и отобразим их в области Мои задачи &quot; &quot; &quot; &quot; . | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| Tasks.ReadWrite | делегирована | Мы читаем задачи планировщика и To Do пользователя и отображаем их в области &quot; Мои &quot; задачи. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| Tasks.ReadWrite | делегирована | Мы читаем планировщик пользователя и выполнение задач и отображаем их в области &quot; Мои &quot; задачи. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| Team.ReadBasic.All | делегирована | Мы получаем присоединяемую команду пользователя и отобразим их в области &quot; My &quot; Teamwork. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| User.ReadBasic.All | делегирована | В области &quot; Мои документы &quot; мы отображаем пользователя, которому было совместное | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| User.ReadWrite | делегирована | Последние документы пользователя отображаются в области &quot; Мои &quot; документы. Любимые приложения пользователя хранятся в качестве расширения схемы в ms Graph. Этот уровень разрешений необходим для чтения и записи данных на графике. | В базе данных приложений сведений не хранится. | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
@@ -104,17 +104,6 @@ ms.locfileid: "59288262"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -141,3 +130,4 @@ ms.locfileid: "59288262"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

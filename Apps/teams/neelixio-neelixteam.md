@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Neelix.Team по Neelix.IO
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/10/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Neelix.Team, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 74f41c23436f1bfc47db6fea7dfca2e8b12731bb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c67a0cb706d4e9651b40dc4070ed9608cbd858d5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287366"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413641"
 ---
 # <a name="neelixteam"></a>Neelix.Team
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287366"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Neelix.Team |
+| Название приложения | Neelix.Team |
 | Идентификатор | WA200003047 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Neelix.IO |
@@ -111,17 +111,6 @@ ms.locfileid: "59287366"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -149,3 +138,4 @@ ms.locfileid: "59287366"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Qooper от COGNATA TECHNOLOGIES, LLC
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/11/2021
+ms.date: 08/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Qooper, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 83bc4fea918d30cd0854ec260f817fc1ad87bacf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7556c8dd09095db38f2cacbbd4a5314f8ed47e75
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285905"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412499"
 ---
 # <a name="qooper"></a>Qooper
 
@@ -32,7 +32,7 @@ ms.locfileid: "59285905"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Qooper |
+| Название приложения | Qooper |
 | Идентификатор | WA200002964 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | COGNATA TECHNOLOGIES, LLC |
@@ -93,17 +93,6 @@ ms.locfileid: "59285905"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -130,3 +119,4 @@ ms.locfileid: "59285905"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

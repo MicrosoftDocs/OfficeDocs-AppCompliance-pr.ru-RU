@@ -2,18 +2,18 @@
 title: Сведения о приложениях для DELTAoverC от DELTAoverC
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/23/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для DELTAoverC, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 06420c8bf06d3cfeb8fc9683e6e79c05963455ef
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 63e6f41e0d86b1df0a334c5a0f8376724ac7dfcb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785638"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411787"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -33,7 +33,7 @@ ms.locfileid: "59785638"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | DELTAoverC |
-| ID | WA200003286 |
+| Идентификатор | WA200003286 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | DELTAoverC |
 | URL-адрес веб-сайта-партнера | [https://deltaoverc.info](https://deltaoverc.info) |
@@ -97,17 +97,6 @@ ms.locfileid: "59785638"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -135,3 +124,4 @@ ms.locfileid: "59785638"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

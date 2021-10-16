@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Highspot от Highspot
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/13/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Highspot, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bbf47f6b42e1f77fefed8de24ce23858e5cb52fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9796eda272fc2e54041983ef559dd8a8b4a070b0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288145"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412348"
 ---
 # <a name="highspot"></a>Highspot
 
@@ -32,7 +32,7 @@ ms.locfileid: "59288145"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Highspot |
+| Название приложения | Highspot |
 | Идентификатор | WA200002894 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Highspot |
@@ -129,3 +129,4 @@ ms.locfileid: "59288145"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для CatchEm по программному обеспечению Chimu
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/27/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для CatchEm, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bdac27ddbc3148644562af20f8f6d415a56903d9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e31f99d6714482327267658bac0e61499572491e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287041"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413881"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -32,7 +32,7 @@ ms.locfileid: "59287041"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | CatchEm |
+| Название приложения | CatchEm |
 | Идентификатор | WA200002639 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Chimu Software |
@@ -59,9 +59,9 @@ ms.locfileid: "59287041"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Chat.ReadBasic | делегирована | Это разрешение необходимо для определения контактов пользователя приложения. AadObjectId. Для уникальной идентификации пользователя. TenantId: чтобы определить, является ли контакт внутренним или внешним для пользователя. DisplayName, GivenName, Surname: для определения контактов с пользователями приложений. Электронная почта, UserPrincipalName: чтобы помочь различать контакты с одним и тем же именем, и разрешить щелкнуть &quot; функциональность &quot; чата. Последний ID чата: включить &quot; функцию мыши для &quot; чата | Это разрешение необходимо для определения контактов пользователя приложения. AadObjectId. Для уникальной идентификации пользователя. TenantId: чтобы определить, является ли контакт внутренним или внешним для пользователя. DisplayName, GivenName, Surname: для определения контактов с пользователями приложений. Электронная почта, UserPrincipalName: чтобы помочь различать контакты с одним и тем же именем, и разрешить щелкнуть &quot; функциональность &quot; чата. Последний ID чата: включить &quot; функцию мыши для &quot; чата | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| People.Read | делегирована | Повышение точности данных для внешних контактов. DisplayName: для определения контактов с пользователями приложений. | Повышение точности данных для внешних контактов. DisplayName: для определения контактов с пользователями приложений. | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| Presence.Read.All | делегирована | Контакты текущего состояния присутствия | Н/Д | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| TeamsActivity.Send | оба | Отправка уведомлений пользователям при изменениях состояния присутствия контактов | Н/Д | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| TeamsAppInstallation.ReadWriteSelfForUser | делегирована | Включить автоматические обновления для приложения | Н/Д | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| Presence.Read.All | делегирована | Контакты текущего состояния присутствия | Недоступно | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsActivity.Send | оба | Отправка уведомлений пользователям при изменениях состояния присутствия контактов | Недоступно | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | делегирована | Включить автоматические обновления для приложения | Недоступно | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| User.Read | делегирована | AadObjectId. Для уникальной идентификации пользователя. TenantId: чтобы определить, является ли контакт внутренним или внешним для пользователя. DisplayName, GivenName, Surname: для определения контактов с пользователями приложений. Электронная почта, im-адреса, UserPrincipalName: чтобы помочь различать контакты с одним и тем же именем, и разрешить щелкнуть кнопку &quot; функциональность &quot; чата. CompanyName, Страна: Аналитика. AccountEnabled, DeletedDateTime: автоматическое удаление пользовательских данных для отключенных пользователей | AadObjectId. Для уникальной идентификации пользователя. TenantId: чтобы определить, является ли контакт внутренним или внешним для пользователя. DisplayName, GivenName, Surname: для определения контактов с пользователями приложений. Электронная почта, im-адреса, UserPrincipalName: чтобы помочь различать контакты с одним и тем же именем, и разрешить щелкнуть кнопку &quot; функциональность &quot; чата. CompanyName, Страна: Аналитика. AccountEnabled, DeletedDateTime: автоматическое удаление пользовательских данных для отключенных пользователей | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| User.ReadBasic.All | делегирована | Повышение точности данных для внутренних контактов. AadObjectId. Для уникальной идентификации пользователя. TenantId: чтобы определить, является ли контакт внутренним или внешним для пользователя. DisplayName, GivenName, Surname: для определения контактов с пользователями приложений. Электронная почта, UserPrincipalName: чтобы помочь различать контакты с одним и тем же именем, и разрешить щелкнуть &quot; функциональность &quot; чата. | Повышение точности данных для внутренних контактов. AadObjectId. Для уникальной идентификации пользователя. TenantId: чтобы определить, является ли контакт внутренним или внешним для пользователя. DisplayName, GivenName, Surname: для определения контактов с пользователями приложений. Электронная почта, UserPrincipalName: чтобы помочь различать контакты с одним и тем же именем, и разрешить щелкнуть &quot; функциональность &quot; чата. | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| offline_access | делегирована | Graph безопасности, чтобы позволить приложению уведомлять об изменениях присутствия контактов и обновлять списки контактов, когда пользователь не активно использует приложение | Graph маркеры безопасности | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
@@ -92,7 +92,7 @@ ms.locfileid: "59287041"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Н/Д
+>Недоступно
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -141,3 +141,4 @@ ms.locfileid: "59287041"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Сведения о приложениях для центра контактов по ООО "Лэндис Технологии"
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/20/2020
+ms.date: 03/13/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Центра контактов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57fd0d98d6c7139c6356b4c23a6ac8a21c48e6b6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3a252658a02bb5e9d834bf18fe4696cbdda33e4b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286574"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415076"
 ---
 # <a name="contact-center"></a>Центр контактов
 
@@ -32,7 +32,7 @@ ms.locfileid: "59286574"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Центр контактов |
+| Название приложения | Центр контактов |
 | Идентификатор | WA200001428 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Landis Technologies LLC |
@@ -126,4 +126,5 @@ ms.locfileid: "59286574"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 
