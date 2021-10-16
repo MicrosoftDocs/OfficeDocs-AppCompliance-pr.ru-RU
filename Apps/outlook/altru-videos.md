@@ -2,18 +2,18 @@
 title: Сведения о приложениях для альтру-видео от Altru
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/27/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Altru Videos, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50f3b5adfb587502d852637e3465ff1cc5c06db8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b700fd30d724c7c708d2be61bfe778dd54446f72
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286041"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60404756"
 ---
 # <a name="altru-videos"></a>Видео Altru
 
@@ -31,7 +31,7 @@ ms.locfileid: "59286041"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Видео Altru |
+| Название приложения | Видео Altru |
 | Идентификатор | WA200000026 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
 | Имя компании-партнера | Альтру |
@@ -111,3 +111,4 @@ ms.locfileid: "59286041"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

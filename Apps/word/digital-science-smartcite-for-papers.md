@@ -2,18 +2,18 @@
 title: Сведения о приложениях для SmartCite для документов по цифровой науке
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/29/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для SmartCite для документов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f039eb5f2fd2cedc6110e380a5830a71472d600e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ec979feae01a67ca76dd5b5cfbb94eabac946c9a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283921"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60404661"
 ---
 # <a name="smartcite-for-papers"></a>SmartCite для документов
 
@@ -31,7 +31,7 @@ ms.locfileid: "59283921"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | SmartCite для документов |
+| Название приложения | SmartCite для документов |
 | Идентификатор | WA104380917 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word 2016 или более поздней Windows, Word в Интернете |
 | Имя компании-партнера | Цифровая наука |
@@ -118,3 +118,4 @@ ms.locfileid: "59283921"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

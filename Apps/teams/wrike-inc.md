@@ -2,18 +2,18 @@
 title: Сведения о приложениях для Wrike от Wrike Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/04/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wrike, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f5f044ee38389321d9f566d1e5f8e5c95586df4c
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: df1592c144238d87643602613bec173f63714e82
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131707"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60405848"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -33,7 +33,7 @@ ms.locfileid: "60131707"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Wrike |
-| ID | WA104381390 |
+| Идентификатор | WA104381390 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Wrike Inc. |
 | URL-адрес веб-сайта-партнера | [https://wrike.com](https://wrike.com) |
@@ -135,3 +135,4 @@ ms.locfileid: "60131707"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

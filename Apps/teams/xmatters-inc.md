@@ -2,18 +2,18 @@
 title: Сведения о приложениях для xMatters от xMatters Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для xMatters, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 1cb8d22b32d76f47bd64c0d4b4e3d3da311ecb46
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 96b72e320547f968c081fa1521979b6b4da8e1c5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080931"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60405808"
 ---
 # <a name="xmatters"></a>xMatters
 
@@ -33,7 +33,7 @@ ms.locfileid: "60080931"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | xMatters |
-| ID | WA104382013 |
+| Идентификатор | WA104382013 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | xMatters Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.xmatters.com](https://www.xmatters.com) |
@@ -104,17 +104,6 @@ ms.locfileid: "60080931"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,3 +118,4 @@ ms.locfileid: "60080931"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

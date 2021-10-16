@@ -2,18 +2,18 @@
 title: Сведения о приложениях для ноутбука Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 05/29/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Notebook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 005104b15ca86b5cdf2e265ebbf2a8ce84bd1202
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b90dc187ecb4f0890b19e07a00f817e06e7e807a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284953"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60405788"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -32,7 +32,7 @@ ms.locfileid: "59284953"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Zoho Notebook |
+| Название приложения | Zoho Notebook |
 | Идентификатор | WA200001616 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
@@ -103,4 +103,5 @@ ms.locfileid: "59284953"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

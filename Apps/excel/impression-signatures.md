@@ -2,18 +2,18 @@
 title: Сведения о приложениях для подписей показов по подписям впечатлений
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для подписей показов, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 258535a6af9fc20dec68b95580a0556fa1d628f1
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: eb11d81de704323129790a113ecf1f379c9cd595
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60124086"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60404666"
 ---
 # <a name="impression-signatures"></a>Подписи впечатлений
 
@@ -32,7 +32,7 @@ ms.locfileid: "60124086"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Подписи впечатлений |
-| ID | WA200003216 |
+| Идентификатор | WA200003216 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позднее на Mac, Excel 2013 или более поздней Windows, Excel в Интернете, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Имя компании-партнера | Подписи впечатлений |
 | URL-адрес веб-сайта-партнера | [https://www.impression-signatures.com](https://www.impression-signatures.com) |
@@ -90,17 +90,6 @@ ms.locfileid: "60124086"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -115,3 +104,4 @@ ms.locfileid: "60124086"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
