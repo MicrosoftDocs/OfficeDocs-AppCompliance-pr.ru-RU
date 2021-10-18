@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Jira Cloud, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bb6857d460cb648d45cf63a5bfcac66508ec6f1d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f7448496a0b9ec9da60ecf1264c3b92f9aaf0b40
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413100"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430911"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
@@ -120,5 +120,4 @@ Send Do Not Track Signals: Некоторые браузеры включили 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
