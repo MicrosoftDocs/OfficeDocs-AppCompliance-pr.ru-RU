@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для AVA Contextere, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b8321f0e130ed97f7a0ba73b8cddc6c8d4db2467
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e155c3dabfdd7346811e0a9dfc27b90a8cc5a147
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411807"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429727"
 ---
 # <a name="contextere-ava"></a>Contextere AVA
 
@@ -106,4 +106,3 @@ ms.locfileid: "60411807"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

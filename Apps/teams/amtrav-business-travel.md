@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для бизнеса AmTrav Travel, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b872e6b1a915bca45002240703283b1e0e58be33
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c57af647d351a2dcf64b295d59af5f6ba415546e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410463"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429647"
 ---
 # <a name="amtrav-business-travel"></a>AmTrav Business Travel
 
@@ -107,4 +107,3 @@ ms.locfileid: "60410463"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

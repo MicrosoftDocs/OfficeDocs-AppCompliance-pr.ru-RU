@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для управления обучением сотрудников, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 37505e2f1ba531b3aa1a03a3fb8c93e6da8f121a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e3922aa2d2aff05ab48f587c405e24e6548ba311
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410923"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429567"
 ---
 # <a name="employee-training-management"></a>Управление обучением сотрудников
 
@@ -141,4 +141,3 @@ ms.locfileid: "60410923"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

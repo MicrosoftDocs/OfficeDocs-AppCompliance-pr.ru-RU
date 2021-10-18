@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для InCaseIT, политики обработки данных, Microsoft Cloud App Security каталог приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 22e675ac91be216175d16271e1f0d2f7339fc36b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 424df0e4c31f8a35c4d2e095f9f95c618274fa23
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414986"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429897"
 ---
 # <a name="incaseit"></a>InCaseIT
 
@@ -124,4 +124,3 @@ ms.locfileid: "60414986"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

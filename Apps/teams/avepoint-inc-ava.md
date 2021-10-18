@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для AVA, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a23ab8dfa165d43d6f2a9afafab0bc2ac12534bb
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e5b53fbbc4c65c709324611a9ac645b045e4eaa7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411898"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430007"
 ---
 # <a name="ava"></a>AVA
 
@@ -67,7 +67,7 @@ ms.locfileid: "60411898"
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| REST API SharePoint | Да | Поиск файла в утилизации личного сайта пользователя и восстановление этих файлов. Требуется разрешение AllSites.Manage. |  | Нет |  |
+>| REST API SharePoint | Да | Поиск файла в утилизации личного сайта пользователя и восстановление этих файлов. Требуется разрешение AllSites.Manage. |  | Отсутствует |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -116,5 +116,4 @@ ms.locfileid: "60411898"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

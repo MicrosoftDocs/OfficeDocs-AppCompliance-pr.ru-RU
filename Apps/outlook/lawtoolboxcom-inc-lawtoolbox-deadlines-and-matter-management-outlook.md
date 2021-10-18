@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для управления вопросами lawToolBox Deadlines — Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре &amp; CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f62485ceda390d09597a55c25f8f0e36948b5bd2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 267fd3fcb746c890d45ef0e3ad64b304090bff12
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415246"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428686"
 ---
 # <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>Управление вопросами LawToolBox deadlines &amp; — Outlook
 
@@ -136,4 +136,3 @@ ms.locfileid: "60415246"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

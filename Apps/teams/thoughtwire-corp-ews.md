@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ThoughtWire EWS, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ef425a6acb8cfe166502b4c4817229b1b33da14b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ebff314a2e2532b6d4b1c2a8e89e600fced83512
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414916"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429517"
 ---
 # <a name="thoughtwire-ews"></a>ThoughtWire EWS
 
@@ -56,11 +56,11 @@ ms.locfileid: "60414916"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Group.Create | приложение | Позволяет приложению создавать группы и группы для больничных палат/подразделений. | Отсутствует | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
+>| Group.Create | приложение | Позволяет приложению создавать группы и группы для больничных палат/подразделений. | Нет | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
 >| Group.ReadWrite.All | приложение | Необходимо, чтобы приложение определило, какие группы ему может потребоваться создать или повторно создать, а также управлять членством. | Отсутствует | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
 >| GroupMember.ReadWrite.All | приложение | Требуется так, чтобы приложение может управлять членством в группе. то есть добавление/удаление медсестер из группы по мере изменения смены. | Нет | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| TeamMember.ReadWrite.All | приложение | Требуется так, чтобы приложение может управлять членством в группе. то есть добавление/удаление медсестер из группы по мере изменения смены. | Отсутствует | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| TeamsAppInstallation.ReadWriteForTeam | приложение | Позволяет приложению автоматически устанавливать бот ThoughtWire в команды, которые он создает или управляет. | Нет | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
+>| TeamMember.ReadWrite.All | приложение | Требуется так, чтобы приложение может управлять членством в группе. то есть добавление/удаление медсестер из группы по мере изменения смены. | Нет | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
+>| TeamsAppInstallation.ReadWriteForTeam | приложение | Позволяет приложению автоматически устанавливать бот ThoughtWire в команды, которые он создает или управляет. | Отсутствует | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
 >| User.Read | приложение | Разрешить приложению получать AADID/имя пользователя по мере необходимости при управлении членством и/или извлечении имени пользователя для удостоверения пользователя в нашем приложении. | Отсутствует | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
 
 
@@ -128,4 +128,3 @@ ms.locfileid: "60414916"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

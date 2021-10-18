@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для PlayQuiz - Aprende Juega, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре &amp; CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d3cc87e089321333074ef577ba2afca0172e31c
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 439753b7a9ba151810f0921bf7a9f94af58e9a3b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411444"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429527"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz — Aprende &amp; Juega
 
@@ -135,4 +135,3 @@ ms.locfileid: "60411444"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

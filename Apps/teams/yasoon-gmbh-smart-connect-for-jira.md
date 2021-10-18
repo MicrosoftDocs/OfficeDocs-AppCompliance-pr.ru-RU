@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Smart Подключение для Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4342897ef390842396e62798debc54e146a979e3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3c5dbcb87b2d99c727b01ff903ec9daf83935978
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413260"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430287"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -61,11 +61,11 @@ ms.locfileid: "60413260"
 >| ChannelMessage.Read.Group | приложение | Позволяет приложению показывать сообщения связанных каналов в Jira. | ID сообщений для привязки сообщений к вопросам Jira | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| ChannelMessage.Send | делегирована | Данные не используются, этот API используется для того, чтобы позволить пользователю отвечать на сообщения каналов из Jira. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| ChannelSettings.Read.Group | приложение | Используется для получения подробных сведений о канале. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Chat.ReadWrite | делегирована | Используется для того, чтобы разрешить пользователю добавлять новые ответы в чаты и просматривать сообщения чата из Jira. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Chat.ReadWrite | делегирована | Используется для того, чтобы разрешить пользователю добавлять новые ответы в чаты и просматривать сообщения чата из Jira. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| Member.Read.Group | приложение | Используется для проверки разрешений, позволяет приложению проверять членство пользователей в команде. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| Team.ReadBasic.All | делегирована | Разрешение используется, чтобы позволить пользователю выбрать одну из этих присоединились группы в Jira. | Team IDs for caching purposes | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| TeamSettings.Read.Group | приложение | Позволяет приложению читать параметры Team для соблюдения определенных по умолчанию. | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| User.ReadBasic.All | делегирована | Позволяет пользователю выбирать сотрудников для @-mention в сообщении канала | Отсутствует | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| TeamSettings.Read.Group | приложение | Позволяет приложению читать параметры Team для соблюдения определенных по умолчанию. | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| User.ReadBasic.All | делегирована | Позволяет пользователю выбирать сотрудников для @-mention в сообщении канала | Нет | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -144,4 +144,3 @@ ms.locfileid: "60413260"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

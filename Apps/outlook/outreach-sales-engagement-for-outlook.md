@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для участия в Outlook для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 483fb4fd6741e479403e4cd05ad284b50a87f9c4
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d3b2a00ddb4023a54e78825c2382c1dbdad6f28a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413561"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430729"
 ---
 # <a name="outreach-sales-engagement-for-outlook"></a>Участие в информационно-пропагандистских продажах для Outlook
 
@@ -109,4 +109,3 @@ ms.locfileid: "60413561"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
