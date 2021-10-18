@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для PandaDoc, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d3a04daba9ebcbcf435f46beb6313c22310fe22
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4119b4540bd4326be32adb8a8f0b6bc999cb20c1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408984"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427961"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -162,4 +162,3 @@ ms.locfileid: "60408984"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

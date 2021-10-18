@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для средства отчетности iPlanner для Office 365 Planner, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ac38f244a862b89ee17ded8ce1432fdb00fb451a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 354eaa3d38bd05834d7083a52ee6f5b723aaab64
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411273"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428171"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>средство отчетности iPlanner для Office 365 планировщика
 
@@ -110,5 +110,4 @@ ms.locfileid: "60411273"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

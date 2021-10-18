@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для счета-фактуры и отслеживания времени — счета Zoho, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 657663aaae99a7a11efb113ea8b598714cd5e075
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cc7454e5f1181637f2ecacbf510c8191d51da0e7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413200"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428191"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Счет и отслеживание времени — счет Zoho
 
@@ -101,5 +101,4 @@ ms.locfileid: "60413200"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
