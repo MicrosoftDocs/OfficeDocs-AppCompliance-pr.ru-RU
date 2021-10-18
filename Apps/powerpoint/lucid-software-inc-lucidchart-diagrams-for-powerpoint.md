@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Lucidchart Diagrams для PowerPoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f07f093d177c4e38c01930a627cab149e18a1ab5
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 15ac486b0c6c5b08ad3621c9785d067cab89400d
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413963"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445508"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>Диаграммы Lucidchart для PowerPoint
 
@@ -110,5 +110,4 @@ ms.locfileid: "60413963"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

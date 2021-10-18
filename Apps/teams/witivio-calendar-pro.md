@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для календаря Pro, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 5f8b6dcbf99d26e867cc79194cb57c1393316a2b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 262747068d05ac8aa5c0987c8f6838715eabdf0c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414866"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444939"
 ---
 # <a name="calendar-pro"></a>Calendar Pro
 
@@ -126,4 +126,3 @@ ms.locfileid: "60414866"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

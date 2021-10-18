@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Kippa, ее политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ac1bcae2a1f1145620e225add7cb827160fddc4d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cd6412cf5cfc773b0a0b0fbf2784ca48c7d822cb
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412889"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444858"
 ---
 # <a name="kippa"></a>Kippa
 
@@ -122,4 +122,3 @@ ms.locfileid: "60412889"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

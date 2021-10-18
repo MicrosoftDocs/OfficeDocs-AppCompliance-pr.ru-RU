@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Wisembly, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5115f2e2b8e80686abac839d816fa4761496c9e3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7cecae1333c2cf0adc795ae72507a3ab5dbb0d5b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411394"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60440442"
 ---
 # <a name="wisembly"></a>Wisembly
 
@@ -130,4 +130,3 @@ ms.locfileid: "60411394"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

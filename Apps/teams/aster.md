@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Aster, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 11edf7f1d092a565b0c69155a1c2be4213c206e2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f7691d2a438b8245092cc364810e1a42baa20258
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415266"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60436623"
 ---
 # <a name="aster"></a>Aster
 
@@ -58,11 +58,11 @@ ms.locfileid: "60415266"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | делегирована | Список каталогов для отправки задач планировщика в документы Sharepoint | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
->| Group.ReadWrite.All | делегирована | Список групп для отправки задач планировщика в документы Sharepoint в существующих или созданных группах | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
->| Notes.ReadWrite.All | делегирована | Заметки содержимого для записи в OneNote | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| Group.ReadWrite.All | делегирована | Список групп для отправки задач планировщика в документы Sharepoint в существующих или созданных группах | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| Notes.ReadWrite.All | делегирована | Заметки содержимого для записи в OneNote | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
 >| Tasks.ReadWrite.Shared | делегирована | Задачи, назначения, сроки | Все эти данные для синхронизации Graph API с задачами Aster | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
 >| User.Read | делегирована | Электронная почта пользователя для идентификации пользователя | Например, электронная почта пользователя в назначениях | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
->| offline_access | делегирована | Нет данных, собранных, только для seemlessly обновить маркер | Нет | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
+>| offline_access | делегирована | Нет данных, собранных, только для seemlessly обновить маркер | Отсутствует | [27c89ce8-b449-4959-b801-988d8b727512](https://docs.microsoft.com/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -127,4 +127,3 @@ ms.locfileid: "60415266"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

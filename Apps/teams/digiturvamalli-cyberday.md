@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Cyberday, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 81ec2481be45b456f4c5efe9ee2dd99a8604e73f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f73d65070a5ee691100e67825fc496330202d260
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410302"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60435623"
 ---
 # <a name="cyberday"></a>Cyberday
 
@@ -125,4 +125,3 @@ ms.locfileid: "60410302"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CloudExtend Analytics для NetSuite, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3dc8880f51ad68e09bb71276a33b9b2a864a8eaa
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e02f0c9f31495e9ab9e388859b9240e9b05bc534
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413220"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60442281"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>Аналитика CloudExtend для NetSuite
 
@@ -129,4 +129,3 @@ ms.locfileid: "60413220"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

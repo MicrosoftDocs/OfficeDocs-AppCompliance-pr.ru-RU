@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для IndustryIntel, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 979179baaac538e4535c99a7d0504c8df120f3f2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 0f28fd77efbae29b6cd0bf1e4390bd62dd1e9362
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412959"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445051"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -106,5 +106,4 @@ ms.locfileid: "60412959"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

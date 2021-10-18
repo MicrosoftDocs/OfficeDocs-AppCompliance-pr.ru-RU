@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для cultr Подключение, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b27b187fe2d898f873fecbde6a45bdc908edeb1b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: bf428af0d6572c9a8515a3aa3612af4924fc4d27
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412469"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60432944"
 ---
 # <a name="cultr-connect"></a>Cultr Connect
 
@@ -128,4 +128,3 @@ ms.locfileid: "60412469"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

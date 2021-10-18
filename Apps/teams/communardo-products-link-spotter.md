@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для корректировщика ссылок, его политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 1224640f839a0e7147f75cad57ea8bf701f88477
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 37a82564e1dc0a716d31eeb6bd7f7a8b2de510fb
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411103"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444697"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -137,4 +137,3 @@ ms.locfileid: "60411103"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

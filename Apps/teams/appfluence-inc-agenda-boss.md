@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Agenda Boss, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9dd29e013cf748a6ed287cc4c16f6387ff4d2c1a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ef48b45c315ee10bf9620b9d7fc6bc5b1989bc8e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411163"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444888"
 ---
 # <a name="agenda-boss"></a>Agenda Boss
 
@@ -131,4 +131,3 @@ ms.locfileid: "60411163"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

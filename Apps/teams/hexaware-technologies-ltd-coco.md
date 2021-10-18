@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8e0dbf1b70767805b01cb6a318e4d00c3399c8ee
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 192e0d2a923f3b2cc1ec698aab5b81de5837bafd
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414595"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434598"
 ---
 # <a name="coco"></a>COCO
 
@@ -61,8 +61,8 @@ ms.locfileid: "60414595"
 >| Directory.ReadWrite.All | делегирована | Отсутствует | Чтение и запись данных каталога | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 >| User.Read | делегирована | Отсутствует | Вход и чтение профиля пользователя | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 >| User.Read.All | приложение | Нет | Чтение полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| User.ReadWrite.All | делегирована | Отсутствует | Чтение и запись полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| openid | делегирована | Отсутствует | Вход пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.ReadWrite.All | делегирована | Нет | Чтение и запись полных профилей всех пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| openid | делегирована | Нет | Вход пользователей | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -127,4 +127,3 @@ ms.locfileid: "60414595"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

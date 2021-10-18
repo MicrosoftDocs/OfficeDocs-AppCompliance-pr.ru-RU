@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Konnect eMail Parser, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 055f7e45fccf858a233fe5849333dc870d445fe3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 9798f0bfcd3dbece15736784a1ef12d219762891
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412058"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60439260"
 ---
 # <a name="konnect-email-parser"></a>Parser электронной почты Konnect
 
@@ -111,4 +111,3 @@ ms.locfileid: "60412058"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

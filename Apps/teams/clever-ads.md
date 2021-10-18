@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Clever Ads, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6f9fbf26799878bdf119bad1133dd4e48a9a2b5d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ba74b95ca82f6fcf22a6263574b8fee5de86c0d4
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412533"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60435633"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -107,5 +107,4 @@ ms.locfileid: "60412533"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

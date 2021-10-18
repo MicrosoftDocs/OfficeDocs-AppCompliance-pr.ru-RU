@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430931"
+ms.locfileid: "60445126"
 ---
 # <a name="termef"></a>TerMef
 

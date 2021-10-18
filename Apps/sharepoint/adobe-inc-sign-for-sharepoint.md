@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign для SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: fbe0a3e7e649be8b3958df6c041db62d39006ca9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 9dc56e593f6736792f71ffb316a253534db68b4f
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412619"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60437275"
 ---
 # <a name="adobe-sign-for-sharepoint"></a>Adobe Sign для SharePoint
 
@@ -122,4 +122,3 @@ ms.locfileid: "60412619"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

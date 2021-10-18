@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для WorkInSync, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 746a7b7c52d8905aaf65d86bc0f15202f486eb82
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 35a505013b59bdd9cc0d9b40986acea1f1c19b53
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413661"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60442721"
 ---
 # <a name="workinsync"></a>WorkInSync
 
@@ -57,14 +57,14 @@ ms.locfileid: "60413661"
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | делегирована | 1. Для получения сведений о транзитных членах группы. Они используются в вкладке "Командная активность" при установке в контексте канала. 2. Чтобы войти в список сведений о профиле &amp;  пользователей в организации. Они используются при установке вкладки Team Activity в личном контексте в качестве отпада, чтобы показать предварительный просмотр партнеров по команде в случае сбой API пользователей (не для пользователей outlook) | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| Directory.Read.All | делегирована | 1. Для получения сведений о транзитных членах группы. Они используются в вкладке "Командная активность" при установке в контексте канала. 2. Чтобы войти в список сведений о профиле &amp;  пользователей в организации. Они используются при установке вкладки Team Activity в личном контексте в качестве отпада, чтобы показать предварительный просмотр партнеров по команде в случае сбой API пользователей (не для пользователей outlook) | Нет | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| People.Read | делегирована | Для получения людей, наиболее связанных с входом в систему пользователя, на вкладку Team Activity устанавливается в личном контексте. | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| Presence.Read | делегирована | Для получения сведений о присутствии списка пользователей на вкладке Team Activity как в личном контексте, так и в контексте канала | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| Presence.Read.All | делегирована | Для получения сведений о присутствии списка пользователей на вкладке Team Activity как в личном контексте, так и в контексте канала | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| Presence.Read.All | делегирована | Для получения сведений о присутствии списка пользователей на вкладке Team Activity как в личном контексте, так и в контексте канала | Нет | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| User.Read.All | приложение | Используется для получения сведений диспетчера отчетности любого пользователя для отправки уведомлений о бронировании и проверке/проверке менеджеру | Нет | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.ReadBasic.All | делегирована | Используется для чтения фотографии профиля сотрудника | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| User.ReadBasic.All | делегирована | Используется для чтения фотографии профиля сотрудника | Нет | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| email | делегирована | Необходимо получить маркер SSO с Teams клиентской библиотеки | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| offline_access | делегирована | Необходимо получить маркер SSO с Teams клиентской библиотеки | Нет | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| offline_access | делегирована | Необходимо получить маркер SSO с Teams клиентской библиотеки | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| openid | делегирована | Необходимо получить маркер SSO с Teams клиентской библиотеки | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| profile | делегирована | Необходимо получить маркер SSO с Teams клиентской библиотеки | Отсутствует | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 
@@ -133,4 +133,3 @@ ms.locfileid: "60413661"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для DICE DisasterTech, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fd0c7aeda8b245db0b222ffcfd4d59deb3d0374d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cbea629f59e4fe4acd25dae4a39020ad90ffa4de
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411073"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445427"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -57,9 +57,9 @@ ms.locfileid: "60411073"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | Адрес электронной почты пользователя, хранимый для установления прав доступа, а также имени пользователя для идентификации пользователей по имени | Позволяет пользователю войти в систему и предоставляет приложению доступ к его upN, чтобы включить бесшумный вход, а также Teams входа, а также установить имена пользователей и адреса электронной почты. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
->| email | делегирована | Отсутствует | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| email | делегирована | Нет | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 >| offline_access | делегирована | Нет | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
->| openid | делегирована | Нет | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| openid | делегирована | Отсутствует | Требуется для Teams одноместных Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 >| profile | делегирована | Отсутствует | Требуется для Teams одного входного знака. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
@@ -109,5 +109,4 @@ ms.locfileid: "60411073"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Героя здоровья, его политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d1b716209a69f4526b900fd1a56049ffc2d3dbc8
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 73fa8f0638a27edbb1316517fce7fb3bb15e57fd
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414605"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434618"
 ---
 # <a name="health-hero"></a>Health Hero
 
@@ -131,4 +131,3 @@ ms.locfileid: "60414605"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Commuty, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ec9a5806126e5e8625d591985084b00f0a60c0fd
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 60cfe397fcc43a029863e12bddacb6667877ca4e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411233"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444605"
 ---
 # <a name="commuty"></a>Коммутайт
 
@@ -56,10 +56,10 @@ ms.locfileid: "60411233"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | делегирована | События календаря | Нет, он используется только для синхронизации данных Commuty с Календарь Outlook. Данные всегда предоставляются в пользовательском интерфейсе commuty (который может быть через Outlook надстройки). | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
->| email | делегирована | адрес электронной почты; | Нет, это используется только для совпадения пользователя Commuty с идентификатором AD | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
+>| email | делегирована | Адрес электронной почты; | Нет, это используется только для совпадения пользователя Commuty с идентификатором AD | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
 >| offline_access | делегирована | Н/Д | Н/Д | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
 >| openid | делегирована | Проверка подлинности | Отсутствует | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
->| profile | делегирована | Удостоверение | Отсутствует | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
+>| profile | делегирована | Удостоверение | Нет | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -119,4 +119,3 @@ ms.locfileid: "60411233"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

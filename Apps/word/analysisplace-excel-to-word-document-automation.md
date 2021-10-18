@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Excel автоматизации документов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d8dee2b12160b94cc55d1be0b355b9e5212b595a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 31781dd4044cd216624efd41d74f27ad9e61c158
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60405768"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444915"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel автоматизация документов
 
@@ -123,4 +123,3 @@ ms.locfileid: "60405768"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

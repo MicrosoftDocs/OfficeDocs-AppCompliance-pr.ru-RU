@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Beesy, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2d6c04408ab08da89a858987981beb3fafc30229
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b4fca2218dfc87e1e268fa9d95a6e7c7e7d8349b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411858"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434458"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -107,5 +107,4 @@ ms.locfileid: "60411858"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

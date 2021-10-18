@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Q, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 25c9ce55aae852632170f5926c480f2369da97e5
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cb9231ece92308225f95d4764cbfcdf512eba84a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410112"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444827"
 ---
 # <a name="q"></a>Q
 
@@ -58,10 +58,10 @@ ms.locfileid: "60410112"
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | приложение | сохраняет данные собраний, за исключением тела сообщения и любых вложений | Позволяет приложению читать события календаря пользователя, чтобы разумно понять бизнес-приоритеты пользователя. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| Group.Read.All | делегирована | Нет | Позволяет приложению взаимодействовать в команде для обмена контентом. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Group.Read.All | делегирована | Отсутствует | Позволяет приложению взаимодействовать в команде для обмена контентом. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 >| Mail.Read | приложение | сохраняет данные электронной почты, за исключением тела сообщения и вложений | Позволяет приложению читать почту пользователя, чтобы разумно понимать бизнес-приоритеты пользователя | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 >| User.Read | делегирована | маркеры электронной почты и проверки подлинности пользователей | Позволяет пользователю войти и связать свою учетную запись Office 365 с учетной записью ModuleQ | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| User.Read.All | делегирована | Отсутствует | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read.All | делегирована | Нет | Разрешить приложению получить список Teams, в который входит пользователь. Используется только для совместного использования  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -137,4 +137,3 @@ ms.locfileid: "60410112"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

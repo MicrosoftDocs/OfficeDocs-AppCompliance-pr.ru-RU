@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для LawToolBox, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 492b1d4652bc4b6dd110be7aa59d3cfbd3b4cb59
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 20f0f04fb86dc28cdcbd8639cb04e5e74f659174
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412298"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434578"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -124,5 +124,4 @@ ms.locfileid: "60412298"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

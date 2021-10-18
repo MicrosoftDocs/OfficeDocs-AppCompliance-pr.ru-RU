@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для переполнения стека для Teams, политики обработки данных, сведения об Microsoft Cloud App Security каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3c6493326d8b58ad4c8e7e4fc5486a7f03cd2b8b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6b56ce25aee5e95b1111a9396c193e71d4ea2c72
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410843"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60437378"
 ---
 # <a name="stack-overflow-for-teams"></a>Stack Overflow for Teams
 
@@ -107,5 +107,4 @@ MS Teams отправляет нам их идентифицируемые ids �
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
