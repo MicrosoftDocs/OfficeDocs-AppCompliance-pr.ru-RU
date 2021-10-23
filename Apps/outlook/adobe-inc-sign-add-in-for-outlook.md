@@ -2,23 +2,23 @@
 title: Сведения о приложениях для Adobe Sign Add-In для Outlook Adobe Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/06/2021
+ms.date: 10/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign Add-In для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d5c347a461d9b3901f880fb7e3c7ff03f4505051
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 2de39ef437ba0bc7740d4fc6124d7b500ddc6c62
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430689"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545869"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Adobe Sign Add-In для Outlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 1 октября 2021 г.</p>
+<p>Последнее обновление разработчика: 19 октября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381158" target="_blank">Просмотр в AppSource</a>
 

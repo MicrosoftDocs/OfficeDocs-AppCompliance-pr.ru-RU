@@ -78,6 +78,16 @@ groups:
     title: Безопасность и соответствие требованиям
   - id: certification
     title: Сертификация
+- id: app-info-data-certification
+  title: Категории информации о приложениях
+  prompt: 'Выберите категорию сведений, которые вы хотите увидеть для этого приложения:'
+  pivots:
+  - id: general
+    title: Общие указания
+  - id: data
+    title: Обработка данных
+  - id: certification
+    title: Сертификация
 - id: app-info-data-identity-certification
   title: Категории информации о приложениях
   prompt: 'Выберите категорию сведений, которые вы хотите увидеть для этого приложения:'
@@ -104,10 +114,44 @@ groups:
     title: Удостоверение
   - id: certification
     title: Сертификация
+- id: app-info-data-security-compliance-privsection-zerotrust
+  title: Категории информации о приложениях
+  prompt: 'Выберите категорию сведений, которые вы хотите увидеть для этого приложения:'
+  pivots:
+  - id: general
+    title: Общие указания
+  - id: data
+    title: Обработка данных
+  - id: security
+    title: Безопасность
+  - id: compliance
+    title: Соответствие требованиям
+  - id: privsection
+    title: Конфиденциальность
+  - id: zerotrust
+    title: Удостоверение
+- id: app-info-data-security-compliance-privsection-zerotrust-certification
+  title: Категории информации о приложениях
+  prompt: 'Выберите категорию сведений, которые вы хотите увидеть для этого приложения:'
+  pivots:
+  - id: general
+    title: Общие указания
+  - id: data
+    title: Обработка данных
+  - id: security
+    title: Безопасность
+  - id: compliance
+    title: Соответствие требованиям
+  - id: privsection
+    title: Конфиденциальность
+  - id: zerotrust
+    title: Удостоверение
+  - id: certification
+    title: Сертификация
 metadata:
-  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
-  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+  ms.openlocfilehash: f3ee86598a788c911d9a82186a2de24997477ff6
+  ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 10/16/2021
-  ms.locfileid: "60411283"
+  ms.lasthandoff: 10/22/2021
+  ms.locfileid: "60545889"

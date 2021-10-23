@@ -2,23 +2,23 @@
 title: Сведения о приложениях для Adobe Sign от Adobe Systems Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/06/2021
+ms.date: 10/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 91c71b2dbe3c85067dd8e6a47a3cbe6ecff68e3d
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 13bb571bab1fa34a772aaf528579698b064c03cb
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428372"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545599"
 ---
 # <a name="adobe-sign"></a>Adobe Sign
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 26 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 20 октября 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/0f56a9d1-f502-40f9-a9e8-816d7adbb68b" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381233" target="_blank">Просмотр в AppSource</a>
