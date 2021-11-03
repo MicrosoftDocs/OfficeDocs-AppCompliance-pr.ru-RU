@@ -12,8 +12,8 @@ ms.openlocfilehash: 94c70633add16eaaef067f8232328ab449d8a2ff
 ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60683703"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60719131"
 ---
 # <a name="remind"></a>Remind
 

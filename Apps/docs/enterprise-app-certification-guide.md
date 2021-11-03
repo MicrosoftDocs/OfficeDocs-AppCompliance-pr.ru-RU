@@ -10,8 +10,8 @@ ms.openlocfilehash: e41a9c0d09fec10b0034e7da5e8a335cbc4473fc
 ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60683582"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60719561"
 ---
 # <a name="what-is-microsoft-365-certification"></a>Что такое Microsoft 365 сертификация?
 
