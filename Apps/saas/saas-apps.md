@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям SaaS Apps — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 0743da5c3857eb922317cc0d6902628b8d6a15a2
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: b738af74e4fc7b0024b3a7e6ff6d4644f5afbec9
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719111"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60871795"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие требованиям SaaS Apps
 
@@ -20,6 +20,9 @@ ms.locfileid: "60719111"
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [Контактный центр Buzzeasy для Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
+| [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT LTD. | **✓** |  |
+| [Облачное резервное копирование для Office 365 - Prod (transact)](./avepoint-inc-cloud-backup-for-office-365-prod-transact.md) | AvePoint Inc. | **✓** |  |
 | [Подписи электронной почты CodeTwo для Office 365](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
 | [Выбор контента](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
@@ -32,6 +35,7 @@ ms.locfileid: "60719111"
 | [MyHub для Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Netskope для Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Политики Аналитика &amp; для Microsoft 365 (BYOL)](./avepoint-inc-policies-and-insights-for-microsoft-365-byol.md) | AvePoint Inc. | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [Выбор слайдов](./officeatwork-slide-chooser.md) | officeatwork | **✓** |  |

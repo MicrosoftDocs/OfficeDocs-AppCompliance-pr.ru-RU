@@ -2,17 +2,17 @@
 title: Microsoft Excel Безопасность и соответствие требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 8fb90fec1ed5b5bc830fa498eee3b690e10e479b
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: 9e7418eab523d12da1edf75ec8223670333f7813
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719741"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60873465"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Безопасность и соответствие требованиям приложений
 
@@ -30,7 +30,7 @@ ms.locfileid: "60719741"
 | [Диаграммы Lucidchart для Excel](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid Software Inc | **✓** |  |
 | [Анализ текста MeaningCloud для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
