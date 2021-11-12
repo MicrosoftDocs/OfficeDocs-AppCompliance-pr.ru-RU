@@ -2,17 +2,17 @@
 title: Azure App ID Information for affadfb6-f17b-428f-97f9-9aae3b6175bc
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/08/2021
+ms.date: 11/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для affadfb6-f17b-428f-97f9-9aae3b6175bc.
-ms.openlocfilehash: 4143b5933edf1630559456cf37d5fc8d8c72640e
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: a0b68c5818b8e2c0de974bab785ec16eb4e85ea2
+ms.sourcegitcommit: 358503f5b89862e61a6c8ad4ba5bda9ccd8e8357
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874455"
+ms.lasthandoff: 11/12/2021
+ms.locfileid: "60922011"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure App ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 
@@ -24,6 +24,6 @@ ms.locfileid: "60874455"
 | [Матрица приоритетов — превратите электронные почты в задачи](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381735) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381735](https://appsource.microsoft.com/product/office/WA104381735) |
 | [Priority Matrix](https://docs.microsoft.com/microsoft-365-app-certification/forward/appfluenceinc.m_pm_msft) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/appfluenceinc.m_pm_msft](https://appsource.microsoft.com/product/office/appfluenceinc.m_pm_msft) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 Состояние соответствия требованиям приложения
-- Publisher Состояние Attestaton: завершено
-- Microsoft 365 Сертификация: утверждена (06/23/2021)
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 состояние соответствия требованиям к приложениям
+- Publisher Attestaton Status: Завершено
+- Microsoft 365 сертификации: утверждена (06/23/2021)
