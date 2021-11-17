@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям Azure App IDs — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/15/2021
+ms.date: 11/16/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех ID-данных Azure App.
 localization_priority: Normal
-ms.openlocfilehash: 3b79cb9ffed99aa26b15120618d4a9c4b1f73303
-ms.sourcegitcommit: e2058327f6190424ecc5d6d8b12afe60bd7dc1f3
+ms.openlocfilehash: 6b8c8a3dd83f983bb416dbc63d3c1db8d9bb86c3
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60968431"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61040131"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Безопасность и соответствие требованиям azure App IDs
 

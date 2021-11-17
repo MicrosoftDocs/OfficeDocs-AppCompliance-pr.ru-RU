@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для политик Аналитика для Microsoft 365 (BYOL), политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре &amp; CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2f86ce69199b8573824f5207ea1e7b78147b73ea
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: 45bd93418e3b6b2c5f3b613f2c7467cd238c8213
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874963"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61039971"
 ---
 # <a name="policies-amp-insights-for-microsoft-365-byol"></a>Политики Аналитика &amp; для Microsoft 365 (BYOL)
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 26 октября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/avepoint.policies-insights_mo365_byol" target="_blank">Просмотр в AppSource</a>
@@ -106,25 +105,25 @@ ms.locfileid: "60874963"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Да |
 | Какую сертификацию SOC 2 удалось добиться? |  type2 |
 | Самая недавняя дата сертификации SOC2 |  2021-02-19 |
 | Соответствует ли приложение средствам управления службами (SOC 3)? | Нет |
 | Самая недавняя дата сертификации SOC3 | |
-| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Н/Д |
+| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Недоступно |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Да |
-| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Н/Д |
+| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Недоступно |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Да |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
 | Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Да |
-| Соответствует ли приложение NIST 800-171? | Н/Д |
+| Соответствует ли приложение NIST 800-171? | Недоступно |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Да |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -167,7 +166,7 @@ ms.locfileid: "60874963"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph Разрешение**  | **Тип разрешений** |          **Justification**          |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| Sites.FullControl.All | приложение | Извлечение и обновление сведений о коллекциях сайтов и группах/группах&#8217; сайтов. |
 >| User.Read.All | приложение | Чтение параметров всех пользователей |
