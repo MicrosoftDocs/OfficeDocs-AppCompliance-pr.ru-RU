@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор контента для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8c6183fd0573ab38e5bf0b68976380af56133581
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 128e62ce29c8f7a9da9eca7f78bd15c6148b4116
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284241"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066357"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | Выбор контента для Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380602" target="_blank">Просмотр в AppSource</a>
@@ -30,9 +31,9 @@ ms.locfileid: "59284241"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | officeatwork — выбор контента для Office |
+| Название приложения | officeatwork — выбор контента для Office |
 | Идентификатор | WA104380602 |
-| Office 365 поддерживаемые клиенты | Excel iPad, Excel 2016 или более поздней Excel 2013 Пакет обновления 1 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint на iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows, OneNote в Интернете |
+| Office 365 поддерживаемые клиенты | Excel iPad, Excel 2016 или более поздней Excel 2013 Пакет обновления 1 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней Word в Интернете , Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint на iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows, OneNote в Интернете |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -57,7 +58,7 @@ ms.locfileid: "59284241"
 >| Files.ReadWrite.All | делегирована | Данные не хранятся. | Избранное: возможность чтения и записи данных пользователям, OneDrive. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Files.ReadWrite.All | делегирована | Данные не хранятся. | OneDrive: возможность чтения и записи данных пользователям OneDrive. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: возможность чтения и записи данных в группу. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
->| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Поддержка групп безопасности: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые имеет доступ пользователь, входив в группу. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
+>| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Online — поддержка групп безопасности: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые пользователь имеет доступ к входу. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: включить чтение данных из SharePoint Online. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
@@ -107,7 +108,7 @@ ms.locfileid: "59284241"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751" target="_blank">Просмотр на новой вкладке</a>
 

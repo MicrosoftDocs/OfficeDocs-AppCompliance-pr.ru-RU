@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор шаблона для Office, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 902198ce1bb7e3b805c2b6c20879a6b77b144954
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 007a116d9a52d3a32b664c8f564118445cfbcc5d
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285105"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066447"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | Выбор шаблона для Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">Просмотр в AppSource</a>
@@ -30,9 +31,9 @@ ms.locfileid: "59285105"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | officeatwork — выбор шаблона для Office |
+| Название приложения | officeatwork — выбор шаблона для Office |
 | Идентификатор | WA104380050 |
-| Office 365 поддерживаемые клиенты | Excel на iPad, Excel 2016 или более поздней Excel 2013 или более поздней Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 или более поздней Windows, PowerPoint iPad, PowerPoint 2016 или более поздней основе на Mac, PowerPoint в Интернете, PowerPoint 2013 или более поздней Windows, Project 2016 или более поздней Windows |
+| Office 365 поддерживаемые клиенты | Excel на iPad, Excel 2016 или более поздней Excel 2013 Windows, Excel в Интернете, Word на iPad, Word 2016 или более поздней основе на Mac, Word в Интернете, Word 2013 или более поздней Windows, PowerPoint iPad, PowerPoint 2016 или более поздней PowerPoint в Интернете, PowerPoint 2013 или более поздней Windows, Project 2016 или более поздней Windows |
 | Имя компании-партнера | officeatwork |
 | URL-адрес веб-сайта-партнера | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL-адрес политики конфиденциальности | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -106,7 +107,7 @@ ms.locfileid: "59285105"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">Просмотр на новой вкладке</a>
 

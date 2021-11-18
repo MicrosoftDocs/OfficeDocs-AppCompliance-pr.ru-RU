@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Проверяем для Office, политик обработки данных, Microsoft Cloud App Security каталога приложений и сведений о безопасности и соответствия требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c8ac51b56ccec7e502d0fef3e680b335799ff83a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1e09b3b38504bd308e3cde8945ecc776ae5c2ea0
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288009"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066507"
 ---
 # <a name="officeatwork--verifier-for-office"></a>officeatwork | Проверку для Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200000133" target="_blank">Просмотр в AppSource</a>
@@ -30,7 +31,7 @@ ms.locfileid: "59288009"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | officeatwork — verifier для Office |
+| Название приложения | officeatwork — verifier для Office |
 | Идентификатор | WA200000133 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word 2016 или более поздней Windows, Word в Интернете, Word на iPad |
 | Имя компании-партнера | officeatwork |
@@ -56,7 +57,7 @@ ms.locfileid: "59288009"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.Read | делегирована | Данные не хранятся. | OneDrive: возможность чтения файлов подписанного пользователя | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 >| Files.Read.All | делегирована | Данные не хранятся. | Teams: прочитать все файлы, к которые имеет доступ пользователь с входом. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: чтобы включить чтение данных из SharePoint Online, пользователь, вписав его, имеет доступ к. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: чтобы включить чтение данных из SharePoint Online, пользователь имеет доступ к входу. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 >| User.Read | делегирована | Данные не хранятся. | Вход: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 >| offline_access | делегирована | Данные не хранятся. | Вход: чтобы включить автоматическую регистрацию с помощью маркеров обновления, как и без, пользователям придется вручную включать каждый раз при запуске приложения officeatwork. Эта область требуется только для не-SSO с включенной хост-приложениями. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 >| openid | делегирована | Данные не хранятся. | Sing-In: чтобы пользователи могли войти в приложение officeatwork со своей организационной и/или учетной записью Майкрософт. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
@@ -104,7 +105,7 @@ ms.locfileid: "59288009"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755" target="_blank">Просмотр на новой вкладке</a>
 

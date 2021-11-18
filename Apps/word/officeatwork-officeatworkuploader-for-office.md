@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Загрузчик для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4db105d3bfc1ba2ae292110b30c37ae3832ac7f6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ffde80edf2a5e9fe247a91af61faef54fbf8fdd7
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288374"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066444"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork | Загрузщик для Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 23 июня 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381430" target="_blank">Просмотр в AppSource</a>
@@ -30,7 +31,7 @@ ms.locfileid: "59288374"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | officeatwork — загрузщик для Office |
+| Название приложения | officeatwork — загрузщик для Office |
 | Идентификатор | WA104381430 |
 | Office 365 поддерживаемые клиенты | Word on iPad, Word 2016 или более поздней основе на Mac, Word 2016 или более поздней Windows, Word в Интернете |
 | Имя компании-партнера | officeatwork |
@@ -56,7 +57,7 @@ ms.locfileid: "59288374"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | делегирована | Данные не хранятся. | OneDrive: возможность чтения и записи данных в OneDrive. | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| Group.ReadWrite.All | делегирована | Данные не хранятся. | Teams: чтение и написание данных в группу. | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Поддержка Групп безопасности в Интернете: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые имеет доступ пользователь, входив в группу. | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| GroupMember.Read.All | делегирована | Данные не хранятся. | SharePoint Online — группы безопасности: разрешить приложению перечислять группы, читать основные свойства групп и читать членство всех групп, к которые пользователь имеет доступ. | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| Sites.Read.All | делегирована | Данные не хранятся. | SharePoint Online: чтобы включить чтение данных в SharePoint Online, пользователь, записав вход, имеет доступ к. Возможность загрузки данных в SharePoint Online | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| User.Read | делегирована | Данные не хранятся. | Sing-In: чтобы включить приложение Officeatwork для чтения основных свойств пользователя. | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| User.Read.All | делегирована | Данные не хранятся. | Teams: выяснить, к каким группам относится пользователь. | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
@@ -106,7 +107,7 @@ ms.locfileid: "59288374"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750" target="_blank">Просмотр на новой вкладке</a>
 
