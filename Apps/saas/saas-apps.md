@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям SaaS Apps — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/29/2021
+ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 14599b013ac0cedf1e718fe5a25ac879a37604fa
-ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
+ms.openlocfilehash: 7e7636740cf251d2168276703a51e32ae36bdb6a
+ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61215256"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61235042"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие требованиям SaaS Apps
 
@@ -24,6 +24,7 @@ ms.locfileid: "61215256"
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT LTD. | **✓** |  |
 | [Облачное резервное копирование для Office 365 - Prod (transact)](./avepoint-inc-cloud-backup-for-office-365-prod-transact.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Подписи электронной почты CodeTwo для Office 365](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
+| [Пакет коммуникаций Competella](./competella-ab-communication-suite.md) | Competella AB | **✓** |  |
 | [Выбор контента](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
 | [cRM-Office 365 для Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** |  |
