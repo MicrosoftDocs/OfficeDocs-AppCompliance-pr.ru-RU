@@ -2,17 +2,17 @@
 title: Безопасность SharePoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/29/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: 0ab6d04d916c0398642ed3f9dc80b7b5dd9196b1
-ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
+ms.openlocfilehash: 32069d1728f56532ebdb30ed34ab51552c995e55
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61217073"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61353694"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -21,10 +21,7 @@ ms.locfileid: "61217073"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign для SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc. | **✓** |  |
-| [Agile Task Board for SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
 | [ArcGIS для SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
-| [Соединители FormMachines для SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | КОРПОРАТИВНЫЕ ЦИФРОВЫЕ МАШИНЫ PTY LTD | **✓** |  |
-| [Gaggle для SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net, Inc. | **✓** |  |
 | [HelloSign для SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [Надстройки cRM iGlobe](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [cRM-Office 365 iGlobe для Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

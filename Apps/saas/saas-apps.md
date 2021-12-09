@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям SaaS Apps — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/30/2021
+ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 7e7636740cf251d2168276703a51e32ae36bdb6a
-ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
+ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
+ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "61235042"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61359711"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие требованиям SaaS Apps
 
@@ -22,7 +22,7 @@ ms.locfileid: "61235042"
 |:--------|:------------|:----------------------:|:-------------:|
 | [Контактный центр Buzzeasy для Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT LTD. | **✓** |  |
-| [Облачное резервное копирование для Office 365 - Prod (transact)](./avepoint-inc-cloud-backup-for-office-365-prod-transact.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Облачное резервное копирование Microsoft Office 365](./avepoint-inc-cloud-backup-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Подписи электронной почты CodeTwo для Office 365](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
 | [Пакет коммуникаций Competella](./competella-ab-communication-suite.md) | Competella AB | **✓** |  |
 | [Выбор контента](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
@@ -37,7 +37,7 @@ ms.locfileid: "61235042"
 | [Netskope для Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Обнаружение Onna для MS365](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
-| [Политики Аналитика &amp; для Microsoft 365 (BYOL)](./avepoint-inc-policies-and-insights-for-microsoft-365-byol.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Политики &amp; Аналитика для Microsoft Office 365](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [Выбор слайдов](./officeatwork-slide-chooser.md) | officeatwork | **✓** |  |
@@ -45,4 +45,5 @@ ms.locfileid: "61235042"
 | [Браузер выбора шаблона](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
 | [Отправитель](./officeatwork-uploader.md) | officeatwork | **✓** |  |
 | [Verifier](./officeatwork-verifier.md) | officeatwork | **✓** |  |
+| [Широкие идеи — программное обеспечение для инноваций](./wide-ideasidea2innovation-ideas-innovation-software.md) | Wide Ideas/Idea2Innovation | **✓** |  |
 | [Wizard](./officeatwork-wizard.md) | officeatwork | **✓** |  |

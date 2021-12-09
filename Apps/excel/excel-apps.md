@@ -2,17 +2,17 @@
 title: Microsoft Excel безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: f5e36298554672e6cb7c22cb84d32c68d902cb37
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 94eba70bda84194b7055912f4125348dea4df0d3
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61145231"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61353414"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности приложений и соответствия требованиям
 
@@ -26,9 +26,7 @@ ms.locfileid: "61145231"
 | [Forbury](./forbury-property.md) | Свойство Forbury | **✓** |  |
 | [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  |
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
-| [средство отчетности iPlanner для Office 365 планировщика](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud для Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
-| [Диаграммы Lucidchart для Excel](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid Software Inc | **✓** |  |
 | [Анализ текста MeaningCloud для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |

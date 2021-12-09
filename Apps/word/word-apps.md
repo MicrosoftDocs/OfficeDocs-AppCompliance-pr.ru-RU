@@ -2,17 +2,17 @@
 title: Microsoft Word безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/29/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех Microsoft Word Apps.
 localization_priority: Normal
-ms.openlocfilehash: ead76387b7cdfd52f035f81db53baa59e3bf580f
-ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
+ms.openlocfilehash: c45c9f29de245e5c60199eb85b54c0324ece68b0
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61217053"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61353674"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word безопасности и соответствия требованиям приложений
 
@@ -31,7 +31,6 @@ ms.locfileid: "61217053"
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Добавление word LegalMind](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Программное обеспечение для проверки контрактов Loio](./loio-inc-contract-review-software.md) | Loio Inc. | **✓** |  |
-| [Диаграммы Lucidchart для Word](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Lucid Software Inc | **✓** |  |
 | [Сит Менделея](./elsevier-limited-mendeley-cite.md) | ELSEVIER LIMITED | **✓** |  |
 | [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
