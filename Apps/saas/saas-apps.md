@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям SaaS Apps — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
-ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
+ms.openlocfilehash: 9a96b3d33c06f3ec77989fcdb669f97c0f608bd8
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 12/08/2021
-ms.locfileid: "61359711"
+ms.locfileid: "61354404"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие требованиям SaaS Apps
 
@@ -45,5 +45,4 @@ ms.locfileid: "61359711"
 | [Браузер выбора шаблона](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
 | [Отправитель](./officeatwork-uploader.md) | officeatwork | **✓** |  |
 | [Verifier](./officeatwork-verifier.md) | officeatwork | **✓** |  |
-| [Широкие идеи — программное обеспечение для инноваций](./wide-ideasidea2innovation-ideas-innovation-software.md) | Wide Ideas/Idea2Innovation | **✓** |  |
 | [Wizard](./officeatwork-wizard.md) | officeatwork | **✓** |  |
