@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям Azure App IDs — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2021
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех ID-данных Azure App.
 localization_priority: Normal
-ms.openlocfilehash: 8923ad30944e9db3eef1dbe97c8d85fbeefe820e
-ms.sourcegitcommit: 4abb4344a6593d61ef5a1a84cf32dc6610652f2f
+ms.openlocfilehash: 28f497ac0dfd1f8b1aeae7e1039b37695b41e137
+ms.sourcegitcommit: 69fc4973c9ad349e40b9b1a13aae8acec3773b17
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 12/10/2021
-ms.locfileid: "61406292"
+ms.locfileid: "61409290"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Безопасность и соответствие требованиям azure App IDs
 
@@ -50,6 +50,7 @@ ms.locfileid: "61406292"
 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](./23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) | **✓** |  |
 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](./23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) | **✓** |  |
 | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](./24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) | **✓** |  |
+| [25379fc8-577f-4935-b681-6f027977fbe3](./25379fc8-577f-4935-b681-6f027977fbe3.md) | **✓** |  |
 | [272032ad-0c2e-4928-910e-5d52b19f70d5](./272032ad-0c2e-4928-910e-5d52b19f70d5.md) | **✓** |  |
 | [27c89ce8-b449-4959-b801-988d8b727512](./27c89ce8-b449-4959-b801-988d8b727512.md) | **✓** |  |
 | [286a2e24-18ad-432d-8698-694bcd77ecfc](./286a2e24-18ad-432d-8698-694bcd77ecfc.md) | **✓** |  |
