@@ -333,7 +333,7 @@
           href: teams/conferences-io.md
         - name: Confluence Cloud
           href: teams/atlassian-confluence-cloud.md
-        - name: Соединитель слияния по MWF
+        - name: Confluence Connector от MWF
           href: teams/move-work-forward-confluence-connector-by-mwf.md
         - name: Connect+
           href: teams/reward-gateway-connectplus.md
@@ -379,7 +379,7 @@
           href: teams/r2-docuo.md
         - name: DocuSign eSignature
           href: teams/docusign-inc-esignature.md
-        - name: Единая запись вызовов в Dubber
+        - name: Единая запись вызовов Dubber
           href: teams/dubber-unified-call-recording.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
@@ -821,6 +821,8 @@
           href: teams/iqar-suitepro-g.md
         - name: SuperBeings
           href: teams/haptivity-technologies-pvt-ltd-superbeings.md
+        - name: SuperOffice
+          href: teams/superoffice-infobridge-software.md
         - name: SurveyMonkey
           href: teams/surveymonkey.md
         - name: SurveySparrow
@@ -845,6 +847,8 @@
           href: teams/ityss-tamplo.md
         - name: Taskworld
           href: teams/taskworld.md
+        - name: Командный трекер
+          href: teams/team-tracker-ltd.md
         - name: Teamble
           href: teams/teamble.md
         - name: TeaMe Health Check Bot
@@ -1089,6 +1093,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: SendGuard для M365
+          href: saas/standss-south-pacific-pte-limited-sendguard-for-m365.md
         - name: Выбор слайдов
           href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser
