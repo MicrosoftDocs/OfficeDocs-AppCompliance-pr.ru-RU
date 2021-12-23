@@ -2,17 +2,17 @@
 title: Безопасность SharePoint приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/10/2021
+ms.date: 12/22/2021
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: 3345dc8940089b20872f489f25fe94e7616dfbf8
-ms.sourcegitcommit: e3daf82725ca37fec97f5ff639b6a9c2d5365c85
+ms.openlocfilehash: 7a78fe4a40b62878d90ef4350ca5ba3100090b4f
+ms.sourcegitcommit: 801dcfe732e3d119fa21e56499978915a2da3896
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "61420797"
+ms.lasthandoff: 12/22/2021
+ms.locfileid: "61592730"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -22,6 +22,7 @@ ms.locfileid: "61420797"
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign для SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc. | **✓** |  |
 | [ArcGIS для SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
+| [Соединители FormMachines для SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | КОРПОРАТИВНЫЕ ЦИФРОВЫЕ МАШИНЫ PTY LTD | **✓** |  |
 | [HelloSign для SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [Надстройки cRM iGlobe](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [cRM-Office 365 iGlobe для Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
