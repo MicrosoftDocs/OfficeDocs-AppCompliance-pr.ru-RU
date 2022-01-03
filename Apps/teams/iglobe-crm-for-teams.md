@@ -2,24 +2,23 @@
 title: Сведения о приложениях для iGlobe CRM для Teams iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/06/2021
+ms.date: 12/19/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 50a591bbbf634a69b0684ee7701987bd7b8eaad8
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 6aaeddce93a513ca22b0bf5c0b4fdf8b85a7830d
+ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354666"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61662687"
 ---
 # <a name="iglobe-crm-for-teams"></a>CRM iGlobe для Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 6 декабря 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 9 декабря 2021 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/f708066c-137d-41a1-a88b-a6f3ae8982e2" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381421" target="_blank">Просмотр в AppSource</a>
@@ -33,7 +32,7 @@ ms.locfileid: "61354666"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | CRM iGlobe для Teams |
-| ID | WA104381421 |
+| Идентификатор | WA104381421 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
