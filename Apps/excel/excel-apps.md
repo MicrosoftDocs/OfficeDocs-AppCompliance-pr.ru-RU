@@ -2,17 +2,17 @@
 title: Microsoft Excel безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 4273092bda210ae57caafd1150c0970f4829a3a4
-ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
+ms.openlocfilehash: dd62d497c0071968f52c6d936bcbcf00eeb1fbab
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "61579698"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61786117"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности приложений и соответствия требованиям
 
