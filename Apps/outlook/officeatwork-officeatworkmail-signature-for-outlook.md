@@ -1,27 +1,27 @@
 ---
-title: Сведения о приложениях для officeatwork | Выбор контента для Outlook officeatwork
+title: Сведения о приложениях для officeatwork | Подпись почты для Outlook officeatwork
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Выбор контента для Outlook, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Mail Signature для Outlook, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 407167303a549e94f5e68e184243bd7137461823
+ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
 ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 01/12/2022
-ms.locfileid: "61788089"
+ms.locfileid: "61788534"
 ---
-# <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork | Выбор контента для Outlook
+# <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork | Подпись почты для Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 7 января 2022 г.</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380690" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003062" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
@@ -31,13 +31,13 @@ ms.locfileid: "61788089"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | officeatwork — выбор контента для Outlook |
-| Идентификатор | WA104380690 |
-| Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или более поздней Outlook в Интернете |
+| Название приложения | officeatwork — подпись почты для Outlook |
+| Идентификатор | WA200003062 |
+| Office 365 поддерживаемые клиенты | Outlook 2016 или позже Windows, Outlook в Интернете |
 | Имя компании-партнера | officeatwork |
 | Веб-сайт компании | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | Условия использования приложения | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| Основные функции приложения | Доступ к централизованному общему контенту в Word, Excel, PowerPoint, Outlook, Браузере и других приложениях. |
+| Основные функции приложения | Подписи почты, простые и безопасные, централизованно управляемые, фирменные &amp; персонализированные по всей организации. |
 | Расположение штаб-квартиры компании | Швейцария |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
@@ -164,7 +164,7 @@ ms.locfileid: "61788089"
 | Список типов поддерживаемых политик | Параметры безопасности по умолчанию |
 | Поддерживает ли ваше приложение оценку непрерывного доступа (CAE) | Да |
 | Сохраняет ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Microsoft за пределами Microsoft Graph. Использует ли приложение или надстройка дополнительные API Майкрософт? | Да |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Microsoft за пределами Microsoft Graph. Использует ли приложение или надстройка дополнительные API Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -173,12 +173,7 @@ ms.locfileid: "61788089"
 >| openid | делегирована | Включить вход |
 >| profile | делегирована | Включить вход |
 >| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов |
->| User.Read | делегирована | Включить отображение подписанного пользователя |
->| Files.ReadWrite.All | делегирована | Включить функцию Избранное и OneDrive |
->| Group.ReadWrite.All | делегирована | Включить Teams |
->| User.Read.All | делегирована | Включить отображение свойств пользователя |
->| Sites.Read.All | делегирована | Чтение файлов шаблонов пользователей, хранимых в SharePoint |
->| GroupMember.Read.All | делегирована | Включить Teams |
+>| User.Read | делегирована | Включить отображение подписанного пользователя, включить динамические подписи почты со свойствами пользователя |
 
 >В этом приложении нет дополнительных API.
 
