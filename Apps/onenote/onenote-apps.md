@@ -2,17 +2,17 @@
 title: Microsoft OneNote безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/11/2022
+ms.date: 01/13/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft OneNote Apps.
 localization_priority: Normal
-ms.openlocfilehash: edaa83aab113fcb4f881a7cb5c14ce06b34fff1d
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: b7bc7dbcc140a19e2a574e3186c1886eb684b300
+ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61789163"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62028281"
 ---
 # <a name="microsoft-onenote-apps-security-and-compliance"></a>Microsoft OneNote безопасности и соответствия требованиям приложений
 
@@ -20,6 +20,4 @@ ms.locfileid: "61789163"
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [officeatwork | Выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | Выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [Wunder365 для Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |
