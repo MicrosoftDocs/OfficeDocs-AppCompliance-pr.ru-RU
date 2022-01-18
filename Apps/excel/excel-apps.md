@@ -2,17 +2,17 @@
 title: Microsoft Excel безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/17/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 17fb073b5bbdf008d5fe83ee400ec8e2b04d81c5
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 9cb86361200bfd87838da3c708f7eaf61898bfef
+ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028834"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "62065915"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности приложений и соответствия требованиям
 
@@ -30,5 +30,4 @@ ms.locfileid: "62028834"
 | [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [Решения QuickCells](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
-| [Wunder365 для Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |
 | [Данные XBRL](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
