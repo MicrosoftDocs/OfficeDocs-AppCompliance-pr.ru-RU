@@ -2,17 +2,17 @@
 title: Microsoft Word безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/19/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех Microsoft Word Apps.
 localization_priority: Normal
-ms.openlocfilehash: 6667d3952448de13f9e12b7973825235f8bbaee0
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 57e22758b4df7242e88ae70ff1f008448e3d6fc5
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144526"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62175212"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word безопасности и соответствия требованиям приложений
 
@@ -21,12 +21,10 @@ ms.locfileid: "62144526"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign for Word and PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Надстройка AuditBoard](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax — отправка факса &amp;](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
-| [Надстройка Office Fabasoft Cloud](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  |
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Добавление word LegalMind](./legalmind-word-addin.md) | LegalMind | **✓** |  |
@@ -41,7 +39,6 @@ ms.locfileid: "62144526"
 | [officeatwork | Uploader for Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Проверяем для Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Мастер для Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** |  |
-| [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [SmartCite для документов](./digital-science-smartcite-for-papers.md) | Цифровая наука | **✓** |  |
 | [Стилус для word](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [Документы TaxKit](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |

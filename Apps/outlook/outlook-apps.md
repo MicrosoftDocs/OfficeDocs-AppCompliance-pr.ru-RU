@@ -2,17 +2,17 @@
 title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/19/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: b1011389a99c7e24b743e8a415ace62bf28dd522
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b98db45a16e80cd56a4429948e4685120860ea91
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144346"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62173752"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
@@ -34,7 +34,6 @@ ms.locfileid: "62144346"
 | [Jira Cloud для Outlook (Official)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
 | [Управление вопросами LawToolBox deadlines &amp; — Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [Крайние сроки и управление вопросами LawToolBox — Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
-| [Mailbutler](./mailbutler.md) | Mailbutler | **✓** |  |
 | [MIPA — личный помощник](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [Office2SharePoint для Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -42,7 +41,6 @@ ms.locfileid: "62144346"
 | [officeatwork | Подпись почты для Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
 | [OnePlaceMail для Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | Решения OnePlace | **✓** |  |
 | [Участие в информационно-пропагандистских продажах для Outlook](./outreach-sales-engagement-for-outlook.md) | Информационно-пропагандистская работа | **✓** |  |
-| [Pexip One для Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [Матрица приоритетов — превратите электронные почты в задачи](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |

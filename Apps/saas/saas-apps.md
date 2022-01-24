@@ -2,17 +2,17 @@
 title: Безопасность и соответствие требованиям SaaS Apps — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/19/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: c4cfdbbc229dbdb1d6dcf288353a937cb0ee77a7
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 1c3f33682524566171bf2cc2892e5b7787803559
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149251"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62172809"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие требованиям SaaS Apps
 
@@ -30,6 +30,7 @@ ms.locfileid: "62149251"
 | [Выбор контента](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Браузер выбора контента](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
+| [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes для Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (South Pacific) PTE Limited | **✓** |  |
 | [cRM-Office 365 для Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Выбор изображения](./officeatwork-image-chooser.md) | officeatwork | **✓** |  |
