@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Proconnect для sitecore subramanian Ramanathan
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Proconnect для Sitecore, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0bd5876a65ebe7832a330f04ac9db086bdf1ff04
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 0b2861bf05a54d4a2019c32959f0c76a6a02f383
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144026"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62198032"
 ---
 # <a name="proconnect-for-sitecore"></a>Proconnect для Sitecore
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 2 сентября 2021 г.</p>
+<p>Последнее обновление разработчика: 22 января 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/a87fd06b-7e73-4374-ba75-4545b2470706" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003274" target="_blank">Просмотр в AppSource</a>
@@ -81,14 +81,14 @@ ms.locfileid: "62144026"
 | Использует ли среда традиционные средства защиты от вредоносных программ или элементы управления приложениями? | ApplicationControls |
 | Есть ли у вас установленный процесс для идентификации и ранжирования рисков уязвимостей безопасности? | Нет |
 | Есть ли у вас политика, регулящая ваше соглашение об уровне обслуживания (SLA) для применения исправлений? | Да |
-| Выполняются ли действия по управлению исправлениями в соответствии с вашими slAs политики исправления? | Да |
+| Выполняются ли действия по управлению исправлениями в соответствии с вашими slAs политики исправления? | Нет |
 | Есть ли в вашем enviroment какие-либо неподтверченные операционные системы или программное обеспечение? | Да |
 | Проводите ли вы ежеквартированное сканирование уязвимости в приложении и поддерживаемой ему ифаструктуре? | Нет |
 | На внешней границе сети установлен брандмауэр? | Нет |
 | Есть ли у вас установленный процесс управления изменениями, используемый для проверки и утверждения запросов на изменения, прежде чем они будут развернуты в производстве? | Да |
 | Является ли дополнительный человек, который просматривает и утверждает все запросы на изменение кода, отправленные в производство первоначальным разработчиком? | Нет |
 | Учитываются ли методы безопасного кодирования общие классы уязвимости, такие как OWASP Top 10? | Да |
-| Многофакторная проверка подлинности (MFA) включена для: |  |
+| Многофакторная проверка подлинности (MFA) включена для: | NoneOfTheAbove |
 | Есть ли у вас установленный процесс для создания, изменения и удаления учетных записей сотрудников? | Нет |
 | Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Недоступно |
 | Для всех системных компонентов, поддерживающих приложение, настроена ли ведение журнала событий? | Да |
