@@ -2,17 +2,17 @@
 title: Microsoft Excel безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/21/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 759b95f2b1a44b2675484a6c362b50ed11081273
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 078b0c75b0ff931f717c640fb389ebac17bedfc8
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62175952"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62195756"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности приложений и соответствия требованиям
 
@@ -23,6 +23,7 @@ ms.locfileid: "62175952"
 | [Калькулятор стоимости службы Canon EMEA для партнеров B2B](./canon-emea-service-cost-calculator-for-b2b-partners.md) | Canon EMEA | **✓** |  |
 | [Аналитика CloudExtend для NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [Forbury](./forbury-property.md) | Свойство Forbury | **✓** |  |
 | [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  |
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Jira Cloud для Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
@@ -32,6 +33,8 @@ ms.locfileid: "62175952"
 | [officeatwork | Выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
+| [Решения QuickCells](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
+| [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |
 | [Данные XBRL](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
