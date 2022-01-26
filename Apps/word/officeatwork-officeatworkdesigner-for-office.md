@@ -2,24 +2,23 @@
 title: Сведения о приложениях для officeatwork | Конструктор для Office officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Конструктор для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 729bd5e3aae9e6aa3ddf1333c5170b559a79c9ff
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: be2496d13d9ed083614d209f025edb663cc9980c
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148916"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62210974"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork | Конструктор для Office
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 7 января 2022 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 24 января 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380518" target="_blank">Просмотр в AppSource</a>
 
@@ -168,7 +167,7 @@ ms.locfileid: "62148916"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| profile | делегирована | Включить вход |
 >| User.Read | делегирована | Включить отображение подписанного пользователя |
