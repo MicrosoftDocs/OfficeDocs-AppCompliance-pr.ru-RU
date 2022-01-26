@@ -2,24 +2,23 @@
 title: Сведения о приложениях для Office2SharePoint для Teams iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/10/2022
+ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Office2SharePoint для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 314b9e5d39e2f7e252a4db2e0c7a1b8872ece189
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b17138289458464ef786daca4c9289fa646f62b8
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155701"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222519"
 ---
 # <a name="office2sharepoint-for-teams"></a>Office2SharePoint для Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 8 декабря 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 18 января 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/17859280.o2sforteams" target="_blank">Просмотр в AppSource</a>
 
@@ -165,7 +164,7 @@ ms.locfileid: "62155701"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| Directory.AccessAsUser.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя. |
 >| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы. |
