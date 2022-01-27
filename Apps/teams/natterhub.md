@@ -2,24 +2,24 @@
 title: Сведения о приложениях для Natterhub от Natterhub
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/01/2021
+ms.date: 01/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Natterhub, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 434c559b292647ce59d01ef3f8ee346f6a0498c0
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a93c4603fa64320fc66adea24509fdbb16135b62
+ms.sourcegitcommit: f58ade86a900c29f53b231ee88dba3908a380e95
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155602"
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "62242313"
 ---
 # <a name="natterhub"></a>Natterhub
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 10 сентября 2021 г.</p>
+<p>Последнее обновление разработчика: 26 января 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/ba5cb8a1-85ca-426c-99fe-9b73cca34128" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003420" target="_blank">Просмотр в AppSource</a>
@@ -160,7 +160,7 @@ ms.locfileid: "62155602"
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
 | Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
-| Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Нет |
+| Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение оценку непрерывного доступа (CAE) | Нет |
@@ -169,7 +169,7 @@ ms.locfileid: "62155602"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| email | делегирована | Мы требуем этого разрешения, чтобы пользователь был в получении транзакционной электронной почты |
 >| offline_access | делегирована | Необходимые для отправки отправки заданий |
