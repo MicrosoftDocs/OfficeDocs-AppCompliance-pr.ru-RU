@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для LawToolBox Deadlines и Matter Management — Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9baa7ea9b51626f8d887d568b428a83999b77940
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 5ed6b61fae63ec4c4608133613e78a4a5dd29e88
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148127"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251825"
 ---
 # <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>Крайние сроки и управление вопросами LawToolBox — Outlook
 
@@ -105,8 +105,8 @@ ms.locfileid: "61148127"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Да |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
 | Какую сертификацию SOC 2 удалось добиться? | |
@@ -162,7 +162,32 @@ ms.locfileid: "61148127"
 | Сохраняет ли ваше приложение учетные данные в коде? |  |
 | Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Microsoft за пределами Microsoft Graph. Использует ли приложение или надстройка дополнительные API Майкрософт? | Нет |
 
->Это приложение не использует Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | делегирована | это разрешение ограничивает доступ к контактам пользователей&#8217;, к которые они уже имеют доступ&#8211; мы используем это, чтобы позволить пользователям получать собственные данные календаря | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite | делегирована | это разрешение ограничивает доступ к контактам пользователей&#8217;, к которые они уже имеют доступ&#8211; мы используем это, чтобы позволить пользователям получать собственные данные календаря и записываться в календари | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite.Shared | делегирована | это разрешение ограничивает доступ к контактам пользователей&#8217;, к которые они уже имеют доступ&#8211; мы используем это, чтобы позволить пользователям получать собственные данные календаря | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite | делегирована | это разрешение ограничивает доступ к контактам&#8217;, к которые они уже имеют доступ.  Мы используем это разрешение, чтобы разрешить пользователю искать их контакты O365 и добавлять в LawToolBox &#8211; мы не добавляем автоматически никаких контактов (это может быть отменено, если вы не хотите, чтобы эта функция и контакты можно добавлять вручную. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite.Shared | делегирована | мы используем это разрешение, чтобы разрешить пользователю искать общие контакты O365 и добавлять в LawToolBox &#8211; мы не добавляем автоматически никаких контактов | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | делегирована | мы используем на портале администрирования для получения списка пользователей из клиента O365 для добавления в учетную запись | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | делегирована | мы используем на портале администрирования для получения списка пользователей из клиента O365 для добавления в учетную запись | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | делегирована | это позволяет надстройку читать и перечислять файлы пользователей, к которые пользователь уже имеет доступ. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | делегирована | мы используем это разрешение для чтения и списка пользовательских файлов, к которые пользователь уже имеет доступ | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | делегирована | мы читаем файлы из Teams, групп и OneDrive для собраний (если вы отзовете, это не позволит нашему надстройке перечислять файлы материи в наших приложениях) | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | делегирована | мы читаем файлы из Teams, групп и OneDrive для собраний (если вы отзовете, это не позволит LTB перечислять файлы материи в наших приложениях).  Пользователь может использовать надстройку только для чтения и списка пользовательских файлов, к которые пользователь уже имеет доступ | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | делегирована | GroupID, GroupName, GroupEmail | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | делегирована | мы используем это разрешение для чтения писем PACER в надстройке outlook для автоматического открытия этого значения, а также для чтения контактов из электронной почты для добавления в нашу контактную систему  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite | делегирована | мы используем это разрешение для чтения писем PACER в надстройке outlook для автоматического открытия этого значения, а также для чтения контактов из электронной почты для добавления в нашу контактную систему  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite.Shared | делегирована | мы используем это разрешение для чтения писем PACER в надстройке outlook для автоматического открытия этого значения, а также для чтения контактов из электронной почты для добавления в нашу контактную систему  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Send | делегирована | Мы используем эту отправку электронных писем в качестве пользователя, чтобы позволить пользователю отправлять отчеты только о данных, к которые у них уже есть доступ в нашей системе. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Tasks.ReadWrite.Shared | делегирована | это разрешение ограничивает доступ к задачам&#8217;, которые у них уже есть доступ к &#8211; мы используем это, чтобы позволить пользователям получать и обновлять свои собственные данные TASK.  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | делегирована | используется для добавления последних контактов в собрания или контакты | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | делегирована | используется для добавления последних контактов в собрания или контакты | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | делегирована | это необходимо для чтения API Teams, создания Teams, создания события календаря, создания каналов, Teams функции обмена файлами | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| email | делегирована | Электронная почта, UserID Office365, ObjectID, TenantID. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| profile | делегирована | это необходимо для проверки подлинности SSO — мы также используем это разрешение для получения изображений и имен, сохраненных на клиенте M365, чтобы отобразить их, чтобы пользователь знал, что они находятся в правильном ящике инструментов. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 >В этом приложении нет дополнительных API.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для выбора слайдов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b4802afda84c413cd3842ed7518728509eee7347
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 93dbea06c2bf89aea0c30ac08e73845ab2c98716
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62210368"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251918"
 ---
 # <a name="slide-chooser"></a>Выбор слайдов
 
@@ -166,17 +166,17 @@ ms.locfileid: "62210368"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | делегирована | Включить вход |
->| profile | делегирована | Включить вход |
->| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов |
->| User.Read | делегирована | Включить отображение подписанного пользователя |
->| Files.ReadWrite.All | делегирована | Включить функцию Избранное и OneDrive |
->| Group.ReadWrite.All | делегирована | Включить Teams |
->| User.Read.All | делегирована | Включить отображение свойств пользователя |
->| Sites.Read.All | делегирована | Чтение файлов шаблонов пользователей, хранимых в SharePoint |
->| GroupMember.Read.All | делегирована | Включить Teams |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | делегирована | Включить функцию Избранное и OneDrive | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Group.ReadWrite.All | делегирована | Включить Teams | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| GroupMember.Read.All | делегирована | Включить Teams | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Sites.Read.All | делегирована | Чтение файлов шаблонов пользователей, хранимых в SharePoint | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| User.Read | делегирована | Включить отображение подписанного пользователя | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| User.Read.All | делегирована | Включить отображение свойств пользователя | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| openid | делегирована | Включить вход | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| profile | делегирована | Включить вход | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
 
 >В этом приложении нет дополнительных API.
 

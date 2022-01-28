@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствия требованиям для политик Аналитика для Microsoft Office 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре &amp; CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 306a0580cf91cc49c4a6f3cf814c831840c1b283
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 272be559137882c7f9f41ed46f2321d41aff9474
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155622"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252475"
 ---
 # <a name="policies-amp-insights-for-microsoft-office-365"></a>Политики &amp; Аналитика для Microsoft Office 365
 
@@ -166,14 +166,14 @@ ms.locfileid: "62155622"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Sites.FullControl.All | приложение | Извлечение и обновление сведений о коллекциях сайтов и группах/группах&#8217; сайтов. |
->| User.Read.All | приложение | Чтение параметров всех пользователей |
->| User.ReadWrite.All | приложение | Чтение и написание параметров пользователей |
->| Group.Read.All | приложение | Чтение членов групп и параметров |
->| Group.ReadWrite.All | приложение | Обновление членов и параметров групп |
->| Directory.ReadWrite.All | приложение |   Чтение и написание данных пользователей и групп в каталоге организации. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.ReadWrite.All | приложение |   Чтение и написание данных пользователей и групп в каталоге организации. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.Read.All | приложение | Чтение членов групп и параметров | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | приложение | Обновление членов и параметров групп | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.FullControl.All | приложение | Извлечение и обновление сведений о коллекциях сайтов и группах/группах&#8217; сайтов. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read.All | приложение | Чтение параметров всех пользователей | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.ReadWrite.All | приложение | Чтение и написание параметров пользователей | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 >В этом приложении нет дополнительных API.
 

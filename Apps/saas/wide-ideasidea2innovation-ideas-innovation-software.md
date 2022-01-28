@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Wide Ideas - Innovation Software, ее политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 55c7276aaf212bf8b6dbc2861f47711af0b0ea6b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d5bbf1d032d5537dab0775522f80d83a472db661
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155696"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251205"
 ---
 # <a name="wide-ideas---innovation-software"></a>Широкие идеи — программное обеспечение для инноваций
 
@@ -166,14 +166,14 @@ ms.locfileid: "62155696"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| TeamsAppInstallation.ReadWriteForTeam | делегирована | позволяет центру администрирования Wide Ideas читать, устанавливать, обновлять и Teams приложения в командах, к которые пользователь может получить доступ.  |
->| Channel.Create | делегирована | позволяет Центру администрирования широких идей создавать канал в любой команде от имени пользователя, заявив о себе.  |
->| TeamsTab.Create | делегирована |  Позволяет Центру администрирования широких идей создавать вкладки в любой команде Microsoft Teams в Microsoft Teams от имени подписанного пользователя. |
->| Directory.Read.All | делегирована | позволяет Центру администрирования широких идей читать данные в каталоге&#8217;организации, такие как пользователи, группы и приложения |
->| Group.Read.All | делегирована | позволяет центру администрирования Wide Ideas перечислять группы, а также читать их свойства и все члены группы от имени подписанного пользователя. |
->| User.Read | делегирована | позволяет пользователям войти в Центр администрирования широких идей и позволяет приложению читать профиль пользователей, входив в нее.  |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.Create | делегирована | позволяет Центру администрирования широких идей создавать канал в любой команде от имени пользователя, заявив о себе.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| Directory.Read.All | делегирована | позволяет Центру администрирования широких идей читать данные в каталоге&#8217;организации, такие как пользователи, группы и приложения | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| Group.Read.All | делегирована | позволяет центру администрирования Wide Ideas перечислять группы, а также читать их свойства и все члены группы от имени подписанного пользователя. | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| TeamsAppInstallation.ReadWriteForTeam | делегирована | позволяет центру администрирования Wide Ideas читать, устанавливать, обновлять и Teams приложения в командах, к которые пользователь может получить доступ.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| TeamsTab.Create | делегирована |  Позволяет Центру администрирования широких идей создавать вкладки в любой команде Microsoft Teams в Microsoft Teams от имени подписанного пользователя. | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| User.Read | делегирована | позволяет пользователям войти в Центр администрирования широких идей и позволяет приложению читать профиль пользователей, входив в нее.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
 
 >В этом приложении нет дополнительных API.
 

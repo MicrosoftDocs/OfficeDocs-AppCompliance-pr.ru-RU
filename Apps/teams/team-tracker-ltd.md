@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Team Tracker, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c37c717b65e51dc0b6d561cef9e4efe3d3c95c32
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: cdb4c7dea2bfc330ddccbe58ad1f8405a9a419ef
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144556"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252211"
 ---
 # <a name="team-tracker"></a>Team Tracker
 
@@ -167,14 +167,14 @@ ms.locfileid: "62144556"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | делегирована | После того как пользователь задает свои действия на ближайшие недели, Team Tracker обновляет календарь пользователей и их доступность в зависимости от их выбора.  |
->| email | делегирована | Используется для проверки электронной почты пользователей |
->| MailboxSettings.Read | делегирована | Используется для получения пояса времени для создания событий календаря |
->| openid | делегирована | Позволяет пользователям войти со своей Office 365 учетной записью |
->| profile | делегирована | Проверяет основные сведения пользователей по их профилю |
->| User.Read | делегирована | Проверяет сведения пользователей по их профилю |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | После того как пользователь задает свои действия на ближайшие недели, Team Tracker обновляет календарь пользователей и их доступность в зависимости от их выбора.  | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| MailboxSettings.Read | делегирована | Используется для получения пояса времени для создания событий календаря | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| User.Read | делегирована | Проверяет сведения пользователей по их профилю | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| email | делегирована | Используется для проверки электронной почты пользователей | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| openid | делегирована | Позволяет пользователям войти со своей Office 365 учетной записью | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| profile | делегирована | Проверяет основные сведения пользователей по их профилю | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
 
 >В этом приложении нет дополнительных API.
 

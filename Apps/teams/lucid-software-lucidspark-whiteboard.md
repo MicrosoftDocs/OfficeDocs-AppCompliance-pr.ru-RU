@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для доски Lucidspark, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 078375102550d360ce6f4f64d2c666b2f4ffe498
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: c8ce523115fff2910606ea519118d6b2e14131e9
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61143539"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253645"
 ---
 # <a name="lucidspark-whiteboard"></a>Lucidspark Whiteboard
 
@@ -122,7 +122,7 @@ ms.locfileid: "61143539"
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
 | Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Да |
 | Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Да |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
@@ -162,7 +162,13 @@ ms.locfileid: "61143539"
 | Сохраняет ли ваше приложение учетные данные в коде? |  |
 | Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Microsoft за пределами Microsoft Graph. Использует ли приложение или надстройка дополнительные API Майкрософт? | Нет |
 
->Это приложение не использует Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| email | делегирована | Имя и адрес электронной почты. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| openid | делегирована | Имя и адрес электронной почты. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| profile | делегирована | Имя и адрес электронной почты. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
 
 >В этом приложении нет дополнительных API.
 

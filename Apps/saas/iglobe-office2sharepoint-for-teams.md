@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Office2SharePoint для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b17138289458464ef786daca4c9289fa646f62b8
-ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
+ms.openlocfilehash: ba344dc35a29968d4967c6116d47d07c0ecd9b0f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62222519"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250245"
 ---
 # <a name="office2sharepoint-for-teams"></a>Office2SharePoint для Teams
 
@@ -164,17 +164,17 @@ ms.locfileid: "62222519"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.AccessAsUser.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя. |
->| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы. |
->| Directory.ReadWrite.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы. |
->| Group.Read.All | делегирована | Чтобы получить сайты группы пользователей. |
->| Group.ReadWrite.All | делегирована | Чтобы получить доступ к выбранной почте/s и получить вложения. От почты или добавить с сайта SharePoint групп на почту. |
->| Sites.Manage.All | делегирована | Позволяет приложению создавать или удалять библиотеки документов и списки во всех коллекциях сайтов от имени подписанного пользователя. |
->| Sites.Read.All | делегирована | Чтобы пользователи SharePoint сайте. Получите файлы и сохраните вложения из выбранной почты.     |
->| Sites.ReadWrite.All | делегирована | Чтобы получить SharePoint, библиотеки и файлы. Сохранение файлов для SharePoint списков. |
->| User.Read | делегирована | Чтобы пользователи SharePoint, OneDrive и групповых сайтов. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | делегирована | Чтобы получить сайты группы пользователей. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | делегирована | Чтобы получить доступ к выбранной почте/s и получить вложения. От почты или добавить с сайта SharePoint групп на почту. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | делегирована | Позволяет приложению создавать или удалять библиотеки документов и списки во всех коллекциях сайтов от имени подписанного пользователя. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | делегирована | Чтобы пользователи SharePoint сайте. Получите файлы и сохраните вложения из выбранной почты.     | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | делегирована | Чтобы получить SharePoint, библиотеки и файлы. Сохранение файлов для SharePoint списков. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | делегирована | Чтобы пользователи SharePoint, OneDrive и групповых сайтов. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >В этом приложении нет дополнительных API.
 

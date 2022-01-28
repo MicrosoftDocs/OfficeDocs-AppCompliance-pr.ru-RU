@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для yuccaHR, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f9a2ad6cf983a58d761c1c97563a9f564c9667d8
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f5e1475a1db71c51ac58a6bc062ce9e4b17e8ab3
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148228"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251505"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -168,14 +168,14 @@ ms.locfileid: "62148228"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | приложение | Расписание события календаря для совпадающих сторон |
->| Channel.ReadBasic.All | приложение | Отображение имен каналов в веб-приложении |
->| ChannelMember.Read.All | приложение | Соответствие людей в канале или других каналах |
->| Group.Read.All | приложение | Отображение имен команд в веб-приложении |
->| MailboxSettings.Read | приложение | Чтобы получить нужный язык пользователей, при отправке сообщений |
->| User.Read.All | приложение | Электронная почта необходима для создания адаптивных карт, чтобы разрешить пользователям общаться напрямую |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | приложение | Расписание события календаря для совпадающих сторон | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Channel.ReadBasic.All | приложение | Отображение имен каналов в веб-приложении | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| ChannelMember.Read.All | приложение | Соответствие людей в канале или других каналах | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Group.Read.All | приложение | Отображение имен команд в веб-приложении | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| MailboxSettings.Read | приложение | Чтобы получить нужный язык пользователей, при отправке сообщений | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| User.Read.All | приложение | Электронная почта необходима для создания адаптивных карт, чтобы разрешить пользователям общаться напрямую | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
 
 >В этом приложении нет дополнительных API.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для компании Navigator, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c120830bc278323ad592ed71dd29a3c3dc54e6a5
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 13ab94d8c86c280c6d6b932d1db65180a7a6caa2
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148181"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254926"
 ---
 # <a name="company-navigator"></a>Company Navigator
 
@@ -168,22 +168,22 @@ ms.locfileid: "62148181"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| email | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Calendars.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Calendars.Read.Shared | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Files.Read.All | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Mail.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Mail.Read.Shared | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Mail.ReadBasic.All | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| offline_access | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| openid | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| People.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| profile | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| User.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| User.ReadBasic.All | делегирована | чтение пользовательских данных, релевантных для использования приложения |
->| Sites.Read.All | делегирована | чтение пользовательских данных, релевантных для использования приложения |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Calendars.Read.Shared | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Files.Read.All | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read.Shared | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.ReadBasic.All | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| People.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Sites.Read.All | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.Read | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.ReadBasic.All | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| email | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| offline_access | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| openid | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| profile | делегирована | чтение пользовательских данных, релевантных для использования приложения | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
 
 >В этом приложении нет дополнительных API.
 

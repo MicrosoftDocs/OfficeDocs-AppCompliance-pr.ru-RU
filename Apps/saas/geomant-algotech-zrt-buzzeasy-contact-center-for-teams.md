@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для контактного центра Buzzeasy для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f80ef944b502b1bacb5253f917154747761ee6ae
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b73e059f9b820a1f3f880a4bd4237649121b9c5b
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148511"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251325"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Контактный центр Buzzeasy для Teams
 
@@ -166,16 +166,16 @@ ms.locfileid: "62148511"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Mail.ReadWrite | приложение | Позволяет агенту читать или записывать определенный (общий) почтовый ящик через пользовательский интерфейс Агента. (Можно отфильтровать в определенный почтовый ящик.) |
->| Mail.Send | приложение | Отправка электронной почты от имени общего почтового ящика. |
->| User.Read | делегирована | Вход и чтение профиля пользователя |
->| Presence.Read.All | делегирована | Отображение состояния агента или пользователя для других агентов, синхронизация с состоянием агента. |
->| User.Read.All | делегирована | Отображение сведений AAD об интерфейсах администратора и пользователя |
->| User.ReadBasic.All | делегирована | Отображение сведений AAD об интерфейсах администратора и пользователя |
->| User.Read | делегирована | Отображение списка пользователей для администраторов для регистрации. |
->| Mail.Send | приложение | Отправка приглашения от имени пользователя службы. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Mail.Send | приложение | Отправка приглашения от имени пользователя службы. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| Presence.Read.All | делегирована | Отображение состояния агента или пользователя для других агентов, синхронизация с состоянием агента. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.Read | делегирована | Отображение списка пользователей для администраторов для регистрации. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.Read.All | делегирована | Отображение сведений AAD об интерфейсах администратора и пользователя | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.ReadBasic.All | делегирована | Отображение сведений AAD об интерфейсах администратора и пользователя | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| Mail.ReadWrite | приложение | Позволяет агенту читать или записывать определенный (общий) почтовый ящик через пользовательский интерфейс Агента. (Можно отфильтровать в определенный почтовый ящик.) | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| Mail.Send | приложение | Отправка электронной почты от имени общего почтового ящика. | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
 
 >В этом приложении нет дополнительных API.
 

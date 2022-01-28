@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Mail Signature для Outlook, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 32899c4a9734ef0afb996e7f609c042cba1172c0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155610"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254185"
 ---
 # <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork | Подпись почты для Outlook
 
@@ -168,12 +168,12 @@ ms.locfileid: "62155610"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | делегирована | Включить вход |
->| profile | делегирована | Включить вход |
->| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов |
->| User.Read | делегирована | Включить отображение подписанного пользователя, включить динамические подписи почты со свойствами пользователя |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | делегирована | Включить отображение подписанного пользователя, включить динамические подписи почты со свойствами пользователя | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| openid | делегирована | Включить вход | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| profile | делегирована | Включить вход | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
 
 >В этом приложении нет дополнительных API.
 

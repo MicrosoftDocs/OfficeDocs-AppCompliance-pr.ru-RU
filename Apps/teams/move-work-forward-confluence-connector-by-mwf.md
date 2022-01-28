@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для соединитель confluence для MWF, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7ac53112ad08bdb90ae3601c13074d541d63428
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 21c6474d5b21537a4ff04705fd16b760d6698b73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144751"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251035"
 ---
 # <a name="confluence-connector-by-mwf"></a>Confluence Connector от MWF
 
@@ -166,13 +166,13 @@ ms.locfileid: "62144751"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.ReadBasic.All | делегирована | Чтобы получить список каналов для страниц конфигурации для отправки уведомлений в канал. |
->| Teams.ReadBasic.All | делегирована | Чтобы получить список групп для страниц конфигурации для отправки уведомлений в канал группы. |
->| email | делегирована | Расширение сопоставления учетных записей между Microsoft и Atlassian |
->| TeamsAppInstallation.ReadForTeam | делегирована | Чтобы узнать команды, в которых установлен соединителю Confluence |
->| User.Read | делегирована | Чтение базовых сведений о пользователях |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | делегирована | Чтобы получить список каналов для страниц конфигурации для отправки уведомлений в канал. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| Teams.ReadBasic.All | делегирована | Чтобы получить список групп для страниц конфигурации для отправки уведомлений в канал группы. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| TeamsAppInstallation.ReadForTeam | делегирована | Чтобы узнать команды, в которых установлен соединителю Confluence | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| User.Read | делегирована | Чтение базовых сведений о пользователях | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| email | делегирована | Расширение сопоставления учетных записей между Microsoft и Atlassian | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
 
 >В этом приложении нет дополнительных API.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для виртуального слуха Casedoc, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffb0964fddc025b6fd661a87d505f8560ad84ce5
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 07119c707f97b9e1c47beaf49a0977cbdfb727fb
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62197946"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253855"
 ---
 # <a name="casedoc-virtual-hearing"></a>Casedoc Virtual Hearing
 
@@ -165,22 +165,22 @@ ms.locfileid: "62197946"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| AppCatalog.ReadWrite.All | делегирована | Добавление приложения из каталога приложений в собрание |
->| Calendars.ReadWrite | делегирована | Возможность подписки на обновления собраний |
->| Calendars.ReadWrite | приложение | Возможность создания собрания |
->| Directory.ReadWrite.All | приложение | Возможность создания группы, связанной с собранием |
->| Files.ReadWrite.All | делегирована | Чтобы пользователи могли загружать файл в группу собраний |
->| Files.ReadWrite.All | приложение | Позволяет приложению загружать данные собраний в группу собраний |
->| Group.ReadWrite.All | приложение | Чтобы приложение создало группу, связанную с собранием |
->| MailboxSettings.Read | приложение | Чтобы включить приложение для чтения пользователей часовой пояс |
->| OnlineMeetings.ReadWrite | делегирована | Включить маркировку типа собрания |
->| TeamsAppInstallation.ReadForUser | делегирована | Добавление приложения к собранию |
->| TeamsAppInstallation.ReadWriteSelfForUser | делегирована | Добавление приложения к собранию |
->| TeamsTab.Create | делегирована | Добавление приложения к собранию |
->| TeamsTab.ReadWrite.All | делегирована | Добавление приложения к собранию |
->| User.Read.All | приложение | Позволяет приложению читать профили пользователей без подписи пользователя |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| AppCatalog.ReadWrite.All | делегирована | Добавление приложения из каталога приложений в собрание | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Calendars.ReadWrite | делегирована | Возможность подписки на обновления собраний | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Calendars.ReadWrite | приложение | Возможность создания собрания | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Directory.ReadWrite.All | приложение | Возможность создания группы, связанной с собранием | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | делегирована | Чтобы пользователи могли загружать файл в группу собраний | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | приложение | Позволяет приложению загружать данные собраний в группу собраний | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Group.ReadWrite.All | приложение | Чтобы приложение создало группу, связанную с собранием | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| MailboxSettings.Read | приложение | Чтобы включить приложение для чтения пользователей часовой пояс | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| OnlineMeetings.ReadWrite | делегирована | Включить маркировку типа собрания | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadForUser | делегирована | Добавление приложения к собранию | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | делегирована | Добавление приложения к собранию | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab.Create | делегирована | Добавление приложения к собранию | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab.ReadWrite.All | делегирована | Добавление приложения к собранию | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| User.Read.All | приложение | Позволяет приложению читать профили пользователей без подписи пользователя | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
 
 >В этом приложении нет дополнительных API.
 

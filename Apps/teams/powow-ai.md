@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Powow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 529f5acf9410a5ee1ed2b68308ccabbdde0f070e
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f7c17510645c2c7b2fc25014e328b1dcefe0f06f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62201081"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254755"
 ---
 # <a name="powow"></a>Powow
 
@@ -168,15 +168,15 @@ ms.locfileid: "62201081"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | приложение | Используется для подключения поиска (функция для нажатия данных Powow в индексы Майкрософт для поиска по службы Майкрософт) |
->| ExternalItem.ReadWrite.All | приложение | Используется для подключения поиска (функция для нажатия данных Powow в индексы Майкрософт для поиска по службы Майкрософт) |
->| email | делегирована | Просмотр адреса электронной почты пользователей для регистрации и входа |
->| offline_access | делегирована | Доступ к данным пользователя в приложении (отслеживание обновлений календаря) |
->| openid | делегирована | Вход пользователей |
->| profile | делегирована | Доступ к основным сведениям о профиле пользователей для регистрации |
->| User.Read | делегирована | Вход и чтение профиля пользователя для регистрации и входа |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ExternalItem.ReadWrite.All | приложение | Используется для подключения поиска (функция для нажатия данных Powow в индексы Майкрософт для поиска по службы Майкрософт) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя для регистрации и входа | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read.All | приложение | Используется для подключения поиска (функция для нажатия данных Powow в индексы Майкрософт для поиска по службы Майкрософт) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| email | делегирована | Просмотр адреса электронной почты пользователей для регистрации и входа | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| offline_access | делегирована | Доступ к данным пользователя в приложении (отслеживание обновлений календаря) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| openid | делегирована | Вход пользователей | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| profile | делегирована | Доступ к основным сведениям о профиле пользователей для регистрации | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
 
 >В этом приложении нет дополнительных API.
 

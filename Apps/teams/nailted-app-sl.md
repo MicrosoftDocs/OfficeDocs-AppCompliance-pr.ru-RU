@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Nailted, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 917e4443182e1370b3b1dfdd1d73905dc28fe3b6
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 6db76106efdc61b69c911ef889242f2fca72fc90
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200785"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254855"
 ---
 # <a name="nailted"></a>Nailted
 
@@ -168,13 +168,13 @@ ms.locfileid: "62200785"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | приложение | Используется для чтения сведений о пользователях |
->| email | приложение | Доступ к электронной почте сотрудников, чтобы синхронизировать их |
->| offline_access | приложение | Мы используем это разрешение, чтобы иметь доступ к API, когда пользователь не находится в сети, чтобы синхронизировать сотрудников и установить приложение |
->| TeamsAppInstallation.ReadWriteForUser | приложение | Пользователь может выбрать, для каких пользователей он хочет установить приложение. Таким образом, мы используем это разрешение для иссу- |
->| Directory.Read.All | приложение | Используется для доступа к группам. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | приложение | Используется для доступа к группам. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| TeamsAppInstallation.ReadWriteForUser | приложение | Пользователь может выбрать, для каких пользователей он хочет установить приложение. Таким образом, мы используем это разрешение для иссу- | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| User.Read.All | приложение | Используется для чтения сведений о пользователях | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| email | приложение | Доступ к электронной почте сотрудников, чтобы синхронизировать их | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| offline_access | приложение | Мы используем это разрешение, чтобы иметь доступ к API, когда пользователь не находится в сети, чтобы синхронизировать сотрудников и установить приложение | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
 
 >В этом приложении нет дополнительных API.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Teameo Class Space, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8ece9fd050e95f6cbe54f6c5084544075b9ce272
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 66e9f66c89bcf14cd7dcd3eff22ff300f3ea7050
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148538"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253635"
 ---
 # <a name="teameo-class-space"></a>Teameo Class Space
 
@@ -169,9 +169,9 @@ ms.locfileid: "62148538"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| AppCatalog.ReadWrite.All | приложение | Gestion de Teams App pour Espace Num&#233;rique |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| AppCatalog.ReadWrite.All | приложение | Gestion de Teams App pour Espace Num&#233;rique | [05525b77-8ca6-462f-8902-15788cb405c6](https://docs.microsoft.com/microsoft-365-app-certification/azure/05525b77-8ca6-462f-8902-15788cb405c6) |
 
 >В этом приложении нет дополнительных API.
 

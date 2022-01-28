@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для officeatwork | Конструктор для Office, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: be2496d13d9ed083614d209f025edb663cc9980c
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 9169b9e5646d43de74746013eb7635342ba58e5f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62210974"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250765"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork | Конструктор для Office
 
@@ -167,19 +167,19 @@ ms.locfileid: "62210974"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| profile | делегирована | Включить вход |
->| User.Read | делегирована | Включить отображение подписанного пользователя |
->| Sites.Read.All | делегирована | Чтение данных и файлов, хранимых в SharePoint |
->| User.ReadBasic.All | делегирована | Включить отображение свойств пользователя |
->| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов |
->| openid | делегирована | Включить вход |
->| User.Read.All | делегирована | Включить отображение свойств пользователя |
->| Group.Read.All | делегирована | Включение доступа к данным на основе групп |
->| Contacts.Read | делегирована | Включение чтения контактов |
->| Files.Read | делегирована | Включение чтения файлов, хранимых в Microsoft 365 |
->| Files.Read.All | делегирована | Включение чтения файлов, хранимых в Microsoft 365 |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Contacts.Read | делегирована | Включение чтения контактов | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read | делегирована | Включение чтения файлов, хранимых в Microsoft 365 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read.All | делегирована | Включение чтения файлов, хранимых в Microsoft 365 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Group.Read.All | делегирована | Включение доступа к данным на основе групп | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Sites.Read.All | делегирована | Чтение данных и файлов, хранимых в SharePoint | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read | делегирована | Включить отображение подписанного пользователя | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read.All | делегирована | Включить отображение свойств пользователя | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.ReadBasic.All | делегирована | Включить отображение свойств пользователя | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| offline_access | делегирована | Включить автоматическую регистрацию для старых Office хостов | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| openid | делегирована | Включить вход | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| profile | делегирована | Включить вход | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
 
 >В этом приложении нет дополнительных API.
 
