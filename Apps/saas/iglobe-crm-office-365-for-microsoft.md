@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM Office 365 для Microsoft 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5ab2d6952a81e2df7cd13be62123ad0a68af5162
-ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
+ms.openlocfilehash: b1063e282ad40ae30ed752fc605812c24d165941
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61664430"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255108"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>cRM-Office 365 для Microsoft 365
 
@@ -160,7 +160,23 @@ ms.locfileid: "61664430"
 | Сохраняет ли ваше приложение учетные данные в коде? |  |
 | Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Microsoft за пределами Microsoft Graph. Использует ли приложение или надстройка дополнительные API Майкрософт? | Да |
 
->Это приложение не использует Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Contacts.ReadWrite | делегирована | Directory.AccessAsUser.All | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Mail.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Manage.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Tasks.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | делегирована | Данные не хранятся в базах данных приложений. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 >В этом приложении нет дополнительных API.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для ContractZen, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 556b9c62db0e6230948e28e1b1d5d811bd4c079e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 3ba2af3606c470bb4a5f15e636ca069f9ff722d7
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149072"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257965"
 ---
 # <a name="contractzen"></a>ContractZen
 
@@ -168,9 +168,9 @@ ms.locfileid: "62149072"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | делегирована | Возможность использования сведений о профиле пользователя |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | делегирована | Возможность использования сведений о профиле пользователя | [0492ead3-ee26-40df-9757-d95cc693d856](https://docs.microsoft.com/microsoft-365-app-certification/azure/0492ead3-ee26-40df-9757-d95cc693d856) |
 
 >В этом приложении нет дополнительных API.
 

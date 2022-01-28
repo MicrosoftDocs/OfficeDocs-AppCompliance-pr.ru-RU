@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Moneypenny, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3d181c2bf833bb9aed4b5b557bb25190249da25a
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f40e36c1025e03a250505be381ff811dce0aa95b
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200761"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255825"
 ---
 # <a name="moneypenny"></a>Moneypenny
 
@@ -168,10 +168,10 @@ ms.locfileid: "62200761"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.Initiate.All | приложение | Чтобы сделать вызов пользователю Teams с помощью бота |
->| Calls.AccessMedia.All | приложение | Для потоковой передачи мультимедиа с бота Teams пользователю |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | приложение | Для потоковой передачи мультимедиа с бота Teams пользователю | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
+>| Calls.Initiate.All | приложение | Чтобы сделать вызов пользователю Teams с помощью бота | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
 
 >В этом приложении нет дополнительных API.
 

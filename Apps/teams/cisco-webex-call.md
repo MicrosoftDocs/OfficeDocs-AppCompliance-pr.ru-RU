@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Webex Call, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 279a78d5f756eaca6f8aba2135d8a6a168fd7d3c
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 1f693fc58e86a361a67b6bf12c67ed76b3e89f93
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62201085"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259805"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -165,10 +165,10 @@ ms.locfileid: "62201085"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.ReadBasic | делегирована | Чтение участников канала teams, чтобы пользователь выбрал из них |
->| Contacts.Read | делегирована | Позволяет пользователю создавать наборы скорости из списка контактов |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.ReadBasic | делегирована | Чтение участников канала teams, чтобы пользователь выбрал из них | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| Contacts.Read | делегирована | Позволяет пользователю создавать наборы скорости из списка контактов | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
 
 >В этом приложении нет дополнительных API.
 

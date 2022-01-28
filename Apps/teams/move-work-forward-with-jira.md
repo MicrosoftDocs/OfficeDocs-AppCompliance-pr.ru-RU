@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для перемещения вперед с Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 218c70925805938ff5f241e9df42b667eba81353
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62176962"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255695"
 ---
 # <a name="move-work-forward-with-jira"></a>Move Work Forward с Jira
 
@@ -168,14 +168,14 @@ ms.locfileid: "62176962"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.Create | делегирована | Создание канала обсуждения проблемы Jira |
->| Channel.ReadBasic.All | делегирована | Чтение каналов группы для отправки уведомлений в |
->| email | делегирована | для картографии учетных записей Microsoft и Atlassian |
->| Team.ReadBasic.All | делегирована | Чтение команд, отображаемой на странице конфигурации. Для уведомлений от Jira. |
->| TeamsAppInstallation.ReadForTeam | делегирована | Проверьте, установлено ли приложение в команде. |
->| User.Read | делегирована | Для улучшения пользовательского интерфейса. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.Create | делегирована | Создание канала обсуждения проблемы Jira | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.ReadBasic.All | делегирована | Чтение каналов группы для отправки уведомлений в | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Team.ReadBasic.All | делегирована | Чтение команд, отображаемой на странице конфигурации. Для уведомлений от Jira. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | делегирована | Проверьте, установлено ли приложение в команде. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | делегирована | Для улучшения пользовательского интерфейса. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| email | делегирована | для картографии учетных записей Microsoft и Atlassian | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 >В этом приложении нет дополнительных API.
 

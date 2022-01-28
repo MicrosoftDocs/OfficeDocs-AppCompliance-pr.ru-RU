@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6aaeddce93a513ca22b0bf5c0b4fdf8b85a7830d
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 63646b2a2425eeef310ae5534209d015d06896c1
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148508"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257765"
 ---
 # <a name="iglobe-crm-for-teams"></a>CRM iGlobe для Teams
 
@@ -166,21 +166,21 @@ ms.locfileid: "62148508"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | делегирована | Доступ к календарям пользователей при обмывке отчетов о собраниях из canlendar в iGlobe    |
->| Contacts.ReadWrite | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.    |
->| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы.   |
->| Directory.ReadWrite.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.   |
->| Files.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов и данных для SharePoint списков.     |
->| Group.Read.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков.   |
->| Group.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365     |
->| Mail.ReadWrite | делегирована | Svae eamil to iGlobe CRM and get informatiopn from iGlobe to a new e-amil    |
->| Sites.Manage.All | делегирована | Создание, редактирование и удаление элементов и списков в CRM iGlobe     |
->| Sites.Read.All | делегирована | Чтение элементов в CRM iGlobe     |
->| Sites.ReadWrite.All | делегирована | Изменение и удаление элементов и списков в CRM iGlobe  |
->| Tasks.ReadWrite | делегирована | Создание задачи планировщика из CRM iGlobe     |
->| User.Read | делегирована | Чтобы получить сведения о CRM iGlobe для speficic пользователя    |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | Доступ к календарям пользователей при обмывке отчетов о собраниях из canlendar в iGlobe    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Contacts.ReadWrite | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов и данных для SharePoint списков.     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Mail.ReadWrite | делегирована | Svae eamil to iGlobe CRM and get informatiopn from iGlobe to a new e-amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Manage.All | делегирована | Создание, редактирование и удаление элементов и списков в CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | делегирована | Чтение элементов в CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | делегирована | Изменение и удаление элементов и списков в CRM iGlobe  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Tasks.ReadWrite | делегирована | Создание задачи планировщика из CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | делегирована | Чтобы получить сведения о CRM iGlobe для speficic пользователя    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 >В этом приложении нет дополнительных API.
 

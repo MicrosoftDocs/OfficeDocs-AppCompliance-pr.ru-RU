@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Natterhub, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a93c4603fa64320fc66adea24509fdbb16135b62
-ms.sourcegitcommit: f58ade86a900c29f53b231ee88dba3908a380e95
+ms.openlocfilehash: fd0c03b20732f7f83d9d6738779f011a4272d6db
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "62242313"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256495"
 ---
 # <a name="natterhub"></a>Natterhub
 
@@ -169,14 +169,14 @@ ms.locfileid: "62242313"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| email | делегирована | Мы требуем этого разрешения, чтобы пользователь был в получении транзакционной электронной почты |
->| offline_access | делегирована | Необходимые для отправки отправки заданий |
->| openid | делегирована | Необходимо идентифицировать пользователя |
->| profile | делегирована | Обязательное чтение имени и фамилии пользователя |
->| User.Read | делегирована | Обязательное чтение имени и фамилии пользователя |
->| EduAssignments.ReadWrite | делегирована | Необходимые для создания отправки назначений |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| EduAssignments.ReadWrite | делегирована | Необходимые для создания отправки назначений | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| User.Read | делегирована | Обязательное чтение имени и фамилии пользователя | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| email | делегирована | Мы требуем этого разрешения, чтобы пользователь был в получении транзакционной электронной почты | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| offline_access | делегирована | Необходимые для отправки отправки заданий | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| openid | делегирована | Необходимо идентифицировать пользователя | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| profile | делегирована | Обязательное чтение имени и фамилии пользователя | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
 
 >В этом приложении нет дополнительных API.
 

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для защиты сотрудников от DSMN8, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0d5922201878b8c53a9bba95b67653f14d215cde
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 73ac07bb877ab8a387c7182bce3dbf1a4f2d93da
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235798"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259615"
 ---
-# <a name="employee-advocacy-by-dsmn8"></a>Защита сотрудников от DSMN8
+# <a name="employee-advocacy-by-dsmn8"></a>Employee Advocacy от DSMN8
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "62235798"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Защита сотрудников от DSMN8 |
+| Название приложения | Employee Advocacy от DSMN8 |
 | Идентификатор | WA200003677 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | DSMN8 |
@@ -168,9 +168,9 @@ ms.locfileid: "62235798"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | оба | Чтобы прочитать название задания, имя, фамилию и данные электронной почты при входе в процесс создания профиля в нашем приложении |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | оба | Чтобы прочитать название задания, имя, фамилию и данные электронной почты при входе в процесс создания профиля в нашем приложении | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c) |
 
 >В этом приложении нет дополнительных API.
 

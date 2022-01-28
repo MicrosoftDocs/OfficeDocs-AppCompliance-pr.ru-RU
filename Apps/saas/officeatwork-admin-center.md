@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Центра администрирования, его политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b1a1adc7cc7b1b6ec820711699c10734b37bf9af
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 092853eb1798395c8b4f707ba2e89d048f780fd3
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209868"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255842"
 ---
 # <a name="admin-center"></a>Центр администрирования
 
@@ -166,14 +166,14 @@ ms.locfileid: "62209868"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | делегирована | Включить вход |
->| User.Read | делегирована | Включить отображение подписанного пользователя |
->| Sites.Read.All | делегирована | Включает проверку создания библиотеки |
->| Directory.Read.All | делегирована | Включение отображения состояния согласия |
->| Group.Read.All | делегирована | Включение ограничения аудитории библиотек |
->| User.ReadBasic.All | делегирована | Включение отображения свойств пользователей |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | делегирована | Включение отображения состояния согласия | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Group.Read.All | делегирована | Включение ограничения аудитории библиотек | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Sites.Read.All | делегирована | Включает проверку создания библиотеки | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| User.Read | делегирована | Включить отображение подписанного пользователя | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| User.ReadBasic.All | делегирована | Включение отображения свойств пользователей | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| openid | делегирована | Включить вход | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 
 >В этом приложении нет дополнительных API.
 

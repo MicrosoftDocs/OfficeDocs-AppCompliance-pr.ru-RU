@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CC4Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 31b9467e5aa5efb07131ec0509eaf8e3aa0b544c
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 85d5b411929f2bd0c1c0610a6e4950cf2d5e6809
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148771"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255915"
 ---
 # <a name="cc4teams"></a>CC4Teams
 
@@ -166,16 +166,16 @@ ms.locfileid: "62148771"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| CallRecords.Read.All | приложение | для записей |
->| Calls.AccessMedia.All | приложение | используется для доступа к мультимедиа |
->| Calls.Initiate.All | приложение | используется для инициировать вызовы в контакт-центре |
->| Calls.InitiateGroupCall.All | приложение | используется для инициировать вызовы в контакт-центре |
->| Calls.JoinGroupCall.All | приложение | используется для инициировать вызовы в контакт-центре |
->| Calls.JoinGroupCallasGuest.All | приложение | используется для инициировать вызовы в контакт-центре |
->| Presence.Read | делегирована | используется для проверки состояния агентов в контакт-центре |
->| Presence.Read.All | делегирована | используется для проверки состояния агентов в контакт-центре |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| CallRecords.Read.All | приложение | для записей | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.AccessMedia.All | приложение | используется для доступа к мультимедиа | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.Initiate.All | приложение | используется для инициировать вызовы в контакт-центре | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.InitiateGroupCall.All | приложение | используется для инициировать вызовы в контакт-центре | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.JoinGroupCall.All | приложение | используется для инициировать вызовы в контакт-центре | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.JoinGroupCallasGuest.All | приложение | используется для инициировать вызовы в контакт-центре | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Presence.Read | делегирована | используется для проверки состояния агентов в контакт-центре | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Presence.Read.All | делегирована | используется для проверки состояния агентов в контакт-центре | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
 
 >В этом приложении нет дополнительных API.
 

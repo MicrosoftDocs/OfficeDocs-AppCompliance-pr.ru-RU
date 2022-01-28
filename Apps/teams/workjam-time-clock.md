@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для часов времени WorkJam, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 40b47509d1322100551009adc636c60eb654bd91
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e831ca59c0fed743a1a485a6aa52edbfca1dab89
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148441"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259199"
 ---
-# <a name="workjam-time-clock"></a>Часы времени WorkJam
+# <a name="workjam-time-clock"></a>WorkJam Time Clock
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "62148441"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Часы времени WorkJam |
+| Название приложения | WorkJam Time Clock |
 | Идентификатор | WA200003620 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | WorkJam |
@@ -169,10 +169,10 @@ ms.locfileid: "62148441"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| TeamsActivity.Send | приложение | Отправка уведомлений пользователю |
->| User.Read | делегирована | Для SSO пользователя и представить им нужные сведения |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| TeamsActivity.Send | приложение | Отправка уведомлений пользователю | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
+>| User.Read | делегирована | Для SSO пользователя и представить им нужные сведения | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
 
 >В этом приложении нет дополнительных API.
 

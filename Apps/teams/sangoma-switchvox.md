@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Switchvox, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5a6e8d1117e0a1e8b67a23c38f6825f0335a433a
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 12728af3843d47c85e4f03bfeb06e4c0faf2424c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148451"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255545"
 ---
 # <a name="switchvox"></a>Switchvox
 
@@ -168,11 +168,11 @@ ms.locfileid: "62148451"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | делегирована | Выполнение lookup контактов каталога |
->| Group.Read.All | делегирована | Выполнение разрешения участников группы |
->| Chat.Read | делегирована | Выполнение разрешения участников чата |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.Read | делегирована | Выполнение разрешения участников чата | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
+>| Group.Read.All | делегирована | Выполнение разрешения участников группы | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
+>| User.Read.All | делегирована | Выполнение lookup контактов каталога | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
 
 >В этом приложении нет дополнительных API.
 

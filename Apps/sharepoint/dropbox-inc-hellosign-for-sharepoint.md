@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для HelloSign для SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 187d36812dcae346b487d289d1924463610d5050
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 4f35be46f70d1efd5bb0cdbd030f78cc82c67e23
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62201037"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256815"
 ---
 # <a name="hellosign-for-sharepoint"></a>HelloSign для SharePoint
 
@@ -167,11 +167,11 @@ ms.locfileid: "62201037"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | делегирована | Для получения электронной почты пользователя |
->| Sites.ReadWrite.All | приложение | Отправка электронно подписанных файлов обратно в SharePoint |
->| Files.ReadWrite.All | приложение | Отправка электронно подписанных файлов обратно в SharePoint |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | приложение | Отправка электронно подписанных файлов обратно в SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| Sites.ReadWrite.All | приложение | Отправка электронно подписанных файлов обратно в SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| User.Read | делегирована | Для получения электронной почты пользователя | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
 
 >В этом приложении нет дополнительных API.
 

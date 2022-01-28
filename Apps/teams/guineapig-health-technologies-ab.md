@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для GuineaPig, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 752d59918d5c9f08ee83525b8aa4f790213b6354
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: dbd872c0f919c8141d41771470546a5b75ae56b0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157275"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257825"
 ---
 # <a name="guineapig"></a>GuineaPig
 
@@ -168,9 +168,9 @@ ms.locfileid: "62157275"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | делегирована | Мы используем User.Read для чтения сведений, таких как имя пользователя, чтобы использовать их в чате и вкладке и т.д. Подробное https://www.guineapig.app/privacy-policy описание можно получить на сайте. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | делегирована | Мы используем User.Read для чтения сведений, таких как имя пользователя, чтобы использовать их в чате и вкладке и т.д. Подробное https://www.guineapig.app/privacy-policy описание можно получить на сайте. | [d6a2090f-1447-456b-bd5f-121e4efd8c89](https://docs.microsoft.com/microsoft-365-app-certification/azure/d6a2090f-1447-456b-bd5f-121e4efd8c89) |
 
 >В этом приложении нет дополнительных API.
 

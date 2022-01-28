@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для DELTAoverC, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d83278a0e59f9abc33b495274e47abf10e1e2116
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 80273bfba0db86b443e84b46343ab6b04a264ac8
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148721"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259685"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -166,14 +166,14 @@ ms.locfileid: "62148721"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Group.Read.All | оба | Чтение всех групп |
->| Group.ReadWrite.All | оба | Чтение и запись всех групп |
->| User.Read | делегирована | Вход и чтение профиля пользователя |
->| User.Read.All | приложение | Чтение полного профиля всех пользователей |
->| User.ReadWrite | делегирована | Доступ для чтения и записи к профилю пользователя |
->| User.ReadWrite.All | оба | Чтение и написание полных профилей всех пользователей |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Group.Read.All | оба | Чтение всех групп | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| Group.ReadWrite.All | оба | Чтение и запись всех групп | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read.All | приложение | Чтение полного профиля всех пользователей | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite | делегирована | Доступ для чтения и записи к профилю пользователя | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite.All | оба | Чтение и написание полных профилей всех пользователей | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
 
 >В этом приложении нет дополнительных API.
 

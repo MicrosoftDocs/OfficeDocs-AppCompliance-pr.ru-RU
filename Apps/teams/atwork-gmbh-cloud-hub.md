@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Cloud Hub, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7e0998c86e38039879a13ee79185732287166619
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148804"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259855"
 ---
 # <a name="cloud-hub"></a>Cloud Hub
 
@@ -168,12 +168,12 @@ ms.locfileid: "62148804"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | приложение | Используется для выбора человека, к которого необходимо отправить электронную почту. |
->| TeamSettings.Read.All | приложение | Используется для выбора группы, в которой необходимо отправить сообщение из Центра сообщений. |
->| Mail.Send | приложение | Используется для отправки почты напрямую из Приложения в каналы или отдельные люди.  |
->| Channel.ReadBasic.All | приложение | Используется для выбора канала, в котором нужно отправлять сообщение из Центра сообщений. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | приложение | Используется для выбора канала, в котором нужно отправлять сообщение из Центра сообщений. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| Mail.Send | приложение | Используется для отправки почты напрямую из Приложения в каналы или отдельные люди.  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| TeamSettings.Read.All | приложение | Используется для выбора группы, в которой необходимо отправить сообщение из Центра сообщений. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| User.Read.All | приложение | Используется для выбора человека, к которого необходимо отправить электронную почту. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
 
 >В этом приложении нет дополнительных API.
 
