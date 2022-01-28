@@ -2,21 +2,21 @@
 title: Безопасность приложений Microsoft Teams и их соответствие требованиям для всех приложений
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2022
+ms.date: 01/28/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: c7b4f06efdcd61dd75a4aff9ba40ba2de95fd3a8
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 249db6850fbcb556600f4c546ef5c6c82bf273f7
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62230995"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252185"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
-Корпорация Майкрософт сотрудничает с нашими партнерами-разработчиками Microsoft 365, чтобы предоставить организациям информацию, ускоряющую принятие решений об используемых приложениях и надстройках Microsoft Teams. Эти сведения дополняются сведениями из [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) и сведениями, предоставленными разработчиками при отправке приложений. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт сотрудничает с нашими партнерами-разработчиками Microsoft 365, чтобы предоставить организациям информацию, ускоряющую принятие решений об используемых приложениях и надстройках Microsoft Teams. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -99,7 +99,7 @@ ms.locfileid: "62230995"
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
 | [Confluence Connector от MWF](./move-work-forward-confluence-connector-by-mwf.md) | Move Work Forward | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
-| [Contact Center | ROGER365.io](./roger365io-contact-centerroger365io.md) | ROGER365.io | **✓** |  |
+| [Contact Center — ROGER365.io](./roger365io-contact-centerroger365io.md) | ROGER365.io | **✓** |  |
 | [Contacts Pro](./witivio-contacts-pro.md) | Witivio | **✓** |  |
 | [Content Manager](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [Contextere AVA](./contextere-ava.md) | Contextere | **✓** |  |
@@ -181,6 +181,7 @@ ms.locfileid: "62230995"
 | [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  |
 | [Highspot](./highspot.md) | Highspot | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
+| [HubSite 365](./netforce-365-gmbh-hubsite.md) | NetForce 365 GmbH | **✓** |  |
 | [Hugo](./hugo.md) | Hugo | **✓** |  |
 | [huminos](./soe-technologies-huminos.md) | SOE Technologies | **✓** |  |
 | [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
@@ -206,7 +207,6 @@ ms.locfileid: "62230995"
 | [KUDO Multilingual Meetings](./kudo-inc-multilingual-meetings.md) | KUDO, Inc. | **✓** |  |
 | [Kudozza](./survivef5-gmbh-kudozza.md) | surviveF5 GmbH | **✓** |  |
 | [Kunjani](./faceboard-pty-ltd-kunjani.md) | FACEBOARD (PTY) LTD | **✓** |  |
-| [LawToolBox](./lawtoolboxcominc-lawtoolbox.md) | LawToolBox.com,Inc. | **✓** |  |
 | [Lexion](./lexion.md) | Lexion | **✓** |  |
 | [LifeWorks](./lifeworks.md) | LifeWorks | **✓** |  |
 | [Link Spotter](./communardo-products-link-spotter.md) | Communardo Products | **✓** |  |
@@ -219,7 +219,6 @@ ms.locfileid: "62230995"
 | [Lucidspark Whiteboard](./lucid-software-lucidspark-whiteboard.md) | Lucid Software | **✓** |  |
 | [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [Lumio by SMART](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
-| [MailClark](./mailclark.md) | MailClark | **✓** |  |
 | [Map Pro](./witivio-map-pro.md) | Witivio | **✓** |  |
 | [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [MeasureUp](./media-interactiva-solutions-measureup.md) | Media Interactiva Solutions | **✓** |  |
