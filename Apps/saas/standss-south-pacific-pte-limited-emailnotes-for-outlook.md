@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для EmailNotes для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 841b0ad019cda22d01b5990b8aabf80931ffe130
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a09c055a42f69c7174773835e8c83b99e83f0013
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148358"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261540"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes для Outlook
 
@@ -167,13 +167,13 @@ ms.locfileid: "62148358"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | делегирована | Чтение содержимого из темы , тела, содержимого вложений, присоединенных к запросу собрания  |
->| Mail.ReadWrite | делегирована | Чтение содержимого субъекта, тела, содержимого вложений, присоединенных к почтовому элементу  |
->| openid | делегирована | Требование для разрешения единого входного знака (SSO) |
->| profile | делегирована | Требование для разрешения единого входного знака (SSO) |
->| User.Read | делегирована | Это чтение пользовательских данных для проверки сведений о лицензировании для их учетной записи домена и пользователя |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | делегирована | Чтение содержимого из темы , тела, содержимого вложений, присоединенных к запросу собрания  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Mail.ReadWrite | делегирована | Чтение содержимого субъекта, тела, содержимого вложений, присоединенных к почтовому элементу  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| User.Read | делегирована | Это чтение пользовательских данных для проверки сведений о лицензировании для их учетной записи домена и пользователя | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| openid | делегирована | Требование для разрешения единого входного знака (SSO) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| profile | делегирована | Требование для разрешения единого входного знака (SSO) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
 
 >В этом приложении нет дополнительных API.
 

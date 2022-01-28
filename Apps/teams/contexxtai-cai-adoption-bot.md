@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для C.AI,его политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f37bafaac714c26c948b4f2264c4d139f5863bf5
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: 6c7c8d1b083cab351889117aa58316332161f466
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61785606"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261355"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -37,7 +37,7 @@ ms.locfileid: "61785606"
 | Имя компании-партнера | contexxt.ai |
 | Веб-сайт компании | [https://contexxt.ai](https://contexxt.ai) |
 | Условия использования приложения | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
-| Основные функции приложения | При использовании всего пакета принятия incl. &quot; Персональный ускоритель коучинга , движок аналитики (C.AI Analytics) с помощью Graph API анонимных данных об использовании от &quot; Exchange &amp; Teams. На основе этих данных алгоритм бота (C.AI)обнаруживает определенные ситуации обучения, отправив пользователю &amp; быстрые советы. Например, если пользователь никогда не добавлял субъект к столбу Teams, предполагает бот, пользователь не знает, как это сделать, и отправляет настраиваемые учебные материалы. Без аналитики это будет просто Q &amp; A Bot. |
+| Основные функции приложения | При использовании всего пакета принятия incl. &quot; Персональный ускоритель&quot; коучинга , движок аналитики (C.AI Analytics) с помощью Graph API анонимных данных об использовании от Exchange &amp; Teams. На основе этих данных алгоритм бота (C.AI) &amp; обнаруживает определенные ситуации обучения, отправив пользователю быстрые советы. Например, если пользователь никогда не добавлял субъект к столбу Teams, предполагает бот, пользователь не знает, как это сделать, и отправляет настраиваемые учебные материалы. Без аналитики это будет просто QA&amp; Bot. |
 | Расположение штаб-квартиры компании | Германия |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
@@ -161,7 +161,17 @@ ms.locfileid: "61785606"
 | Сохраняет ли ваше приложение учетные данные в коде? |  |
 | Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Microsoft за пределами Microsoft Graph. Использует ли приложение или надстройка дополнительные API Майкрософт? | Нет |
 
->Это приложение не использует Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
+
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | приложение | Доступность пользователя, которая может отправлять советы в нужное время, а не во время фокуса, например. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| ChannelMessage.Read.All | приложение | Microsoft Teams метаданных канала, например Private или нет, или количества бесед на канале для анализа использования Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Chat.Read.All | приложение | Microsoft Teams метаданных чата, например, если сообщение понравилось или сколько чатов группы и 1:1 существует для анализа использования Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Directory.Read.All | приложение | User Object-ID за возможность отправки советов для уточнения пользователя позже. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Group.Read.All | приложение | Microsoft Teams метаданных, таких как количество Teams и каналов для анализа использования Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Mail.Read | приложение | Метаданные Exchange Майкрософт, например количество электронных писем и групповых сообщений против 1:1 для анализа использования Exchange (по сравнению с Teams) | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| User.Read.All | приложение | Microsoft Teams чата и метаданных беседы, например, если пользователь был упомянут для анализа использования Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
 
 >В этом приложении нет дополнительных API.
 

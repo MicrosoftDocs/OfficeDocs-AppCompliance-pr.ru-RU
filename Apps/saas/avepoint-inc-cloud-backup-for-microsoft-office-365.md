@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для облачного резервного копирования для Microsoft Office 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84b6ec36d05f39e307c3955d8eb9112d4a4712ac
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6fc3b2c5bc0fb54b4075f71e21ef1c2d14ace0f7
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148501"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260945"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>Облачное резервное копирование Microsoft Office 365
 
@@ -165,17 +165,17 @@ ms.locfileid: "62148501"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | делегирована | Вход и чтение профиля пользователя |
->| Directory.Read.All | приложение | Чтение данных каталога |
->| Files.Read.All | приложение | Чтение файлов во всех семействах веб-сайтов |
->| Group.ReadWrite.All | приложение | Чтение и запись всех групп |
->| Sites.ReadWrite.All | приложение | Чтение и запись элементов во всех семействах веб-сайтов |
->| Reports.Read.All | приложение | Чтение всех отчетов об использовании |
->| ChannelMember.ReadWrite.All | приложение | Добавление и удаление участников из всех каналов |
->| ChannelMessage.Read.All | приложение | Чтение всех сообщений в каналах |
->| ChannelSettings.ReadWrite.All | приложение | Чтение и написание имен, описаний и параметров всех каналов |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ChannelMember.ReadWrite.All | приложение | Добавление и удаление участников из всех каналов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelMessage.Read.All | приложение | Чтение всех сообщений в каналах | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelSettings.ReadWrite.All | приложение | Чтение и написание имен, описаний и параметров всех каналов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.Read.All | приложение | Чтение данных каталога | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Files.Read.All | приложение | Чтение файлов во всех семействах веб-сайтов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | приложение | Чтение и запись всех групп | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Reports.Read.All | приложение | Чтение всех отчетов об использовании | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.ReadWrite.All | приложение | Чтение и запись элементов во всех семействах веб-сайтов | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 >В этом приложении нет дополнительных API.
 

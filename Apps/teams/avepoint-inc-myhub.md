@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для MyHub, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ad85daad3a14dd1afa42dd0050a10c9bdeab74a5
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 7086ba2566e0b3d44b8a30edcd43e4dce7eb9963
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193586"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260793"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -167,20 +167,20 @@ ms.locfileid: "62193586"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | оба | Извлечение списка объектов группового настройки. Например, классический классицизм внешнего общего доступа, enableCreateGroup(application) и так далее. |
->| Group.ReadWrite.All | оба | Создание группы, извлечение, добавление или удаление членства в группе |
->| Mail.Send | делегирована | Если текущий пользователь хочет присоединиться к частной группе, мы отправим уведомление владельцам групп. |
->| Sites.ReadWrite.All | делегирована | сайты follow/unfollow |
->| Sites.Read.All | приложение | получить основные сведения о сайте |
->| User.Read.All | оба | Делегирование: получить фото пользователей; Приложение: поиск/разрешение пользователей |
->| Sites.FullControl.All | приложение | создание или удаление сайтов |
->| Reports.Read.All | приложение | получить отчет об использовании сайта или группы |
->| email | делегирована | команд приложение SSO |
->| openid | делегирована | команд приложение SSO |
->| offline_access | делегирована | команд приложение SSO |
->| profile | делегирована | команд приложение SSO |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | оба | Извлечение списка объектов группового настройки. Например, классический классицизм внешнего общего доступа, enableCreateGroup(application) и так далее. | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Group.ReadWrite.All | оба | Создание группы, извлечение, добавление или удаление членства в группе | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Mail.Send | делегирована | Если текущий пользователь хочет присоединиться к частной группе, мы отправим уведомление владельцам групп. | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Reports.Read.All | приложение | получить отчет об использовании сайта или группы | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.FullControl.All | приложение | создание или удаление сайтов | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.Read.All | приложение | получить основные сведения о сайте | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.ReadWrite.All | делегирована | сайты follow/unfollow | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| User.Read.All | оба | Делегирование: получить фото пользователей; Приложение: поиск/разрешение пользователей | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| email | делегирована | команд приложение SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| offline_access | делегирована | команд приложение SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| openid | делегирована | команд приложение SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| profile | делегирована | команд приложение SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
 
 >В этом приложении нет дополнительных API.
 

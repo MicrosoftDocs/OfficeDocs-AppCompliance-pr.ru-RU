@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Classroom.cloud, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d58df70912c5c9eedfca92e67f9f202960b7a23b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 4e7fce8118f65a9fb01153baa2ccef8a1282df3c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148311"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260833"
 ---
 # <a name="classroomcloud"></a>Classroom.cloud
 
@@ -168,14 +168,14 @@ ms.locfileid: "62148311"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Team.ReadBasic.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. |
->| Channel.ReadBasic.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. |
->| ChannelMessage.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. |
->| ChannelSettings.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. |
->| Chat.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. |
->| Directory.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelMessage.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelSettings.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Chat.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Directory.Read.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Team.ReadBasic.All | приложение | Используется для Teams интеграции classroom.cloud для обеспечения мониторинга безопасности в интернете в студенческих чатах. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
 
 >В этом приложении нет дополнительных API.
 

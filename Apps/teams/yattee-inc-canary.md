@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Canary, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d00d7bce745344ee7324ac4b019ee8ac3f5e0f40
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b9702c280c874437826c4fd760f22b27359e1006
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62142116"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261205"
 ---
 # <a name="canary"></a>Предохранитель
 
@@ -167,9 +167,9 @@ ms.locfileid: "62142116"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.JoinGroupCallasGuest.All | приложение | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; |
+>|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.JoinGroupCallasGuest.All | приложение | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
 
 >В этом приложении нет дополнительных API.
 
