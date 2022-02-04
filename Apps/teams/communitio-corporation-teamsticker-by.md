@@ -2,18 +2,12 @@
 title: Сведения о приложениях для TeamSticker by Communitio от Communitio Corporation
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: 'Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 252d783969b65bce7ef3b1754b9b7439c1f19764
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253845"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -33,11 +27,11 @@ ms.locfileid: "62253845"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | TeamSticker by Communitio |
-| Идентификатор | WA200000894 |
+| ID | WA200000894 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Communitio Corporation |
-| Веб-сайт компании | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
-| Условия использования приложения | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |
+| Веб-сайт компании | [https://communitio.jp](https://communitio.jp) |
+| Условия использования приложения | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | Основные функции приложения | Это цифровая карточка благодарности, которую можно отправить из беседы. |
 | Расположение штаб-квартиры компании | Япония |
 | Страница информация о приложении | |
@@ -92,7 +86,7 @@ ms.locfileid: "62253845"
 | Учитываются ли методы безопасного кодирования общие классы уязвимости, такие как OWASP Top 10? | Да |
 | Многофакторная проверка подлинности (MFA) включена для: | CodeRepositories, DNSManagement, Credential |
 | Есть ли у вас установленный процесс для создания, изменения и удаления учетных записей сотрудников? | Да |
-| Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Недоступно |
+| Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Н/Д |
 | Для всех системных компонентов, поддерживающих приложение, настроена ли ведение журнала событий? | Да |
 | Рассматриваются ли все журналы на регулярной основе с помощью человеческого или автоматического инструмента для обнаружения потенциальных событий безопасности? | Да|
 | При обнаружении события безопасности оповещений автоматически отправляются сотруднику для проведения трехсторонней работы? | Да |
