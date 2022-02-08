@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для iPlanner Pro Office 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 6ac775002a472e1f41390a9e640142b7b74b5d80
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: a373e9524ab5e16e4a04746ff4499fc215d1f2a7
+ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251926"
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "62449514"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -31,12 +31,12 @@ ms.locfileid: "62251926"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | iPlanner Pro Office 365 |
-| Идентификатор | WA104380464 |
+| ID | WA104380464 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней Windows, Outlook 2016 или позднее на Mac, Outlook на iOS, Outlook в Интернете |
 | Имя компании-партнера | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Условия использования приложения | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
-| Основные функции приложения | Получите задачи планировщика Office 365 планировщика Teams на кончике руки в Outlook &amp; на любом устройстве. Управление и создание задач никогда не было проще. Получите задачи планировщика Office 365 планировщика Teams на кончике руки в Outlook для &amp; Windows, MAC, IOS или веб-почты. |
+| Основные функции приложения | Получите задачи планировщика Office 365 планировщика &amp; Teams на кончике руки в Outlook на любом устройстве. Управление и создание задач никогда не было проще. Получите задачи планировщика Office 365 &amp; планировщика Teams на кончике руки в Outlook для Windows, MAC, IOS или веб-почты. |
 | Расположение штаб-квартиры компании | Дания |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
@@ -119,7 +119,7 @@ ms.locfileid: "62251926"
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Да |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Да |
 | Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Да |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
 | Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
@@ -165,54 +165,17 @@ ms.locfileid: "62251926"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Contacts.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Files.Read | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| User.Read | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| User.ReadBasic.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| profile | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Calendars.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Contacts.ReadWrite | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.Read | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.Read | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.ReadBasic.All | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| profile | делегирована | Данные не хранятся в базах данных приложений. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 >В этом приложении нет дополнительных API.
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Сведения о сертификации
-
-| **Control** | **Microsoft 365 сертификации** |
-|:------------|:---------------------------------------|
-| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обзор оценки уязвимости (тест DAST/SAST/Penetration) | Недоступно |
-| [**ОПЕРАТИВНАЯ БЕЗОПАСНОСТЬ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирус | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAFs) (необязательный) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление изменениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасные разработки и развертывания программного обеспечения | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетной записью | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательный) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (ведение журнала данных) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
-| [**КОНФИДЕНЦИАЛЬНОСТЬ ПРИ ОБРАБОТКЕ &amp; ДАННЫХ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в транзите | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в покое | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
