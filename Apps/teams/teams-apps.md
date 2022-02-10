@@ -2,17 +2,17 @@
 title: Безопасность приложений Microsoft Teams и их соответствие требованиям для всех приложений
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/03/2022
+ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: a81e97a2a2ce3f34530134eaa903b9187f0868a6
-ms.sourcegitcommit: 901a8fee9d5d98cb95fae6b024bff972f6011528
+ms.openlocfilehash: 5ec8da5c62190b239f21acfd32a0d04fddd488cb
+ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2022
-ms.locfileid: "62375757"
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "62449253"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -64,6 +64,7 @@ ms.locfileid: "62375757"
 | [Подключение к доске](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
 | [Booking Room Pro](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
+| [BRAVO Workhub](./coeus-solutions-gmbh-bravo-workhub.md) | Coeus Solutions GmbH | **✓** |  |
 | [BravoNow](./spadeworx-software-services-bravonow.md) | SpadeWorx Software Services | **✓** |  |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  |
 | [Bright Poll](./chat-apps-llc-bright-poll.md) | Chat Apps, LLC | **✓** |  |
@@ -123,6 +124,7 @@ ms.locfileid: "62375757"
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Единая запись вызовов Dubber](./dubber-unified-call-recording.md) | Dubber | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
+| [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** |  |
 | [eCademy Lernplattform](./cornelsen-ecademy-and-inside-gmbh-lernplattform.md) | Cornelsen eCademy &amp; в составе GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
@@ -287,6 +289,7 @@ ms.locfileid: "62375757"
 | [Cовместная работа Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [Powow](./powow-ai.md) | Powow AI | **✓** |  |
 | [Presentations AI](./infographfx-technologies-presentations-ai.md) | Infographfx Technologies | **✓** |  |
+| [Price Monitor](./price-monitor.md) | &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Proconnect для Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** |  |
 | [ProdBot](./prodoscore-prodbot.md) | Prodoscore | **✓** |  |
@@ -305,8 +308,8 @@ ms.locfileid: "62375757"
 | [Reach](./livetiles-reach.md) | LiveTiles | **✓** |  |
 | [Перевод в режиме реального времени](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
-| [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
 | [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
+| [Responsum](./responsum-inc.md) | Responsum Inc. | **✓** |  |
 | [ReTeam](./beremote-llc-reteam.md) | BeRemote LLC | **✓** |  |
 | [Rezolve.ai](./actionable-science-rezolveai.md) | Actionable Science | **✓** |  |
 | [RFPIO bot](./rfpio-bot.md) | RFPIO | **✓** |  |
@@ -322,7 +325,6 @@ ms.locfileid: "62375757"
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
 | [Sensei Labs Conductor](./sensei-labs-inc-conductor.md) | Sensei Labs Inc. | **✓** |  |
 | [Senso](./senso.md) | Senso | **✓** |  |
-| [Sentry](./sentry.md) | Sentry | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
 | [Shortlinks](./chitchattr-shortlinks.md) | ChitChattr | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
