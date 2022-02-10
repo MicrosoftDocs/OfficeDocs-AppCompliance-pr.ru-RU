@@ -329,6 +329,8 @@
           href: teams/atwork-gmbh-cloud-hub.md
         - name: CloudLabs
           href: teams/spektra-systems-llc-cloudlabs.md
+        - name: Clypp
+          href: teams/zesavi-gmbh-clypp.md
         - name: COCO
           href: teams/hexaware-technologies-ltd-coco.md
         - name: CodeStream
@@ -457,7 +459,7 @@
           href: teams/storage-made-easy-file-fabric.md
         - name: Fireflies AI
           href: teams/firefliesai-fireflies-ai.md
-        - name: Помощник брандмауэра
+        - name: Firewall Assistant
           href: teams/dewmaker-design-inc-firewall-assistant.md
         - name: FireWatch
           href: teams/infographics-uk-ltd-firewatch.md
@@ -617,6 +619,8 @@
           href: teams/message-reminder.md
         - name: MetaVisitor
           href: teams/wafer-systems-metavisitor.md
+        - name: MetaWorkspace
+          href: teams/wafer-systems-metaworkspace.md
         - name: MGR360
           href: teams/mgr360.md
         - name: Mia
@@ -731,7 +735,7 @@
           href: teams/powow-ai.md
         - name: Presentations AI
           href: teams/infographfx-technologies-presentations-ai.md
-        - name: Монитор цен
+        - name: Price Monitor
           href: teams/price-monitor.md
         - name: Priority Matrix
           href: teams/appfluence-inc-priority-matrix.md
@@ -803,6 +807,8 @@
           href: teams/sensei-labs-inc-conductor.md
         - name: Senso
           href: teams/senso.md
+        - name: Общий поток по WNI
+          href: teams/wni-shared-thread-by.md
         - name: SHL
           href: teams/shl.md
         - name: Shortlinks
@@ -897,6 +903,8 @@
           href: teams/ityss-tamplo.md
         - name: Taskworld
           href: teams/taskworld.md
+        - name: Центр команды
+          href: teams/atlassian-inc-team-central.md
         - name: Team Tracker
           href: teams/team-tracker-ltd.md
         - name: Teamble
@@ -921,7 +929,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker by Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Командная работа
+        - name: Teamwork
           href: teams/teamwork.md
         - name: TELUS Business Connect
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -1035,8 +1043,6 @@
           href: teams/akmii-yeeflow.md
         - name: yuccaHR
           href: teams/yucca-technologies-gmbh-yuccahr.md
-        - name: Zesavi
-          href: teams/zesavi-gmbh.md
         - name: Zignals
           href: teams/alight-zignals.md
     - name: Microsoft Word Приложения

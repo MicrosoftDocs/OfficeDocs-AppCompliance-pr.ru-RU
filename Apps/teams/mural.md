@@ -2,24 +2,23 @@
 title: Сведения о приложениях для MURAL по MURAL
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/07/2021
+ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для MURAL, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 67a5424289d3c9e8ce90997fd67577e7d5d06e93
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 232dfe9848753a221d4a68590fa2c73138d39d24
+ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264525"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62515175"
 ---
 # <a name="mural"></a>MURAL
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 22 сентября 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 9 февраля 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381626" target="_blank">Просмотр в AppSource</a>
@@ -33,7 +32,7 @@ ms.locfileid: "62264525"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | MURAL |
-| Идентификатор | WA104381626 |
+| ID | WA104381626 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | MURAL |
 | Веб-сайт компании | [https://mural.co](https://mural.co) |
@@ -105,7 +104,7 @@ ms.locfileid: "62264525"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
 | Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Нет |
 | Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Нет |
 | Самая недавняя дата сертификации SOC1 |   |
@@ -114,15 +113,15 @@ ms.locfileid: "62264525"
 | Самая недавняя дата сертификации SOC2 |  2021-03-31 |
 | Соответствует ли приложение средствам управления службами (SOC 3)? | Да |
 | Самая недавняя дата сертификации SOC3 |  2021-03-31 |
-| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Недоступно |
+| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Н/Д |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Да |
 
