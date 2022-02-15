@@ -251,6 +251,8 @@
           href: teams/auditboard.md
         - name: Aula Digital
           href: teams/leya-sa-aula-digital.md
+        - name: Рабочий процесс автопилота
+          href: teams/autopilot-workflow-solutions-workflows.md
         - name: Avaamo IT Assistant
           href: teams/avaamo-it-assistant.md
         - name: Axelleron
@@ -387,7 +389,7 @@
           href: teams/degreed.md
         - name: DELTAoverC
           href: teams/deltaoverc.md
-        - name: Резервирование стола
+        - name: Desk reservations
           href: teams/tns-consulting-aps-desk-reservations.md
         - name: Desk365
           href: teams/kani-technologies-inc-desk365.md
@@ -697,6 +699,8 @@
           href: teams/officespace-software.md
         - name: OfficeSuite
           href: teams/windstream-officesuite.md
+        - name: OfficeTogether
+          href: teams/officetogether-inc.md
         - name: Officevibe
           href: teams/officevibe.md
         - name: OLIVE VLE
@@ -937,7 +941,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker by Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Teamwork
+        - name: Командная работа
           href: teams/teamwork.md
         - name: TELUS Business Connect
           href: teams/ringcentral-inc-telus-business-connect.md
