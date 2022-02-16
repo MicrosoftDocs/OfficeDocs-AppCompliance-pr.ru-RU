@@ -2,24 +2,24 @@
 title: Сведения о приложениях для OfficeTogether по OfficeTogether, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/14/2022
+ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для OfficeTogether, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 60fecadc5f9a2fc186e997a8115cf197ee05a2c3
-ms.sourcegitcommit: 9905237eb3270d099820cbf413d64b7cc066dc7c
+ms.openlocfilehash: f291b6d1586c5b119fb01eafc9a18ce867f63646
+ms.sourcegitcommit: e43a258f089034069a6101a3290dc315725762fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62811761"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "62832540"
 ---
 # <a name="officetogether"></a>OfficeTogether
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 9 сентября 2021 г.</p>
+<p>Последнее обновление разработчика: 15 февраля 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/d75e21dd-41a9-498d-8585-f96a516e8989" target="_blank">Просмотр в Teams магазине</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003767" target="_blank">Просмотр в AppSource</a>
@@ -170,18 +170,18 @@ ms.locfileid: "62811761"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | оба | Мы используем это разрешение для управления календарями для сотрудников, таких как синхронизация дней в офисе или управление конференц-залами. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Group.ReadWrite.All | приложение | Для всех пользователей, вступив в офис, мы создадим ежедневную команду, чтобы пользователи могли общаться и говорить об этом офисе. Это разрешение необходимо для управления  | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Presence.Read | делегирована | Синхронизация состояния OfficeTogether сотрудника с Teams. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Team.ReadBasic.All | приложение | Мы используем это разрешение для управления созданными ежедневными группами, например архива их. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Teams. Создание | приложение | Для всех пользователей, вступив в офис, мы создадим ежедневную команду, чтобы пользователи могли общаться и говорить об этом офисе. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| TeamsAppInstallation.ReadWriteSelfForUser.All | приложение | Наше приложение — это личное приложение. После установки на одного пользователя в компании мы автоматически установим всех зарегистрированных пользователей OfficeTogether в одной компании. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| User.Read | делегирована | SSO в команду электронной почты. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| User.ReadWrite.All | приложение | См. статью TeamsAppInstallation.ReadWriteSelfForUser.All. Чтобы установить OfficeTogether для всех соответствующих пользователей, мы сканировать каталог и соответствовать пользователям. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| email | делегирована | SSO в команду электронной почты. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| offline_access | делегирована | SSO в команду электронной почты. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| openid | делегирована | SSO в команду электронной почты. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| profile | делегирована | SSO в команду электронной почты. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| Calendars.ReadWrite | оба | Мы используем это разрешение для управления календарями для сотрудников, таких как синхронизация дней в офисе или управление конференц-залами. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Group.ReadWrite.All | приложение | Для всех пользователей, вступив в офис, мы создадим ежедневную команду, чтобы пользователи могли общаться и говорить об этом офисе. Это разрешение необходимо для управления  | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Presence.Read | делегирована | Синхронизация состояния OfficeTogether сотрудника с Teams. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Team.ReadBasic.All | приложение | Мы используем это разрешение для управления созданными ежедневными группами, например архива их. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Teams. Создание | приложение | Для всех пользователей, вступив в офис, мы создадим ежедневную команду, чтобы пользователи могли общаться и говорить об этом офисе. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| TeamsAppInstallation.ReadWriteSelfForUser.All | приложение | Наше приложение — это личное приложение. После установки на одного пользователя в компании мы автоматически установим всех зарегистрированных пользователей OfficeTogether в одной компании. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| User.Read | делегирована | SSO в команду электронной почты. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| User.ReadWrite.All | приложение | См. статью TeamsAppInstallation.ReadWriteSelfForUser.All. Чтобы установить OfficeTogether для всех соответствующих пользователей, мы сканировать каталог и соответствовать пользователям. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| email | делегирована | SSO в команду электронной почты. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| offline_access | делегирована | SSO в команду электронной почты. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| openid | делегирована | SSO в команду электронной почты. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| profile | делегирована | SSO в команду электронной почты. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
 
 >В этом приложении нет дополнительных API.
 
