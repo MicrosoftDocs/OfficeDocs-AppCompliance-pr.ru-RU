@@ -2,21 +2,21 @@
 title: Microsoft Excel безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/17/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 9a85b4a03d4237fa3560b9fdb445d9fa157158f7
-ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
+ms.openlocfilehash: fda740b5a043c820578322f179a763ad69a999e7
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62884443"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075973"
 ---
-# <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности приложений и соответствия требованиям
+# <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности и соответствия требованиям приложений
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений Microsoft Excel приложений и надстройок, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Microsoft Excel приложений и надстройок, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -24,7 +24,6 @@ ms.locfileid: "62884443"
 | [Аналитика CloudExtend для NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Forbury](./forbury-property.md) | Свойство Forbury | **✓** |  |
-| [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  |
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Jira Cloud для Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [Анализ текста MeaningCloud для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
@@ -32,8 +31,6 @@ ms.locfileid: "62884443"
 | [officeatwork — выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork — выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork — выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Диаграммы QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
-| [Решения QuickCells](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |

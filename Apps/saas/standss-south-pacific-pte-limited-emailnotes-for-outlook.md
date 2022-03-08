@@ -6,19 +6,20 @@ ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Все доступные сведения о безопасности и соответствия требованиям для EmailNotes для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для emailNotes для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e3d34f2de39a01c69215aabc529d11e0f5b4bb06
-ms.sourcegitcommit: 0c7519d574830d48260e4d39dffab3c5f96bc57c
+ms.openlocfilehash: d1287dc50181b69c6f1d8f3f31b43c84db569641
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523640"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076193"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes для Outlook
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 9 февраля 2022 г.</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 17 января 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/standsssouthpacificltd1581455821226.emailnotes" target="_blank">Просмотр в AppSource</a>
 
@@ -35,7 +36,7 @@ ms.locfileid: "62523640"
 | Имя компании-партнера | Standss (South Pacific) PTE Limited |
 | Веб-сайт компании | [https://www.standss.com](https://www.standss.com) |
 | Условия использования приложения | [https://www.standss.com/sendguard_m365/terms_conditions.htm](https://www.standss.com/sendguard_m365/terms_conditions.htm) |
-| Основные функции приложения | SendGuard для Outlook M365 — это средство для обнаружения, запроса, предупреждения и защиты пользователей от отправки конфиденциальной, конфиденциальной или ненадлежащей информации нежелательным получателям. |
+| Основные функции приложения | SendGuard для Outlook M365 — это средство для обнаружения, запроса, предупреждения и защиты пользователей от отправки конфиденциальной, конфиденциальной или ненадлежащей информации непреднамеренным получателям. |
 | Расположение штаб-квартиры компании | Фиджи |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
@@ -155,7 +156,7 @@ ms.locfileid: "62523640"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |

@@ -6,14 +6,14 @@ ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Все доступные сведения о безопасности и соответствия требованиям для Office2SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: a855949e3904992c0c31a55184762f83cd420b09
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+description: Все доступные сведения о безопасности и соответствии требованиям для Office2SharePoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 3dc55f14b429d25d2f4a3c610d3ada664bfcf064
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254085"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076233"
 ---
 # <a name="office2sharepoint"></a>Office2SharePoint
 
@@ -35,7 +35,7 @@ ms.locfileid: "62254085"
 | Имя компании-партнера | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Условия использования приложения | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
-| Основные функции приложения | Office2SharePoint — работа с SharePoint Teams Outlook Office и Office простой способ. Преодолеть барьеры в общении между членами группы, сделать документы и вложения электронной почты доступными для всех в SharePoint &amp; Teams. Сохраните электронные почты и вложения непосредственно с Outlook до SharePoint Teams на любом устройстве и платформе. Уровень разрешений на службы Приложений Office2SharePoint устанавливается как для надстройки Outlook, так и для Office надстройки. |
+| Основные функции приложения | Office2SharePoint — работа с SharePoint Teams Outlook и Office простой способ. Преодолеть барьеры в &amp; общении между членами группы, сделать документы и вложения электронной почты доступными для всех в SharePoint Teams. Сохраните электронные почты и вложения непосредственно с Outlook до SharePoint Teams на любом устройстве и платформе. Уровень разрешений на службы Приложений Office2SharePoint устанавливается как для надстройки Outlook, так и для Office надстройки. |
 | Расположение штаб-квартиры компании | Дания |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
@@ -118,8 +118,8 @@ ms.locfileid: "62254085"
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Да |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Да |
 | Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Да |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
@@ -151,7 +151,7 @@ ms.locfileid: "62254085"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | false |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
@@ -175,43 +175,6 @@ ms.locfileid: "62254085"
 >| User.Read | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >В этом приложении нет дополнительных API.
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Сведения о сертификации
-
-| **Control** | **Microsoft 365 сертификации** |
-|:------------|:---------------------------------------|
-| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обзор оценки уязвимости (тест DAST/SAST/Penetration) | Недоступно |
-| [**ОПЕРАТИВНАЯ БЕЗОПАСНОСТЬ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирус | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAFs) (необязательный) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление изменениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасные разработки и развертывания программного обеспечения | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетной записью | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательный) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (ведение журнала данных) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
-| [**КОНФИДЕНЦИАЛЬНОСТЬ ПРИ ОБРАБОТКЕ &amp; ДАННЫХ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в транзите | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данные в покое | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

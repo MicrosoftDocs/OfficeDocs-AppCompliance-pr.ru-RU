@@ -2,32 +2,31 @@
 title: Microsoft Word безопасности и соответствия требованиям приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех Microsoft Word Apps.
 localization_priority: Normal
-ms.openlocfilehash: b9fcddbf851ad99da87ae6f0e6a14d4e1e75c0c0
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: f8be48d49c0903bebf08570bfd7d623b488e176f
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877796"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075873"
 ---
-# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word безопасности и соответствия требованиям приложений
+# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word безопасности приложений и соответствия требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений о Microsoft Word приложениях и надстройких, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Microsoft Word приложений и надстройок, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Sign for Word and PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** |  |
+| [Adobe Acrobat Sign for Word and PowerPoint](./adobe-inc-acrobat-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Надстройка AuditBoard](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax — отправка факса &amp;](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
-| [Надстройка Office Fabasoft Cloud](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
-| [harmon.ie для Office](./harmonie-corporation-for-office.md) | harmon.ie Корпорация | **✓** |  |
+| [Надстройка Office облака Fabasoft](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Добавление word LegalMind](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Программное обеспечение для проверки контрактов Loio](./loio-inc-contract-review-software.md) | Loio Inc. | **✓** |  |
