@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Tendfor, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ff5ab1636a1b5b0dcec4725e6090f813cfbfcf4c
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: baf74e60015e41621c070103154d92432d7abdb9
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877890"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63080613"
 ---
 # <a name="tendfor"></a>Tendfor
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 15 февраля 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/212fcd92-bc06-4746-85c4-f7b5d39579ba" target="_blank">Просмотр в Teams магазине</a>
@@ -38,7 +37,7 @@ ms.locfileid: "62877890"
 | Имя компании-партнера | Tendfor |
 | Веб-сайт компании | [https://www.tendfor.com](https://www.tendfor.com) |
 | Условия использования приложения | [https://tendfor.com/tendfor_docs/en/StandardContractMarch20...](https://tendfor.com/tendfor_docs/en/StandardContractMarch2019.pdf) |
-| Основные функции приложения | Полностью рекомендуемый контактный центр и сопровождающий консоли для Microsoft Teams. |
+| Основные функции приложения | Полностью рекомендуемый контактный центр и сопутствующие консоли для Microsoft Teams. |
 | Расположение штаб-квартиры компании | Швеция |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Iaas |
@@ -158,7 +157,7 @@ ms.locfileid: "62877890"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |

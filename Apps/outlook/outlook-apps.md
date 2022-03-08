@@ -2,37 +2,36 @@
 title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Microsoft.
+description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: 86006b608edc098b9c7e3abbcf49bfde1f89863f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5f6ff668bfcedb253042f02b965eb1eb75b7209b
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251345"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078603"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений о приложениях и надстройках Microsoft Outlook и надстройки, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений о приложениях и надстройке Microsoft Outlook и надстройки, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Sign Add-In для Outlook](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc. | **✓** |  |
+| [Adobe Sign Add-In для Outlook](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Видео Altru](./altru-videos.md) | Альтру | **✓** |  |
 | [Утвержденные календари контактов](./approved-contact-calendars.md) | Approved Contact | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [CodeTwo для Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Коммутайт](./commuty.md) | Коммутайт | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
-| [harmon.ie для Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Корпорация | **✓** |  |
 | [Подписи впечатлений для Outlook](./impression-signatures-for-outlook.md) | Подписи впечатлений | **✓** |  |
 | [надстройка Office 365 планировщика для Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud для Outlook (Official)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
-| [Управление вопросами LawToolBox deadlines &amp; — Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
+| [LawToolBox Deadlines &amp; Matter Management - Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [Крайние сроки и управление вопросами LawToolBox — Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [Mailbutler](./mailbutler.md) | Mailbutler | **✓** |  |
 | [MIPA — личный помощник](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

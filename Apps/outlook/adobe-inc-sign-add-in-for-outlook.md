@@ -2,23 +2,22 @@
 title: Сведения о приложениях для Adobe Sign Add-In для Outlook Adobe Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/19/2021
+ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Sign Add-In для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e443e296205864141c0d0c2e6923e2e971ac4d7e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 55945315fcc8c34bd0badd80a0dfacf88bed8c54
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256855"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63079510"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Adobe Sign Add-In для Outlook
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 15 октября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381158" target="_blank">Просмотр в AppSource</a>
@@ -37,7 +36,7 @@ ms.locfileid: "62256855"
 | Имя компании-партнера | Adobe Inc. |
 | Веб-сайт компании | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | Условия использования приложения | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
-| Основные функции приложения | При добавлении Adobe Sign в Outlook необходимо быстро двигаться процессам подписания документов. Теперь, Outlook, вы можете подписать документы, отправить их для юридически обязательных электронных подписей и утверждений &#8212; всех с предпочтительным решением электронного знака Майкрософт. |
+| Основные функции приложения | При добавлении Adobe Sign в Outlook необходимо быстро двигаться процессы подписания документов. Теперь, Outlook, вы можете подписать документы, отправить их для юридически обязательных электронных подписей и утверждений &#8212; всех с предпочтительным решением электронного знака Майкрософт. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
@@ -121,7 +120,7 @@ ms.locfileid: "62256855"
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Да |
 | Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Да |
 | Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Нет |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
@@ -153,7 +152,7 @@ ms.locfileid: "62256855"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | false |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -166,9 +165,9 @@ ms.locfileid: "62256855"
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | делегирована | Чтобы заполнить присоединенный документ, отправитель и приемник электронной почты, а также содержимое сообщений из электронной почты в знак Adobe для отправки для подписи. Это необходимо для экономии времени пользователя, чтобы перепечатывать эти поля в Adobe Sign. После подписания соглашения мы автоматически сочиняем новое сообщение электронной почты для отправки электронной почты для информирования получателей о том, что транзакция сделана. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | делегирована | Чтобы автозаполнеть адрес электронной почты в режиме Отправка для подписи, введя некоторые начальные буквы, не требуется вводить &quot; &quot; целые сообщения электронной почты. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| People.Read | делегирована | Чтобы автозаполнеть &quot;адрес электронной почты в режиме Отправка&quot; для подписи, введя некоторые начальные буквы, не требуется вводить целые сообщения электронной почты. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 >| User.Read | делегирована | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | делегирована | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, необходимо обновить новый маркер, когда пользователь &quot; &quot; активен. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| offline_access | делегирована | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда &quot;&quot; пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, необходимо обновить новый маркер, когда пользователь активен. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 >| openid | делегирована | Электронная почта и UserId. Для регистрации пользователя, чтобы убедиться в его согласии на разрешение на использование приложения Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 
 >В этом приложении нет дополнительных API.
