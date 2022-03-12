@@ -2,24 +2,25 @@
 title: Сведения о приложениях для наложения календаря cloudwell
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/25/2022
+manager: tonybal
+ms.date: 03/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для наложения календаря, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: beabfa708d3a10d6bda1ca7df248dc5cd26784ba
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: a623b5e2887f0e08cdf5939e63dabd91ca47033a
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081272"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63454282"
 ---
 # <a name="calendar-overlay"></a>Наложение календаря
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 24 февраля 2022 г.</p>
+<p>Последнее обновление разработчика: 10 марта 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003806" target="_blank">Просмотр в AppSource</a>
 
@@ -32,14 +33,14 @@ ms.locfileid: "63081272"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Наложение календаря |
-| Идентификатор | WA200003806 |
+| ID | WA200003806 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней |
 | Имя компании-партнера | Cloudwell |
 | Веб-сайт компании | [https://cloudwell.io](https://cloudwell.io) |
 | Условия использования приложения | [https://cwlicensingprod.blob.core.windows.net/termsofuse/St...](https://cwlicensingprod.blob.core.windows.net/termsofuse/StandardContractMarch2019.pdf) |
 | Основные функции приложения | Веб-часть Наложения календаря позволяет просматривать все события Microsoft SharePoint, planner и Exchange в одном месте! |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://cloudwell.io/products/calendar-overlay](https://cloudwell.io/products/calendar-overlay) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Iaas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -61,8 +62,8 @@ ms.locfileid: "63081272"
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Адрес электронной почты пользователя, ID клиента пользователя |
 | Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? | Нет |
-| Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
+| Есть ли у вас установленный процесс аренды и удаления данных? | Да |
+| Как долго сохраняются данные после завершения работы учетной записи? | Менее 30 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
 | Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |

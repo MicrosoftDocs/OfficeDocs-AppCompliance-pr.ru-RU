@@ -2,17 +2,18 @@
 title: Безопасность Outlook приложений — все приложения
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/28/2022
+manager: tonybal
+ms.date: 03/11/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений Outlook Майкрософт.
 localization_priority: Normal
-ms.openlocfilehash: 5f6ff668bfcedb253042f02b965eb1eb75b7209b
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 34f5d7ca17fd82ba74620410a4faca38e06ea854
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63078603"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63458612"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность Outlook Приложений и соответствие требованиям
 
