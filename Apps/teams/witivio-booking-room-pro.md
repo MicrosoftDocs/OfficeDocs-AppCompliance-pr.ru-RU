@@ -1,19 +1,20 @@
 ---
-title: Сведения о приложениях для бронирования номеров Pro witivio
+title: Сведения о приложениях для бронирования номеров Pro Witivio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для службы бронирования номеров Pro, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для booking Room Pro, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 20773ef58c582a0c2b4f36cc123573796629fc31
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b971ec4848524feb149899a84734dda08b4ccb92
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257615"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540417"
 ---
 # <a name="booking-room-pro"></a>Booking Room Pro
 
@@ -33,12 +34,12 @@ ms.locfileid: "62257615"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Booking Room Pro |
-| Идентификатор | WA200003337 |
+| ID | WA200003337 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Witivio |
 | Веб-сайт компании | [https://www.witivio.com](https://www.witivio.com) |
 | Условия использования приложения | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| Основные функции приложения | Booking Room Pro это приложение Microsoft Teams, которое помогает управлять заполняемостью и местами для сидения в офисе. |
+| Основные функции приложения | Booking Room Pro это приложение Microsoft Teams, которое помогает управлять заполняемостью помещений и местами для сидения в офисе. |
 | Расположение штаб-квартиры компании | Франция |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
@@ -108,9 +109,9 @@ ms.locfileid: "62257615"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
 | Какую сертификацию SOC 2 удалось добиться? | |
@@ -158,7 +159,7 @@ ms.locfileid: "62257615"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -170,11 +171,11 @@ ms.locfileid: "62257615"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| email | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| offline_access | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| openid | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| profile | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
+>| User.Read | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| email | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| offline_access | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| openid | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| profile | делегирована | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
 
 >В этом приложении нет дополнительных API.
 

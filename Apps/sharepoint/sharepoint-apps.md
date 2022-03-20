@@ -3,17 +3,17 @@ title: Безопасность SharePoint приложений — все пр�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/17/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: e7452d964e4ca73d7c871491a424d58758af880a
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 66433eb54bf05965fb4a762a84f64d666d8c423a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459332"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540075"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 

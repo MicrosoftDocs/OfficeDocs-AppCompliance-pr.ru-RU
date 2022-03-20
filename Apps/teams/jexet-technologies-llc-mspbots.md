@@ -2,18 +2,19 @@
 title: Сведения о приложениях для MSPBots от Jexet Technologies LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для MSPBots, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8d4d4c0b27f2f2052a46b8d77107dbc4a320216e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5c80d3ac6bfa4537095c0941adb62fa81c367360
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257755"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539975"
 ---
 # <a name="mspbots"></a>MSPBots
 
@@ -33,7 +34,7 @@ ms.locfileid: "62257755"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | MSPBots |
-| Идентификатор | WA200001128 |
+| ID | WA200001128 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Jexet Technologies LLC |
 | Веб-сайт компании | [https://mspbots.ai](https://mspbots.ai) |
@@ -42,7 +43,6 @@ ms.locfileid: "62257755"
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -158,8 +158,8 @@ ms.locfileid: "62257755"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
-| Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Недоступно |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
+| Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Н/Д |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение оценку непрерывного доступа (CAE) | Нет |
@@ -170,9 +170,9 @@ ms.locfileid: "62257755"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Send | приложение | Отправка сообщения на канал | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
->| ChatMessage.Send | приложение | Отправка сообщения в чат | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
->| profile | приложение | получить сведения о пользователях приложения | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
+>| ChannelMessage.Send | приложение | Отправка сообщения на канал | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](../azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) |
+>| ChatMessage.Send | приложение | Отправка сообщения в чат | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](../azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) |
+>| profile | приложение | получить сведения о пользователях приложения | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](../azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) |
 
 >В этом приложении нет дополнительных API.
 

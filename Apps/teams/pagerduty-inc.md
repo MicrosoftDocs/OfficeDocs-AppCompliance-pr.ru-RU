@@ -2,18 +2,19 @@
 title: Сведения о приложениях для PagerDuty по PagerDuty, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для PagerDuty, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для PagerDuty, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ce084b52bb1159f417649bc8283cab4a1edc8f34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8b41c097db43cbce711f7a06dc44147e3aa367cd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264753"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539935"
 ---
 # <a name="pagerduty"></a>PagerDuty
 
@@ -33,15 +34,16 @@ ms.locfileid: "62264753"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | PagerDuty |
-| Идентификатор | WA200001637 |
+| ID | WA200001637 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | PagerDuty, Inc. |
 | Веб-сайт компании | [https://www.pagerduty.com](https://www.pagerduty.com) |
 | Условия использования приложения | [https://www.pagerduty.com/service-terms-use/](https://www.pagerduty.com/service-terms-use/) |
 | Основные функции приложения | Привод в режиме реального времени: триггер, просмотр, подтверждение и устранение инцидентов непосредственно из Teams. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.pagerduty.com/integrations/microsoft-teams](https://www.pagerduty.com/integrations/microsoft-teams) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62264753"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Сохранено |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,14 +109,14 @@ ms.locfileid: "62264753"
 | Самая недавняя дата сертификации SOC2 |   |
 | Соответствует ли приложение средствам управления службами (SOC 3)? | Нет |
 | Самая недавняя дата сертификации SOC3 | |
-| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Недоступно |
+| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Н/Д |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
 | Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Да |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
@@ -154,7 +149,7 @@ ms.locfileid: "62264753"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -166,26 +161,26 @@ ms.locfileid: "62264753"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| OnlineMeetings.ReadWrite | делегирована | При создании собрания и получении ответа мы используем такие поля: join_web_url, audioConferencing. Эти поля необходимы для показа пользователю ссылки на собрание или альтернативных способов подключения к собранию. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadForTeam | делегирована | Использование для добавления приложения pagerduty для чата. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadWriteForTeam.All | делегирована | Использование для добавления приложения pagerduty для чата. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsTab.ReadWrite.All | делегирована | Использование для добавления приложения pagerduty в качестве вкладки на собрании | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.Read | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.ReadBasic.All | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| email | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| offline_access | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| openid | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| profile | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| OnlineMeetings.ReadWrite | делегирована | При создании собрания и получении ответа мы используем такие поля: join_web_url, audioConferencing. Эти поля необходимы для показа пользователю ссылки на собрание или альтернативных способов подключения к собранию. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam | делегирована | Использование для добавления приложения pagerduty для чата. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam.All | делегирована | Использование для добавления приложения pagerduty для чата. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsTab.ReadWrite.All | делегирована | Использование для добавления приложения pagerduty в качестве вкладки на собрании | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.Read | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.ReadBasic.All | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| email | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| offline_access | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| openid | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| profile | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
+>| OnlineMeetings.ReadWrite | делегирована | При создании собрания и получении ответа мы используем такие поля: join_web_url, audioConferencing. Эти поля необходимы для показа пользователю ссылки на собрание или альтернативных способов подключения к собранию. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadForTeam | делегирована | Использование для добавления приложения pagerduty для чата. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadWriteForTeam.All | делегирована | Использование для добавления приложения pagerduty для чата. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsTab.ReadWrite.All | делегирована | Использование для добавления приложения pagerduty в качестве вкладки на собрании | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.Read | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.ReadBasic.All | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| email | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| offline_access | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| openid | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| profile | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| OnlineMeetings.ReadWrite | делегирована | При создании собрания и получении ответа мы используем такие поля: join_web_url, audioConferencing. Эти поля необходимы для показа пользователю ссылки на собрание или альтернативных способов подключения к собранию. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam | делегирована | Использование для добавления приложения pagerduty для чата. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam.All | делегирована | Использование для добавления приложения pagerduty для чата. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsTab.ReadWrite.All | делегирована | Использование для добавления приложения pagerduty в качестве вкладки на собрании | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.Read | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.ReadBasic.All | делегирована | Используются данные: id, userPrincipalName . Он используется для получения пользователей microsoft teams, чтобы добавить их к собранию в качестве участников | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| email | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| offline_access | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| openid | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| profile | делегирована | Использование для запросов авторизации и маркеров. Используются данные: access_token, refresh_token, expires_in, область | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
 
 >В этом приложении нет дополнительных API.
 

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Teams manager по Solutions2Share GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для Teams Manager, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Teams Manager, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 75bea5ebb9ea83d682f56cc4c4027f23409d932c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3b4327e14c30c6a9be465574e947d5c23a07b021
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253425"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540447"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -33,15 +34,16 @@ ms.locfileid: "62253425"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Teams Manager |
-| Идентификатор | WA200000764 |
+| ID | WA200000764 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Solutions2Share GmbH |
 | Веб-сайт компании | [https://teams-manager.com](https://teams-manager.com) |
 | Условия использования приложения | [https://www.teams-manager.com/terms-of-use/](https://www.teams-manager.com/terms-of-use/) |
-| Основные функции приложения | Создание новых Teams на основе сложных настраиваемых шаблонов с рабочим процессом утверждения. Teams manager помогает компаниям контролировать свои Microsoft Teams и остановить неконтролируемый рост с помощью функций управления, но при этом позволяет пользователям создавать новые Teams. |
+| Основные функции приложения | Создание новых Teams на основе сложных настраиваемых шаблонов с рабочим процессом утверждения. Teams Manager помогает компаниям контролировать свои Microsoft Teams и остановить неконтролируемый рост с помощью функций управления, при этом позволяя пользователям создавать новые Teams. |
 | Расположение штаб-квартиры компании | Германия |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://teams-manager.com](https://teams-manager.com) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62253425"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Сохранено |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,7 +149,7 @@ ms.locfileid: "62253425"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в списке интеграции платформы удостоверений Майкрософт? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | true |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -164,13 +159,13 @@ ms.locfileid: "62253425"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
+>|   **Разрешение graph**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | оба | Мы храним TenantID и TeamId для картографии шаблонов.  | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
->| Notes.ReadWrite.All | приложение | Нет | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
->| User.Read | делегирована | Нет | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
->| User.Read.All | оба | Сохраняется id пользователя, вписавшегося в раздел approver/admin. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
->| User.ReadBasic.All | делегирована | Нет | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| Group.ReadWrite.All | оба | Мы храним TenantID и TeamId для картографии шаблонов.  | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](../azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md) |
+>| Notes.ReadWrite.All | приложение | Нет | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](../azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md) |
+>| User.Read | делегирована | Нет | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](../azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md) |
+>| User.Read.All | оба | Сохраняется id пользователя, вписавшегося в раздел approver/admin. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](../azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md) |
+>| User.ReadBasic.All | делегирована | Нет | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](../azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md) |
 
 >В этом приложении нет дополнительных API.
 

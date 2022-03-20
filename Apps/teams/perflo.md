@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Perflo по Perflo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Perflo, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 851efa60442588759acde6ac3e4aad300283583e
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 91e4adc3b416836af149a59fa1e205d7c2e7ffd2
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081551"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553308"
 ---
 # <a name="perflo"></a>Perflo
 
@@ -33,14 +34,14 @@ ms.locfileid: "63081551"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Perflo |
-| Идентификатор | WA200003721 |
+| ID | WA200003721 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Perflo |
 | Веб-сайт компании | [https://www.perflo.co](https://www.perflo.co) |
 | Условия использования приложения | [https://www.perflo.co/terms](https://www.perflo.co/terms) |
 | Основные функции приложения | Отправка микро-опросов группам и создание отчетов для руководителей. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.perflo.co](https://www.perflo.co) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Гибридная среда |
 | Какие поставщики облачных хостингов используют приложение? | Aws, Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081551"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Каналы, Teams, имя профиля пользователя, изображения профилей, ms Teams ID |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Ирландия |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 30 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |

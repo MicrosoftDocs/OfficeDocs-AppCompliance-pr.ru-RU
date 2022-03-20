@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Excel автоматизации документов с помощью analysisPlace
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Excel автоматизации документов, политики обработки данных, сведения об Microsoft Cloud App Security приложениях и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ede1a98c44b8d6e71a12069c15065f7499bb5e2
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ceb3175ecfbe45b33fe7c1fe62ae59e62f00d7ad
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079543"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536587"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel автоматизация документов
 
@@ -32,14 +33,14 @@ ms.locfileid: "63079543"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Excel автоматизация документов |
-| Идентификатор | WA104380955 |
+| ID | WA104380955 |
 | Office 365 поддерживаемые клиенты | Excel 2016 или позже на Mac, Excel 2016 или более поздней Windows, Word 2016 или позднее на Mac, Word 2016 или более поздней Windows, PowerPoint 2016 или позднее на Mac, PowerPoint 2016 или более поздней Windows, Excel в Интернете, Word в Интернете, PowerPoint в Интернете |
 | Имя компании-партнера | AnalysisPlace |
 | Веб-сайт компании | [https://analysisplace.com](https://analysisplace.com) |
 | Условия использования приложения | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 | Основные функции приложения | AnalysisPlace предоставляет службы для автоматизации обновления Microsoft Office документов |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://analysisplace.com/Document-Automation](https://analysisplace.com/Document-Automation) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Iaas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -60,7 +61,7 @@ ms.locfileid: "63079543"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Имя пользователя, адрес электронной почты пользователя, ID клиента организации |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |

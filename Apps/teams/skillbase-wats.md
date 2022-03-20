@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Wats by Skillbase
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для Wats, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для Wats, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 49aba56648206ad302a6b078bb28ad3b055bbc5f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9de720a140a3e4118815305fd03245c2b3f63644
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251670"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539865"
 ---
 # <a name="wats"></a>Wats
 
@@ -33,14 +34,14 @@ ms.locfileid: "62251670"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Wats |
-| Идентификатор | WA200003597 |
+| ID | WA200003597 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Skillbase |
 | Веб-сайт компании | [https://wats.ai](https://wats.ai) |
 | Условия использования приложения | [https://wats.ai/en/terms-of-use/](https://wats.ai/en/terms-of-use/) |
 | Основные функции приложения | Совместное решение для обмена знаниями и доступа к ним. Развязать свою энергию с wats! |
 | Расположение штаб-квартиры компании | Франция |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://wats.ai/solutions/](https://wats.ai/solutions/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -59,14 +60,7 @@ ms.locfileid: "62251670"
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Да |
 | Какие данные обрабатываются вашим приложением? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? |  |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,9 +102,9 @@ ms.locfileid: "62251670"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
 | Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Да |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
 | Какую сертификацию SOC 2 удалось добиться? | |
@@ -119,14 +113,14 @@ ms.locfileid: "62251670"
 | Самая недавняя дата сертификации SOC3 | |
 | Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Нет |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Нет |
-| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Недоступно |
+| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Н/Д |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
-| Соответствует ли приложение NIST 800-171? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение NIST 800-171? | Н/Д |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -157,7 +151,7 @@ ms.locfileid: "62251670"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -169,19 +163,19 @@ ms.locfileid: "62251670"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read | делегирована | Лекция des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Files.Read.All | делегирована | Лекция des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Group.Read.All | делегирована | avoir acc&#232;s aux groupes pour le ask for it | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Organization.Read.All | делегирована | recup&#233;rer le tenant ID pour bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Presence.Read | делегирована | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Presence.Read.All | делегирована | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Sites.Read.All | делегирована | acces aux infos des sharepoints | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| TeamsActivity.Send | оба | envoie d'activit&#233;s aux utilisateurs quand un ask for it est cr&#233;&#233; | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| User.Read | делегирована | вход в систему | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| User.Read.All | делегирована | info sur les autres utilisateurs | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| offline_access | делегирована | мобильный | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| openid | делегирована | OBO | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| profile | делегирована | info sur l'utilisateur | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Files.Read | делегирована | Лекция des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Files.Read.All | делегирована | Лекция des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Group.Read.All | делегирована | avoir acc&#232;s aux groupes pour le ask for it | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Organization.Read.All | делегирована | recup&#233;rer le tenant ID pour bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Presence.Read | делегирована | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Presence.Read.All | делегирована | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Sites.Read.All | делегирована | acces aux infos des sharepoints | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| TeamsActivity.Send | оба | envoie d'activit&#233;s aux utilisateurs quand un ask for it est cr&#233;&#233; | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| User.Read | делегирована | вход в систему | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| User.Read.All | делегирована | info sur les autres utilisateurs | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| offline_access | делегирована | мобильный | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| openid | делегирована | OBO | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| profile | делегирована | info sur l'utilisateur | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
 
 >В этом приложении нет дополнительных API.
 
