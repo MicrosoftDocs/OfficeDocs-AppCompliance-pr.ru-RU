@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Adobe Acrobat Sign for Word и PowerPoint Adobe Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Adobe Acrobat Sign for Word и PowerPoint, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6acf8769762f9401cb92785de1d0fda1214575b4
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: a3868fdf799ff05543aa2af71e52a427b382aec5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081524"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541877"
 ---
 # <a name="adobe-acrobat-sign-for-word-and-powerpoint"></a>Adobe Acrobat Sign for Word and PowerPoint
 
@@ -31,14 +32,14 @@ ms.locfileid: "63081524"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Adobe Acrobat Sign for Word and PowerPoint |
-| Идентификатор | WA104381155 |
+| ID | WA104381155 |
 | Office 365 поддерживаемые клиенты | Word 2016 или позднее на Mac, Word в Интернете, Word 2013 Пакет обновления 1 или более поздней Windows, PowerPoint 2016 или позднее на Mac, PowerPoint в Интернете, PowerPoint 2013 Пакет обновления 1 или более поздней Windows |
 | Имя компании-партнера | Adobe Inc. |
 | Веб-сайт компании | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | Условия использования приложения | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 | Основные функции приложения | При добавлении Adobe Sign для Office продолжайте быстро двигаться процессы подписания документов. Теперь в Office приложениях, таких как Word и PowerPoint, вы можете подписывать документы, отправлять их для юридически обязательных электронных подписей и утверждений &#8212; всех с предпочтительным решением электронного знака Майкрософт. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Гибридная среда |
 | Какие поставщики облачных хостингов используют приложение? | AWS, Azure |
 
@@ -167,11 +168,11 @@ ms.locfileid: "63081524"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.ReadWrite | делегирована | Чтобы заполнить присоединенный документ, отправитель и приемник электронной почты, а также содержимое сообщений из электронной почты в знак Adobe для отправки для подписи. Это необходимо для экономии времени пользователя, чтобы перепечатывать эти поля в Adobe Sign. После подписания соглашения мы автоматически сочиняем новое сообщение электронной почты для отправки электронной почты для информирования получателей о том, что транзакция сделана. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | делегирована | Чтобы автозаполнеть &quot;адрес электронной почты в режиме Отправка&quot; для подписи, введя некоторые начальные буквы, не требуется вводить целые сообщения электронной почты. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | делегирована | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | делегирована | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда &quot;&quot; пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, необходимо обновить новый маркер, когда пользователь активен. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | делегирована | Электронная почта и UserId. Для регистрации пользователя, чтобы убедиться в его согласии на разрешение на использование приложения Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| Mail.ReadWrite | делегирована | Чтобы заполнить присоединенный документ, отправитель и приемник электронной почты, а также содержимое сообщений из электронной почты в знак Adobe для отправки для подписи. Это необходимо для экономии времени пользователя, чтобы перепечатывать эти поля в Adobe Sign. После подписания соглашения мы автоматически сочиняем новое сообщение электронной почты для отправки электронной почты для информирования получателей о том, что транзакция сделана. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| People.Read | делегирована | Чтобы автозаполнеть &quot;адрес электронной почты в режиме Отправка&quot; для подписи, введя некоторые начальные буквы, не требуется вводить целые сообщения электронной почты. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| User.Read | делегирована | Чтение профиля пользователя и соответствие его профиля (в основном, его электронной почты и userId) нашей базе данных, чтобы они могли использовать Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| offline_access | делегирована | Чтобы обновить маркер доступа, по истечении текущего срока действия. Например, когда &quot;&quot; пользователь находится в окне отправки подписи и оставляет его неактивным слишком долго, необходимо обновить новый маркер, когда пользователь активен. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| openid | делегирована | Электронная почта и UserId. Для регистрации пользователя, чтобы убедиться в его согласии на разрешение на использование приложения Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 
 >В этом приложении нет дополнительных API.
 

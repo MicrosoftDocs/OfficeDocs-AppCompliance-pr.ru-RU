@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Klett от Ernst Klett Verlag GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Klett, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e1a5e3b691fb1face8b122f028146bb34e92a705
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 3a9842883f221d7a51af14ea7db73ef0ea47e273
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795815"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541317"
 ---
 # <a name="klett"></a>Klett
 
@@ -33,16 +34,15 @@ ms.locfileid: "62795815"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Klett |
-| Идентификатор | WA200003716 |
+| ID | WA200003716 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Ernst Klett Verlag GmbH |
 | Веб-сайт компании | [https://www.klett.de/index/](https://www.klett.de/index/) |
 | Условия использования приложения | [https://www.klett.de/inhalt/rechtliches/nutzungsbedingungen...](https://www.klett.de/inhalt/rechtliches/nutzungsbedingungen-fuer-digitale-inhalte-und-online-services/6931) |
 | Основные функции приложения | Bequemer Zugriff auf die digitalen Produkte passend zum Schulbuch |
 | Расположение штаб-квартиры компании | Германия |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.klett.de/inhalt/217167](https://www.klett.de/inhalt/217167) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,14 +57,7 @@ ms.locfileid: "62795815"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Нет |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? |  |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,7 +149,7 @@ ms.locfileid: "62795815"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |

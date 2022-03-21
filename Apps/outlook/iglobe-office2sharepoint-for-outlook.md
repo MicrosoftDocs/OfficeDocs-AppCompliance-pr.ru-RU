@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Office2SharePoint для Outlook iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для Office2SharePoint для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e6290d01f99f2ff446e47349e8f74392d7e3f9ce
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 35d709f4cc3654fb0ee16d6d354c675ae4a51bf9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076903"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540697"
 ---
 # <a name="office2sharepoint-for-outlook"></a>Office2SharePoint для Outlook
 
@@ -31,15 +32,16 @@ ms.locfileid: "63076903"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Office2SharePoint для Outlook |
-| Идентификатор | WA104380689 |
+| ID | WA104380689 |
 | Office 365 поддерживаемые клиенты | Outlook 2013 или более поздней версии Windows, Outlook 2016 или более поздней версии на Mac, Outlook на iOS, Outlook на Android, Outlook в Интернете |
 | Имя компании-партнера | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Условия использования приложения | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 | Основные функции приложения | Office2SharePoint — работа с SharePoint Teams Outlook и Office простой способ. Преодолеть барьеры в &amp; общении между членами группы, сделать документы и вложения электронной почты доступными для всех в SharePoint Teams. Сохраните электронные почты и вложения непосредственно с Outlook до SharePoint Teams на любом устройстве и платформе. Уровень разрешений на службы Приложений Office2SharePoint устанавливается как для надстройки Outlook, так и для Office надстройки. |
 | Расположение штаб-квартиры компании | Дания |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://o2s.iglobe.dk](https://o2s.iglobe.dk) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ ms.locfileid: "63076903"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Немедленно удалено |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,15 +160,15 @@ ms.locfileid: "63076903"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Manage.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| User.Read | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.AccessAsUser.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Manage.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Read.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.ReadWrite.All | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| User.Read | делегирована | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 
 >В этом приложении нет дополнительных API.
 

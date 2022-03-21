@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Jetdocs по Jetdocs
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Jetdocs, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fadc71dc93834478199183da85b01df210776328
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 8143b96ac361b21e74d4408e8daf324b2f29acf4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076833"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543957"
 ---
 # <a name="jetdocs"></a>Jetdocs
 
@@ -33,14 +34,14 @@ ms.locfileid: "63076833"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Jetdocs |
-| Идентификатор | WA200002236 |
+| ID | WA200002236 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Jetdocs |
 | Веб-сайт компании | [https://jetdocs.io](https://jetdocs.io) |
 | Условия использования приложения | [https://jetdocs.io/terms](https://jetdocs.io/terms) |
 | Основные функции приложения | Jetdocs — это ваш объединенный опыт сотрудников, который позволяет обрабатывать внутренние запросы, билеты, проблемы и утверждения и перенаправить их соответствующему эксперту в организации для простого разрешения. Большинство организаций борются за то, чтобы взламыть внутренние процессы и полагаться на длинные потоки обмена сообщениями и групповые почтовые ящики. Bizops teams, IT, operations, legal, HR, finance and office management are a few of the service teams that benefit from Jetdocs and allow your organisation to scale. |
 | Расположение штаб-квартиры компании | Канада |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://jetdocs.io/jetdocs-teams-requests-and-ticketing/](https://jetdocs.io/jetdocs-teams-requests-and-ticketing/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Aws, Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63076833"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Электронная почта, имя, фамилия |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 30 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |

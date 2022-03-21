@@ -2,18 +2,19 @@
 title: Сведения о приложениях для облачных CX Teams Genesys Cloud Services, Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Genesys Cloud CX Teams Integration, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 673c8bbc637288ae5c92c3367445893586523af9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 81ddd4b2bcaaf688b5a95d6351673d3cad19a352
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081540"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541827"
 ---
 # <a name="genesys-cloud-cx-teams-integration"></a>Интеграция cloud CX Teams Genesys
 
@@ -32,13 +33,13 @@ ms.locfileid: "63081540"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Интеграция cloud CX Teams Genesys |
-| Идентификатор | genesyslabs.genesys-cloud_teams_integration |
+| ID | genesyslabs.genesys-cloud_teams_integration |
 | Имя компании-партнера | Облачные службы Genesys, Inc |
 | Веб-сайт компании | [https://www.genesys.com](https://www.genesys.com) |
 | Условия использования приложения | [https://help.mypurecloud.com/articles/global-genesys-cloud-...](https://help.mypurecloud.com/articles/global-genesys-cloud-service-terms-and-conditions/) |
 | Основные функции приложения | Genesys Cloud CX&#8482; интеграции для Microsoft Teams |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://appsource.microsoft.com/en-us/product/web-apps/gene...](https://appsource.microsoft.com/en-us/product/web-apps/genesyslabs.genesys-cloud_teams_integration) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Iaas |
 | Какие поставщики облачных хостингов используют приложение? | Aws |
 
@@ -59,7 +60,7 @@ ms.locfileid: "63081540"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Данные профилей пользователей |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -169,7 +170,7 @@ ms.locfileid: "63081540"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Presence.Read.All | оба | Агент центра контактов должен иметь возможность видеть присутствие своего коллеги перед передачей телефонного звонка | [728ece5a-0f26-4c43-9705-cea9debe3fb5](https://docs.microsoft.com/microsoft-365-app-certification/azure/728ece5a-0f26-4c43-9705-cea9debe3fb5) |
+>| Presence.Read.All | оба | Агент центра контактов должен иметь возможность видеть присутствие своего коллеги перед передачей телефонного звонка | [728ece5a-0f26-4c43-9705-cea9debe3fb5](../azure/728ece5a-0f26-4c43-9705-cea9debe3fb5.md) |
 
 >В этом приложении нет дополнительных API.
 

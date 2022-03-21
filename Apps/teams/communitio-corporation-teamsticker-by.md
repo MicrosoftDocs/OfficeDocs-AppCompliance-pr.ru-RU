@@ -2,12 +2,19 @@
 title: Сведения о приложениях для TeamSticker by Communitio от Communitio Corporation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.'
+description: Все доступные сведения о безопасности и соответствии требованиям для TeamSticker by Communitio, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 5b9b32b4cb3b7967fb747eb3a813b3680bdb57da
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540577"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -34,7 +41,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 | Условия использования приложения | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | Основные функции приложения | Это цифровая карточка благодарности, которую можно отправить из беседы. |
 | Расположение штаб-квартиры компании | Япония |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://teamsuite.biz/teamsticker](https://teamsuite.biz/teamsticker) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -152,7 +159,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -164,13 +171,13 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamMember.Read.All | приложение |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| TeamMember.Read.All | делегирована |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read | делегирована | Для получения сведений о профиле пользователя, вошел в систему. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read.All | приложение |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read.All | делегирована |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| openid | делегирована |  Чтобы войти. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| profile | делегирована | Для получения сведений о профиле пользователя, вошел в систему. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| TeamMember.Read.All | приложение |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| TeamMember.Read.All | делегирована |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read | делегирована | Для получения сведений о профиле пользователя, вошел в систему. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read.All | приложение |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read.All | делегирована |  Чтобы выбрать человека, которому нужно отправить карточку. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| openid | делегирована |  Чтобы войти. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| profile | делегирована | Для получения сведений о профиле пользователя, вошел в систему. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
 
 >В этом приложении нет дополнительных API.
 

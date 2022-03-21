@@ -2,20 +2,21 @@
 title: Сведения о приложениях для центра команд atlassian, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Team Central, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Team Central, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 383e6ddbf0e2c0fcf4b427134e12ae33e072a35f
-ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
+ms.openlocfilehash: afb23536f95ad01537322fea4a8b65068b621c4f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62510578"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543737"
 ---
-# <a name="team-central"></a>Центр команды
+# <a name="team-central"></a>Team Central
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ ms.locfileid: "62510578"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Центр команды |
+| Название приложения | Team Central |
 | ID | WA200003760 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Atlassian, Inc. |
@@ -57,14 +58,7 @@ ms.locfileid: "62510578"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Нет |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? |  |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -155,7 +149,7 @@ ms.locfileid: "62510578"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |

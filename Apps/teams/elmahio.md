@@ -2,12 +2,19 @@
 title: Сведения о приложениях для elmah.io по elmah.io
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Все доступные сведения о безопасности и соответствия требованиям для elmah.io, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.'
+description: Все доступные сведения о безопасности и соответствия требованиям для elmah.io, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e3250fd5c8cbbc90aeaf33766f70bbb5b5573343
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544787"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -34,7 +41,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 | Условия использования приложения | [https://elmah.io/legal/terms-of-use/](https://elmah.io/legal/terms-of-use/) |
 | Основные функции приложения | elmah.io является службой мониторинга ошибок и мониторинга времени работы для веб-разработчиков .NET. elmah.io интегрируется со всеми основными веб-структурами и системами ведения журнала и предоставляет обширный опыт мониторинга в веб-, Windows и мобильных приложениях. |
 | Расположение штаб-квартиры компании | Дания |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://docs.elmah.io/elmah-io-apps-teams/](https://docs.elmah.io/elmah-io-apps-teams/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure, Aws |
 
@@ -152,7 +159,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для iGlobe CRM для Teams iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для iGlobe CRM для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 63646b2a2425eeef310ae5534209d015d06896c1
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2cd05e66be09be9374dc9e636a13acc81c5eee90
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257765"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544717"
 ---
 # <a name="iglobe-crm-for-teams"></a>CRM iGlobe для Teams
 
@@ -32,14 +33,14 @@ ms.locfileid: "62257765"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | CRM iGlobe для Teams |
-| Идентификатор | WA104381421 |
+| ID | WA104381421 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Условия использования приложения | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
-| Основные функции приложения | cRM iGlobe Office 365 SharePoint, предоставленного для хозяйской программы. CRM-Office 365 iGlobe — это простая и простая в использовании надстройка CRM для бизнеса с Office 365. С Outlook,Excel, надстройки Word и Teams в сочетании с бесшовной интеграцией с Office 365 Planner, SharePoint и Teams надстройка iGlobe SharePoint является настоящим Office 365 расширением. Уровень разрешений CRM iGlobe устанавливается на основе интеграции во всех используемых Microsoft 365 службах.  |
+| Основные функции приложения | CRM iGlobe Office 365 SharePoint, предоставленного. CRM-Office 365 iGlobe — это простая и простая в использовании надстройка CRM для бизнеса с Office 365. С Outlook,Excel, надстройки Word и Teams App в сочетании с бесшовной интеграцией с Office 365 Planner, SharePoint и Teams надстройка iGlobe SharePoint является настоящим Office 365 расширением. Уровень разрешений CRM iGlobe устанавливается на основе интеграции во всех используемых Microsoft 365 службах.  |
 | Расположение штаб-квартиры компании | Дания |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -56,14 +57,7 @@ ms.locfileid: "62257765"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Нет |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? |  |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -89,7 +83,7 @@ ms.locfileid: "62257765"
 | Учитываются ли методы безопасного кодирования общие классы уязвимости, такие как OWASP Top 10? | Да |
 | Многофакторная проверка подлинности (MFA) включена для: | CodeRepositories, DNSManagement, Credential |
 | Есть ли у вас установленный процесс для создания, изменения и удаления учетных записей сотрудников? | Да |
-| Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Недоступно |
+| Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Н/Д |
 | Для всех системных компонентов, поддерживающих приложение, настроена ли ведение журнала событий? | Да |
 | Рассматриваются ли все журналы на регулярной основе с помощью человеческого или автоматического инструмента для обнаружения потенциальных событий безопасности? | Да|
 | При обнаружении события безопасности оповещений автоматически отправляются сотруднику для проведения трехсторонней работы? | Да |
@@ -121,9 +115,9 @@ ms.locfileid: "62257765"
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Да |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Да |
 | Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Да |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
-| Соответствует ли приложение NIST 800-171? | Недоступно |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение NIST 800-171? | Н/Д |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -155,7 +149,7 @@ ms.locfileid: "62257765"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
@@ -168,19 +162,19 @@ ms.locfileid: "62257765"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована | Доступ к календарям пользователей при обмывке отчетов о собраниях из canlendar в iGlobe    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Contacts.ReadWrite | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Directory.ReadWrite.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Files.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов и данных для SharePoint списков.     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Group.Read.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Group.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Mail.ReadWrite | делегирована | Svae eamil to iGlobe CRM and get informatiopn from iGlobe to a new e-amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.Manage.All | делегирована | Создание, редактирование и удаление элементов и списков в CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.Read.All | делегирована | Чтение элементов в CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.ReadWrite.All | делегирована | Изменение и удаление элементов и списков в CRM iGlobe  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Tasks.ReadWrite | делегирована | Создание задачи планировщика из CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| User.Read | делегирована | Чтобы получить сведения о CRM iGlobe для speficic пользователя    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Calendars.ReadWrite | делегирована | Доступ к календарям пользователей при обмывке отчетов о собраниях из canlendar в iGlobe    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Contacts.ReadWrite | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.Read.All | делегирована | Проверьте разрешение и получите сайты и списки. Создайте папки, получите файлы и сохраните файлы.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.ReadWrite.All | делегирована | Предоставляет приложению такой же доступ к информации в каталоге, как у вошедшего пользователя.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Files.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов и данных для SharePoint списков.     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.Read.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.ReadWrite.All | делегирована | Чтение, обновление, создание задач panner, чтение последних и общих файлов пользователей, SharePoint список, библиотеки и файлы. Сохранение файлов для SharePoint списков. Интеграция в iGlobe CRM Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Mail.ReadWrite | делегирована | Svae eamil to iGlobe CRM and get informatiopn from iGlobe to a new e-amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Manage.All | делегирована | Создание, редактирование и удаление элементов и списков в CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Read.All | делегирована | Чтение элементов в CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.ReadWrite.All | делегирована | Изменение и удаление элементов и списков в CRM iGlobe  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Tasks.ReadWrite | делегирована | Создание задачи планировщика из CRM iGlobe     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| User.Read | делегирована | Чтобы получить сведения о CRM iGlobe для speficic пользователя    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
 
 >В этом приложении нет дополнительных API.
 

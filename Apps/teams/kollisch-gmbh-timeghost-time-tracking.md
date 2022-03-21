@@ -1,19 +1,20 @@
 ---
-title: Сведения о приложении для timeghost — отслеживание времени по K&#246;llisch GmbH
+title: Сведения о приложениях для timeghost — отслеживание времени по K&#246;llisch GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для timeghost — отслеживание времени, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e775eb831504c69d8aa20adfe2686b8e6a10469c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9852b64e11aace1e68330a17f22cd92dcdaa6051
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264651"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541637"
 ---
 # <a name="timeghost---time-tracking"></a>timeghost — отслеживание времени
 
@@ -33,15 +34,16 @@ ms.locfileid: "62264651"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | timeghost — отслеживание времени |
-| Идентификатор | WA200001532 |
+| ID | WA200001532 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | K&#246;llisch GmbH |
 | Веб-сайт компании | [https://timeghost.io](https://timeghost.io) |
 | Условия использования приложения | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |
 | Основные функции приложения | Timeghost — это средство отслеживания времени, специально разработанное для Office 365. |
 | Расположение штаб-квартиры компании | Германия |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://timeghost.io](https://timeghost.io) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62264651"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Удаление в течение 2 недели |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,9 +100,9 @@ ms.locfileid: "62264651"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
 | Какую сертификацию SOC 2 удалось добиться? | |
@@ -116,13 +111,13 @@ ms.locfileid: "62264651"
 | Самая недавняя дата сертификации SOC3 | |
 | Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Да |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Нет |
-| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Недоступно |
+| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Н/Д |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
@@ -154,7 +149,7 @@ ms.locfileid: "62264651"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | true |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -166,12 +161,12 @@ ms.locfileid: "62264651"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | делегирована | Titel, Startdatum, Enddatum, ID | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
->| People.Read | делегирована | E-Mail-Adresse | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
->| User.Read | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
->| User.ReadBasic.All | делегирована | Um das Profilbild anzuzeigen. | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
->| openid | делегирована | Идентификатор  | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
->| profile | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
+>| Calendars.Read | делегирована | Titel, Startdatum, Enddatum, ID | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](../azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) |
+>| People.Read | делегирована | E-Mail-Adresse | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](../azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) |
+>| User.Read | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](../azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) |
+>| User.ReadBasic.All | делегирована | Um das Profilbild anzuzeigen. | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](../azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) |
+>| openid | делегирована | ID  | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](../azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) |
+>| profile | делегирована | Vorname, Nachname, E-Mail-Adresse, Organisation, Telefonnummer, Rolle, Sprache, Location | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](../azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) |
 
 >В этом приложении нет дополнительных API.
 

@@ -2,20 +2,21 @@
 title: Сведения о приложениях для резервирования службы TNS Consulting ApS
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для резервирования Desk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для резервирования Desk, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 035dae1da20fbef01d60b29b88f3eae5032e9939
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 05e91d98155dd60b6ebe6027f310cc17fc7a1d0b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795830"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541227"
 ---
-# <a name="desk-reservations"></a>Резервирование стола
+# <a name="desk-reservations"></a>Desk reservations
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +33,8 @@ ms.locfileid: "62795830"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Резервирование стола |
-| Идентификатор | WA200003532 |
+| Название приложения | Desk reservations |
+| ID | WA200003532 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | TNS Consulting ApS |
 | Веб-сайт компании | [https://www.meetingroommap.net](https://www.meetingroommap.net) |
@@ -61,7 +62,7 @@ ms.locfileid: "62795830"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Электронная почта для резервирования регистрации. |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Нидерланды (the) |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -158,7 +159,7 @@ ms.locfileid: "62795830"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -170,9 +171,9 @@ ms.locfileid: "62795830"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite | делегирована | Чтение и написание файла config приложения (сохранить план по умолчанию + locattion) | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
->| TeamMember.Read.All | делегирована | Просмотр резервирования других членов одной команды. | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
->| User.Read | делегирована | Вход и чтение электронной почты для регистрации резервирования | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
+>| Files.ReadWrite | делегирована | Чтение и написание файла config приложения (сохранить план по умолчанию + locattion) | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
+>| TeamMember.Read.All | делегирована | Просмотр резервирования других членов одной команды. | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
+>| User.Read | делегирована | Вход и чтение электронной почты для регистрации резервирования | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
 
 >В этом приложении нет дополнительных API.
 

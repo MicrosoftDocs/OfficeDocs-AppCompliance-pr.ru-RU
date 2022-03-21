@@ -2,18 +2,19 @@
 title: Сведения о приложениях для AtBot от H3 Solutions, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для AtBot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a071dc503aa4fa2871c4ff5ef296976fa565fa06
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2edcd4455796ebaa14dd3806a0454e022fd4e20d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256665"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544747"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -33,15 +34,16 @@ ms.locfileid: "62256665"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | AtBot |
-| Идентификатор | WA104381219 |
+| ID | WA104381219 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | H3 Solutions, Inc. |
 | Веб-сайт компании | [https://atbot.io](https://atbot.io) |
 | Условия использования приложения | [https://admin.atbot.io/terms](https://admin.atbot.io/terms) |
 | Основные функции приложения | Быстро создайте диалоговые ИИ, и не требуется никакого опыта кодирования! |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://admin.atbot.io/Docs/GettingStarted](https://admin.atbot.io/Docs/GettingStarted) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62256665"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Сохранено |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,7 +149,7 @@ ms.locfileid: "62256665"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | true |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -166,14 +161,14 @@ ms.locfileid: "62256665"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | приложение | AAD group Name, AAD group GUID, UPN | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| Directory.Read.All | делегирована | AAD group Name, AAD group GUID, UPN | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| People.Read | делегирована | Нет | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| User.Read | делегирована | ID клиента, UPN | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| email | делегирована | Адреса электронной почты используются для контакта с поддержкой через нашу систему поддержки. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| offline_access | делегирована | Маркеры access/Refresh. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| openid | делегирована | UPN, идентифицирует пользователя в нашей системе | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| profile | делегирована | Имя участника-пользователя | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | приложение | AAD group Name, AAD GUID группы, UPN | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| Directory.Read.All | делегирована | AAD group Name, AAD GUID группы, UPN | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| People.Read | делегирована | Нет | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| User.Read | делегирована | ID клиента, UPN | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| email | делегирована | Адреса электронной почты используются для контакта с поддержкой через нашу систему поддержки. | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| offline_access | делегирована | Маркеры access/Refresh. | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| openid | делегирована | UPN, идентифицирует пользователя в нашей системе | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
+>| profile | делегирована | Имя участника-пользователя | [066a6b3a-f7a0-450a-98c7-34db1da31594](../azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md) |
 
 >В этом приложении нет дополнительных API.
 

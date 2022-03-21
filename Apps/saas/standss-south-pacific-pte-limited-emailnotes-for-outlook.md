@@ -2,24 +2,25 @@
 title: Сведения о приложениях для emailNotes для Outlook по стендам (южная части Тихого океана) PTE Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/10/2022
+manager: tonybal
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для emailNotes для Outlook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d1287dc50181b69c6f1d8f3f31b43c84db569641
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4bd54849249220757f9c657380716ea27e7ac499
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076193"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541387"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes для Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 17 января 2022 г.</p>
+<p>Последнее обновление разработчика: 28 ноября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/standsssouthpacificltd1581455821226.emailnotes" target="_blank">Просмотр в AppSource</a>
 
@@ -32,13 +33,13 @@ ms.locfileid: "63076193"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | EmailNotes для Outlook |
-| Идентификатор | standsssouthpacificltd1581455821226.emailnotes |
+| ID | standsssouthpacificltd1581455821226.emailnotes |
 | Имя компании-партнера | Standss (South Pacific) PTE Limited |
 | Веб-сайт компании | [https://www.standss.com](https://www.standss.com) |
 | Условия использования приложения | [https://www.standss.com/sendguard_m365/terms_conditions.htm](https://www.standss.com/sendguard_m365/terms_conditions.htm) |
 | Основные функции приложения | SendGuard для Outlook M365 — это средство для обнаружения, запроса, предупреждения и защиты пользователей от отправки конфиденциальной, конфиденциальной или ненадлежащей информации непреднамеренным получателям. |
 | Расположение штаб-квартиры компании | Фиджи |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.standss.com/sendguard_m365/default.htm](https://www.standss.com/sendguard_m365/default.htm) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -57,14 +58,7 @@ ms.locfileid: "63076193"
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Да |
 | Какие данные обрабатываются вашим приложением? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? |  |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,11 +163,11 @@ ms.locfileid: "63076193"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована | Чтение содержимого из темы , тела, содержимого вложений, присоединенных к запросу собрания  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| Mail.ReadWrite | делегирована | Чтение содержимого субъекта, тела, содержимого вложений, присоединенных к почтовому элементу  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| User.Read | делегирована | Это чтение пользовательских данных для проверки сведений о лицензировании для их учетной записи домена и пользователя | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| openid | делегирована | Требование для разрешения единого входного знака (SSO) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| profile | делегирована | Требование для разрешения единого входного знака (SSO) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Calendars.ReadWrite | делегирована | Чтение содержимого из темы , тела, содержимого вложений, присоединенных к запросу собрания  | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| Mail.ReadWrite | делегирована | Чтение содержимого субъекта, тела, содержимого вложений, присоединенных к почтовому элементу  | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| User.Read | делегирована | Это чтение пользовательских данных для проверки сведений о лицензировании для их учетной записи домена и пользователя | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| openid | делегирована | Требование для разрешения единого входного знака (SSO) | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| profile | делегирована | Требование для разрешения единого входного знака (SSO) | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
 
 >В этом приложении нет дополнительных API.
 

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Netskope для Microsoft Teams netskope
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для Netskope для Microsoft Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствия требованиям для Netskope для Microsoft Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c4c65c048423c0f0e7bc1c1b396dd832cbebf341
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b99ebb361f002a5ebb3a161d0b12d0eab8457689
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254007"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542447"
 ---
 # <a name="netskope-for-microsoft-teams"></a>Netskope для Microsoft Teams
 
@@ -32,15 +33,14 @@ ms.locfileid: "62254007"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Netskope для Microsoft Teams |
-| Идентификатор | netskope.netskope_teams |
+| ID | netskope.netskope_teams |
 | Имя компании-партнера | Netskope |
 | Веб-сайт компании | [https://www.netskope.com](https://www.netskope.com) |
 | Условия использования приложения | [https://www.netskope.com/subscription-terms/](https://www.netskope.com/subscription-terms/) |
-| Основные функции приложения | Netskope имеет единственное&#8217;, которое имеет единое рыночное решение CASB, SWG next-Gen, remote Browser Isolation, Cloud Firewall, public cloud security и Zero-trust Private Access в рамках одной платформы — Облака безопасности Netskope.  Помимо этих модульных функций, Netskope также предлагает дополнительные микрослужбы безопасности, которые можно добавить для дальнейшей тонкой настройки позиции безопасности клиентов, таких как наши расширенные функции DLP, шифрования и защиты от угроз. |
+| Основные функции приложения | Netskope имеет единственное&#8217;, которое имеет единое лидирующее на рынке решение CASB, SWG next-Gen, изоляция удаленного браузера, облачный брандмауэр, общественная облачная безопасность и закрытый доступ с нулевой доверием в рамках одной платформы — Облако безопасности Netskope.  Помимо этих модульных функций, Netskope также предлагает дополнительные микрослужбы безопасности, которые можно добавить для дальнейшей тонкой настройки позиции безопасности клиентов, таких как наши расширенные функции DLP, шифрования и защиты от угроз. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://docs.netskope.com](https://docs.netskope.com) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -115,14 +115,14 @@ ms.locfileid: "62254007"
 | Самая недавняя дата сертификации SOC2 |  2021-10-21 |
 | Соответствует ли приложение средствам управления службами (SOC 3)? | Нет |
 | Самая недавняя дата сертификации SOC3 | |
-| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Недоступно |
+| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Н/Д |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Да |
 | Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Да |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Да |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Да |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
 | Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Нет |
 | Соответствует ли приложение NIST 800-171? | Да |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Да |
@@ -157,8 +157,8 @@ ms.locfileid: "62254007"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
-| Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Недоступно |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
+| Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Н/Д |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение оценку непрерывного доступа (CAE) | Да |
@@ -169,21 +169,21 @@ ms.locfileid: "62254007"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Read.All | приложение | DLP на сообщениях и сообщениях канала | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| ChannelMessage.UpdatePolicyViolation.All | приложение | DLP на сообщениях и сообщениях канала | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.Read.All | приложение | DLP в чатах каналов и dm | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.ReadBasic.All | приложение | DLP в чатах каналов и DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.ReadWrite | приложение | DLP в чатах каналов и DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.UpdatePolicyViolation.All | приложение | DLP на сообщениях и сообщениях канала | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Directory.Read.All | приложение | Идентификация и видимость членства пользователя | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.Read.All | приложение | DLP на файлах, размещенных в MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.ReadWrite.All | приложение | DLP на файлах, размещенных в MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Group.Read.All | приложение | Идентификация группы и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| GroupMember.Read.All | приложение | Идентификация группы и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Reports.Read.All | приложение | Отчеты и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Sites.Read.All | приложение | DLP SharePoint команды | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| TeamsActivity.Read | приложение | Политики, основанные на действиях пользователей | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| User.Read.All | приложение | Идентификация пользователей и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| ChannelMessage.Read.All | приложение | DLP на сообщениях и сообщениях канала | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| ChannelMessage.UpdatePolicyViolation.All | приложение | DLP на сообщениях и сообщениях канала | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.Read.All | приложение | DLP в чатах каналов и dm | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.ReadBasic.All | приложение | DLP в чатах каналов и DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.ReadWrite | приложение | DLP в чатах каналов и DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.UpdatePolicyViolation.All | приложение | DLP на сообщениях и сообщениях канала | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Directory.Read.All | приложение | Идентификация и видимость членства пользователя | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.Read.All | приложение | DLP на файлах, размещенных в MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.ReadWrite.All | приложение | DLP на файлах, размещенных в MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Group.Read.All | приложение | Идентификация группы и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| GroupMember.Read.All | приложение | Идентификация группы и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Reports.Read.All | приложение | Отчеты и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Sites.Read.All | приложение | DLP SharePoint команды | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| TeamsActivity.Read | приложение | Политики, основанные на действиях пользователей | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| User.Read.All | приложение | Идентификация пользователей и видимость | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
 
 >В этом приложении нет дополнительных API.
 

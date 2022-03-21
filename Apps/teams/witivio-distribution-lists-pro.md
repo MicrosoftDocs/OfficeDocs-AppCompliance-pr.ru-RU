@@ -1,19 +1,20 @@
 ---
-title: Сведения о приложениях для списков Pro от Witivio
+title: Сведения о приложениях для Pro по Witivio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для списков рассылки Pro, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для списков рассылки Pro, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7b9e7dfb19e16df4388dde7664cb71724df963de
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 478b0fd266bebf07e809b2e2957bec5d89a15509
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259235"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543327"
 ---
 # <a name="distribution-lists-pro"></a>Distribution Lists Pro
 
@@ -33,12 +34,12 @@ ms.locfileid: "62259235"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Distribution Lists Pro |
-| Идентификатор | WA200002977 |
+| ID | WA200002977 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Witivio |
 | Веб-сайт компании | [https://www.witivio.com](https://www.witivio.com) |
 | Условия использования приложения | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| Основные функции приложения | Списки рассылки Pro для Microsoft Teams позволяет легко получить доступ к существующим спискам рассылки. Приложение отображает списки и их членов на вашем Microsoft Teams. |
+| Основные функции приложения | Списки рассылки Pro для Microsoft Teams позволяет легко получить доступ к существующим спискам рассылки. Приложение отображает списки и их членов на Microsoft Teams. |
 | Расположение штаб-квартиры компании | Франция |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
@@ -108,9 +109,9 @@ ms.locfileid: "62259235"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
 | Какую сертификацию SOC 2 удалось добиться? | |
@@ -158,7 +159,7 @@ ms.locfileid: "62259235"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -170,13 +171,13 @@ ms.locfileid: "62259235"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | делегирована | Список рассылки | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| Presence.Read.All | делегирована | CHecking presence of people in a list | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| User.Read | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| email | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| offline_access | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| openid | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| profile | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| Group.Read.All | делегирована | Список рассылки | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| Presence.Read.All | делегирована | CHecking presence of people in a list | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| User.Read | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| email | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| offline_access | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| openid | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| profile | делегирована | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
 
 >В этом приложении нет дополнительных API.
 
