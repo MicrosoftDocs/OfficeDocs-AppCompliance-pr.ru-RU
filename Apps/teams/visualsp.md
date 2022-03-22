@@ -2,18 +2,19 @@
 title: Сведения о приложениях для VisualSP по VisualSP
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для VisualSP, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для VisualSP, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3e6ded0edb5ad681584e53c984041b43d7cccb80
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 303f3f842894e425ed531c3a8ca3126911c9d48e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62473540"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547707"
 ---
 # <a name="visualsp"></a>VisualSP
 
@@ -38,9 +39,9 @@ ms.locfileid: "62473540"
 | Имя компании-партнера | VisualSP |
 | Веб-сайт компании | [https://visualsp.com](https://visualsp.com) |
 | Условия использования приложения | [https://www.visualsp.com/terms-of-service](https://www.visualsp.com/terms-of-service) |
-| Основные функции приложения | Предоставление мгновенного доступа к контенту Microsoft 365 подготовки пользователей и собственному настраиваемому обучению |
+| Основные функции приложения | Предоставление мгновенного доступа к контенту Microsoft 365 для конечных пользователей и собственному настраиваемому обучению |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.visualsp.com/products/microsoft-teams-training/](https://www.visualsp.com/products/microsoft-teams-training/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -157,7 +158,7 @@ ms.locfileid: "62473540"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Н/Д |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |

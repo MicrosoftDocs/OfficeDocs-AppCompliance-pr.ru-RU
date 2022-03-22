@@ -2,18 +2,19 @@
 title: Сведения о приложениях для EasyLife 365 от EasyLife 365 AG
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для EasyLife 365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 489c314ca81a9701d1e8304ca5c278f20f270d97
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: cf7a3b8b77e915f42d1a8d3d1573ca23fcf1cf78
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449460"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548497"
 ---
 # <a name="easylife-365"></a>EasyLife 365
 
@@ -40,9 +41,8 @@ ms.locfileid: "62449460"
 | Условия использования приложения | [https://www.easylife365.cloud/terms](https://www.easylife365.cloud/terms) |
 | Основные функции приложения | Сделайте управление простым! |
 | Расположение штаб-квартиры компании | Швейцария |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.easylife365.cloud/governance/features](https://www.easylife365.cloud/governance/features) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -158,7 +158,7 @@ ms.locfileid: "62449460"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -170,26 +170,26 @@ ms.locfileid: "62449460"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | делегирована | Позволяет управлять группами Microsoft 365 в приложении | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| User.Read.All | делегирована | Используется для получения сведений о пользователях в приложении. Используется в выборщиках людей | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| ChannelMember.ReadWrite.All | приложение | Используется для чтения и управления участниками каналов в приложении backend | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Directory.ReadWrite.All | оба | Используется для проверки разрешения приложения в клиенте для EasyLife 365. Используется для отключения и отключения гостевого доступа к группе Microsoft 365 в задней части. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Group.ReadWrite.All | приложение | Используется для Microsoft 365 групп, проверки владельцев группы, архива Teams, удаления групп в службе backend | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Mail.Send | приложение | Позволяет отправлять уведомления почты пользователям с любым почтовым ящиком в среде. Это настраивается администраторами для отправки сообщений из общего почтового ящика или пользователя. Администраторы обычно ограничивают разрешения этого приложения id приложения | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| MailboxSettings.Read | приложение | Используется для чтения языковых параметров почтового ящика пользователей перед отправкой уведомлений на этом конкретном языке. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Reports.Read.All | приложение | Используется для проверки использования Microsoft 365 групп в задней части | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Sites.Read.All | приложение | Используется для переумерия сайтов SharePoint Online в клиенте | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.Read.All | приложение | Используется для смотра пользователей и получения базовых сведений для отправки уведомлений | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.ReadWrite.All | приложение | Используется для приглашения гостевых учетных записей, изменения метаданных учетной записи гостей и удаления учетных записей гостей, если это требуется в приложении backend. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| ChannelMember.ReadWrite.All | делегирована | Используется пользователями для управления членством в команде канала | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| Group.ReadWrite.All | делегирована | Используется для управления метаданными для Microsoft 365 групп и Teams. Используется для поиска групп в среде | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsActivity.Send | приложение | Используется для отправки Teams уведомлений в задней части | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsAppInstallation.ReadForUser.All | приложение | Убедитесь, что у пользователя установлено приложение EasyLife перед отправкой уведомлений через Teams. | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| User.Read.All | делегирована | Используется пользователями для поиска пользователей в организации; Используется для переучета учетных записей гостей | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| email | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| offline_access | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| openid | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| profile | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
+>| Group.Read.All | делегирована | Позволяет управлять группами Microsoft 365 в приложении | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| User.Read.All | делегирована | Используется для получения сведений о пользователях в приложении. Используется в выборщиках людей | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| ChannelMember.ReadWrite.All | приложение | Используется для чтения и управления участниками каналов в приложении backend | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Directory.ReadWrite.All | оба | Используется для проверки разрешения приложения в клиенте для EasyLife 365. Используется для отключения и отключения гостевого доступа Microsoft 365 группы в задней части. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.ReadWrite.All | приложение | Используется для Microsoft 365 групп, проверки владельцев групп, архива Teams, удаления групп в службе backend | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Mail.Send | приложение | Позволяет отправлять уведомления почты пользователям с любым почтовым ящиком в среде. Это настраивается администраторами для отправки сообщений из общего почтового ящика или пользователя. Администраторы обычно ограничивают разрешения этого приложения id приложения | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| MailboxSettings.Read | приложение | Используется для чтения языковых параметров почтового ящика пользователей перед отправкой уведомлений на этом конкретном языке. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Reports.Read.All | приложение | Используется для проверки использования Microsoft 365 групп в задней части | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Sites.Read.All | приложение | Используется для того, чтобы SharePoint веб-сайты в клиенте | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Read.All | приложение | Используется для смотра пользователей и получения базовых сведений для отправки уведомлений | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.ReadWrite.All | приложение | Используется для приглашения гостевых учетных записей, изменения метаданных учетной записи гостей и удаления учетных записей гостей, если это требуется в приложении backend. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| ChannelMember.ReadWrite.All | делегирована | Используется пользователями для управления членством в команде канала | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| Group.ReadWrite.All | делегирована | Используется для управления метаданными для Microsoft 365 групп и Teams. Используется для поиска групп в среде | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsActivity.Send | приложение | Используется для отправки Teams уведомлений в задней части | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsAppInstallation.ReadForUser.All | приложение | Убедитесь, что у пользователя установлено приложение EasyLife перед отправкой уведомлений через Teams. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.Read.All | делегирована | Используется пользователями для поиска пользователей в организации; Используется для переучета учетных записей гостей | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| email | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| offline_access | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| openid | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| profile | делегирована | Используется проверкой подлинности SSO | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 
 >В этом приложении нет дополнительных API.
 

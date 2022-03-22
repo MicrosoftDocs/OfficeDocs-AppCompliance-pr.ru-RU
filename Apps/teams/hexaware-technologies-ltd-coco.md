@@ -2,18 +2,19 @@
 title: Сведения о приложениях для COCO от Hexaware Technologies Ltd.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для COCO, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 43623e8d729706e7073f8bbc1317b90448d5140a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f7bd1b727df657699aa51a250b5429cb8532f991
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255775"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549327"
 ---
 # <a name="coco"></a>COCO
 
@@ -33,15 +34,16 @@ ms.locfileid: "62255775"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | COCO |
-| Идентификатор | WA200001468 |
+| ID | WA200001468 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Hexaware Technologies Ltd. |
 | Веб-сайт компании | [https://hexaware.com](https://hexaware.com) |
 | Условия использования приложения | [https://tinyurl.com/2c6b9cdm](https://tinyurl.com/2c6b9cdm) |
 | Основные функции приложения | Teams бот, повышающий производительность и вовлеченность сотрудников, объединяющий разноплановые ИТ-системы, такие как ERP, CRM, Service Desk и другие отраслевые решения с помощью интуитивно понятного решения omnichannel. |
 | Расположение штаб-квартиры компании | Индия |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://tinyurl.com/2c6b9cdm](https://tinyurl.com/2c6b9cdm) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62255775"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Немедленно удалено |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,7 +149,7 @@ ms.locfileid: "62255775"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -166,13 +161,13 @@ ms.locfileid: "62255775"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| Directory.Read.All | приложение | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| Directory.ReadWrite.All | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| User.Read | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| User.Read.All | приложение | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| User.ReadWrite.All | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
->| openid | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.AccessAsUser.All | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
+>| Directory.Read.All | приложение | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
+>| Directory.ReadWrite.All | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
+>| User.Read | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
+>| User.Read.All | приложение | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
+>| User.ReadWrite.All | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
+>| openid | делегирована | Нет | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](../azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md) |
 
 >В этом приложении нет дополнительных API.
 

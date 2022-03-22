@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Jira Integration Plus, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8adf13a171e6a075ff4b22e9325912f6c1738cf8
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 92f2d7375e92a2ff69e83af28380d6e6d038700c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470225"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548387"
 ---
-# <a name="jira-integration-plus"></a>Интеграция Jira Plus
+# <a name="jira-integration-plus"></a>Jira Integration Plus
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ ms.locfileid: "63470225"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Интеграция Jira Plus |
+| Название приложения | Jira Integration Plus |
 | ID | WA200003847 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Далее, LLC |
@@ -43,7 +43,6 @@ ms.locfileid: "63470225"
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
 | Страница информация о приложении | [https://www.nextup.ai/microsoft-teams/jira-integration-plus/](https://www.nextup.ai/microsoft-teams/jira-integration-plus/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ ms.locfileid: "63470225"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Уникальные идентификаторы и адреса электронной почты |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 30 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -171,16 +170,16 @@ ms.locfileid: "63470225"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessReview.Read.All | оба | Этот API используется для проверки того, что пользователи имеют разрешение на доступ к нашему приложению | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| AccessReview.ReadWrite.All | оба | Этот API используется для проверки того, что пользователи имеют разрешение на доступ к нашему приложению | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | оба | Мы используем этот API, чтобы убедиться, что у пользователей есть разрешение на использование бота в приложении Teams и команде и канале | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | оба | Мы используем этот API, чтобы убедиться, что у пользователей есть разрешение на использование бота в приложении Teams и команде и канале | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | оба | Этот API используется для приемки файлов от пользователей, которые они могут прикреплять к вопросам Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | оба | Этот API используется для приемки файлов от пользователей, которые они могут прикреплять к вопросам Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | оба | Мы используем этот API, чтобы узнать, к каким сайтам пользователь имеет доступ, чтобы они могли создавать билеты в соответствующих местах | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | оба | Мы используем этот API, чтобы узнать, к каким сайтам пользователь имеет доступ, чтобы они могли создавать билеты в соответствующих местах | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | оба | Мы используем этот API, чтобы позволить пользователю администратора дать помиловную передачу для организации, чтобы использовать наше приложение с Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | оба | Мы используем этот API, чтобы позволить пользователю администратора дать помиловную передачу для организации, чтобы использовать наше приложение с Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
+>| AccessReview.Read.All | оба | Этот API используется для проверки того, что пользователи имеют разрешение на доступ к нашему приложению | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| AccessReview.ReadWrite.All | оба | Этот API используется для проверки того, что пользователи имеют разрешение на доступ к нашему приложению | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | оба | Мы используем этот API, чтобы убедиться, что у пользователей есть разрешение на использование бота в приложении Teams и команде и канале | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | оба | Мы используем этот API, чтобы убедиться, что у пользователей есть разрешение на использование бота в приложении Teams и команде и канале | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | оба | Этот API используется для приемки файлов от пользователей, которые они могут прикреплять к вопросам Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | оба | Этот API используется для приемки файлов от пользователей, которые они могут прикреплять к вопросам Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | оба | Мы используем этот API, чтобы узнать, к каким сайтам пользователь имеет доступ, чтобы они могли создавать билеты в соответствующих местах | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | оба | Мы используем этот API, чтобы узнать, к каким сайтам пользователь имеет доступ, чтобы они могли создавать билеты в соответствующих местах | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | оба | Мы используем этот API, чтобы позволить пользователю администратора дать помиловную передачу для организации, чтобы использовать наше приложение с Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | оба | Мы используем этот API, чтобы позволить пользователю администратора дать помиловную передачу для организации, чтобы использовать наше приложение с Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
 
 >В этом приложении нет дополнительных API.
 

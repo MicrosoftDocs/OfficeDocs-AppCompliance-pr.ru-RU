@@ -2,18 +2,19 @@
 title: Сведения о приложениях для сопровождающего по WORKSTREAMPEOPLE BV
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Attendant, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fab44be866bc1afe6c54a0b96678a5c105c2328a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d208575f7eed4778e38e855d4042eb1cdbaf1b54
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081523"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549127"
 ---
 # <a name="attendant"></a>Attendant
 
@@ -33,14 +34,14 @@ ms.locfileid: "63081523"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Attendant |
-| Идентификатор | WA200003780 |
+| ID | WA200003780 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | WORKSTREAMPEOPLE BV |
 | Веб-сайт компании | [https://anywhere365.io](https://anywhere365.io) |
 | Условия использования приложения | [https://anywhere365.io/terms-conditions/](https://anywhere365.io/terms-conditions/) |
 | Основные функции приложения | Attendant by Anywhere365 — это мощная консоль телефонного оператора. |
 | Расположение штаб-квартиры компании | Нидерланды (the) |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://anywhere365.io/attendant-console-for-microsoft-team...](https://anywhere365.io/attendant-console-for-microsoft-teams/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Iaas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081523"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | TenantId |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Нидерланды (the) |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -170,14 +171,14 @@ ms.locfileid: "63081523"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read.Shared | делегирована | Мы хотим отобразить календари коллег, к которые пользователь имеет доступ | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| People.Read | делегирована | Мы хотим показать сведения о коллегах пользователя, чтобы иметь возможность связаться с ними | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| Presence.Read.All | делегирована | Мы хотим показать присутствие всех пользователей в списке контактов | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| User.Read.All | делегирована | Мы хотим иметь возможность отобразить всю информацию коллег | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| email | делегирована | Мы хотим иметь возможность отправлять электронную почту пользователю и использовать ее в сообщениях обратного вызова | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| offline_access | делегирована | Мы хотим, чтобы наши данные были в курсе | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| openid | делегирована | Определение пользователя на платформе | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| profile | делегирована | Нам нужны данные профиля для идентификации пользователя и персонализации интерфейса | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
+>| Calendars.Read.Shared | делегирована | Мы хотим отобразить календари коллег, к которые пользователь имеет доступ | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| People.Read | делегирована | Мы хотим показать сведения о коллегах пользователя, чтобы иметь возможность связаться с ними | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| Presence.Read.All | делегирована | Мы хотим показать присутствие всех пользователей в списке контактов | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| User.Read.All | делегирована | Мы хотим иметь возможность отобразить всю информацию коллег | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| email | делегирована | Мы хотим иметь возможность отправлять электронную почту пользователю и использовать ее в сообщениях обратного вызова | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| offline_access | делегирована | Мы хотим, чтобы наши данные были в курсе | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| openid | делегирована | Определение пользователя на платформе | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| profile | делегирована | Нам нужны данные профиля для идентификации пользователя и персонализации интерфейса | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
 
 >В этом приложении нет дополнительных API.
 

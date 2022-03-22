@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для vimheslo, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0149e5bd2930cc2cbb93964cfdcd0399ce119f88
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: c419392746cbd58dcd3ba656b0da369f5294a06a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470226"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548477"
 ---
 # <a name="vimheslo"></a>vimheslo
 
@@ -161,10 +161,10 @@ ms.locfileid: "63470226"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read.All | делегирована | Данные хранятся в OneDrive или SharePoint документе, приложению необходимо считыть данные. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| Sites.Read.All | делегирована | Приложение в контексте Team хранит данные в SharePoint библиотеке документов, приложению необходимо считыть имя сайта для настройки пути, где расположен файл с данными. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| User.Read | делегирована | Приложение должно знать личные OneDrive для хранения персональных данных. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| email | делегирована | Разрешить делиться данными. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
+>| Files.Read.All | делегирована | Данные хранятся в OneDrive или SharePoint документе, приложению необходимо считыть данные. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| Sites.Read.All | делегирована | Приложение в контексте Team хранит данные в SharePoint библиотеке документов, приложению необходимо считыть имя сайта для настройки пути, где расположен файл с данными. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| User.Read | делегирована | Приложение должно знать личные OneDrive для хранения персональных данных. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| email | делегирована | Разрешить делиться данными. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
 
 >В этом приложении нет дополнительных API.
 

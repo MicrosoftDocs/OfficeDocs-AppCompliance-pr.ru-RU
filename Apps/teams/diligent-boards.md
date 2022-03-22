@@ -2,20 +2,21 @@
 title: Сведения о приложениях для Boards старательной
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Boards, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6205a66b30297b44017da6646e3fe686c2492e8f
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 29e36ae1fe8d7e9d707bc29b3033b0315a8794c5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62876045"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549417"
 ---
-# <a name="diligent-boards"></a>Прилежный Boards
+# <a name="diligent-boards"></a>Diligent Boards
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,17 +33,17 @@ ms.locfileid: "62876045"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Прилежный Boards |
-| Идентификатор | WA200003544 |
+| Название приложения | Diligent Boards |
+| ID | WA200003544 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Прилежный |
+| Имя компании-партнера | Diligent |
 | Веб-сайт компании | [https://www.diligent.com](https://www.diligent.com) |
 | Условия использования приложения | [https://diligent.com/terms-of-use](https://diligent.com/terms-of-use) |
-| Основные функции приложения | Access Diligent&#8217;с лучшим в своем классе программным обеспечением управления в Microsoft Teams. |
+| Основные функции приложения | Access Diligent&#8217;самое лучшее в своем классе программное обеспечение управления в Microsoft Teams. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Гибридная среда |
-| Какие поставщики облачных хостингов используют приложение? | Другие |
+| Какие поставщики облачных хостингов используют приложение? | Другое |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -59,7 +60,7 @@ ms.locfileid: "62876045"
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Нет |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | ID Microsoft Teams клиента и Teams пользователя |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Не сохраняется |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -156,7 +157,7 @@ ms.locfileid: "62876045"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Evocom от Evocom Informationssysteme GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для Evocom, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для Evocom, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 26aa34b7e3c8bfc167a771a7e6f630f24dbf9487
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 980a6217bd5967af64dd2cb6f3d47cc3eb2dab42
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62477152"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547897"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -40,7 +41,7 @@ ms.locfileid: "62477152"
 | Условия использования приложения | [https://evocom.de/termsofuse](https://evocom.de/termsofuse) |
 | Основные функции приложения | Evocom&#180;usP = простота. Evocom — интуитивно понятное решение для совместной работы, управления проектами и задачами. Информационные конструкторы проектирует процессы и немедленно их привнося в жизнь. Сотрудники отделов используют Evocom для оцифровки микро-процессов, которые координируют внутреннюю работу. Специалисты процесса оркеструют междепартаментальные процессы, используя микро-процессы из отделов и используя существующие интеграции с LOB-системами, такими как CRM, ERP и другими. |
 | Расположение штаб-квартиры компании | Германия |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://evocom.de/microsoft365](https://evocom.de/microsoft365) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -158,7 +159,7 @@ ms.locfileid: "62477152"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
@@ -171,8 +172,8 @@ ms.locfileid: "62477152"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | делегирована | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
->| User.ReadBasic.All | делегирована | PeoplePicker, Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.Read | делегирована | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
+>| User.ReadBasic.All | делегирована | PeoplePicker, Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
 
 >В этом приложении нет дополнительных API.
 

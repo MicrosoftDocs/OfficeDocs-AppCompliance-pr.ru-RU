@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Prowd от Prowd
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Prowd, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0597b5b8d4d1ff74a1b7c6be848d7a09650247f6
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d5cc94b2c7da155298849223a83260fee761a842
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081500"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549637"
 ---
 # <a name="prowd"></a>Prowd
 
@@ -33,14 +34,14 @@ ms.locfileid: "63081500"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Prowd |
-| Идентификатор | WA200003809 |
+| ID | WA200003809 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Prowd |
 | Веб-сайт компании | [https://beprowd.com](https://beprowd.com) |
 | Условия использования приложения | [https://www.beprowd.com/cgu-chatbot-corporate](https://www.beprowd.com/cgu-chatbot-corporate) |
 | Основные функции приложения | Le chatbot Prowd suggest &#224; chaque utilisateur des d&#233;fis, quiz et actualit&#233;s sur les th&#233;matiques du D&#233;veloppement Durable pour apprendre et passer &#224; l'action. Dans tout type d'entreprise, Prowd permet aux responsables RSE (Responsabilit&#233; Soci&#233;tale des Entreprises) d'engager facilement les collaborateurs sur ces sujets. |
 | Расположение штаб-квартиры компании | Франция |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.beprowd.com/chatbot-teams/](https://www.beprowd.com/chatbot-teams/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Гибридная среда |
 | Какие поставщики облачных хостингов используют приложение? | Aws |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081500"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Teams клиента, Teams ИД беседы пользователя, электронная почта пользователя, имя пользователя.  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Ирландия |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Не сохраняется |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |

@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для ServiceDesk Plus Cloud, политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 806f347e7083889c01e9c8e7649621c155184d75
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: f0d450a5aed6f38dd2083c094a9280241c8b9545
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63454278"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549547"
 ---
 # <a name="servicedesk-plus-cloud"></a>ServiceDesk Plus Cloud
 
@@ -43,7 +43,6 @@ ms.locfileid: "63454278"
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
 | Страница информация о приложении | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ ms.locfileid: "63454278"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Пользовательский id, имя пользователя, адрес электронной почты |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -172,8 +171,8 @@ ms.locfileid: "63454278"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | делегирована | Вход и чтение профиля пользователя | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a) |
->| offline_access | делегирована | Сохранение доступа к данным, к которым он был предоставлен | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a.md) |
+>| offline_access | делегирована | Сохранение доступа к данным, к которым он был предоставлен | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a.md) |
 
 >В этом приложении нет дополнительных API.
 

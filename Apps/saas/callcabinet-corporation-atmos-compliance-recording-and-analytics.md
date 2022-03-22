@@ -2,18 +2,19 @@
 title: Сведения о приложениях для записи и аналитики соответствия требованиям CallCabinet Atmos корпорацией CallCabinet
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для записи и аналитики соответствия требованиям CallCabinet Atmos, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 276e898351611643a648dac9350e750b13fd8a1a
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 463cccc6f77ec628c3024a6c29b292947ed8d6cf
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877566"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548547"
 ---
 # <a name="callcabinet-atmos-compliance-recording-and-analytics"></a>Запись и аналитика соответствия требованиям CallCabinet Atmos
 
@@ -32,13 +33,13 @@ ms.locfileid: "62877566"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Запись и аналитика соответствия требованиям CallCabinet Atmos |
-| Идентификатор | callcabinetcorporation1584393576335.atmos |
+| ID | callcabinetcorporation1584393576335.atmos |
 | Имя компании-партнера | Корпорация CallCabinet |
 | Веб-сайт компании | [https://www.callcabinet.com](https://www.callcabinet.com) |
 | Условия использования приложения | [https://www.callcabinet.com/terms-and-conditions/](https://www.callcabinet.com/terms-and-conditions/) |
 | Основные функции приложения | Atmos by CallCabinet — это запись вызовов на основе azure, AI-аналитика и решение QA SaaS для Microsoft Teams и других систем совместной работы или контакт-центра. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.callcabinet.com/compliance-microsoft-teams-call...](https://www.callcabinet.com/compliance-microsoft-teams-call-recording/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -59,7 +60,7 @@ ms.locfileid: "62877566"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Записанные Teams беседы, видео и общий доступ к экранам |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 30 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -155,7 +156,7 @@ ms.locfileid: "62877566"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
