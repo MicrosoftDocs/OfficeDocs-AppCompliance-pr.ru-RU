@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для UserVoice, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0abf55a4dbed692837abab9beaa3ef01426b9991
-ms.sourcegitcommit: 6f2370c0eb79cc4acc9b53b2215b7a61c2ab30d6
+ms.openlocfilehash: b815858d1846f5388114a3c0c3329f4d54b97f06
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/17/2022
-ms.locfileid: "63563696"
+ms.locfileid: "63547237"
 ---
 # <a name="uservoice"></a>UserVoice
 
@@ -37,11 +37,11 @@ ms.locfileid: "63563696"
 | ID | WA200001944 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | UserVoice |
-| Веб-сайт компании | Н/Д |
-| Условия использования приложения | Н/Д |
+| Веб-сайт компании | [https://www.uservoice.com](https://www.uservoice.com) |
+| Условия использования приложения | [https://www.uservoice.com/tos](https://www.uservoice.com/tos) |
 | Основные функции приложения | Получите обновления в режиме реального времени в программе обратной связи с продуктом в Microsoft Teams. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | Н/Д |
+| Страница информация о приложении | [https://help.uservoice.com/hc/en-us/articles/360052330913-M...](https://help.uservoice.com/hc/en-us/articles/360052330913-Microsoft-Teams-Integration) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
 | Какие поставщики облачных хостингов используют приложение? | GCP |
 

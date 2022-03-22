@@ -2,18 +2,19 @@
 title: Сведения о приложениях для bright poll by BrightBits
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Bright Poll, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 46f5ce9f928771544547f4b22e08d650e594c559
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4a6f122940de3dcf5a42f810cf813a0a3050fff1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081247"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545477"
 ---
 # <a name="bright-poll"></a>Bright Poll
 
@@ -33,14 +34,14 @@ ms.locfileid: "63081247"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Bright Poll |
-| Идентификатор | WA200002562 |
+| ID | WA200002562 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | BrightBits |
 | Веб-сайт компании | [https://brightbits.app](https://brightbits.app) |
 | Условия использования приложения | [https://brightbits.app/terms/](https://brightbits.app/terms/) |
 | Основные функции приложения | Сбор отзывов от партнеров по команде с помощью опросов в чате. |
 | Расположение штаб-квартиры компании | Соединенные Штаты Америки |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://brightbits.app/bright-poll/](https://brightbits.app/bright-poll/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Aws, Heroku |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081247"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Данные профилей пользователей |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Нет |
 | Как долго сохраняются данные после завершения работы учетной записи? | Не сохраняется |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |

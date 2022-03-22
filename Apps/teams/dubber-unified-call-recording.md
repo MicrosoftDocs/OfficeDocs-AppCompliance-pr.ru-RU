@@ -2,18 +2,19 @@
 title: Сведения о приложениях для единой записи вызовов в Dubber
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для единой записи вызовов Dubber, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: eec69f5594f642432bbb79830b69428f5c6d16f3
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 4c80e50a43abe71a1ca67d93ec9039a3c3357d22
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148796"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544957"
 ---
 # <a name="dubber-unified-call-recording"></a>Единая запись вызовов Dubber
 
@@ -33,16 +34,15 @@ ms.locfileid: "62148796"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Единая запись вызовов Dubber |
-| Идентификатор | WA200003570 |
+| ID | WA200003570 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Dubber |
 | Веб-сайт компании | [https://www.dubber.net](https://www.dubber.net) |
 | Условия использования приложения | [https://www.dubber.net/terms](https://www.dubber.net/terms) |
-| Основные функции приложения | Единый AI голосовой записи облачных вызовов для &amp; соответствия требованиям, &amp; производительности службы продаж |
+| Основные функции приложения | Единый AI голосовой записи &amp; облачных вызовов для соответствия требованиям, производительности службы &amp; продаж |
 | Расположение штаб-квартиры компании | Австралия |
 | Страница информация о приложении | |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -158,7 +158,7 @@ ms.locfileid: "62148796"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |

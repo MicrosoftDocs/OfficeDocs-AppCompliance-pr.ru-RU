@@ -2,20 +2,21 @@
 title: Сведения о приложениях для AAC LawVu по LawVu
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для AAC LawVu, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 13067a989948468c3cfef21c486e93d52ae38e4a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 84bc836f026ce2b45f58adb58567e5950cff20ac
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081322"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545977"
 ---
-# <a name="lawvu-apac"></a>AAC LawVu
+# <a name="lawvu-apac"></a>LawVu APAC
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,15 +33,15 @@ ms.locfileid: "63081322"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | AAC LawVu |
-| Идентификатор | WA200003796 |
+| Название приложения | LawVu APAC |
+| ID | WA200003796 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | LawVu |
 | Веб-сайт компании | [https://lawvu.com](https://lawvu.com) |
 | Условия использования приложения | [https://lawvu.com/wp-content/uploads/Std-Saas-Agreement-202...](https://lawvu.com/wp-content/uploads/Std-Saas-Agreement-2021.pdf) |
 | Основные функции приложения | Бизнес-пользователи могут запрашивать юридические запросы прямо из Teams.  Интеграция захватывает все соответствующие поля, включая содержимое и вложения из исходного сообщения, и создает дело в LawVu,&#8217;является частью юридической группы&#8217;системы записи. |
 | Расположение штаб-квартиры компании | Новая Зеландия |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://help.lawvu.com/en/articles/5953276-microsoft-teams-...](https://help.lawvu.com/en/articles/5953276-microsoft-teams-integration-coming-soon) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081322"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Файл вложений в ms teams потянут в наш хранилище данных. |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Австралия |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |

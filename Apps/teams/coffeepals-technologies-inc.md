@@ -2,18 +2,19 @@
 title: Сведения о приложениях для CoffeePals от CoffeePals Technologies Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для CoffeePals, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0e3a60a4cf08eccad2811f1f2737432a667f9ba9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 2863be05be41765c8100f8742f955eca2e8ff122
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081503"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546497"
 ---
 # <a name="coffeepals"></a>CoffeePals
 
@@ -33,15 +34,16 @@ ms.locfileid: "63081503"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | CoffeePals |
-| Идентификатор | WA200003040 |
+| ID | WA200003040 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | CoffeePals Technologies Inc. |
 | Веб-сайт компании | [https://coffeepals.co](https://coffeepals.co) |
 | Условия использования приложения | [https://coffeepals.co/terms-of-service](https://coffeepals.co/terms-of-service) |
 | Основные функции приложения | CoffeePals случайным образом спарит людей, чтобы встретиться и пообщаться, чтобы сформировать личные подключения. Он будет включать другие функции, которые позволяют сотрудникам лучше подключаться. |
 | Расположение штаб-квартиры компании | Канада |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://coffeepals.co/product](https://coffeepals.co/product) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "63081503"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Сохранено |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
