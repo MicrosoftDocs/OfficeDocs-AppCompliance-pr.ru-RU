@@ -2,18 +2,19 @@
 title: Сведения о приложениях для connector Microsoft Teams Talkdesk, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Connector Microsoft Teams Talkdesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для Connector Microsoft Teams Talkdesk, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8f64011c4e6d1e5a7cfa385a89925bcac27ca6b8
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: dd59c9e9902f0c3dbd975efc711cc4c63dfa2f5f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795822"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550397"
 ---
 # <a name="talkdesk-microsoft-teams-connector"></a>Соединитель Microsoft Teams Talkdesk
 
@@ -32,7 +33,7 @@ ms.locfileid: "62795822"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Соединитель Microsoft Teams Talkdesk |
-| Идентификатор | talkdeskinc1579824950513.talkdesk_for_teams |
+| ID | talkdeskinc1579824950513.talkdesk_for_teams |
 | Имя компании-партнера | Talkdesk, Inc. |
 | Веб-сайт компании | [https://www.talkdesk.com](https://www.talkdesk.com) |
 | Условия использования приложения | [https://www.talkdesk.com/terms-of-service](https://www.talkdesk.com/terms-of-service) |
@@ -59,7 +60,7 @@ ms.locfileid: "62795822"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Данные профилей пользователей : имя, фамилия, полное имя, адрес электронной почты, номер телефона |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Соединенные Штаты Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Не сохраняется |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -155,7 +156,7 @@ ms.locfileid: "62795822"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -167,8 +168,8 @@ ms.locfileid: "62795822"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | делегирована | Необходимый для сбора данных Teams профилей пользователей | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
->| offline_access | делегирована | Позволяет приложению видеть данные даже в том случае, если пользователь, которому предоставлен доступ, не вошел в систему. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
+>| User.Read.All | делегирована | Необходимые для сбора данных Teams профилей пользователей | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
+>| offline_access | делегирована | Позволяет приложению видеть данные даже в том случае, если пользователь, которому предоставлен доступ, не вошел в систему. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 
 >В этом приложении нет дополнительных API.
 

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Powell Teams по программному обеспечению Пауэлла
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4ba6c53634c49e2609769315ea94efefedc4e43a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259355"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550077"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -33,15 +34,16 @@ ms.locfileid: "62259355"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Powell Teams |
-| Идентификатор | WA200001585 |
+| ID | WA200001585 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Powell Software |
 | Веб-сайт компании | [https://www.powell-software.com](https://www.powell-software.com) |
 | Условия использования приложения | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| Основные функции приложения | Приложение Powell Teams предоставляет интеллектуальную панель мониторинга для всех сотрудников компании, помогает им легко организовывать теги всех групп, обнаруживать наиболее важные продвигаемые команды компании и, наконец, использовать шаблоны команд на основе предзадатки, чтобы сэкономить &amp; время. API также доступен для получения и работы с набором данных в базе данных Powell Teams (Наконец, соединитель для logic Apps и Power Automate также https://docapiteams.powell-software.com) доступен (https://docs.microsoft.com/en-us/connectors/powellteams) |
+| Основные функции приложения | Приложение Powell Teams предоставляет интеллектуальную панель мониторинга для всех сотрудников компании, &amp; помогает им легко организовывать теги всех групп, обнаруживать наиболее важные продвигаемые команды компании и, наконец, использовать шаблоны команд на основе предзадатки, чтобы сэкономить время. API также доступен для получения и работы с набором данных в базе данных Powell Teams (https://docapiteams.powell-software.com)Наконец, соединитель для logic Apps и Power Automate также доступен (https://docs.microsoft.com/en-us/connectors/powellteams) |
 | Расположение штаб-квартиры компании | Франция |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |
+| Какие поставщики облачных хостингов используют приложение? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62259355"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? |  |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? | Удаление после 3months |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? |  |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,7 +149,7 @@ ms.locfileid: "62259355"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | true |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -166,12 +161,12 @@ ms.locfileid: "62259355"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | делегирована | Недоступно | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Group.ReadWrite.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Notes.Read.All | делегирована | Недоступно | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Notes.ReadWrite.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Sites.Read.All | делегирована | Недоступно | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| User.Read.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
+>| Directory.AccessAsUser.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Group.ReadWrite.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Notes.Read.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Notes.ReadWrite.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Sites.Read.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| User.Read.All | делегирована | Н/Д | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
 
 >В этом приложении нет дополнительных API.
 

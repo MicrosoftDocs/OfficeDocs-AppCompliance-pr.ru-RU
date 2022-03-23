@@ -2,18 +2,19 @@
 title: Сведения о приложениях для записи соответствия требованиям luware для Microsoft Teams luware AG
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для luware Compliance Recording для Microsoft Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для luware Compliance Recording for Microsoft Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffbb28358351271e0028f0b9deec76e3ca6c6a8c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e32f3e36370bc94250831178d88183ee6b0d2264
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251322"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550417"
 ---
 # <a name="luware-compliance-recording-for-microsoft-teams"></a>Запись соответствия требованиям luware для Microsoft Teams
 
@@ -32,13 +33,13 @@ ms.locfileid: "62251322"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Запись соответствия требованиям luware для Microsoft Teams |
-| Идентификатор | luwareagzurich.recording_azure_marketplace |
+| ID | luwareagzurich.recording_azure_marketplace |
 | Имя компании-партнера | Luware AG |
 | Веб-сайт компании | [https://luware.com](https://luware.com) |
 | Условия использования приложения | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
 | Основные функции приложения | Облачное решение, которое поможет вам захватывать, архивировать, анализировать и извлекать все режимы связи. |
 | Расположение штаб-квартиры компании | Швейцария |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://luware.com/en/solution/microsoft-teams-recording/](https://luware.com/en/solution/microsoft-teams-recording/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -58,7 +59,7 @@ ms.locfileid: "62251322"
 | Какие данные обрабатываются вашим приложением? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? | Azure Object ID, UPNs, адрес электронной почты, имя &amp; отображения, имя, фамилия, расположение (необязательно), department (необязательный) |
+| Какие данные хранятся в базах данных? | Azure Object ID, UPNs, адрес &amp; электронной почты, имя отображения, имя, фамилия, расположение (необязательно), department (необязательный) |
 | Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Швейцария |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 30 дней |
@@ -90,7 +91,7 @@ ms.locfileid: "62251322"
 | Учитываются ли методы безопасного кодирования общие классы уязвимости, такие как OWASP Top 10? | Нет |
 | Многофакторная проверка подлинности (MFA) включена для: | Credential |
 | Есть ли у вас установленный процесс для создания, изменения и удаления учетных записей сотрудников? | Да |
-| Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Недоступно |
+| Есть ли у вас программное обеспечение обнаружения и предотвращения вторжений (IDPS), развернутого по периметру сетевой границы, поддерживающей ваше приложение? | Н/Д |
 | Для всех системных компонентов, поддерживающих приложение, настроена ли ведение журнала событий? | Да |
 | Рассматриваются ли все журналы на регулярной основе с помощью человеческого или автоматического инструмента для обнаружения потенциальных событий безопасности? | Да|
 | При обнаружении события безопасности оповещений автоматически отправляются сотруднику для проведения трехсторонней работы? | Да |
@@ -106,25 +107,25 @@ ms.locfileid: "62251322"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Недоступно |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
 | Какую сертификацию SOC 2 удалось добиться? | |
 | Самая недавняя дата сертификации SOC2 | |
 | Соответствует ли приложение средствам управления службами (SOC 3)? | Нет |
 | Самая недавняя дата сертификации SOC3 | |
-| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Недоступно |
+| Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Н/Д |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Да |
 | Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
-| Соответствует ли приложение NIST 800-171? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение NIST 800-171? | Н/Д |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -156,7 +157,7 @@ ms.locfileid: "62251322"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -168,17 +169,17 @@ ms.locfileid: "62251322"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.AccessMedia.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| Calls.Initiate.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| Calls.InitiateGroupCall.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| Calls.JoinGroupCall.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| Calls.JoinGroupCallasGuest.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| Group.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| GroupMember.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| OnlineMeetings.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| OnlineMeetings.ReadWrite.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| User.Read | делегирована | Единый вход | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| User.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.AccessMedia.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| Calls.Initiate.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| Calls.InitiateGroupCall.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| Calls.JoinGroupCall.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| Calls.JoinGroupCallasGuest.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| Group.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| GroupMember.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| OnlineMeetings.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| OnlineMeetings.ReadWrite.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| User.Read | делегирована | Единый вход | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| User.Read.All | приложение | Teams запись | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
 
 >В этом приложении нет дополнительных API.
 

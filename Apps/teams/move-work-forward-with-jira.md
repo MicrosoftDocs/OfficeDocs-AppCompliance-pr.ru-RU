@@ -2,18 +2,19 @@
 title: Сведения о приложениях для перемещения работы с Jira путем перемещения вперед
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для перемещения вперед с Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для move Work Forward с Jira, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b1d64e9bc54fbd67d3eeb60d2fc72898a1982c37
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255695"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551428"
 ---
 # <a name="move-work-forward-with-jira"></a>Move Work Forward с Jira
 
@@ -33,14 +34,14 @@ ms.locfileid: "62255695"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Move Work Forward с Jira |
-| Идентификатор | WA200002855 |
+| ID | WA200002855 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Move Work Forward |
 | Веб-сайт компании | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | Условия использования приложения | [https://www.moveworkforward.com/license-agreement/eula](https://www.moveworkforward.com/license-agreement/eula) |
-| Основные функции приложения | Move Work Forward помогает компаниям повысить производительность, прозрачность команды и сэкономить время, предоставив набор продуктов, которые интегрируют средства Atlassian с Microsoft Teams, GitHub, Azure DevOps и другими средствами производительности группы. |
+| Основные функции приложения | Move Work Forward помогает компаниям повысить производительность, прозрачность работы и сэкономить время, предоставив набор продуктов, которые интегрируют средства Atlassian с Microsoft Teams, GitHub, Azure DevOps и другими средствами повышения производительности. |
 | Расположение штаб-квартиры компании | Сингапур |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Iaas |
 | Какие поставщики облачных хостингов используют приложение? | Aws |
 
@@ -123,10 +124,10 @@ ms.locfileid: "62255695"
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
-| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Недоступно |
-| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Недоступно |
-| Соответствует ли приложение NIST 800-171? | Недоступно |
+| Соответствует ли приложение закону о семейных образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Закону о защите конфиденциальности в Интернете для детей (COPPA)? | Н/Д |
+| Соответствует ли приложение закону Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение NIST 800-171? | Н/Д |
 | Сертифицировано ли приложение в Альянсе облачной безопасности (CSA Star) ? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -158,7 +159,7 @@ ms.locfileid: "62255695"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
@@ -170,12 +171,12 @@ ms.locfileid: "62255695"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | делегирована | Создание канала обсуждения проблемы Jira | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| Channel.ReadBasic.All | делегирована | Чтение каналов группы для отправки уведомлений в | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| Team.ReadBasic.All | делегирована | Чтение команд, отображаемой на странице конфигурации. Для уведомлений от Jira. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| TeamsAppInstallation.ReadForTeam | делегирована | Проверьте, установлено ли приложение в команде. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| User.Read | делегирована | Для улучшения пользовательского интерфейса. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| email | делегирована | для картографии учетных записей Microsoft и Atlassian | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.Create | делегирована | Создание канала обсуждения проблемы Jira | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| Channel.ReadBasic.All | делегирована | Чтение каналов группы для отправки уведомлений в | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| Team.ReadBasic.All | делегирована | Чтение команд, отображаемой на странице конфигурации. Для уведомлений от Jira. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| TeamsAppInstallation.ReadForTeam | делегирована | Проверьте, установлено ли приложение в команде. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| User.Read | делегирована | Для улучшения пользовательского интерфейса. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| email | делегирована | для картографии учетных записей Microsoft и Atlassian | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
 
 >В этом приложении нет дополнительных API.
 

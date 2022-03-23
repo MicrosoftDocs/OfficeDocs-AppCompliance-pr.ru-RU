@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для центра облачных контактов Teams интеграции, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6e4c79749325a66c6a9537e23257f2131ac9acf1
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 37d301bcbab0c389e87eb49fcb8b7c86a01cd00b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459842"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551698"
 ---
 # <a name="storm-cloud-contact-center-teams-integration"></a>Центр контактов storm Cloud Teams интеграции
 
@@ -41,7 +41,6 @@ ms.locfileid: "63459842"
 | Расположение штаб-квартиры компании | Соединенное Королевство Великобритании и Северной Ирландии (the) |
 | Страница информация о приложении | [https://www.contentguru.com/microsoft-teams-integration/](https://www.contentguru.com/microsoft-teams-integration/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | IsvHosted |
-| Какие поставщики облачных хостингов используют приложение? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

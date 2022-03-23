@@ -2,29 +2,28 @@
 title: Архив бюллетеней
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Архив информационных бюллетеней о соответствии требованиям
 keywords: Бюллетень соответствия требованиям
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 72d288c7409dea138e6150537f7f90df7be597ae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d4c501f8db279c63fe3129c111fd7a6d1bc27a73
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59274903"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63698509"
 ---
 # <a name="newsletter-archive"></a>Архив бюллетеней
 
-[Май 2021](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/may2021)
+[Май 2021 г.](../docs/may2021.md)
 
-[Март 2021 г.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/March21%20NL)
+[Март 2021 г.](../docs/March21%20NL.md)
 
-[Январь, 2021](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/January%2021%20NL)
+[Январь 2021 г.](../docs/January%2021%20NL.md)
 
-[Декабрь 2020 г.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/december%2020%20NL)
+[Декабрь 2020 г.](../docs/december%2020%20NL.md)
 
-[Октябрь 2020](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/october%20NL)
+[Октябрь 2020 г.](../docs/october%20NL.md)
 
-[Сентябрь 2020](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/September%20NL)
-
-
+[Сентябрь 2020 г.](../docs/September%20NL.md)

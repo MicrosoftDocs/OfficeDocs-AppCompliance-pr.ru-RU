@@ -2,20 +2,21 @@
 title: Сведения о приложениях для клеверов по AI Clovers
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/22/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствия требованиям для Кловерс, политики обработки данных, Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e15d1a7e34c8ad8b1cd12ed170457182b71f1466
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: c5c338e404ece344565788051d4f660feb4c93b4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081552"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551608"
 ---
-# <a name="clovers"></a>Клеверы
+# <a name="clovers"></a>Clovers
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +33,10 @@ ms.locfileid: "63081552"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Клеверы |
-| Идентификатор | WA200003795 |
+| Название приложения | Clovers |
+| ID | WA200003795 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Имя компании-партнера | Кловерс AI |
+| Имя компании-партнера | Clovers AI |
 | Веб-сайт компании | [https://clovers.ai](https://clovers.ai) |
 | Условия использования приложения | [https://clovers.ai/terms-of-use/](https://clovers.ai/terms-of-use/) |
 | Основные функции приложения | Клеверы — руководство по собеседованию, которое помогает командам более эффективно нанимать |
@@ -57,14 +58,7 @@ ms.locfileid: "63081552"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или инфраструктуру данные, относящиеся к клиенту Или устройству Майкрософт? | Нет |
-| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
-| Какие данные хранятся в базах данных? |  |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
-| Есть ли у вас установленный процесс аренды и удаления данных? |  |
-| Как долго сохраняются данные после завершения работы учетной записи? |  |
-| Есть ли у вас установленный процесс управления доступом к данным? |  |
-| Передаете ли вы данные клиентов или содержимое клиента третьим лицам или суб-процессорам? | Нет |
-| Есть ли у вас соглашения о совместном использовании данных с любой стороной службой, с какой вы делитесь данными клиентов Майкрософт? |  |
+| Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

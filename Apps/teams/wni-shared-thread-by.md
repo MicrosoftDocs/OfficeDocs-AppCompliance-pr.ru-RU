@@ -2,20 +2,21 @@
 title: Сведения о приложениях для общих потоков WNI wNI
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для общих потоков WNI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для общих потоков WNI, политики обработки данных, сведения о каталоге Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2a67cbfa1249229304794d1c6e6e2165c9d7fe80
-ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
+ms.openlocfilehash: eece113c1b859fee7c1e196019be37412f021a8d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62512630"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551238"
 ---
-# <a name="shared-thread-by-wni"></a>Общий поток по WNI
+# <a name="shared-thread-by-wni"></a>Shared Thread by WNI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ ms.locfileid: "62512630"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Общий поток по WNI |
+| Название приложения | Shared Thread by WNI |
 | ID | WA200003755 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | WNI |
@@ -40,7 +41,7 @@ ms.locfileid: "62512630"
 | Условия использования приложения | [https://www.wni.app/terms](https://www.wni.app/terms) |
 | Основные функции приложения | Создает беседу в канале Microsoft Teams, который может быть связан с беседой в другом Microsoft Teams или потоком в Slack.  После настройка  |
 | Расположение штаб-квартиры компании | Канада |
-| Страница информация о приложении | |
+| Страница информация о приложении | [https://www.wni.app/shared-thread/](https://www.wni.app/shared-thread/) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? | Paas |
 | Какие поставщики облачных хостингов используют приложение? | Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "62512630"
 | Поддерживает ли приложение TLS 1.1 или выше? | Да |
 | Хранит ли приложение или инфраструктуру какие-либо данные о клиентах Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | Данные профилей пользователей |
-| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? |  |
+| Если в процессе infastructure или хранятся данные клиентов Microsoft, где эти данные географически хранятся? | Канада |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго сохраняются данные после завершения работы учетной записи? | Менее 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
@@ -158,7 +159,7 @@ ms.locfileid: "62512630"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интегрировано ли ваше приложение с платформой удостоверений Майкрософт (Azure AD) для однорегистра, доступа к API и т.д.? | Нет |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции? | Нет |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (Microsoft Authentication Library) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из вышеуказанных библиотек, какую библиотеку проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
