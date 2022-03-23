@@ -2,18 +2,19 @@
 title: Сведения о приложениях для гуру по технологиям гуру
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Guru, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2697126a901dde102be0ee29c153b69d0021acf5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: a0fbc5fb17729e2551e65c170ea2c59c4cf866f3
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60437153"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63748273"
 ---
 # <a name="guru"></a>Guru
 
@@ -33,7 +34,7 @@ ms.locfileid: "60437153"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Guru |
-| Идентификатор | WA200001719 |
+| ID | WA200001719 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Guru Technologies |
 | URL-адрес веб-сайта-партнера | [https://www.getguru.com](https://www.getguru.com) |
@@ -53,7 +54,7 @@ ms.locfileid: "60437153"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -62,9 +63,9 @@ ms.locfileid: "60437153"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все не службы Майкрософт OII передаются в** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Приложение для конечных пользователей и внутренние базы данных Гуру | когда пользователь или компания настраивает приложение Guru для Teams, общие сведения, такие как имя пользователя, электронная почта и имя компании, связанные с профилем пользователя, записывают и доступны гуру | Учитывая, что пользователь должен иметь учетную запись Teams и учетную запись Гуру для использования интеграции, мы отслеживаем и отслеживаем, какие пользователи позволяют интеграции, чтобы помочь обеспечить поддержку и управление для этих пользователей |
+>| Приложение для конечных пользователей и внутренние базы данных Гуру | когда пользователь или компания настраивает приложение Guru для Teams, общие сведения, такие как имя пользователя, электронная почта и имя компании, связанные с профилем пользователя, записывают и доступны Гуру | Учитывая, что у пользователя должна быть учетная запись Teams и учетная запись Гуру для использования интеграции, мы отслеживаем и отслеживаем, какие пользователи позволяют интеграции оказывать поддержку и управление этим пользователям. |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным с помощью ботов
 
@@ -99,7 +100,7 @@ ms.locfileid: "60437153"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912" target="_blank">Просмотр на новой вкладке</a>
 

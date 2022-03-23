@@ -2,18 +2,19 @@
 title: Сведения о приложениях для службы Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствия требованиям для Службы Zoho, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Службы Zoho, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b934d980843f06ad78ca65ceb5782ce951fa41b
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: ee371d3cd431fae46b5f97d434ff9acb0fbcbe1e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430277"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63751078"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -33,7 +34,7 @@ ms.locfileid: "60430277"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Zoho Desk |
-| Идентификатор | WA104382044 |
+| ID | WA104382044 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://www.zoho.com/desk](https://www.zoho.com/desk) |
@@ -53,17 +54,17 @@ ms.locfileid: "60430277"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Files.Read | делегирована |  | Чтение файлов пользователей. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Files.Read.All | делегирована |  | Ознакомьтесь со всеми файлами, к которые пользователь может получить доступ. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.Read | делегирована |  | Вход и чтение профиля пользователя. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.ReadBasic.All | делегирована |  | Ознакомьтесь с основными профилями всех пользователей. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| email | делегирована |  | Просмотр адреса электронной почты пользователя. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | делегирована |  | Просмотр основного профиля пользователя. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read | делегирована |  | Чтение файлов пользователей. |  |
+>| Files.Read.All | делегирована |  | Ознакомьтесь со всеми файлами, к которые пользователь может получить доступ. |  |
+>| User.Read | делегирована |  | Вход и чтение профиля пользователя. |  |
+>| User.ReadBasic.All | делегирована |  | Ознакомьтесь с основными профилями всех пользователей. |  |
+>| email | делегирована |  | Просмотр адреса электронной почты пользователя. |  |
+>| offline_access | делегирована |  | Поддержив доступ к данным, к ним вы получили доступ. |  |
+>| profile | делегирована |  | Просмотр основного профиля пользователя. |  |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -100,7 +101,7 @@ ms.locfileid: "60430277"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308" target="_blank">Просмотр на новой вкладке</a>
 
