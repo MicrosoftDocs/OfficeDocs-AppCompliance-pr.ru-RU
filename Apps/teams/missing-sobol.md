@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Sobol по ConsenSys AG&#8217;s Sobol
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Sobol, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 54da5a152d84b23d80568f21bf4a283361ea9da5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 52989c74fb4de620204b7066d5b9f01f0e6f8678
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405001"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752972"
 ---
 # <a name="sobol"></a>Sobol
 
@@ -32,8 +33,8 @@ ms.locfileid: "58405001"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Sobol |
-| Идентификатор | WA200002999 |
+| Название приложения | Sobol |
+| ID | WA200002999 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | ConsenSys AG&#8217;s Sobol |
 | URL-адрес веб-сайта-партнера | [https://sobol.io](https://sobol.io) |
@@ -53,7 +54,7 @@ ms.locfileid: "58405001"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -62,7 +63,7 @@ ms.locfileid: "58405001"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все не службы Майкрософт OII передаются в** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Hubspot, Fullstory | имя пользователя, электронная почта | маркетинг и аналитика |
 
@@ -99,7 +100,7 @@ ms.locfileid: "58405001"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 

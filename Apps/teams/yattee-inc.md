@@ -1,19 +1,20 @@
 ---
-title: Сведения о приложениях для &#12459;&#12490;&#12522;&#12450; yaTTEE Inc.
+title: Сведения о приложениях &#12459;&#12490;&#12522;&#12450; yaTTEE Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для &#12459;&#12490;&#12522;&#12450;, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b45882621901f70385bc816c7f14322c1faea504
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 077d3a0592b3266623f8add53bc8ef6b9b99fb53
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873852"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753760"
 ---
 # <a name="12459124901252212450"></a>&#12459;&#12490;&#12522;&#12450;
 
@@ -32,8 +33,8 @@ ms.locfileid: "58873852"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | &#12459;&#12490;&#12522;&#12450; |
-| Идентификатор | WA200003193 |
+| Название приложения | &#12459;&#12490;&#12522;&#12450; |
+| ID | WA200003193 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | YATTEE Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.yattee.co.jp](https://www.yattee.co.jp) |
@@ -52,7 +53,7 @@ ms.locfileid: "58873852"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
@@ -98,7 +99,7 @@ ms.locfileid: "58873852"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
@@ -115,7 +116,7 @@ ms.locfileid: "58873852"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |

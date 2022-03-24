@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Saberr от Saberr
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для Saberr, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Saberr, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52c4c6ff40ac59f216c6c266d0ea80253303fff5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: fe3cf6626b72f57583684d5f0a02be32de3ef1e5
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429327"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753411"
 ---
 # <a name="saberr"></a>Saberr
 
@@ -33,7 +34,7 @@ ms.locfileid: "60429327"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Saberr |
-| Идентификатор | WA200001501 |
+| ID | WA200001501 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Saberr |
 | URL-адрес веб-сайта-партнера | [https://www.saberr.com](https://www.saberr.com) |
@@ -53,7 +54,7 @@ ms.locfileid: "60429327"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
@@ -61,7 +62,7 @@ ms.locfileid: "60429327"
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
-Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
+Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемой информации (OII). Список любых API Майкрософт, кроме Microsoft Graph, которые использует это приложение.
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
@@ -71,7 +72,7 @@ ms.locfileid: "60429327"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все не службы Майкрософт OII передаются в** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS, Slack, Pipedrive, Google, Mailchimp, Intercom, Cronofy | Имя компании, имя пользователя, адрес электронной почты пользователя | Пользователи должны быть связаны с организацией, чтобы использовать такие функции, как собрания. Мы переносим только EUII/OII, необходимые для создания этих организаций в приложении и ведения с ними договоров и поддержки. |
 
@@ -110,7 +111,7 @@ ms.locfileid: "60429327"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430" target="_blank">Просмотр на новой вкладке</a>
 

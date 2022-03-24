@@ -2,20 +2,21 @@
 title: Сведения о приложениях для напоминания о сообщениях &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для напоминания о сообщениях, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c367d46abd5f0e5ac3f4e3e12d59e28e507a9e60
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: Все доступные сведения о безопасности и соответствия требованиям для напоминания о сообщениях, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: c95ef8bab0d735eb35c89ed1e910428407d1d5eb
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404659"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753540"
 ---
-# <a name="message-reminder"></a>Напоминание о сообщениях
+# <a name="message-reminder"></a>Message Reminder
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,8 +33,8 @@ ms.locfileid: "58404659"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Напоминание о сообщениях |
-| Идентификатор | WA200001875 |
+| Название приложения | Message Reminder |
+| ID | WA200001875 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; |
 | URL-адрес веб-сайта-партнера | [https://systemz.io](https://systemz.io) |
@@ -49,11 +50,11 @@ ms.locfileid: "58404659"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация предоставлена &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; о том, как это приложение собирает и хранит организационные данные, а также управление, которое будет иметь ваша организация над данными, которые собирает приложение.
+Эти сведения предоставлены &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -97,7 +98,7 @@ ms.locfileid: "58404659"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
@@ -109,7 +110,7 @@ ms.locfileid: "58404659"
 
 ### <a name="identity-information"></a>Сведения о удостоверениях
 
-Эти сведения предоставлены &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; о том, как это приложение обрабатывает проверку подлинности, авторизацию, методы регистрации приложений и другие критерии удостоверения.
+Эти сведения предоставлены &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; о том, как это приложение обрабатывает проверку подлинности, авторизацию, лучшие практики регистрации приложений и другие критерии удостоверения.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

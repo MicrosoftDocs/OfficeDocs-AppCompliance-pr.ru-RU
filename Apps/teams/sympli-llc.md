@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Sympli от Sympli, LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Sympli, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для Sympli, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6cc7ec4b892939c4a1f6ca8c55a3a01c4dc9bc85
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: f983d7b3c48a24e35bd48f175132aa98d535a374
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428706"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752918"
 ---
 # <a name="sympli"></a>Sympli
 
@@ -33,7 +34,7 @@ ms.locfileid: "60428706"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Sympli |
-| Идентификатор | WA200001551 |
+| ID | WA200001551 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Sympli, LLC |
 | URL-адрес веб-сайта-партнера | [https://sympli.io](https://sympli.io) |
@@ -53,7 +54,7 @@ ms.locfileid: "60428706"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -62,7 +63,7 @@ ms.locfileid: "60428706"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все не службы Майкрософт OII передаются в** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Intercom, Stripe, HubSpot | Название организации | Техническая поддержка, продажи, обновления продуктов |
 
@@ -85,7 +86,7 @@ ms.locfileid: "60428706"
 
 Описание того, как администраторы организации могут управлять своими сведениями в партнерских системах? например, удаление, хранение, аудит, архивация, политика конечных пользователей и т. д.
 
->Мы полагаемся на политики соответствующих служб, например https://www.intercom.com/legal/privacy , https://legal.hubspot.com/privacy-policyhttps://stripe.com/privacy
+>Мы полагаемся на политики соответствующих служб, например https://www.intercom.com/legal/privacy, https://legal.hubspot.com/privacy-policyhttps://stripe.com/privacy
 
 #### <a name="human-review-of-organizational-information"></a>Обзор сведений об организации
 
@@ -101,7 +102,7 @@ ms.locfileid: "60428706"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740" target="_blank">Просмотр на новой вкладке</a>
 

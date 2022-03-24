@@ -2,18 +2,19 @@
 title: Сведения о приложениях для StealthMail от Stealthmail Software Ltd
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для StealthMail, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7a0a738c475111a237720f329d1728d15d1f8fb
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 53b80f2835bbea55ccd2d571fead808dca70ba05
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428866"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752527"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -33,7 +34,7 @@ ms.locfileid: "60428866"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | StealthMail |
-| Идентификатор | WA200001748 |
+| ID | WA200001748 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Stealthmail Software Ltd |
 | URL-адрес веб-сайта-партнера | [https://stealthmail.com](https://stealthmail.com) |
@@ -53,17 +54,17 @@ ms.locfileid: "60428866"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage.Read.All | делегирована | Приложение отправляет сообщение каналу со ссылкой на созданную безопасную электронную почту | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| ChannelMessage.Send | делегирована | Приложение отправляет сообщение каналу со ссылкой на созданную безопасную электронную почту | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| Chat.ReadWrite | делегирована | Приложение отправляет сообщение в чат со ссылкой на созданную безопасную электронную почту | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| GroupMember.Read.All | делегирована | Приложение получает членов канала, чтобы сделать безопасной электронной почты для них | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.Read.All | делегирована | Приложение получает участников чата для безопасной электронной почты для них | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.ReadBasic.All | делегирована | Приложение получает участников чата для безопасной электронной почты для них | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| email | делегирована | Проверка подлинности пользователя | ничто не хранится в базе данных | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage.Read.All | делегирована | Приложение отправляет сообщение каналу со ссылкой на созданную безопасную электронную почту | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| ChannelMessage.Send | делегирована | Приложение отправляет сообщение каналу со ссылкой на созданную безопасную электронную почту | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| Chat.ReadWrite | делегирована | Приложение отправляет сообщение в чат со ссылкой на созданную безопасную электронную почту | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| GroupMember.Read.All | делегирована | Приложение получает членов канала, чтобы сделать безопасной электронной почты для них | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.Read.All | делегирована | Приложение получает участников чата для безопасной электронной почты для них | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.ReadBasic.All | делегирована | Приложение получает участников чата для безопасной электронной почты для них | ничего | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| email | делегирована | Проверка подлинности пользователя | ничто не хранится в базе данных | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -105,7 +106,7 @@ ms.locfileid: "60428866"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867" target="_blank">Просмотр на новой вкладке</a>
 
@@ -122,7 +123,7 @@ ms.locfileid: "60428866"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |
@@ -130,7 +131,7 @@ ms.locfileid: "60428866"
 | Поддерживает ли ваше приложение многотенантность? | Да |
 | У вашего приложения есть конфиденциальный клиент? | Нет |
 | У вас есть все идентификаторы единого ресурса перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если не требуется spa<br/>- Поток учетных данных владельца ресурса (ROPC) |
+| Что вы не используете для вашего приложения? | - Перенаправление URL-адресов под диктовки,<br/>- Неявные Flow OAuth2, если это не требуется для SPA<br/>- Поток учетных данных владельца ресурса (ROPC) |
 | Предоставляет ли ваше приложение какие-либо веб-API? | Да |
 | Позволяет ли модель разрешений добиться успеха только в том случае, если клиентская приложение получает соответствующее согласие? | Да |
 | Использует ли приложение API предварительного просмотра? | Да |

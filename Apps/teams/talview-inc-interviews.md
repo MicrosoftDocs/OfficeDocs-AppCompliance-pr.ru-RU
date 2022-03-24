@@ -2,18 +2,19 @@
 title: Сведения о приложениях для интервью talview от Talview Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Talview Interviews, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 380c0e14a2aa7d4d680fbe4c375b5f0e01e16a43
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428496"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753148"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -33,7 +34,7 @@ ms.locfileid: "60428496"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Talview Interviews |
-| Идентификатор | WA200002437 |
+| ID | WA200002437 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Talview Inc |
 | URL-адрес веб-сайта-партнера | [https://talview.com](https://talview.com) |
@@ -53,14 +54,14 @@ ms.locfileid: "60428496"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | Вход и чтение профиля пользователя | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| email | делегирована | Просмотр адреса электронной почты пользователей для сопоставления учетных записей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| openid | делегирована | Вход пользователей, вход на платформу | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| profile | делегирована | Просмотр базовых профилей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| email | делегирована | Просмотр адреса электронной почты пользователей для сопоставления учетных записей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| openid | делегирована | Вход пользователей, вход на платформу | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| profile | делегирована | Просмотр базовых профилей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -102,7 +103,7 @@ ms.locfileid: "60428496"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431" target="_blank">Просмотр на новой вкладке</a>
 
@@ -119,7 +120,7 @@ ms.locfileid: "60428496"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |

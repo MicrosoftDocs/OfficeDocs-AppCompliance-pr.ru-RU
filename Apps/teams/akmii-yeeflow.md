@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Yeeflow by Akmii
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Yeeflow, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии требованиям для Yeeflow, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 08292f647bad35e7fd87b0627aea3df21f271c34
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: 5b80f4cd79d8773af8ff035d054959108db5bdb4
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62318700"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753795"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -109,7 +110,7 @@ ms.locfileid: "62318700"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Да |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение наименьшие разрешения на привилегии для вашего сценария? | Да |

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Sheetgo в SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для Sheetgo, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a91a3ac8e1d7ead5a469a88787b4b5809d48615a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 154adf8fe539a631b13f2aba451c307ef5ab2a62
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286150"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753698"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -32,8 +33,8 @@ ms.locfileid: "59286150"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Sheetgo |
-| Идентификатор | WA200002067 |
+| Название приложения | Sheetgo |
+| ID | WA200002067 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | SHEETGO EUROPE SL |
 | URL-адрес веб-сайта-партнера | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
@@ -52,7 +53,7 @@ ms.locfileid: "59286150"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -61,7 +62,7 @@ ms.locfileid: "59286150"
 
 Если приложение передает или делится организационными данными с не-службой Майкрософт, укай список службы, не microsoft, которую использует приложение, какие данные передаются, и включай обоснование необходимости передачи этой информации приложением.
 
->| **Все не службы Майкрософт OII передаются** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
+>| **Все не службы Майкрософт OII передаются в** |  **Какие OII передаются?** | **Обоснование переноса OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| MongoDB: система записей и пользовательские данные для функционирования, Использование журналов систем записей Google BigQuery, Google Firestore: система, которая поддерживает и оркестрирует состояние наших микросервисов, Stripe: Платежная система |  | Эти приложения не используют дополнительные API Microsoft |
 
@@ -100,7 +101,7 @@ ms.locfileid: "59286150"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141" target="_blank">Просмотр на новой вкладке</a>
 

@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Mybys от Facilis
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Mybys, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2e8d8adc26700cf71f5d3fa74c7890dda8176cad
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 53f9516f71f4fe65c9adf47bb4cb51246626c01e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428101"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753278"
 ---
 # <a name="mybys"></a>Mybys
 
@@ -33,7 +34,7 @@ ms.locfileid: "60428101"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Mybys |
-| Идентификатор | WA200002605 |
+| ID | WA200002605 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Facilis |
 | URL-адрес веб-сайта-партнера | [https://facilisglobal.com](https://facilisglobal.com) |
@@ -53,7 +54,7 @@ ms.locfileid: "60428101"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -99,7 +100,7 @@ ms.locfileid: "60428101"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36915' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36915' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36915" target="_blank">Просмотр на новой вкладке</a>
 

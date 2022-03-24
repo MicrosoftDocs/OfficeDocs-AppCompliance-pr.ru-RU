@@ -2,18 +2,19 @@
 title: Сведения о приложениях для нотфикатора пакета от QBURST TECHNOLOGIES PVT LTD
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для пакета notifier, политики обработки данных, Microsoft Cloud App Security сведения о каталоге приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для пакета Notifier, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a65e9bdfa8d10bfb0dad48d1433bcd65a870c580
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: e8f961dbe619141fa9eba435f08e131029890d72
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430388"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753672"
 ---
 # <a name="package-notifier"></a>Package Notifier
 
@@ -33,7 +34,7 @@ ms.locfileid: "60430388"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Package Notifier |
-| Идентификатор | WA200002737 |
+| ID | WA200002737 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | QBURST TECHNOLOGIES PVT LTD |
 | URL-адрес веб-сайта-партнера | [https://www.qburst.in](https://www.qburst.in) |
@@ -52,17 +53,17 @@ ms.locfileid: "60430388"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Доступ к данным с помощью других API Майкрософт
 
-Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемых сведений об организации (OII). Список любых API Майкрософт, кроме microsoft Graph, которые использует это приложение.
+Приложения и надстройки, построенные на Microsoft 365, могут использовать дополнительные API Microsoft, кроме Microsoft Graph для сбора или обработки идентифицируемой информации (OII). Список любых API Майкрософт, кроме Microsoft Graph, которые использует это приложение.
 
 >| **API** |  **Собран ли OII?** |  **Какие OII собираются?** | **Обоснование сбора OII?** | **Хранится ли OII?** | **Обоснование хранения OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure DevOps Services REST API | Нет |  |  |  |  |
+>| Azure DevOps Services API REST | Нет |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
 
@@ -103,7 +104,7 @@ ms.locfileid: "60430388"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866" target="_blank">Просмотр на новой вкладке</a>
 
@@ -120,7 +121,7 @@ ms.locfileid: "60430388"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
 | Список типов поддерживаемых политик | 499b84ac-1321-427f-aa17-267ca6975798/user_impersonation offline_access |

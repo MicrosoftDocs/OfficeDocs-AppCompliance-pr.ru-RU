@@ -2,18 +2,19 @@
 title: Сведения о приложениях для доски по доске
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Вся доступная информация о безопасности и соответствия требованиям для Workboard, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для workboard, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7b795de57f2acf2b75cc63699d7ae4c14510dadd
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: afedc6e44e38273b1b48b8bfccf2fe91ec4e17f3
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527525"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753756"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -31,8 +32,8 @@ ms.locfileid: "53527525"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Workboard |
-| Идентификатор | WA104381599 |
+| Название приложения | Workboard |
+| ID | WA104381599 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Workboard |
 | URL-адрес веб-сайта-партнера | [https://www.workboard.com](https://www.workboard.com) |
@@ -52,9 +53,9 @@ ms.locfileid: "53527525"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
->| **Permission**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
+>| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | делегирована | адрес электронной почты и ids пользователей.  Он используется для картографии пользователя с id пользователя WorkBoard | WorkBoard хранит только удостоверение пользователя в базах данных | [User.Read](https://docs.microsoft.com/microsoft-365-app-certification/azure/User.Read) |
 
@@ -71,7 +72,7 @@ ms.locfileid: "53527525"
 
 >| **Обоснование доступа к EUII?**  | **Хранится ли EUII в базе данных (s)?** | **Обоснование хранения EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Пользовательский id используется для упреждающих уведомлений, отправленных в Teams WorkBord | Адрес электронной почты пользователя и id | Используется для картографии пользователя с id пользователя WorkBoard |
+>| Пользовательский id используется для упреждающих уведомлений, отправленных Teams workBord | Адрес электронной почты пользователя и id | Используется для картографии пользователя с id пользователя WorkBoard |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
@@ -100,7 +101,7 @@ ms.locfileid: "53527525"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004" target="_blank">Просмотр на новой вкладке</a>
 
@@ -117,7 +118,7 @@ ms.locfileid: "53527525"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Интеграция с платформой Microsoft Identify Platform (Azure AD)?  | Да |
-| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт списке интеграции?  | Да |
+| Рассмотрели ли вы и выполнили все применимые методы, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
 | Использует ли ваше приложение MSAL (Microsoft Authentication Library) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
 | Список типов поддерживаемых политик | WorkBoard реализовала собственные политики доступа, которые применяются в приложении.  Для определения прав доступа используются организация, команда и удостоверение пользователя. |

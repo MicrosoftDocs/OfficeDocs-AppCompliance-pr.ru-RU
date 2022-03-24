@@ -2,18 +2,19 @@
 title: Сведения о приложениях для Kronos от Kronos, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Kronos, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствия требованиям для Kronos, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3a20e3a40ce61d6610b6f36e4c2943da1e9293d2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 29bf43294bf500a1698a6527cd6b9b83cd4dab41
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288126"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753240"
 ---
 # <a name="kronos"></a>Kronos
 
@@ -32,8 +33,8 @@ ms.locfileid: "59288126"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | Kronos |
-| Идентификатор | WA104381629 |
+| Название приложения | Kronos |
+| ID | WA104381629 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Kronos, Inc. |
 | URL-адрес веб-сайта-партнера | [https://www.kronos.com/](https://www.kronos.com/) |
@@ -53,7 +54,7 @@ ms.locfileid: "59288126"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -92,7 +93,7 @@ ms.locfileid: "59288126"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/17313' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/17313' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/17313" target="_blank">Просмотр на новой вкладке</a>
 

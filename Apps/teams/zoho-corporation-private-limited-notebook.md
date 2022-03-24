@@ -2,18 +2,19 @@
 title: Сведения о приложениях для ноутбука Zoho от Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/29/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для Zoho Notebook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии требованиям для Zoho Notebook, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1fe5d35e610c11cf9908aa5bc012db0d1039c975
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: eda8e16d8113aac83535faa9692d3eb3e4b59aee
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60444956"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753256"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -33,7 +34,7 @@ ms.locfileid: "60444956"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Zoho Notebook |
-| Идентификатор | WA200001616 |
+| ID | WA200001616 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Zoho Corporation Private Limited |
 | URL-адрес веб-сайта-партнера | [https://zoho.com](https://zoho.com) |
@@ -52,7 +53,7 @@ ms.locfileid: "60444956"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -96,7 +97,7 @@ ms.locfileid: "60444956"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298" target="_blank">Просмотр на новой вкладке</a>
 

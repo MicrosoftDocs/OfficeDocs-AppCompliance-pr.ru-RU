@@ -2,18 +2,19 @@
 title: Сведения о приложениях для AttendanceBot от Anaek
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для AttendanceBot, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствия требованиям для AttendanceBot, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bd6cda0bf9f1a7b05684cee46ae68f286c59bfad
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 56e5dc8ea5847564786f53bcf879686decb0b59f
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429076"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752762"
 ---
 # <a name="attendancebot"></a>AttendanceBot
 
@@ -33,7 +34,7 @@ ms.locfileid: "60429076"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | AttendanceBot |
-| Идентификатор | WA104381652 |
+| ID | WA104381652 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Anaek |
 | URL-адрес веб-сайта-партнера | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
@@ -53,7 +54,7 @@ ms.locfileid: "60429076"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -99,7 +100,7 @@ ms.locfileid: "60429076"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980" target="_blank">Просмотр на новой вкладке</a>
 

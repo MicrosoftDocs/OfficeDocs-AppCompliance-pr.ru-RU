@@ -2,18 +2,19 @@
 title: Сведения о приложениях для researcHR по KBE&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для researcHR, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+description: Все доступные сведения о безопасности и соответствия требованиям для researcHR, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5def12e783d15c3cbcaf02ec128301dd9f75bd01
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422736"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753778"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -28,12 +29,12 @@ ms.locfileid: "58422736"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставленные корпорацией KBE&#26666;&#24335;&#20250;&#31038; Майкрософт:
+Сведения, предоставляемые корпорацией KBE&#26666;&#24335;&#20250;&#31038; Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | researcHR |
-| Идентификатор | WA200002557 |
+| Название приложения | researcHR |
+| ID | WA200002557 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | KBE&#26666;&#24335;&#20250;&#31038; |
 | URL-адрес веб-сайта-партнера | [https://app.researchr.work/corporate](https://app.researchr.work/corporate) |
@@ -53,17 +54,17 @@ ms.locfileid: "58422736"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Channel.Create | приложение | Мы используем эту область, чтобы позволить нашему боту создать новый канал на Teams клиенте. См.: https://docs.microsoft.com/en-us/graph/api/channel-post | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Directory.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/channel-list | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Group.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/channel-list | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Team.ReadBasic.All | приложение | Мы используем эту область, чтобы получить членов команды, чтобы пользователи могли видеть своих членов команды на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/group-list-members | Мы не храним эти данные в базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.Read.All | приложение | Мы используем эту область для получения каналов, присоединимых к пользователю, чтобы пользователи могли видеть их присоединились к группам на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | делегирована | Мы используем эту область, чтобы включить вход OAuth и собрать AAD-ID пользователя, маркер доступа и маркер обновления. См.: https://docs.microsoft.com/en-us/graph/auth-v2-user | Мы храним ВАД пользователя, маркер доступа и маркер обновления в нашей базе данных, чтобы пользователь может войти на наш веб-сайт с помощью OAuth. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| offline_access | делегирована | Мы используем эту область для получения маркера обновления, чтобы мы могли обновить маркер доступа для пользователей с строгим режимом без взаимодействия с пользователем. См.: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | Мы храним маркер обновления в базе данных, чтобы обновить маркер доступа без взаимодействия с пользователем. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| Channel.Create | приложение | Мы используем эту область, чтобы позволить нашему боту создать новый канал на Teams клиенте. См.: https://docs.microsoft.com/graph/api/channel-post | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/graph/api/channel-list | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/graph/api/channel-list | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | приложение | Мы используем эту область, чтобы получить членов команды, чтобы пользователи могли видеть своих членов команды на нашем сайте. См.: https://docs.microsoft.com/graph/api/group-list-members | Мы не храним эти данные в базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | приложение | Мы используем эту область для получения каналов, присоединимых к пользователю, чтобы пользователи могли видеть их присоединились к группам на нашем сайте. См.: https://docs.microsoft.com/graph/api/user-list-joinedteams | Мы не храним эти данные в нашей базе данных. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | делегирована | Мы используем эту область, чтобы включить вход OAuth и собрать AAD пользователя, маркер доступа и маркер обновления. См.: https://docs.microsoft.com/graph/auth-v2-user | Мы храним в базе данных AAD, маркер доступа и маркер обновления, чтобы пользователь с помощью OAuth входил на наш веб-сайт. | [82df726e-0de2-46af-b4f1-0645fd95fc97].. /azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | делегирована | Мы используем эту область для получения маркера обновления, чтобы мы могли обновить маркер доступа для пользователей с строгим режимом без взаимодействия с пользователем. См.: https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | Мы храним маркер обновления в базе данных, чтобы обновить маркер доступа без взаимодействия с пользователем. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -105,7 +106,7 @@ ms.locfileid: "58422736"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
