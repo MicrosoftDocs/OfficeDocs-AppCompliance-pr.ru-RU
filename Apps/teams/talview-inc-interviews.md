@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Talview Interviews, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: c4465b676ea2b85e8f2d6fcbffaf1f00c2a5d349
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753148"
+ms.locfileid: "63773550"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -54,14 +54,14 @@ ms.locfileid: "63753148"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | делегирована | Вход и чтение профиля пользователя | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| email | делегирована | Просмотр адреса электронной почты пользователей для сопоставления учетных записей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| openid | делегирована | Вход пользователей, вход на платформу | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| profile | делегирована | Просмотр базовых профилей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| User.Read | делегирована | Вход и чтение профиля пользователя | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| email | делегирована | Просмотр адреса электронной почты пользователей для сопоставления учетных записей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| openid | делегирована | Вход пользователей, вход на платформу | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| profile | делегирована | Просмотр базовых профилей пользователей | Адрес электронной почты/имена пользователей для уведомлений и проверки подлинности | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -103,7 +103,7 @@ ms.locfileid: "63753148"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431" target="_blank">Просмотр на новой вкладке</a>
 

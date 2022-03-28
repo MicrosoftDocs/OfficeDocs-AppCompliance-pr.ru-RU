@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для PandaDoc, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7cfd701c52bfc076fb1352bac439479426bc8475
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 32e31e9939444901b3c5cf44ac512d1958c13cd2
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63549677"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64458252"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -34,7 +34,7 @@ ms.locfileid: "63549677"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | PandaDoc |
-| ID | WA200002927 |
+| Идентификатор | WA200002927 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | PandaDoc |
 | Веб-сайт компании | [https://www.pandadoc.com](https://www.pandadoc.com) |
@@ -169,8 +169,8 @@ ms.locfileid: "63549677"
 >| Files.Read | оба | для пользователя sso из Tab (пример - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Необходимые для получения маркера пользователя с доступом к Microsoft Graph и дальнейшего получения файлов пользователей. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.All | оба | для пользователя sso из Tab (пример - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Необходимые для получения маркера пользователя с доступом к Microsoft Graph и дальнейшего получения файлов пользователей. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.Selected | оба | для пользователя sso из Tab (пример - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Необходимые для получения маркера пользователя с доступом к Microsoft Graph и дальнейшего получения файлов пользователей. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.Read.All | оба | получить списки каналов для каждой ранее полученной команды и получить ids дисков файлов для каждого канала. Документация - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.ReadWrite.All | оба | получить списки каналов для каждой ранее полученной команды и получить ids дисков файлов для каждого канала. Документация - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.Read.All | оба | получить списки каналов для каждой ранее полученной команды и получить ids дисков файлов для каждого канала. Документация - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.ReadWrite.All | оба | получить списки каналов для каждой ранее полученной команды и получить ids дисков файлов для каждого канала. Документация - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Team.ReadBasic.All | оба | для получения ID-Microsoft Teams групп в том, что пользователь является непосредственным участником. После этого будут получать каналы для каждого идентификатора команды. Чтобы получить ID-файлы хранилища файлов, сначала необходимо получить список команд, в которые вошел пользователь. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.Read.All | оба | Для получения ID-Microsoft Teams, в которые пользователь является непосредственным участником. После этого будут получать каналы для каждого идентификатора команды. Чтобы получить ID-файлы хранилища файлов, сначала необходимо получить список команд, в которые вошел пользователь. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.ReadWrite.All | оба | или получите ID-данные групп в Microsoft Teams, в которые пользователь является непосредственным участником. После этого будут получать каналы для каждого идентификатора команды. Чтобы получить ID-файлы хранилища файлов, сначала необходимо получить список команд, в которые вошел пользователь. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |

@@ -3,17 +3,17 @@ title: Безопасность SharePoint приложений — все пр�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 66433eb54bf05965fb4a762a84f64d666d8c423a
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 887651563cf6fdb420768a623ce9618b9c7b8c78
+ms.sourcegitcommit: 7c03de919310456c10f7cc3685f83d40cac504de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63540075"
+ms.lasthandoff: 03/24/2022
+ms.locfileid: "63778283"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -36,6 +36,8 @@ ms.locfileid: "63540075"
 | [Lightning Tools Lightning Conductor](./lightning-tools-conductor.md) | Средства lightning | **✓** |  |
 | [officeatwork — выбор шаблона для SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Cовместная работа Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [SharePoint-sapiens Управление обучением сотрудников](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens Event Management](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
 | [Более умное бронирование событий](./smarter-business-solutions-gmbh-event-booking.md) | Smarter Business Solutions GmbH | **✓** |  |
 | [Форумы дискуссий в социальных квадратах](./lightning-tools-social-squared-discussion-forums.md) | Средства lightning | **✓** |  |
 | [Таксономия](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |

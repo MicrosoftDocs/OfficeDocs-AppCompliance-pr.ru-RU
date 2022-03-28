@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Zoho CRM, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1543739d4c304a4527c878d6214c06a1426314b3
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: cf56e9462093336c45902e3c368b4d8498f7a499
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753623"
+ms.locfileid: "63773450"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -54,19 +54,19 @@ ms.locfileid: "63753623"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](/graph/permissions-reference), которые требуется этому приложению.
 
 >| **Разрешение**  | **Тип разрешения (Делегированная/ приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование его хранения?** | **Azure AD App ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | делегирована | ID папки календаря хранится для синхронизации контактов от Zoho CRM до Microsoft &amp; наоборот. Данные календаря, event_name, event_location, participant_details хранятся. | Позволяет пользователю синхронизировать события Office365 с CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Contacts.ReadWrite | делегирована | ID папки контактов хранится для синхронизации контактов из Zoho CRM в Microsoft &amp; наоборот. Сохраняются контактные first_name, last_name, адрес электронной почты. | Позволяет пользователю синхронизировать контакты Office365 с CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read.All | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read.Selected | делегирована | UserPrincipalName хранится для идентификации пользователя | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| User.ReadBasic.All | делегирована | Свойства пользователей, такие как first_name, last_name, адрес электронной почты. | Чтение базовых профилей всех пользователей | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| email | делегирована | UserPrincipaName хранится для отступа пользователя | Просмотр адреса электронной почты пользователя | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| offline_access | делегирована |  | Сохранение доступа к данным, к которым он был предоставлен | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| profile | делегирована |  | Просмотр базового профиля пользователя | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
+>| Calendars.ReadWrite | делегирована | ID папки календаря хранится для синхронизации контактов от Zoho CRM до Microsoft &amp; наоборот. Данные календаря, event_name, event_location, participant_details хранятся. | Позволяет пользователю синхронизировать события Office365 с CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Contacts.ReadWrite | делегирована | ID папки контактов хранится для синхронизации контактов из Zoho CRM в Microsoft &amp; наоборот. Сохраняются контактные first_name, last_name, адрес электронной почты. | Позволяет пользователю синхронизировать контакты Office365 с CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.All | делегирована |  | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.Selected | делегирована | UserPrincipalName хранится для идентификации пользователя | Позволяет пользователю импортировать файл Office365 в CRM Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | делегирована | Свойства пользователей, такие как first_name, last_name, адрес электронной почты. | Чтение базовых профилей всех пользователей | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| email | делегирована | UserPrincipaName хранится для отступа пользователя | Просмотр адреса электронной почты пользователя | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | делегирована |  | Сохранение доступа к данным, к которым он был предоставлен | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| profile | делегирована |  | Просмотр базового профиля пользователя | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>Не-службы Майкрософт используется
@@ -103,7 +103,7 @@ ms.locfileid: "63753623"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307" target="_blank">Просмотр на новой вкладке</a>
 
