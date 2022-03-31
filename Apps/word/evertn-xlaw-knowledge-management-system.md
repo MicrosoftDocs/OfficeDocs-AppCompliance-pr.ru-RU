@@ -2,18 +2,19 @@
 title: Сведения о приложениях для xLaw — система управления знаниями по evertn
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии требованиям для xLaw — система управления знаниями, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствия требованиям для xLaw — система управления знаниями, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cce6d174386db07ebf7e062066549cc47c61c845
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: bac0b2c58acd70749ed6fb66580442b24de771b7
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429297"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462102"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw — система управления знаниями
 
@@ -33,7 +34,7 @@ ms.locfileid: "60429297"
 |:----------------|:-------------|
 | Название приложения | xLaw — система управления знаниями |
 | Идентификатор | WA104381077 |
-| Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word в Интернете, Word 2013 или более поздней Windows |
+| Office 365 поддерживаемые клиенты | Word 2016 mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Имя компании-партнера | evertn |
 | URL-адрес веб-сайта-партнера | [https://extendlaw.com](https://extendlaw.com) |
 | URL-адрес политики конфиденциальности | [https://xlaw.eu/en/privacypolicy.html](https://xlaw.eu/en/privacypolicy.html) |
@@ -51,7 +52,7 @@ ms.locfileid: "60429297"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -90,7 +91,7 @@ ms.locfileid: "60429297"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910" target="_blank">Просмотр на новой вкладке</a>
 

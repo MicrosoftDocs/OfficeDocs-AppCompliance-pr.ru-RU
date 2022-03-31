@@ -3,17 +3,17 @@ title: Microsoft Excel безопасности и соответствия тр
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/24/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 4c68eec6e40deecf9e226843d0a1ee70425a7f75
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: f0e281d946560d3ef13c0019870894e2eddc4722
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545647"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462176"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности и соответствия требованиям приложений
 
@@ -33,6 +33,7 @@ ms.locfileid: "63545647"
 | [officeatwork — выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork — выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
+| [RocketDocs LaunchPad](./rocketdocs-launchpad.md) | RocketDocs | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |
 | [Данные XBRL](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |

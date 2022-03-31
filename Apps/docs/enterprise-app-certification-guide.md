@@ -2,16 +2,17 @@
 title: Что такое Microsoft 365 сертификации?
 author: orionomalley
 ms.author: oromalle
+manager: tonybal
 description: Microsoft 365 сертификации
 keywords: App attestation Microsoft 365 certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 47f479258f2bb944cf30665c4479bb151523a561
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: f7c986d98db3d8b21ec0790bd5fe1e8c9892b024
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697389"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462222"
 ---
 # <a name="what-is-microsoft-365-certification"></a>Что такое Microsoft 365 сертификации?
 
@@ -58,7 +59,7 @@ Microsoft 365 сертификация применяется ко всем пр
 - SharePoint
 - Project
 - OneNote
-- **Веб-приложения** (приложения SaaS, опубликованные на коммерческой площадке в Центре партнеров в настоящее время находятся в закрытом режиме, если вы заинтересованы в участии, заполните эту [форму](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u).
+- **Веб-приложения** (приложения SaaS, опубликованные на коммерческой платформе в Центре партнеров, в настоящее время доступны в закрытой предварительной версии. Если вы хотите принять участие в предварительной оценке, заполните [эту](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u) форму.
 
 ## <a name="program-benefits"></a>Преимущества программы
 Участие и завершение Microsoft 365 сертификации могут обеспечить огромные преимущества для ИТ-администраторов и разработчиков:

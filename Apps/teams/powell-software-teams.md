@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для Teams, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 7fffe34f51520ebec1cc5dce2761ce59269b0e35
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550077"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462932"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -34,12 +34,12 @@ ms.locfileid: "63550077"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Powell Teams |
-| ID | WA200001585 |
+| Идентификатор | WA200001585 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | Powell Software |
 | Веб-сайт компании | [https://www.powell-software.com](https://www.powell-software.com) |
 | Условия использования приложения | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| Основные функции приложения | Приложение Powell Teams предоставляет интеллектуальную панель мониторинга для всех сотрудников компании, &amp; помогает им легко организовывать теги всех групп, обнаруживать наиболее важные продвигаемые команды компании и, наконец, использовать шаблоны команд на основе предзадатки, чтобы сэкономить время. API также доступен для получения и работы с набором данных в базе данных Powell Teams (https://docapiteams.powell-software.com)Наконец, соединитель для logic Apps и Power Automate также доступен (https://docs.microsoft.com/en-us/connectors/powellteams) |
+| Основные функции приложения | Приложение Powell Teams предоставляет интеллектуальную панель мониторинга для всех сотрудников компании, &amp; помогает им легко организовывать теги всех групп, обнаруживать наиболее важные продвигаемые команды компании и, наконец, использовать шаблоны команд на основе предзадатки, чтобы сэкономить время. API также доступен для получения и работы с набором данных в базе данных Powell Teams (https://docapiteams.powell-software.com)Наконец, соединитель для logic Apps и Power Automate также доступен (https://docs.microsoft.com/connectors/powellteams) |
 | Расположение штаб-квартиры компании | Франция |
 | Страница информация о приложении | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | Какова среда размещения или модель службы, используемая для запуска приложения? |  |

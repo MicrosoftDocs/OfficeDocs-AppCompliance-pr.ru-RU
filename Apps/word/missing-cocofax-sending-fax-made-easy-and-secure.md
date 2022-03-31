@@ -1,19 +1,20 @@
 ---
-title: Сведения о приложениях для CocoFax — отправка факса с помощью &amp; &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
+title: Сведения о приложениях для CocoFax — отправка факса &amp; , выполненная с помощью &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для CocoFax — отправка факса, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре &amp; CSA STAR.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8b44af37fc4fcfcb9452b3af6fdd666b0565d9d4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: Все доступные сведения о безопасности и соответствии требованиям для CocoFax — &amp; отправка факсов, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 621b61963a89ca4d2bfd2eeca0b39366cb261c1d
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404971"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461362"
 ---
 # <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax — отправка факса &amp;
 
@@ -31,9 +32,9 @@ ms.locfileid: "58404971"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Имя приложения | CocoFax — отправка факса &amp; |
+| Название приложения | CocoFax — отправка факса &amp; |
 | Идентификатор | WA200002263 |
-| Office 365 поддерживаемые клиенты | Word 2016 или позже на Mac, Word в Интернете, Word 2013 или более поздней Windows |
+| Office 365 поддерживаемые клиенты | Word 2016 mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Имя компании-партнера | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
 | URL-адрес веб-сайта-партнера | [https://cocofax.com](https://cocofax.com) |
 | URL-адрес политики конфиденциальности | [https://cocofax.com/privacy.html](https://cocofax.com/privacy.html) |
@@ -47,11 +48,11 @@ ms.locfileid: "58404971"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; о том, как это приложение собирает и хранит организационные данные, а также о том, как организация будет управлять данными, собираемой приложением.
+Эти сведения были предоставлены &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; о том, как это приложение собирает и хранит организационные данные, а также о том, как ваша организация будет управлять данными, собираемой приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт,](https://docs.microsoft.com/graph/permissions-reference) которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -90,7 +91,7 @@ ms.locfileid: "58404971"
 
 Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
 
-<iframe height='1020' title='Microsoft Cloud App Security Сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 

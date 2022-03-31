@@ -1,25 +1,25 @@
 ---
-title: Azure App ID Information for dae2eacf-3eb5-4440-baff-984fbd5cae68
+title: приложение Azure для dae2eacf-3eb5-4440-baff-984fbd5cae68
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 03/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для dae2eacf-3eb5-4440-baff-984fbd5cae68.
-ms.openlocfilehash: 26017930b3c485534d4cb4db9e11e413dc0e68a4
-ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
+ms.openlocfilehash: 9994142fd2437ecca8303aabe59beb0ac282c77d
+ms.sourcegitcommit: 890a5b31f2a31a7747d88f0f3f203c0551440293
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63772780"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64517161"
 ---
-# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure App ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
+# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>приложение Azure: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим ID:
-| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Template Chooser](../forward/officeatwork-ag.template-chooser.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser](https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser) |
 | [Браузер выбора шаблона](../forward/officeatwork-ag.template-chooser-browser.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser-browser](https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser-browser) |

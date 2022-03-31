@@ -1,25 +1,25 @@
 ---
-title: приложение Azure для affadfb6-f17b-428f-97f9-9aae3b6175bc
+title: Azure App ID Information for affadfb6-f17b-428f-97f9-9aae3b6175bc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/26/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для affadfb6-f17b-428f-97f9-9aae3b6175bc.
-ms.openlocfilehash: 814985bd98cb61e415ddffc03f7812b50fc6015f
-ms.sourcegitcommit: 890a5b31f2a31a7747d88f0f3f203c0551440293
+ms.openlocfilehash: 351351d990219761ea88ad7caa6aea9eeca2263c
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64512540"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63772990"
 ---
-# <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>приложение Azure: affadfb6-f17b-428f-97f9-9aae3b6175bc
+# <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure App ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим ID:
-| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Priority Matrix](../forward/WA104382005.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104382005](https://appsource.microsoft.com/product/office/WA104382005) |
 | [Матрица приоритетов — превратите электронные почты в задачи](../forward/WA104381735.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381735](https://appsource.microsoft.com/product/office/WA104381735) |
