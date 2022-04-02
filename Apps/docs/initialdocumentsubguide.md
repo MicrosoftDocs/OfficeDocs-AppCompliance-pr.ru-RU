@@ -2,18 +2,19 @@
 ms.author: oromalle
 title: Microsoft 365 сертификации — руководство по первоначальной отправке документов
 author: orionomalley
-description: Microsoft 365 руководство по отправке сертификации гранулированное представление
-keywords: Группы сертификации приложений Microsoft 365 соответствия требованиям безопасности m365 первоначальной отправки документов
+manager: tonybal
+description: Microsoft 365 руководство по отправке сертификации детальное представление
+keywords: Группы сертификации приложений Microsoft 365 m365 начальной отправки документов
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
-ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
+ms.openlocfilehash: 66afcbd482ee1269ce21e2af6fdeea5026b294ee
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61261681"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463282"
 ---
-# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 ceritification — руководство по отправке документов
+# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification — руководство по отправке документов
 
 Первоначальная отправка документа является частью этапа предварительной оценки сертификации. Представленная информация даст аналитикам сертификации фон, необходимый для определения элементов управления и системных компонентов для оценки. Этот документ предназначен для использования только в качестве примера того, что ожидается от первоначальной отправки документа. Предоставляемая документация будет отличаться в зависимости от того, как ваше решение будет архитектором, реализовано и управляется.
 
@@ -55,9 +56,9 @@ ms.locfileid: "61261681"
 |Программное обеспечение|  Publisher|  Версия|     Назначение|
 |-|-|-|-|
 |Windows Server|    Microsoft 2016 | Сборка 14393| Операционная система сервера для производственной среды|.
-|Linux Ubuntu|  Недоступно|    16.04 (Xenial)| Операционная система сервера, используемая в dmZ.|
+|Linux Ubuntu|  Н/Д|    16.04 (Xenial)| Операционная система сервера, используемая в dmZ.|
 |ESXi|  VMWare| 6.5.0 (Сборка 13004031)| Используется для поддержки виртуальных серверов.|
-|Mysql (Windows)|   Недоступно|    8.0.2.1|    Сервер базы данных для хранения истории чата.|
+|Mysql (Windows)|   Н/Д|    8.0.2.1|    Сервер базы данных для хранения истории чата.|
 |Tomcat|        Apache| 7.0.92| Клиентский портал.|
 |Службы IIS|   Microsoft|  10.0|   Поддерживает API.|
 
@@ -95,7 +96,7 @@ ms.locfileid: "61261681"
 
 ## <a name="resource-endpoints"></a>Конечные точки ресурса
 
-API Name Endpoint Address Contoso Customer API    https://customerapi.contoso.com Contoso Bot Service https://bot.contoso.com Contoso Files API   https://filesapi.contoso.com
+API Name    Endpoint Address Contoso Customer API    https://customerapi.contoso.com Contoso Bot Service https://bot.contoso.com Contoso Files API   https://filesapi.contoso.com
 
 Полный список всех конечных точек API, используемых вашим приложением, включая внутренние и внешние конечные точки ресурсов. Чтобы помочь понять область среды, уделите расположение конечной точки API в среде.
 
@@ -117,7 +118,7 @@ API Name Endpoint Address Contoso Customer API    https://customerapi.contoso.co
 
 ## <a name="data-flow-diagram"></a>Диаграмма Flow данных
 
-Flow схемы с подробным изве-
+Flow схемы, подробные ниже.
 -   Потоки данных в приложение и надстройки (включая данные клиентов) и из него.
 -   Потоки данных в вспомогательной инфраструктуре (где это применимо)
 -   Схемы, на которых освещаются, где и какие данные хранятся, как передаются данные внешним третьим лицам (в том числе сведения о том, какие третьи стороны) и как данные защищены при транзите через открытые/общедоступные сети и в покое.

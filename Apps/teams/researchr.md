@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствия требованиям для researcHR, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d9190b5c268a2ff73f204e3c81015532b1b3e4df
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: ec1149c58d7c7b5c77243af43b529fa6434e5520
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63543427"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463602"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -34,7 +34,7 @@ ms.locfileid: "63543427"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | researcHR |
-| ID | WA200002557 |
+| Идентификатор | WA200002557 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Имя компании-партнера | KBE&#26666;&#24335;&#20250;&#31038; |
 | Веб-сайт компании | [https://app.researchr.work/corporate](https://app.researchr.work/corporate) |
@@ -161,13 +161,13 @@ ms.locfileid: "63543427"
 
 >|   **Graph разрешения**  | **Тип разрешений** |          **Justification**          | **Azure AD App ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | приложение | Мы используем эту область, чтобы позволить нашему боту создать новый канал на Teams клиенте. См.: https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Directory.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Group.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Team.ReadBasic.All | приложение | Мы используем эту область, чтобы получить членов команды, чтобы пользователи могли видеть своих членов команды на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.Read.All | приложение | Мы используем эту область для получения каналов, присоединимых к пользователю, чтобы пользователи могли видеть их присоединились к группам на нашем сайте. См.: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.ReadBasic.All | делегирована | Мы используем эту область, чтобы включить вход OAuth и собрать AAD пользователя, маркер доступа и маркер обновления. См.: https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| offline_access | делегирована | Мы используем эту область для получения маркера обновления, чтобы мы могли обновить маркер доступа для пользователей с строгим режимом без взаимодействия с пользователем. См.: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Channel.Create | приложение | Мы используем эту область, чтобы позволить нашему боту создать новый канал на Teams клиенте. См.: https://docs.microsoft.com/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | приложение | Мы используем эту область для получения имен и ИД канала для отображения этих данных на нашем сайте. См.: https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | приложение | Мы используем эту область, чтобы получить членов команды, чтобы пользователи могли видеть своих членов команды на нашем сайте. См.: https://docs.microsoft.com/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | приложение | Мы используем эту область для получения каналов, присоединимых к пользователю, чтобы пользователи могли видеть их присоединились к группам на нашем сайте. См.: https://docs.microsoft.com/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | делегирована | Мы используем эту область, чтобы включить вход OAuth и собрать AAD пользователя, маркер доступа и маркер обновления. См.: https://docs.microsoft.com/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | делегирована | Мы используем эту область для получения маркера обновления, чтобы мы могли обновить маркер доступа для пользователей с строгим режимом без взаимодействия с пользователем. См.: https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >В этом приложении нет дополнительных API.
 
