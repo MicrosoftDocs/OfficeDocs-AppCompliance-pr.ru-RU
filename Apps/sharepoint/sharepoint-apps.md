@@ -3,17 +3,11 @@ title: Безопасность SharePoint приложений — все пр�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех приложений SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 887651563cf6fdb420768a623ce9618b9c7b8c78
-ms.sourcegitcommit: 7c03de919310456c10f7cc3685f83d40cac504de
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2022
-ms.locfileid: "63778283"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint безопасности и соответствия требованиям
 
@@ -21,7 +15,7 @@ ms.locfileid: "63778283"
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Знак Adobe Acrobat для SharePoint](./adobe-inc-acrobat-sign-for-sharepoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Знак Adobe Acrobat для Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ArcGIS для SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
 | [Система управления ставками](./beyond-technologies-bid-management-system.md) | Помимо технологий | **✓** |  |
 | [Веб-части Bizagi](./bizagi-team-webparts.md) | Команда Bizagi | **✓** |  |
@@ -32,12 +26,13 @@ ms.locfileid: "63778283"
 | [Надстройки cRM iGlobe](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [cRM-Office 365 iGlobe для Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Parser электронной почты Konnect](./konnect-email-parser.md) | Электронная почта Konnect | **✓** |  |
-| [Подключения LifeWorks Viva](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
+| [LifeWorks Viva Связи](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [Lightning Tools Lightning Conductor](./lightning-tools-conductor.md) | Средства lightning | **✓** |  |
 | [officeatwork — выбор шаблона для SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Cовместная работа Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [SharePoint-sapiens Управление обучением сотрудников](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
 | [SharePoint-sapiens Event Management](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens Современный пользовательский интерфейс](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
 | [Более умное бронирование событий](./smarter-business-solutions-gmbh-event-booking.md) | Smarter Business Solutions GmbH | **✓** |  |
 | [Форумы дискуссий в социальных квадратах](./lightning-tools-social-squared-discussion-forums.md) | Средства lightning | **✓** |  |
 | [Таксономия](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |

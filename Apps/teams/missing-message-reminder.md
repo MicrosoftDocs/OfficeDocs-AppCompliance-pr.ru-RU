@@ -7,14 +7,8 @@ ms.date: 07/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствия требованиям для напоминания о сообщениях, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c95ef8bab0d735eb35c89ed1e910428407d1d5eb
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753540"
+description: 'Все доступные сведения о безопасности и соответствия требованиям для напоминания о сообщениях, политики обработки данных, Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.'
+zone_pivot_groups: app-info-data-identity
 ---
 # <a name="message-reminder"></a>Message Reminder
 
@@ -54,7 +48,7 @@ ms.locfileid: "63753540"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
-Список всех [разрешений Graph Майкрософт](https://docs.microsoft.com/graph/permissions-reference), которые требуется этому приложению.
+Список всех [разрешений Graph Майкрософт](/graph/permissions-reference), которые требуется этому приложению.
 
 >Это приложение не использует Microsoft Graph.
 
@@ -89,18 +83,6 @@ ms.locfileid: "63753540"
 Участвуют ли люди в просмотре или анализе любых данных, идентифицируемых в организации (OII), собираемых или хранимых этим приложением?
 
 >Нет
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="mcas"
-
-Сведения из [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) ниже.
-
-<iframe height='1020' title='Microsoft Cloud App Security информация' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

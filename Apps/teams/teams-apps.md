@@ -3,17 +3,11 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/26/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 4b8bc7f84e731f8d7f868cf71375dc80956a0160
-ms.sourcegitcommit: 890a5b31f2a31a7747d88f0f3f203c0551440293
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64519423"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -22,14 +16,16 @@ ms.locfileid: "64519423"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [10xGoals](./xto10x-technologies-10xgoals.md) | xto10x Technologies | **✓** |  |
+| [1Page](./oayaw-inc-1page.md) | OAYAW, Inc. | **✓** |  |
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
-| [absentify](./braincore-solutions-gmbh-absentify.md) | GmbH решений BrainCore | **✓** |  |
+| [absentify](./braincore-solutions-absentify.md) | Решения BrainCore | **✓** |  |
 | [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  |
 | [Adobe Acrobat](./adobe-systems-inc-acrobat.md) | Adobe Systems Inc. | **✓** |  |
-| [Adobe Sign](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Знак Adobe Acrobat](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
+| [Производитель ИИ](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
 | [Akouo Interpretation](./akouo-technologies-inc-interpretation.md) | Akouo Technologies Inc. | **✓** |  |
 | [Помощник для самостоятельной помощи Alloy](./alloy-software-self-service-assistant.md) | Программное обеспечение Alloy | **✓** |  |
@@ -199,6 +195,7 @@ ms.locfileid: "64519423"
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
+| [GRATICA](./okwave-inc-gratica.md) | OKWAVE, Inc. | **✓** |  |
 | [Group Address Book - NextSet](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
 | [GroupLotse](./controlex-gmbh-grouplotse.md) | Controlex GmbH | **✓** |  |
 | [Grow360](./grow360.md) | Grow360 | **✓** |  |
@@ -213,11 +210,13 @@ ms.locfileid: "64519423"
 | [hi Digital Coach](./digital-attitude-srl-hi-coach.md) | Digital Attitude Srl | **✓** |  |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
 | [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  |
+| [Совместная работа HighSide](./highside-inc-collaboration.md) | HighSide, Inc | **✓** |  |
 | [Highspot](./highspot.md) | Highspot | **✓** |  |
 | [HitHorizons](./finstat-sro-hithorizons.md) | FinStat s.r.o. | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
 | [HubSite 365](./netforce-365-gmbh-hubsite.md) | NetForce 365 GmbH | **✓** |  |
 | [Hugo](./hugo.md) | Hugo | **✓** |  |
+| [Humantelligence](./humantelligence.md) | Humantelligence | **✓** |  |
 | [huminos](./soe-technologies-huminos.md) | SOE Technologies | **✓** |  |
 | [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
 | [Hyperlinks](./solutions2share-gmbh-hyperlinks.md) | Solutions2Share GmbH | **✓** |  |
@@ -238,6 +237,7 @@ ms.locfileid: "64519423"
 | [Jira Cloud](./atlassian-jira-cloud.md) | Atlassian | **✓** |  |
 | [Jira Integration Plus](./nextup-llc-jira-integration-plus.md) | Далее, LLC | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Cloud Soultions | **✓** |  |
+| [Joye](./joye-pte-ltd.md) | Joye Pte Ltd | **✓** |  |
 | [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Kanban Tool](./shore-labs-kanban-tool.md) | Shore Labs | **✓** |  |
 | [Kaptain Charlie](./askrai-kaptain-charlie.md) | askR.ai | **✓** |  |
@@ -273,6 +273,7 @@ ms.locfileid: "64519423"
 | [Meetgeek](./aivision-products-srl-meetgeek.md) | AIVISION PRODUCTS SRL | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [Message Reminder](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [MetaMeeting](./wafer-systems-metameeting.md) | Wafer Systems | **✓** |  |
 | [MetaVisitor](./wafer-systems-metavisitor.md) | Wafer Systems | **✓** |  |
 | [MetaWorkspace](./wafer-systems-metaworkspace.md) | Wafer Systems | **✓** |  |
 | [MGR360](./mgr360.md) | MGR360 | **✓** |  |
@@ -301,6 +302,7 @@ ms.locfileid: "64519423"
 | [Neelix.Team](./neelixio-neelixteam.md) | Neelix.IO | **✓** |  |
 | [netDocShare](./kl-software-technologies-netdocshare.md) | KL Software Technologies | **✓** |  |
 | [NewCOS](./newtech-newcos.md) | Newtech | **✓** |  |
+| [Новости — Jalios](./jalios-sa-news.md) | Jalios SA | **✓** |  |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [NickNack](./nicknack-ltd.md) | NickNack Ltd. | **✓** |  |
 | [nickname by flowrish games](./room6-nickname-by-flowrish-games.md) | room6 | **✓** |  |
@@ -327,6 +329,7 @@ ms.locfileid: "64519423"
 | [Perfect Wiki](./ooo-rd17-perfect-wiki.md) | OOO RD17 | **✓** |  |
 | [Perflo](./perflo.md) | Perflo | **✓** |  |
 | [Систематизатор фотографий](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
+| [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
 | [Календарь Planyway для Trello](./rubius-planyway-calendar-for-trello.md) | Rubius | **✓** |  |
 | [PlayQuiz — Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
@@ -425,6 +428,7 @@ ms.locfileid: "64519423"
 | [TagTeam](./smarter-business-solution-gmbh-tagteam.md) | Smarter Business Solution GmbH | **✓** |  |
 | [Talview Interviews](./talview-inc-interviews.md) | Talview Inc | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
+| [TaskCall](./taskcall-cloud-services-sl.md) | Облачные службы TaskCall, S.L. | **✓** |  |
 | [Taskworld](./taskworld.md) | Taskworld | **✓** |  |
 | [Team Central](./atlassian-inc-team-central.md) | Atlassian, Inc. | **✓** |  |
 | [Team Tracker](./team-tracker-ltd.md) | Team Tracker Ltd | **✓** |  |

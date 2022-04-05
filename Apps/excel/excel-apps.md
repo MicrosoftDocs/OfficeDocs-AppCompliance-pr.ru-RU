@@ -3,17 +3,11 @@ title: Microsoft Excel безопасности и соответствия тр
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/24/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствия требованиям для всех Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: f0e281d946560d3ef13c0019870894e2eddc4722
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64462176"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности и соответствия требованиям приложений
 
@@ -25,9 +19,10 @@ ms.locfileid: "64462176"
 | [Аналитика CloudExtend для NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel автоматизация документов](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Forbury](./forbury-property.md) | Свойство Forbury | **✓** |  |
+| [Редактор PDF Foxit для Microsoft Word, Excel и PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Подписи впечатлений](./impression-signatures.md) | Подписи впечатлений | **✓** |  |
 | [Jira Cloud для Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
-| [Анализ текста MeaningCloud для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
+| [MeaningCloud Анализ текста для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork — выбор контента для Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork — выбор изображения для Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
