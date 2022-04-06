@@ -3,23 +3,23 @@ title: приложение Azure идентификатора для 2cc7f3cd-0
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/05/2022
+ms.date: 04/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb.
-ms.openlocfilehash: 17dffc0e9e1afea85765cda05e22ba1781b8a143
-ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
+ms.openlocfilehash: 7b4e9b3eeda6d41af327c0c530c1a7c0602361f6
+ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64677499"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64655442"
 ---
 # <a name="azure-app-id-2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb"></a>приложение Azure: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
-| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Weekly10](../forward/WA200001441.md) |  | [https://appsource.microsoft.com/product/office/WA200001441](https://appsource.microsoft.com/product/office/WA200001441) |
 
