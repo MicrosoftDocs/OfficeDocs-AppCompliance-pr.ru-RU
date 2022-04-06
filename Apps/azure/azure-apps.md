@@ -1,25 +1,25 @@
 ---
-title: приложение Azure безопасности и соответствия требованиям — все приложения
+title: приложение Azure идентификаторов безопасности и соответствия требованиям — все приложения
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 04/02/2022
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствия требованиям для всех приложение Azure ID.
+description: Все доступные сведения о безопасности и соответствии для всех приложение Azure идентификаторов.
 localization_priority: Normal
-ms.openlocfilehash: f0a736c37fbb0143f1d9c2bd2bb031d8fe2f3c9c
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: b15625589517b4cbd666fea04fa4c114713e73c7
+ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627991"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64657142"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>приложение Azure безопасности и соответствия требованиям
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям, которые должны ускорить принятие решений приложение Azure и надстройки, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт сотрудничает с нашими Microsoft 365 разработчиками, чтобы предоставить информационные организации, необходимые для ускорения и информирования решений приложение Azure идентификаторов и надстроек, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
-| **приложение Azure ID** | **Аттестованный издатель** | **Сертифицировано** |
+| **приложение Azure идентификатора** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
@@ -106,7 +106,7 @@ ms.locfileid: "64627991"
 | [431a9917-9c32-480e-a584-6c149e7b7213](./431a9917-9c32-480e-a584-6c149e7b7213.md) | **✓** |  |
 | [44a72516-136f-4a55-ae26-ef09977230be](./44a72516-136f-4a55-ae26-ef09977230be.md) | **✓** |  |
 | [471294e9-96d6-475b-b503-e02acd9ed2cd](./471294e9-96d6-475b-b503-e02acd9ed2cd.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [478c769e-bab3-4049-9cfc-302d08a232bf](./478c769e-bab3-4049-9cfc-302d08a232bf.md) | **✓** |  |
+| [478c769e-код3-4049-9cfc-302d08a232bf](./478c769e-bab3-4049-9cfc-302d08a232bf.md) | **✓** |  |
 | [481280f4-a4ed-4862-a5a1-4de59da9dca5](./481280f4-a4ed-4862-a5a1-4de59da9dca5.md) | **✓** |  |
 | [494610b2-b490-4f54-8384-312d6f9b4869](./494610b2-b490-4f54-8384-312d6f9b4869.md) | **✓** |  |
 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](./49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) | **✓** |  |
@@ -192,7 +192,7 @@ ms.locfileid: "64627991"
 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](./8f79a561-d2f1-4a1e-8092-c2039043a40e.md) | **✓** |  |
 | [93544582-de9c-42a0-baa5-df3d25e9bd48](./93544582-de9c-42a0-baa5-df3d25e9bd48.md) | **✓** |  |
 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](./9430520a-241f-4a00-b041-56aa8bbc9cc9.md) | **✓** |  |
-| [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](./950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md) | **✓** |  |
+| [950aa4fb-0583-4b13-9b5f-же92b9cc376](./950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md) | **✓** |  |
 | [959a79dd-69d0-4d05-b9a8-b9f02e28c049](./959a79dd-69d0-4d05-b9a8-b9f02e28c049.md) | **✓** |  |
 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](./95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md) | **✓** |  |
 | [95fb5da0-6ced-4247-9d62-294f8fcb75df](./95fb5da0-6ced-4247-9d62-294f8fcb75df.md) | **✓** |  |
@@ -221,7 +221,7 @@ ms.locfileid: "64627991"
 | [a70d21af-f6a0-450c-8c81-9c3862823578](./a70d21af-f6a0-450c-8c81-9c3862823578.md) | **✓** |  |
 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](./a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) | **✓** |  |
 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](./a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) | **✓** |  |
-| [a938ae1e-a791-4751-9e6a-178c991fa0fafa](./a938ae1e-a791-4751-9e6a-178c991fa0fa.md) | **✓** |  |
+| [a938ae1e-a791-4751-9e6a-178c991fa0fa](./a938ae1e-a791-4751-9e6a-178c991fa0fa.md) | **✓** |  |
 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](./a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) | **✓** |  |
 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](./a9a866c4-e5cf-47f2-932c-db14cb89008f.md) | **✓** |  |
 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](./a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -239,7 +239,7 @@ ms.locfileid: "64627991"
 | [b1d1c038-a1f3-4802-be93-0f4a66589e73](./b1d1c038-a1f3-4802-be93-0f4a66589e73.md) | **✓** |  |
 | [b2380441-bb33-439e-bf4a-8cd277dcebc8](./b2380441-bb33-439e-bf4a-8cd277dcebc8.md) | **✓** |  |
 | [b256b34a-b377-4fc2-b25a-a8f5f0594e86](./b256b34a-b377-4fc2-b25a-a8f5f0594e86.md) | **✓** |  |
-| [b5d4e933-e001-4168-83f8-abdd974877bd](./b5d4e933-e001-4168-83f8-abdd974877bd.md) | **✓** |  |
+| [b5d4e933-e001-4168-83f8-ографd974877bd](./b5d4e933-e001-4168-83f8-abdd974877bd.md) | **✓** |  |
 | [b6e2ef19-7612-4ab7-a700-9669d49b88b9](./b6e2ef19-7612-4ab7-a700-9669d49b88b9.md) | **✓** |  |
 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](./b7e8237f-d86d-4874-8f8b-7faa8f768436.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](./b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) | **✓** |  |
@@ -289,13 +289,13 @@ ms.locfileid: "64627991"
 | [dc171e47-c074-4bc2-9e7b-3856b71e0630](./dc171e47-c074-4bc2-9e7b-3856b71e0630.md) | **✓** |  |
 | [dea67e43-444e-4852-b57b-b57878a4022b](./dea67e43-444e-4852-b57b-b57878a4022b.md) | **✓** |  |
 | [e208746a-2666-4d95-b925-e2ff64b3181d](./e208746a-2666-4d95-b925-e2ff64b3181d.md) | **✓** |  |
-| [e54fe734-bab8-48b2-9ec8-05c2545cc49d](./e54fe734-bab8-48b2-9ec8-05c2545cc49d.md) | **✓** |  |
+| [e54fe734-код8-48b2-9ec8-05c2545cc49d](./e54fe734-bab8-48b2-9ec8-05c2545cc49d.md) | **✓** |  |
 | [e5d4c7df-50aa-4c15-aa06-c108d0225832](./e5d4c7df-50aa-4c15-aa06-c108d0225832.md) | **✓** |  |
 | [e5e829df-1793-40fb-806a-8f9ce70a8e14](./e5e829df-1793-40fb-806a-8f9ce70a8e14.md) | **✓** |  |
 | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](./e601bd6e-0476-4d66-bd57-a9d13c207f0b.md) | **✓** |  |
 | [e74c5e65-902b-4c5f-a618-f24996f7b20c](./e74c5e65-902b-4c5f-a618-f24996f7b20c.md) | **✓** |  |
 | [e7fb100c-8c81-4e3f-9c78-bb1407080cdc](./e7fb100c-8c81-4e3f-9c78-bb1407080cdc.md) | **✓** |  |
-| [e854ea05-68ab-4204-babe-db4a784fb4d8](./e854ea05-68ab-4204-babe-db4a784fb4d8.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [e854ea05-68ab-4204-pale-db4a784fb4d8](./e854ea05-68ab-4204-babe-db4a784fb4d8.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](./e8bea835-c6b0-45aa-9c39-889d3c77d5a3.md) | **✓** |  |
 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](./e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) | **✓** |  |
 | [ea4de024-dd5f-4d3e-a092-3b8de6c64200](./ea4de024-dd5f-4d3e-a092-3b8de6c64200.md) | **✓** |  |
