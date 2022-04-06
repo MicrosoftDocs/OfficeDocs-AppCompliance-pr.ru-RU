@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: c668804d2f327733c8d63f4e324b1c5db883ca45
-ms.sourcegitcommit: 99e688c09f06d41d1cc57d96b5516a15ea331048
+ms.openlocfilehash: ae60abd7b7c3bb66412178b765f72800b354df1b
+ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2022
-ms.locfileid: "64536993"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64527791"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -22,7 +22,6 @@ ms.locfileid: "64536993"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [10xGoals](./xto10x-technologies-10xgoals.md) | xto10x Technologies | **✓** |  |
-| [1Page](./oayaw-inc-1page.md) | OAYAW, Inc. | **✓** |  |
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
@@ -162,7 +161,6 @@ ms.locfileid: "64536993"
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
-| [EQ Everywhere](./humantelligence-eq-everywhere.md) | Humantelligence | **✓** |  |
 | [Espresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Управление событиями](./sharepointsapiens-event-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -201,7 +199,6 @@ ms.locfileid: "64536993"
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
-| [GRATICA](./okwave-inc-gratica.md) | OKWAVE, Inc. | **✓** |  |
 | [Group Address Book - NextSet](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
 | [GroupLotse](./controlex-gmbh-grouplotse.md) | Controlex GmbH | **✓** |  |
 | [Grow360](./grow360.md) | Grow360 | **✓** |  |
@@ -331,7 +328,6 @@ ms.locfileid: "64536993"
 | [Perfect Wiki](./ooo-rd17-perfect-wiki.md) | OOO RD17 | **✓** |  |
 | [Perflo](./perflo.md) | Perflo | **✓** |  |
 | [Систематизатор фотографий](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
-| [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
 | [Календарь Planyway для Trello](./rubius-planyway-calendar-for-trello.md) | Rubius | **✓** |  |
 | [PlayQuiz — Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
