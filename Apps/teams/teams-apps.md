@@ -3,11 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
+ms.openlocfilehash: c668804d2f327733c8d63f4e324b1c5db883ca45
+ms.sourcegitcommit: 99e688c09f06d41d1cc57d96b5516a15ea331048
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64536993"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -20,12 +26,11 @@ localization_priority: Priority
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
-| [absentify](./braincore-solutions-absentify.md) | Решения BrainCore | **✓** |  |
+| [absentify](./braincore-solutions-gmbh-absentify.md) | GmbH решений BrainCore | **✓** |  |
 | [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  |
 | [Adobe Acrobat](./adobe-systems-inc-acrobat.md) | Adobe Systems Inc. | **✓** |  |
-| [Знак Adobe Acrobat](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Adobe Sign](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
-| [Производитель ИИ](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
 | [Akouo Interpretation](./akouo-technologies-inc-interpretation.md) | Akouo Technologies Inc. | **✓** |  |
 | [Помощник для самостоятельной помощи Alloy](./alloy-software-self-service-assistant.md) | Программное обеспечение Alloy | **✓** |  |
@@ -157,6 +162,7 @@ localization_priority: Priority
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
+| [EQ Everywhere](./humantelligence-eq-everywhere.md) | Humantelligence | **✓** |  |
 | [Espresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Управление событиями](./sharepointsapiens-event-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -210,13 +216,11 @@ localization_priority: Priority
 | [hi Digital Coach](./digital-attitude-srl-hi-coach.md) | Digital Attitude Srl | **✓** |  |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
 | [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  |
-| [Совместная работа HighSide](./highside-inc-collaboration.md) | HighSide, Inc | **✓** |  |
 | [Highspot](./highspot.md) | Highspot | **✓** |  |
 | [HitHorizons](./finstat-sro-hithorizons.md) | FinStat s.r.o. | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
 | [HubSite 365](./netforce-365-gmbh-hubsite.md) | NetForce 365 GmbH | **✓** |  |
 | [Hugo](./hugo.md) | Hugo | **✓** |  |
-| [Humantelligence](./humantelligence.md) | Humantelligence | **✓** |  |
 | [huminos](./soe-technologies-huminos.md) | SOE Technologies | **✓** |  |
 | [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
 | [Hyperlinks](./solutions2share-gmbh-hyperlinks.md) | Solutions2Share GmbH | **✓** |  |
@@ -237,7 +241,6 @@ localization_priority: Priority
 | [Jira Cloud](./atlassian-jira-cloud.md) | Atlassian | **✓** |  |
 | [Jira Integration Plus](./nextup-llc-jira-integration-plus.md) | Далее, LLC | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Cloud Soultions | **✓** |  |
-| [Joye](./joye-pte-ltd.md) | Joye Pte Ltd | **✓** |  |
 | [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Kanban Tool](./shore-labs-kanban-tool.md) | Shore Labs | **✓** |  |
 | [Kaptain Charlie](./askrai-kaptain-charlie.md) | askR.ai | **✓** |  |
@@ -302,7 +305,6 @@ localization_priority: Priority
 | [Neelix.Team](./neelixio-neelixteam.md) | Neelix.IO | **✓** |  |
 | [netDocShare](./kl-software-technologies-netdocshare.md) | KL Software Technologies | **✓** |  |
 | [NewCOS](./newtech-newcos.md) | Newtech | **✓** |  |
-| [Новости — Jalios](./jalios-sa-news.md) | Jalios SA | **✓** |  |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [NickNack](./nicknack-ltd.md) | NickNack Ltd. | **✓** |  |
 | [nickname by flowrish games](./room6-nickname-by-flowrish-games.md) | room6 | **✓** |  |
@@ -428,7 +430,6 @@ localization_priority: Priority
 | [TagTeam](./smarter-business-solution-gmbh-tagteam.md) | Smarter Business Solution GmbH | **✓** |  |
 | [Talview Interviews](./talview-inc-interviews.md) | Talview Inc | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
-| [TaskCall](./taskcall-cloud-services-sl.md) | Облачные службы TaskCall, S.L. | **✓** |  |
 | [Taskworld](./taskworld.md) | Taskworld | **✓** |  |
 | [Team Central](./atlassian-inc-team-central.md) | Atlassian, Inc. | **✓** |  |
 | [Team Tracker](./team-tracker-ltd.md) | Team Tracker Ltd | **✓** |  |
