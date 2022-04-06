@@ -3,17 +3,17 @@ title: приложение Azure для dae2eacf-3eb5-4440-baff-984fbd5cae68
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 03/30/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для dae2eacf-3eb5-4440-baff-984fbd5cae68.
-ms.openlocfilehash: 991df4a45b130152814ef265a0885bbf3681037e
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: ad24e2706ae7ab176d1ca45677c25c8d5a35bddf
+ms.sourcegitcommit: 0b61e3c35f05a7f7926b2ccd6049be4fc2a149c9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627541"
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64555252"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>приложение Azure: dae2eacf-3eb5-4440-baff-984fbd5cae68
 

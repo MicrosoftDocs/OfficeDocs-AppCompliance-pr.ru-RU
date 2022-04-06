@@ -3,23 +3,23 @@ title: Сведения о приложениях для LMS365 от ELEARNINGFO
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 08/03/2021
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствия требованиям для LMS365, политики обработки данных, сведения о каталоге Microsoft Cloud App Security приложения и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6da539e82ee5485b2f9e1ac4f970cca46aac0c44
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 2153004a8905c1bea1814ce7a795204324c57477
+ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63541397"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64529035"
 ---
 # <a name="lms365"></a>LMS365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 28 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 28 марта 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/elearningforce.lms365_spfx" target="_blank">Просмотр в AppSource</a>
 
@@ -97,8 +97,8 @@ ms.locfileid: "63541397"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Н/Д |
-| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение Закону о переносе и учете медицинского страхования (HIPAA)? | Недоступно |
+| Соответствует ли приложение альянсу доверия к информации о здоровье, общей структуре безопасности (HITRUST CSF)? | Недоступно |
 | Соответствует ли приложение средствам управления организацией служб (SOC 1)? | Н/Д |
 | Самая недавняя дата сертификации SOC1 |   |
 | Соответствует ли приложение средствам управления организацией служб (SOC 2)? | Нет |
@@ -108,7 +108,7 @@ ms.locfileid: "63541397"
 | Самая недавняя дата сертификации SOC3 | |
 | Проводите ли вы ежегодные оценки PCI DSS для приложения и его поддерживающей среды? | Нет |
 | Сертифицировано ли приложение Международная организация стандартизации (ISO 27001) ? | Нет |
-| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Н/Д |
+| Соответствует ли приложение международной организации стандартизации (ISO 27018)? | Недоступно |
 | Соответствует ли приложение международной организации стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение международной организации стандартизации (ISO 27002)? | Нет |
 | Соответствует ли приложение Федеральной программе управления рисками и авторизациями (FedRAMP)? | Нет |
