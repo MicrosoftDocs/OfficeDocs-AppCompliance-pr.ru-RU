@@ -3,17 +3,17 @@ title: приложение Azure идентификаторов безопас�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/05/2022
+ms.date: 04/06/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложение Azure идентификаторов.
 localization_priority: Normal
-ms.openlocfilehash: feec2b607f1fb82dc923de45ac8324fb7f006af3
-ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
+ms.openlocfilehash: 33672b4bd48afb54ba135873440a0c6eb0879af5
+ms.sourcegitcommit: 9f7e69c17034365cafea977da23961d4e934ad9f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64681500"
+ms.lasthandoff: 04/07/2022
+ms.locfileid: "64693800"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>приложение Azure безопасности и соответствия требованиям
 
