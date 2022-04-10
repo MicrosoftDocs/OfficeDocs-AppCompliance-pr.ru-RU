@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для d1d8d8c3-5
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/07/2022
+ms.date: 04/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.
-ms.openlocfilehash: dbd0939a8945dd937425e7c5a654011a97afc2f5
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: 2b760d804143846c3b58d4d88d2567dbb54292b4
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64719053"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751008"
 ---
 # <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>приложение Azure: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
 
