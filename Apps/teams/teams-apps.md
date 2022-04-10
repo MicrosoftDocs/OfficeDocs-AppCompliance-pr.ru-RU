@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/06/2022
+ms.date: 04/07/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 42fec656528c9d01799845ef635e337f96ab56b4
-ms.sourcegitcommit: 9f7e69c17034365cafea977da23961d4e934ad9f
+ms.openlocfilehash: 4210845e777f73f745aa4f1c473077879bd611ba
+ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2022
-ms.locfileid: "64694340"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64722113"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -501,6 +501,7 @@ ms.locfileid: "64694340"
 | [WorkJam Schedule](./workjam-schedule.md) | WorkJam | **✓** |  |
 | [WorkJam Tasks](./workjam-tasks.md) | WorkJam | **✓** |  |
 | [WorkJam Time Clock](./workjam-time-clock.md) | WorkJam | **✓** |  |
+| [Workpath](./workpath-gmbh.md) | Workpath GmbH | **✓** |  |
 | [WorkplaceBuddy](./workplacebuddy.md) | WorkplaceBuddy | **✓** |  |
 | [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** |  |
 | [X0PA ROOM](./x0pa-ai-singapore-room.md) | X0PA AI Singapore | **✓** |  |
