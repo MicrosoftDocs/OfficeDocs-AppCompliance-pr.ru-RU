@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для веб-ф�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/08/2022
+ms.date: 04/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для веб-приложения microsoftbfc71-2cf8-42f0-bcdd-83e5f4acfdcc.
-ms.openlocfilehash: 9cdc6c9e7437196928597f3ff1519f3fc1110636
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: 46aa3a5f1aed72baf3b48e405d3c306cbba3de37
+ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64753558"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "64771927"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>приложение Azure идентификатора: веб-версия 71-2cf8-42f0-bcdd-83e5f4acfdcc
 
