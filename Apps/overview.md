@@ -2,17 +2,18 @@
 title: Соответствие требованиям для приложений Microsoft 365
 author: LGerrard
 ms.author: Legerrar
+manager: tonybal
 description: Введение и обзор программы
 keywords: сертификация аттестации издателя приложения microsoft 365 m365
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: fec13172c98d6ec63b3ba4160eb04c9b345acb8d
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697071"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784358"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Соответствие требованиям для приложений Microsoft 365
 
@@ -24,7 +25,7 @@ ms.locfileid: "63697071"
 
 ## <a name="publisher-verification"></a>Проверка издателя
 
-[Проверка издателя](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview) помогает администраторам и пользователям убедиться в подлинности разработчиков приложений, интегрированных с платформой удостоверений Майкрософт. Если приложение помечено как проверенное издателем, это означает, что издатель подтвердил свою личность с помощью учетной записи Microsoft Partner Network, прошедшей полную проверку и связанной с регистрацией приложения.
+[Проверка издателя](/azure/active-directory/develop/publisher-verification-overview) помогает администраторам и пользователям убедиться в подлинности разработчиков приложений, интегрированных с платформой удостоверений Майкрософт. Если приложение помечено как проверенное издателем, это означает, что издатель подтвердил свою личность с помощью учетной записи Microsoft Partner Network, прошедшей полную проверку и связанной с регистрацией приложения.
 Проверка издателя применяется к приложениям, которые отвечают следующим условиям:  
 - Использование OAuth 2.0 и OpenID Connect для входа пользователей и запросов доступа к данным с помощью API на стороне службы, таких как Microsoft Graph. 
 - Регистрация в Azure AD в качестве мульти-клиента.  
@@ -50,6 +51,6 @@ ms.locfileid: "63697071"
 - **Веб-приложения** (приложения SaaS, опубликованные на коммерческой платформе в Центре партнеров, в настоящее время доступны в закрытой предварительной версии. Если вы хотите принять участие в предварительной оценке, заполните [эту](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u) форму.
 
 ### <a name="get-started"></a>Начало работы
-- [Как выполнить проверку издателя](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [Как выполнить сертификацию Microsoft 365](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
+- [Как выполнить проверку издателя](/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [Как выполнить сертификацию Microsoft 365](/microsoft-365-app-certification/docs/certification)
 
