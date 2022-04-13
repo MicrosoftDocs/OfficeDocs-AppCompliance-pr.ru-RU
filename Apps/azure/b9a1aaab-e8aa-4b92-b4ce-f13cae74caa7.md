@@ -3,23 +3,23 @@ title: приложение Azure идентификатора для b9a1aaab-e
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/12/2022
+ms.date: 04/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.
-ms.openlocfilehash: 19e2da909b974aa7d0afb79b343ca7499aba8eb7
-ms.sourcegitcommit: a1c141babe5cca98683ce1378f956c5955fb9caf
+ms.openlocfilehash: 9db126b127f67f1b24875d4f0822891fa5e3c9f8
+ms.sourcegitcommit: 8272a4eaea1bbd9196b998f1cb9b87c6cbb7d5d0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64810116"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64830907"
 ---
 # <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>приложение Azure: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
-| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Teams Manager](../forward/WA200000764.md) |  | [https://appsource.microsoft.com/product/office/WA200000764](https://appsource.microsoft.com/product/office/WA200000764) |
 
