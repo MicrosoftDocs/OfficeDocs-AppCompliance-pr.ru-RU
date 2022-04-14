@@ -869,6 +869,8 @@
           href: teams/price-monitor.md
         - name: Priority Matrix
           href: teams/appfluence-inc-priority-matrix.md
+        - name: Обработка улицы
+          href: teams/process-street.md
         - name: Proconnect для Sitecore
           href: teams/subramanian-ramanathan-proconnect-for-sitecore.md
         - name: ProdBot
@@ -1289,6 +1291,8 @@
           href: saas/officeatwork-content-chooser-browser.md
         - name: Designer
           href: saas/officeatwork-designer.md
+        - name: Унифицированная запись вызовов Для Microsoft Teams
+          href: saas/dubber-corp-unified-call-recording-for-microsoft-teams.md
         - name: Электронная почта
           href: saas/emailgistics-corp.md
         - name: EmailNotes для Outlook

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 7e80b2da13df6bc6b97b0022bf47795cb4f28392
-ms.sourcegitcommit: 8272a4eaea1bbd9196b998f1cb9b87c6cbb7d5d0
+ms.openlocfilehash: fe56ddc1a3306d7d4fbaabe0003a811e4b4ac82d
+ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/13/2022
-ms.locfileid: "64830786"
+ms.locfileid: "64838774"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие приложений SaaS
 
@@ -34,6 +34,7 @@ ms.locfileid: "64830786"
 | [Выбор содержимого](./officeatwork-content-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Обозреватель выбора содержимого](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Дизайнер](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Унифицированная запись вызовов Для Microsoft Teams](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Дублбер Корп (Веббер) | **✓** |  |
 | [Электронная почта](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes для Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (South Pacific) PTE Limited | **✓** |  |
 | [Интеграция Teams Genesys Cloud CX](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Облачные службы, Inc | **✓** |  |
