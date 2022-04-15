@@ -869,7 +869,7 @@
           href: teams/price-monitor.md
         - name: Priority Matrix
           href: teams/appfluence-inc-priority-matrix.md
-        - name: Обработка улицы
+        - name: Process Street
           href: teams/process-street.md
         - name: Proconnect для Sitecore
           href: teams/subramanian-ramanathan-proconnect-for-sitecore.md
@@ -1343,6 +1343,8 @@
           href: saas/content-guru-storm-cloud-contact-center-teams-integration.md
         - name: Соединитель Talkdesk Microsoft Teams
           href: saas/talkdesk-inc-microsoft-teams-connector.md
+        - name: TeamOrgChart
+          href: saas/teamimprovercom-ltd-teamorgchart.md
         - name: Template Chooser
           href: saas/officeatwork-template-chooser.md
         - name: Обозреватель выбора шаблонов
