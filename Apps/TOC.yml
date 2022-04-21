@@ -1079,7 +1079,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker by Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Teamwork
+        - name: Командная работа
           href: teams/teamwork.md
         - name: TELUS Business Connect
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -1273,8 +1273,6 @@
       items:
         - name: Центр администрирования
           href: saas/officeatwork-admin-center.md
-        - name: Adobe Acrobat Sign for Microsoft 365
-          href: saas/adobe-acrobat-sign-for-microsoft-365.md
         - name: Консоль помощника Anywhere365 для Microsoft Teams
           href: saas/workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md
         - name: Центр контактов Anywhere365 для Teams
