@@ -3,23 +3,23 @@ title: приложение Azure идентификатора для 3bc7be07-d
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/20/2022
+ms.date: 04/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.
-ms.openlocfilehash: 01405ddbbd4ee9002f53f596e4f54e48b3cc2d72
-ms.sourcegitcommit: 3f7acf13ff182026b75f58baa2290a68c8281b46
+ms.openlocfilehash: 6d9bd9b6158fb296fad77e5b4a3d924354e1d41f
+ms.sourcegitcommit: 6a86cfad0d14b309aa1e990c124ed1c0cc85fbeb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/20/2022
-ms.locfileid: "64965398"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "65024106"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>приложение Azure: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
-| **Название приложения** | **Сертифицировано** | **Просмотр в AppSource** |
+| **Имя приложения** | **Сертифицировано** | **Просмотр в AppSource** |
 |--------------|---------------|-----------------------|
 | [Autopilot Workflows](../forward/WA200003745.md) |  | [https://appsource.microsoft.com/product/office/WA200003745](https://appsource.microsoft.com/product/office/WA200003745) |
 
