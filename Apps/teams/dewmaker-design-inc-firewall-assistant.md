@@ -3,24 +3,24 @@ title: Application Information for Firewall Assistant by DewMaker Design, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/08/2022
+ms.date: 04/27/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для Помощника по брандмауэру, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f18501bfe0fee3333b1c56f6549be533f6464272
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 872f21f28d354de0f206c6f654b619fd57a98c84
+ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878296"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65122678"
 ---
 # <a name="firewall-assistant"></a>Firewall Assistant
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 7 февраля 2022 г.</p>
+<p>Последнее обновление разработчика: 26 апреля 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/40b745ad-16a8-4eda-bf1c-5b48b0dc947d" target="_blank">Просмотр в Teams хранилище</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003363" target="_blank">Просмотр в AppSource</a>
@@ -38,7 +38,7 @@ ms.locfileid: "64878296"
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | DewMaker Design, Inc. |
 | Веб-сайт компании | [https://dewmaker.com](https://dewmaker.com) |
-| Условия использования приложения | [https://teamwell.services/terms.html](https://teamwell.services/terms.html) |
+| Условия использования приложения | [https://firewallassistant.com/terms](https://firewallassistant.com/terms) |
 | Основные функциональные возможности приложения | Самостоятельное управление правилами брандмауэра Azure SQL Server с помощью Microsoft Teams. |
 | Расположение компании | США Америки |
 | Страница сведений о приложении | [https://firewallassistant.com](https://firewallassistant.com) |
@@ -143,10 +143,9 @@ ms.locfileid: "64878296"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
