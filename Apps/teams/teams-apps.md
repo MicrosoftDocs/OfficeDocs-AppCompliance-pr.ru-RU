@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/25/2022
+ms.date: 04/29/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 7ca8477fe6d1321f4a93579956e6fd5ab782d049
-ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
+ms.openlocfilehash: 13efe999e64032041d43aac64d00519f19590ab6
+ms.sourcegitcommit: db48137bbc58500d2e4b5ec78cb8f585b835237e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65071091"
+ms.lasthandoff: 04/30/2022
+ms.locfileid: "65150376"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -397,6 +397,7 @@ ms.locfileid: "65071091"
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Shared Thread by WNI](./wni-shared-thread-by.md) | WNI | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
+| [Фильтровать](./sift.md) | Фильтровать | **✓** |  |
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | **✓** |  |
@@ -509,6 +510,7 @@ ms.locfileid: "65071091"
 | [Workbench Intelligence](./temporall-workbench-intelligence.md) | Temporall | **✓** |  |
 | [Workboard](./workboard-inc.md) | Workboard Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Workday](./workday.md) | Workday | **✓** |  |
+| [Голосовая связь сотрудников Workday Peakon](./workday-peakon-employee-voice.md) | Workday | **✓** |  |
 | [WorkInSync](./moveinsync-workinsync.md) | MoveInSync | **✓** |  |
 | [WorkJam Home](./workjam-home.md) | WorkJam | **✓** |  |
 | [WorkJam Schedule](./workjam-schedule.md) | WorkJam | **✓** |  |
