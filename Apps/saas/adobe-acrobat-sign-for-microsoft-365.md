@@ -3,24 +3,23 @@ title: Application Information for Adobe Acrobat Sign for Microsoft 365 by Adobe
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/20/2022
+ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии для Adobe Acrobat Sign for Microsoft 365, его политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9b87349c5829954b6c2f421590406110d32d85fe
-ms.sourcegitcommit: 9dbbec778006471c0193a7fd39e2f81e7d441275
+ms.openlocfilehash: 96500b3df087be8333684b6c7f793a551ccc4a2e
+ms.sourcegitcommit: 4e4e1e4f91f4fab06f3585388784a0da1a963453
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014319"
+ms.lasthandoff: 05/02/2022
+ms.locfileid: "65168514"
 ---
 # <a name="adobe-acrobat-sign-for-microsoft-365"></a>Adobe Acrobat Sign for Microsoft 365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 11 апреля 2022 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 29 апреля 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/adobe.adobe_sign_msft_saas_offer" target="_blank">Просмотр в AppSource</a>
 
@@ -33,7 +32,7 @@ ms.locfileid: "65014319"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Adobe Acrobat Sign for Microsoft 365 |
-| Идентификатор | adobe.adobe_sign_msft_saas_offer |
+| ID | adobe.adobe_sign_msft_saas_offer |
 | Название партнерской компании | Adobe |
 | Веб-сайт компании | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | Условия использования приложения | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
@@ -121,7 +120,7 @@ ms.locfileid: "65014319"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Да |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Да |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
 | Соответствует ли приложение NIST 800-171? | Недоступно |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Да |
 
@@ -153,7 +152,7 @@ ms.locfileid: "65014319"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? | adal (с планом перехода на MSAL) |
@@ -164,7 +163,7 @@ ms.locfileid: "65014319"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | Делегированные | Чтобы заполнить вложенный документ, сообщения электронной почты отправителя и получателя, а также содержимое сообщений электронной почты в Adobe Sign для отправки подписи. Это позволяет сэкономить время пользователя для повторного ввода этих полей в Adobe Sign. После подписи соглашения мы автоматически создадим новое сообщение электронной почты, чтобы пользователь сообщал получателям о том, что транзакция выполнена. Adobe Sign сохранит вложения как временные файлы с истечением срока действия 24 часа. | [ea36b867-ca67-45fd-a61b-d2be86273167](../azure/ea36b867-ca67-45fd-a61b-d2be86273167.md) |
 >| People.Read | Делегированные | Чтобы автоматически заполнять &quot;&quot; адрес электронной почты в интерфейсе "Отправить для подписи", введя начальные буквы, пользователям не нужно вводить все сообщения электронной почты. Adobe Sign будет хранить только адреса электронной почты получателей и displayName в соглашениях. | [ea36b867-ca67-45fd-a61b-d2be86273167](../azure/ea36b867-ca67-45fd-a61b-d2be86273167.md) |
