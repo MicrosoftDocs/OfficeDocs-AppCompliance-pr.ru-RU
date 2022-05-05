@@ -1,5 +1,5 @@
 ---
-title: Сведения о приложении для напоминания &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089;
+title: Сведения о приложении для напоминания о сообщении
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для Message Reminder, политики обработки данных, сведения о Microsoft Cloud App Security приложениях, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ae809fd20684fc633e0afc6cad57089036599287
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 51b329313225954a6b0c0267a27633a0222b766a
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880156"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65229023"
 ---
-# <a name="message-reminder"></a>Message Reminder
+# <a name="application-information-for-message-reminder"></a>Сведения о приложении для напоминания о сообщении
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -34,7 +34,7 @@ ms.locfileid: "64880156"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Message Reminder |
-| Идентификатор | WA200001875 |
+| ID | WA200001875 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; |
 | Веб-сайт компании | [https://systemz.io](https://systemz.io) |
@@ -105,7 +105,7 @@ ms.locfileid: "64880156"
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
 | Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Да |
 | Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Нет |
-| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Недоступно |
+| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Н/Д |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
@@ -133,7 +133,7 @@ ms.locfileid: "64880156"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |

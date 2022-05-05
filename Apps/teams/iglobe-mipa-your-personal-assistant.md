@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для MIPA — ваш личный помощник, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0bb92bfb26eabd3f82b059de1b74d12142d87051
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: be514104f84b94f2c7c5ca75f1fe4270f59866a0
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880186"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65229063"
 ---
-# <a name="mipa---your-personal-assistant"></a>MIPA - Your Personal Assistant
+# <a name="application-informatoin-for-mipa---your-personal-assistant"></a>Сведения о приложении для MIPA — ваш личный помощник
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 12 августа 2021 г.</p>
@@ -33,7 +33,7 @@ ms.locfileid: "64880186"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | MIPA - Your Personal Assistant |
-| Идентификатор | WA200000148 |
+| ID | WA200000148 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
@@ -112,7 +112,7 @@ ms.locfileid: "64880186"
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Да |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Да |
-| Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
+| Соответствует ли приложение Требованиям КСВМ(COPPA)? | Н/Д |
 | Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Да |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
@@ -135,7 +135,7 @@ ms.locfileid: "64880186"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
@@ -148,7 +148,7 @@ ms.locfileid: "64880186"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.ReadWrite | Делегированные | Данные не хранятся в базах данных приложений. | [e854ea05-68ab-4204-pale-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
 >| Contacts.ReadWrite | Делегированные | Данные не хранятся в базах данных приложений. | [e854ea05-68ab-4204-pale-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |

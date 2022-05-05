@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для Adobe Acrobat, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0676fce7e7bd024e1db5d898e35dfc272bb2aa1c
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 7328d06302dd7e932ca75c1591b0fa661bec2cd7
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876516"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65229163"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat
 
@@ -34,7 +34,7 @@ ms.locfileid: "64876516"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Adobe Acrobat |
-| Идентификатор | WA200002564 |
+| ID | WA200002564 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | Adobe Systems Inc. |
 | Веб-сайт компании | [https://www.adobe.com](https://www.adobe.com) |
@@ -156,7 +156,7 @@ ms.locfileid: "64876516"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? | Не используя библиотеки проверки подлинности, мы напрямую используем протокол OAuth 2.0. |
@@ -167,15 +167,15 @@ ms.locfileid: "64876516"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Files.ReadWrite.All | Делегированные | Чтобы иметь возможность просматривать последние, OneDrive и Teams и папки каналов пользователя. Мы разрешаем пользователям получать доступ к этим файлам, использовать их для выполнения операций с ними и сохранения файлов в хранилище. | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| Team.ReadBasic.All | Делегированные | Считывание названий и описаний команд | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| User.Read | Делегированные | Вход и чтение профиля пользователя | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| email | Делегированные | Просмотр адреса электронной почты пользователей | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| offline_access | Делегированные | поддерживать доступ к данным, к которых вы предоставили доступ; | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| openid | Делегированные | Вход пользователей | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| profile | Делегированные | Просмотр базового профиля пользователей | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| Team.ReadBasic.All | Делегированные | Считывание названий и описаний команд | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| User.Read | Делегированные | Вход и чтение профиля пользователя | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| email | Делегированные | Просмотр адреса электронной почты пользователей | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| offline_access | Делегированные | поддерживать доступ к данным, к которых вы предоставили доступ; | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| openid | Делегированные | Вход пользователей | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| profile | Делегированные | Просмотр базового профиля пользователей | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
 
 >Это приложение не имеет дополнительных API.
 

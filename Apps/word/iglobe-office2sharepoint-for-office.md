@@ -1,5 +1,5 @@
 ---
-title: Application Information for Office2SharePoint for Office by iGlobe
+title: Сведения о приложении для Office2SharePoint для Office
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии для Office2SharePoint для Office, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d7aeb528b3eceb54b0e9404ff02a73b79ecf1531
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: cabeddd7599c486300502ec8ac0ddac4f6faa4b1
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880846"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228043"
 ---
-# <a name="office2sharepoint-for-office"></a>Office2SharePoint для Office
+# <a name="application-information-for-office2sharepoint-for-office-by-iglobe"></a>Сведения о приложении для Office2SharePoint для Office от iGlobe
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 16 августа 2021 г.</p>
@@ -32,7 +32,7 @@ ms.locfileid: "64880846"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Office2SharePoint для Office |
-| Идентификатор | WA104381787 |
+| ID | WA104381787 |
 | Office 365 поддерживаемые клиенты | Excel 2016 mac, Excel 2016 или более поздней версии на Windows, Excel в Интернете, Word 2016 или более поздней версии на mac, Word в Интернете, Word 2016 или более поздней версии на Windows, PowerPoint 2016 mac, PowerPoint в Интернете, PowerPoint 2016 или более поздней версии на Windows |
 | Название партнерской компании | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
@@ -112,7 +112,7 @@ ms.locfileid: "64880846"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Да |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -134,7 +134,7 @@ ms.locfileid: "64880846"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
@@ -147,7 +147,7 @@ ms.locfileid: "64880846"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | Делегированные | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 >| Directory.Read.All | Делегированные | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |

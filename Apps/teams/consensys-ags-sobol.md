@@ -1,5 +1,5 @@
 ---
-title: Application Information for Sobol by ConsenSys AG&#8217;s Sobol
+title: Общие сведения о Соболе
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для Sobol, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c82d7a712e2515bba55eaf902f9961f4469ad278
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: d2ab71f8efd3b88e84cda802a2d84d4fc465696d
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878331"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228563"
 ---
-# <a name="sobol"></a>Sobol
+# <a name="sobol-overview"></a>Общие сведения о Соболе
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -34,7 +34,7 @@ ms.locfileid: "64878331"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Sobol |
-| Идентификатор | WA200002999 |
+| ID | WA200002999 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | ConsenSys AG&#8217;s Sobol |
 | Веб-сайт компании | [https://sobol.io](https://sobol.io) |
@@ -98,20 +98,20 @@ ms.locfileid: "64878331"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Недоступно |
+| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Н/Д |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
 | Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Недоступно |
 | Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Нет |
-| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Недоступно |
+| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Н/Д |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -133,7 +133,7 @@ ms.locfileid: "64878331"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |

@@ -1,5 +1,5 @@
 ---
-title: Сведения о приложении для ArcGIS Карты от Esri
+title: Сведения о Карты ArcGis
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для ArcGIS Карты, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 513945c9f9a93e056e47f4cfc0e5bdc00ebce213
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 5b4cef7b39b6f3ac79f1a48a5c4c9ce8a61b2d3b
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880976"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228017"
 ---
-# <a name="arcgis-maps"></a>ArcGIS Maps
+# <a name="arcgis-maps-application-information"></a>Сведения о Карты ArcGIS
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -34,7 +34,7 @@ ms.locfileid: "64880976"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | ArcGIS Maps |
-| Идентификатор | WA200002859 |
+| ID | WA200002859 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | Esri |
 | Веб-сайт компании | [https://www.esri.com](https://www.esri.com) |
@@ -103,7 +103,7 @@ ms.locfileid: "64880976"
 | Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
-| Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Недоступно |
+| Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Н/Д |
 | Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
@@ -111,7 +111,7 @@ ms.locfileid: "64880976"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Нет |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Нет |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Да |
 
@@ -133,7 +133,7 @@ ms.locfileid: "64880976"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | false |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |

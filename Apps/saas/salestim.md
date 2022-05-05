@@ -1,5 +1,5 @@
 ---
-title: Сведения о приложении для SalesTim от SalesTim
+title: Общие сведения о SalesTim
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для SalesTim, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4a6bb9f2e75bb037ab554f70c3a7f671d59ab788
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 48c9711f07a2c310f949858802f3630f05e07d34
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880706"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228053"
 ---
-# <a name="salestim"></a>SalesTim
+# <a name="salestim-overview"></a>Общие сведения о SalesTim
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ ms.locfileid: "64880706"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | SalesTim |
-| Идентификатор | salestim.salestim |
+| ID | salestim.salestim |
 | Название партнерской компании | SalesTim |
 | Веб-сайт компании | [https://salestim.com](https://salestim.com) |
 | Условия использования приложения | [https://www.salestim.com/legal/tos/](https://www.salestim.com/legal/tos/) |
@@ -131,7 +131,7 @@ ms.locfileid: "64880706"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
@@ -144,7 +144,7 @@ ms.locfileid: "64880706"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| AppCatalog.ReadWrite.All | Делегированные | Нет | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
 >| Directory.AccessAsUser.All | Делегированные | Мы&#8217;хранить только некоторые идентификаторы пользователей, а не данные профиля. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
