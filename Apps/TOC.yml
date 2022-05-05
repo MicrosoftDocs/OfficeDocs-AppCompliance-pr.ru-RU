@@ -80,6 +80,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Коммутативная
         href: outlook/commuty.md
+      - name: Email Reactor
+        href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
         href: outlook/evernote.md
       - name: Подписи для Outlook
@@ -127,6 +129,8 @@ items:
     items:
       - name: Adobe Acrobat Sign for Microsoft Word и PowerPoint
         href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
+      - name: Время останова
+        href: powerpoint/flow-simulation-ltd-breaktime.md
       - name: Excel модели автоматизации документов word
         href: powerpoint/analysisplace-excel-to-word-document-automation.md
       - name: 'Редактор PDF Foxit для Microsoft Word, Excel и PowerPoint'
@@ -956,7 +960,7 @@ items:
         href: teams/wni-shared-thread-by.md
       - name: SHL
         href: teams/shl.md
-      - name: Просеять
+      - name: Фильтровать
         href: teams/sift.md
       - name: SightCall
         href: teams/sightcall.md
@@ -974,8 +978,6 @@ items:
         href: teams/cultify-lda-skoach.md
       - name: SkyPoint Cloud
         href: teams/skypoint-cloud-inc.md
-      - name: Slido
-        href: teams/slido.md
       - name: Smarp
         href: teams/smarp.md
       - name: Smart Connect for Jira
@@ -1223,6 +1225,8 @@ items:
         href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: Надстройка AuditBoard
         href: word/auditboard-inc-add-in.md
+      - name: BriefCatch
+        href: word/briefcatch-llc.md
       - name: Citasion
         href: word/citasion-llc.md
       - name: CocoFax — отправка факса упрощает и обеспечивает безопасность

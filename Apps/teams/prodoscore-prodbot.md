@@ -1,45 +1,46 @@
 ---
-title: Сведения о приложении для &#12459;&#12490;&#12522;&#12450; от YATTEE Inc.
+title: Сведения о приложении prodBot от Prodoscore
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/19/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для &#12459;&#12490;&#12522;&#12450;, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Все доступные сведения о безопасности и соответствии для ProdBot, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a1e583aa714bf14bd3604ed12fdff9cca9293ebc
+ms.openlocfilehash: 1634f86ba35e82ae4a76992cf9a548e5f33ea21d
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65225093"
+ms.locfileid: "65225113"
 ---
-# <a name="12459124901252212450"></a>&#12459;&#12490;&#12522;&#12450;
+# <a name="prodbot"></a>ProdBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 19 июля 2021 г.</p>
+<p>Последнее обновление разработчика: 23 февраля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/c006ac82-f64e-4702-bdc8-3ca5bf9c433d" target="_blank">Просмотр в Teams хранилище</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003193" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/6f98aae5-4f72-4c33-80a4-ed2153da796a" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002620" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые yaTTEE Inc. корпорации Майкрософт:
+Сведения, предоставляемые Prodoscore корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | &#12459;&#12490;&#12522;&#12450; |
-| ID | WA200003193 |
+| Название приложения | ProdBot |
+| ID | WA200002620 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Название партнерской компании | YATTEE Inc. |
-| URL-адрес веб-сайта партнера | [https://www.yattee.co.jp](https://www.yattee.co.jp) |
-| URL-адрес политики конфиденциальности | [https://www.yattee.co.jp/company/privacy/](https://www.yattee.co.jp/company/privacy/) |
-| URL-адрес условий использования | [https://www.yattee.co.jp/company/term-of-use/](https://www.yattee.co.jp/company/term-of-use/) |
+| Название партнерской компании | Prodoscore |
+| URL-адрес веб-сайта партнера | [https://www.prodoscore.com](https://www.prodoscore.com) |
+| URL-адрес страницы Teams приложения | [https://www.prodoscore.com/how-it-works/](https://www.prodoscore.com/how-it-works/) |
+| URL-адрес политики конфиденциальности | [https://www.prodoscore.com/privacy-policy/](https://www.prodoscore.com/privacy-policy/) |
+| URL-адрес условий использования | [https://www.prodoscore.com/terms-of-service/](https://www.prodoscore.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,22 +50,22 @@ ms.locfileid: "65225093"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эта информация была предоставлена yaTTEE Inc. о том, как это приложение собирает и сохраняет данные организации, а также контроль над данными, собираемые приложением.
+Эта информация была предоставлена Prodoscore о том, как это приложение собирает и сохраняет данные организации, а также контроль над данными, собираемые приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
 Выведите [список Graph майкрософт, необходимых](/graph/permissions-reference) этому приложению.
 
->| **Разрешение**  | **Тип разрешения (делегированное или приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для хранения?** | **Azure AD приложения** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calls.JoinGroupCall.All | Как | E&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12290;&#12518;&#12540;&#12470;&#12540;&#12398;&#35672;&#21029;&#12398;&#12383;&#12417;&#12392;&#12289;&#32068;&#32340;&#12372;&#12392;&#12391;&#12464;&#12523;&#12540;&#12503;&#21270;&#12377;&#12427;&#12383;&#12417;&#12290; | &#21033;&#29992;&#12518;&#12540;&#12470;&#12540;&#12398;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#24773;&#22577;&#12394;&#12393;&#12290;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12394;&#12398;&#12391;&#12290; | [626ce0a3-4620-483d-953d-53b106b9ffad](/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
+>Это приложение не использует microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Не службы Майкрософт
 
 Если приложение передает или предоставляет общий доступ к данным организации службе сторонних поставщиков, выведите список используемых приложением сторонних служб, какие данные передаются, и укажите обоснование, по которым приложение должно передавать эти сведения.
 
->Не службы Майкрософт не используются.
+>| **Все сторонние службы Майкрософт OII передаются в** |  **Какой OII передается?** | **Обоснование для передачи OII?** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| Облачная платформа Google | Доменное имя | Для уникальной идентификации организации при регистрации в приложении используется доменное имя организации. |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
@@ -83,7 +84,7 @@ ms.locfileid: "65225093"
 
 Описать, как администраторы организации могут управлять своей информацией в партнерских системах? например удаление, хранение, аудит, архивирование, политика конечных пользователей и т. д.
 
->Компьютер&#19978;&#12391;&#31649;&#29702;
+>Мы предоставляем API/конечную точку для партнерских систем
 
 #### <a name="human-review-of-organizational-information"></a>Проверка информации организации человеком
 
@@ -99,9 +100,9 @@ ms.locfileid: "65225093"
 
 Ниже приведены сведения [из Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) каталога.
 
-<iframe height='1020' title='Microsoft Cloud App Security сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36556' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36556" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,23 +112,22 @@ ms.locfileid: "65225093"
 
 ### <a name="identity-information"></a>Сведения об удостоверении
 
-Эта информация предоставлена yaTTEE Inc. о том, как это приложение обрабатывает проверку подлинности, авторизацию, рекомендации по регистрации приложений и другие критерии идентификации.
+Эта информация предоставлена Prodoscore о том, как это приложение обрабатывает проверку подлинности, авторизацию, рекомендации по регистрации приложений и другие критерии идентификации.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Вы интегрируете с Microsoft Identify Platform (Azure AD)?  | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции?  | Да |
-| Использует ли ваше приложение MSAL (библиотека проверки подлинности Майкрософт) для проверки подлинности? | Да |
+| Использует ли ваше приложение MSAL (библиотека проверки подлинности Майкрософт) для проверки подлинности? | Нет |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Запрашивает ли ваше приложение минимальные разрешения для вашего сценария? | Да |
 | Точно ли статически зарегистрированные разрешения вашего приложения отражают разрешения, которые приложение будет запрашивать динамически и постепенно? | Да |
 | Поддерживает ли ваше приложение мультитенантность? | Да |
-| Имеет ли ваше приложение конфиденциальный клиент? | Нет |
+| Имеет ли ваше приложение конфиденциальный клиент? | Да |
 | У вас есть все URI перенаправления, зарегистрированные для вашего приложения? | Да |
-| Что не следует использовать для вашего приложения? | ,<br/><br/>— Поток учетных данных пароля владельца ресурса (ROPC) |
-| Предоставляет ли ваше приложение какие-либо веб-API? | Да |
-| Разрешает ли модель разрешений выполнять вызовы только в том случае, если клиентское приложение получает соответствующее согласие? | Да |
-| Использует ли ваше приложение API предварительной версии? | Нет |
+| Что не следует использовать для вашего приложения? | — URI перенаправления с подстановочными знаками,<br/><br/> |
+| Предоставляет ли ваше приложение какие-либо веб-API? | Нет |
+| Использует ли ваше приложение API предварительной версии? | Да |
 | Использует ли ваше приложение нерекомендуемые API? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
