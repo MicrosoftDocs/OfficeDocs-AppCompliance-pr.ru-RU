@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для dae2eacf-3
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/29/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии для dae2eacf-3eb5-4440-baff-984fbd5cae68.
-ms.openlocfilehash: 4b4eddd828125f34bf1a936dd341f2a6ff5df234
-ms.sourcegitcommit: db48137bbc58500d2e4b5ec78cb8f585b835237e
+ms.openlocfilehash: a8ccf457d08f6de707444f8fd27ac5ef565e1fae
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2022
-ms.locfileid: "65151196"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226824"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>приложение Azure: dae2eacf-3eb5-4440-baff-984fbd5cae68
 

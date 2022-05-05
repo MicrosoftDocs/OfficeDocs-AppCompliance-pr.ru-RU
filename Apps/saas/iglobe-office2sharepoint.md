@@ -1,5 +1,5 @@
 ---
-title: Application Information for Office2SharePoint by iGlobe
+title: Обзор Office2Sharepoint
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Вся доступная информация о безопасности и соответствии для Office2SharePoint, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 30f643b4886b8db9f899e5c8d081ae7481abcd83
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 075e1403ad778cf337ac8b18cce2ec62d5c0b946
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880326"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65227313"
 ---
-# <a name="office2sharepoint"></a>Office2SharePoint
+# <a name="office2sharepoint-overview"></a>Обзор Office2SharePoint
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 16 августа 2021 г.</p>
@@ -32,7 +32,7 @@ ms.locfileid: "64880326"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Office2SharePoint |
-| Идентификатор | 17859280.o2s |
+| ID | 17859280.o2s |
 | Название партнерской компании | iGlobe |
 | Веб-сайт компании | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Условия использования приложения | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
@@ -111,7 +111,7 @@ ms.locfileid: "64880326"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Да |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -133,7 +133,7 @@ ms.locfileid: "64880326"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
@@ -146,7 +146,7 @@ ms.locfileid: "64880326"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | Делегированные | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 >| Directory.Read.All | Делегированные | Данные не хранятся в базах данных приложений. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |

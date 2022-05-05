@@ -1,46 +1,46 @@
 ---
-title: Сведения о приложении для Sobol
+title: Сведения о приложении для Sympli от Sympli, LLC
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/24/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Вся доступная информация о безопасности и соответствии для Sobol, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Вся доступная информация о безопасности и соответствии для Sympli, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 562b420ee2289b9caac8d7be016d2b5619a6f682
+ms.openlocfilehash: f5fb3a6fb4d767d45c1f533ca5a1dd39092ab7db
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65227233"
+ms.locfileid: "65227213"
 ---
-# <a name="application-information-for-sobol"></a>Сведения о приложении для Sobol
+# <a name="sympli"></a>Sympli
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 24 июня 2021 г.</p>
+<p>Последнее обновление разработчика: 16 февраля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/659f0ad6-8b3d-4846-8c4c-00ea9dfd64c8" target="_blank">Просмотр в Teams хранилище</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002999" target="_blank">Просмотр в AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/f1d676ab-0d2c-4afe-a9be-0af4528949ce" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001551" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Общие сведения
 
-Сведения, предоставляемые consenSys AG&#8217;s Sobol в корпорацию Майкрософт:
+Сведения, предоставляемые Sympli, LLC корпорации Майкрософт:
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Sobol |
-| ID | WA200002999 |
+| Название приложения | Sympli |
+| ID | WA200001551 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Название партнерской компании | ConsenSys AG&#8217;s Sobol |
-| URL-адрес веб-сайта партнера | [https://sobol.io](https://sobol.io) |
-| URL-адрес страницы Teams приложения | [https://sobol.io/features](https://sobol.io/features) |
-| URL-адрес политики конфиденциальности | [https://sobol.io/privacy-policy](https://sobol.io/privacy-policy) |
-| URL-адрес условий использования | [https://sobol.io/terms-of-service/](https://sobol.io/terms-of-service/) |
+| Название партнерской компании | Sympli, LLC |
+| URL-адрес веб-сайта партнера | [https://sympli.io](https://sympli.io) |
+| URL-адрес страницы Teams приложения | [https://help.sympli.io/en/articles/3931575-using-microsoft-...](https://help.sympli.io/en/articles/3931575-using-microsoft-teams-with-sympli-handoff) |
+| URL-адрес политики конфиденциальности | [https://sympli.io/policy](https://sympli.io/policy) |
+| URL-адрес условий использования | [https://sympli.io/agreement](https://sympli.io/agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ ms.locfileid: "65227233"
 
 ### <a name="how-the-app-handles-data"></a>Обработка данных приложением
 
-Эти сведения предоставлены группе доступности ConsenSys&#8217;s Sobol о том, как это приложение собирает и сохраняет данные организации, а также контроль над данными, собираемые приложением.
+Эта информация была предоставлена Sympli, LLC о том, как это приложение собирает и сохраняет данные организации, а также контроль над данными, собираемые приложением.
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
@@ -65,26 +65,28 @@ ms.locfileid: "65227233"
 
 >| **Все сторонние службы Майкрософт OII передаются в** |  **Какой OII передается?** | **Обоснование для передачи OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Hubspot, Fullstory | имя пользователя, электронная почта | маркетинг и аналитика |
+>| Intercom, Stripe, HubSpot | Название организации | Техническая поддержка, продажи, обновления продуктов |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
 Если это приложение содержит бот или расширение для обмена сообщениями, оно может получить доступ к идентифицируемой информации конечного пользователя (EUII): список (имя, фамилия, отображаемое имя, адрес электронной почты) любого участника команды или чата, в который оно добавлено. Использует ли это приложение эту возможность?
 
->Доступ к EUII не выполняется.
+>| **Обоснование для доступа к EUII?**  | **Хранится ли EUII в базах данных?** | **Обоснование для хранения EUII?** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| Заданное имя пользователя используется для обогащения разговорного пользовательского интерфейса. | Нет |  |
 
 
 #### <a name="telemetry-data"></a>Данные телеметрии
 
 Отображаются ли в телеметрии или журналах этого приложения какие-либо идентифицируемые сведения организации (OII) или определяемые пользователем сведения (EUII) ? Если да, опишите, какие данные хранятся и какие политики хранения и удаления?
 
->имя пользователя, адрес электронной почты. Удаление через 2 года или по запросу пользователя.
+>В телеметрии или журналах приложений не отображаются OII или EUII.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Организационные элементы управления для данных, хранящихся партнером
 
 Описать, как администраторы организации могут управлять своей информацией в партнерских системах? например удаление, хранение, аудит, архивирование, политика конечных пользователей и т. д.
 
->Администраторы имеют полную возможность аудита и удаления информации. Мы собираем минимальные сведения, необходимые для идентификации пользователей.
+>Мы полагается на политики соответствующих служб, https://www.intercom.com/legal/privacyнапример , https://legal.hubspot.com/privacy-policyhttps://stripe.com/privacy
 
 #### <a name="human-review-of-organizational-information"></a>Проверка информации организации человеком
 
@@ -100,9 +102,9 @@ ms.locfileid: "65227233"
 
 Ниже приведены сведения [из Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) каталога.
 
-<iframe height='1020' title='Microsoft Cloud App Security сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security сведения' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Просмотр на новой вкладке</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740" target="_blank">Просмотр на новой вкладке</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,7 +114,7 @@ ms.locfileid: "65227233"
 
 ### <a name="identity-information"></a>Сведения об удостоверении
 
-Эти сведения предоставлены группе доступности ConsenSys&#8217;Sobol о том, как это приложение обрабатывает проверку подлинности, авторизацию, рекомендации по регистрации приложений и другие критерии идентификации.
+Эти сведения предоставлены Sympli, LLC о том, как это приложение обрабатывает проверку подлинности, авторизацию, рекомендации по регистрации приложений и другие критерии идентификации.
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|

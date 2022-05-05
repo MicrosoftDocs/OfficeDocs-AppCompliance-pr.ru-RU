@@ -1,5 +1,5 @@
 ---
-title: Application Information for Adobe Acrobat Sign for Microsoft Word and PowerPoint by Adobe Inc.
+title: Сведения о приложении для Adobe Acrobat Sign для Microsoft Word и PowerPoint
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,15 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии для Adobe Acrobat Sign для Microsoft Word и PowerPoint, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bcb36c352c4471916541b9316849754b08038108
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 3ff675211ffe7ae2430d1869e7c346c8b3edd3bf
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879136"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226103"
 ---
-# <a name="adobe-acrobat-sign-for-microsoft-word-and-powerpoint"></a>Adobe Acrobat Sign for Microsoft Word и PowerPoint
-
+# <a name="application-information-for-adobe-acrobat-sign"></a>Сведения о приложении для Adobe Acrobat Sign
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Последнее обновление разработчика: 28 октября 2021 г.</p>
 
@@ -32,7 +31,7 @@ ms.locfileid: "64879136"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Adobe Acrobat Sign for Microsoft Word и PowerPoint |
-| Идентификатор | WA104381155 |
+| ID | WA104381155 |
 | Office 365 поддерживаемые клиенты | Word 2016 mac, Word в Интернете, Word 2013 с пакетом обновления 1 (SP1) Windows, PowerPoint 2016 или более поздней версии на Компьютерах Mac, PowerPoint в Интернете, PowerPoint 2013 с пакетом обновления 1 или более поздней версии Windows |
 | Название партнерской компании | Adobe Inc. |
 | Веб-сайт компании | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
@@ -118,7 +117,7 @@ ms.locfileid: "64879136"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Да |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Нет |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -149,7 +148,7 @@ ms.locfileid: "64879136"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Нет |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
@@ -161,7 +160,7 @@ ms.locfileid: "64879136"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | Делегированные | Чтобы заполнить вложенный документ, сообщения электронной почты отправителя и получателя, а также содержимое сообщений электронной почты в Adobe Sign для отправки подписи. Это позволяет сэкономить время пользователя для повторного ввода этих полей в Adobe Sign. После подписи соглашения мы автоматически создадим новое сообщение электронной почты, чтобы пользователь сообщал получателям о том, что транзакция выполнена. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 >| People.Read | Делегированные | Чтобы автоматически заполнять &quot;&quot; адрес электронной почты в интерфейсе "Отправить для подписи", введя начальные буквы, пользователям не нужно вводить все сообщения электронной почты. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |

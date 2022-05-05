@@ -1,5 +1,5 @@
 ---
-title: Сведения о приложении для CocoFax — отправка факса, упрощающего &amp; защиту &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
+title: Сведения о приложении для CocoFax — отправка факса упрощает защиту &amp;
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для CocoFax — &amp; отправка факса, упрощаемая защита, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 267eff5fbfae3a42f5b214c3cad648d5dc1f947d
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 65403be58e39772911f0bb97dfaa1101d00c0877
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877596"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226073"
 ---
-# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax — отправка факса упрощает защиту &amp;
+# <a name="application-information-for-cocofax"></a>Сведения о приложении для CocoFax
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ ms.locfileid: "64877596"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | CocoFax — отправка факса упрощает защиту &amp; |
-| Идентификатор | WA200002263 |
+| ID | WA200002263 |
 | Office 365 поддерживаемые клиенты | Word 2016 mac, Word в Интернете, Word 2013 или более поздней версии Windows |
 | Название партнерской компании | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
 | Веб-сайт компании | [https://cocofax.com](https://cocofax.com) |
@@ -135,7 +135,7 @@ ms.locfileid: "64877596"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |

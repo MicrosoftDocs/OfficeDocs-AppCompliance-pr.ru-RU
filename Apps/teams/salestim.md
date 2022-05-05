@@ -1,5 +1,5 @@
 ---
-title: Сведения о приложении для SalesTim от SalesTim
+title: Сведения о безопасности и соответствии для SalesTim от SalesTim
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для SalesTim, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b56a29bf28dd4cb9ce74c11754e5093572185631
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: d4a6367b4d688b1d913fcf9991348b6d4c832317
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877166"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226133"
 ---
-# <a name="salestim"></a>SalesTim
+# <a name="salestim-application-information"></a>Сведения о приложении SalesTim
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -34,7 +34,7 @@ ms.locfileid: "64877166"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | SalesTim |
-| Идентификатор | WA200001393 |
+| ID | WA200001393 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | SalesTim |
 | Веб-сайт компании | [https://www.salestim.com](https://www.salestim.com) |
@@ -144,7 +144,7 @@ ms.locfileid: "64877166"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | true |
 | Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
@@ -157,7 +157,7 @@ ms.locfileid: "64877166"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| ChannelMember.ReadWrite.All | Делегированные | Идентификатор пользователей, приглашенных в канал политикой членства | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
 >| Directory.AccessAsUser.All | Делегированные | Идентификатор пользователя. Позволяет пользователю выбирать других пользователей в различных местах приложения, например выбирать утверждающих в рабочем процессе. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
