@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для b9a1aaab-e
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/04/2022
+ms.date: 05/05/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.
-ms.openlocfilehash: a21530450e0cbc6186d98dee6b4fb87805e16a68
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: d561dc9142d7e9e39b1b75da629217757b37f0b3
+ms.sourcegitcommit: 12046b21d8dcc88ec5d6c91e6440e1988e3fd35c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228313"
+ms.locfileid: "65239259"
 ---
 # <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>приложение Azure: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
 
