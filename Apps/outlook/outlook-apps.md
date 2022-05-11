@@ -3,17 +3,17 @@ title: Безопасность и соответствие Outlook Microsoft Ou
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/04/2022
+ms.date: 05/10/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех microsoft Outlook Apps.
 localization_priority: Normal
-ms.openlocfilehash: b15ff360a647450e51e701740eef566523442232
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 150a248def762691047a13127f28dff9378f239b
+ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228163"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305645"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps Security and Compliance
 
@@ -27,6 +27,7 @@ ms.locfileid: "65228163"
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [CodeTwo для Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Коммутативная](./commuty.md) | Коммутативная | **✓** |  |
+| [Динамо](./dynamo-software.md) | Dynamo Software | **✓** |  |
 | [Email Reactor](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Подписи для Outlook](./impression-signatures-for-outlook.md) | Подписи для просмотра | **✓** |  |
