@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/10/2022
+ms.date: 05/11/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: bb9dfcdbdc1da94f767084c560b7f0a0f3287ce2
-ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
+ms.openlocfilehash: 0edba727df2fcc1c0e67275c097cf648160d6e0e
+ms.sourcegitcommit: ae319a079de7bac03a3f4afb7c95a12a6248c9b0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/11/2022
-ms.locfileid: "65308415"
+ms.locfileid: "65355744"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -148,6 +148,7 @@ ms.locfileid: "65308415"
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
+| [Составитель документов](./green-meadow-aps-document-drafter.md) | Зеленый луг APS | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Единая запись вызовов Dubber](./dubber-unified-call-recording.md) | Dubber | **✓** |  |
@@ -188,6 +189,7 @@ ms.locfileid: "65308415"
 | [Fifty](./fifty.md) | Fifty | **✓** |  |
 | [File Fabric](./storage-made-easy-file-fabric.md) | Хранение данных без проблем | **✓** |  |
 | [Диспетчер файлов](./solutions2share-gmbh-file-manager.md) | Solutions2Share GmbH | **✓** |  |
+| [Financial Times](./financial-times.md) | Financial Times | **✓** |  |
 | [Findit](./ctelo-findit.md) | CTELO | **✓** |  |
 | [FinTech Studios](./fintech-studios.md) | FinTech Studios | **✓** |  |
 | [Fireflies AI](./firefliesai-fireflies-ai.md) | Fireflies.ai | **✓** |  |
@@ -205,6 +207,7 @@ ms.locfileid: "65308415"
 | [gauge.it](./cloud-cover-it-gaugeit.md) | Cloud Cover IT | **✓** |  |
 | [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | Gensys Solutions BV | **✓** |  |
+| [Истинность](./stratum-networks-genuity.md) | Stratum Networks | **✓** |  |
 | [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Корпорация Майкрософт | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
@@ -226,7 +229,7 @@ ms.locfileid: "65308415"
 | [HeyTaco](./heytaco-llc.md) | HeyTaco, LLC | **✓** |  |
 | [hi Digital Coach](./digital-attitude-srl-hi-coach.md) | Digital Attitude Srl | **✓** |  |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
-| [Совместная работа HighSide](./highside-inc-collaboration.md) | HighSide, Inc | **✓** |  |
+| [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  |
 | [Highspot](./highspot.md) | Highspot | **✓** |  |
 | [HitHorizons](./finstat-sro-hithorizons.md) | FinStat s.r.o. | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
@@ -338,7 +341,7 @@ ms.locfileid: "65308415"
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  |
 | [PA PEOPLE](./pa-people.md) | &#26666;&#24335;&#20250;&#31038;PHONE APPLI | **✓** |  |
 | [Package Notifier](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
-| [PagerDuty](./pagerduty-inc.md) | PagerDuty, Inc. | **✓** |  |
+| [PagerDuty](./pagerduty.md) | PagerDuty | **✓** |  |
 | [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [Pandos](./pandos-intelligence-inc.md) | Pandos Intelligence Inc | **✓** |  |
 | [Panopto](./panopto.md) | Panopto | **✓** |  |
@@ -375,8 +378,9 @@ ms.locfileid: "65308415"
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | GLOBAL CONGRESS SRL | **✓** |  |
+| [Погремушка](./rattle.md) | Погремушка | **✓** |  |
 | [Reach](./livetiles-reach.md) | LiveTiles | **✓** |  |
-| [Read Dashboard](./read-ai-inc-dashboard.md) | Read AI, Inc. | **✓** |  |
+| [Читать навигатор собрания](./read-ai-inc-meeting-navigator.md) | Read AI, Inc. | **✓** |  |
 | [Перевод в режиме реального времени](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
 | [RecognitionNow DM](./bi-worldwide-recognitionnow-dm.md) | BI WORLDWIDE | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
@@ -468,13 +472,14 @@ ms.locfileid: "65308415"
 | [Tendfor](./tendfor.md) | Tendfor | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Text](./approved-contact-text.md) | Approved Contact | **✓** |  |
 | [The Captivate Hub](./captivate-io-ltd-the-hub.md) | Captivate IO Ltd | **✓** |  |
+| [Ментальный переход](./the-mental-move-bv.md) | Ментальный переход B.V. | **✓** |  |
 | [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [ti8m places](./tim-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
-| [Ticketing](./kitameraki-limited-ticketing.md) | kitameraki limited | **✓** |  |
+| [Отправка запросов как услуга](./kitameraki-limited-ticketing-as-a-service.md) | kitameraki limited | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
-| [timeghost — отслеживание времени](./kollisch-gmbh-timeghost-time-tracking.md) | K&#246;llisch GmbH | **✓** |  |
+| [timeghost — отслеживание времени](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [Totara](./totara-learning.md) | Totara Learning | **✓** |  |
 | [touchSMS](./edgility-touchsms.md) | Edgility | **✓** |  |
@@ -524,7 +529,7 @@ ms.locfileid: "65308415"
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
 | [Zero Time Bot](./replicon-zero-time-bot.md) | Replicon | **✓** |  |
-| [Zignals](./alight-zignals.md) | Alight | **✓** |  |
+| [Zignals](./alight-consulting-gmbh-zignals.md) | Alight Consulting GmbH | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho Notebook](./zoho-corporation-private-limited-notebook.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho Sign](./zoho-corporation-private-limited-sign.md) | Zoho Corporation Private Limited | **✓** |  |

@@ -464,7 +464,7 @@ items:
         href: teams/witivio-distribution-lists-pro.md
       - name: do!book CB
         href: teams/digital-office-inc-do!book-cb.md
-      - name: Черновик документа
+      - name: Составитель документов
         href: teams/green-meadow-aps-document-drafter.md
       - name: Docuo
         href: teams/r2-docuo.md
@@ -546,7 +546,7 @@ items:
         href: teams/storage-made-easy-file-fabric.md
       - name: Диспетчер файлов
         href: teams/solutions2share-gmbh-file-manager.md
-      - name: Финансовое время
+      - name: Financial Times
         href: teams/financial-times.md
       - name: Findit
         href: teams/ctelo-findit.md
@@ -582,7 +582,7 @@ items:
         href: teams/geekbot-ltd.md
       - name: Gensys
         href: teams/gensys-solutions-bv.md
-      - name: Genuity
+      - name: Истинность
         href: teams/stratum-networks-genuity.md
       - name: Gfacility
         href: teams/gfacility.md
@@ -928,12 +928,14 @@ items:
         href: teams/rattle.md
       - name: Reach
         href: teams/livetiles-reach.md
-      - name: Чтение навигатора собрания
+      - name: Читать навигатор собрания
         href: teams/read-ai-inc-meeting-navigator.md
       - name: Перевод в режиме реального времени
         href: teams/fairuse-real-time-translator.md
       - name: RecognitionNow DM
         href: teams/bi-worldwide-recognitionnow-dm.md
+      - name: Признать
+        href: teams/recognize.md
       - name: Remind
         href: teams/88-ventures-limited-remind.md
       - name: researcHR
@@ -982,6 +984,8 @@ items:
         href: teams/simply-made-apps-inc-simple-inout.md
       - name: Sine
         href: teams/sineco-sine.md
+      - name: Skedda
+        href: teams/skedda-pty-ltd.md
       - name: SkilledHuman
         href: teams/saltflat-limited-skilledhuman.md
       - name: Skillsoft Percipio
@@ -1112,7 +1116,7 @@ items:
         href: teams/approved-contact-text.md
       - name: The Captivate Hub
         href: teams/captivate-io-ltd-the-hub.md
-      - name: Перемещение по ментам
+      - name: Ментальный переход
         href: teams/the-mental-move-bv.md
       - name: ThoughtExchange
         href: teams/thoughtexchange.md
@@ -1120,7 +1124,7 @@ items:
         href: teams/thoughtwire-corp-ews.md
       - name: ti8m places
         href: teams/tim-ag-ti8m-places.md
-      - name: Билеты как услуга
+      - name: Отправка запросов как услуга
         href: teams/kitameraki-limited-ticketing-as-a-service.md
       - name: Tikit
         href: teams/cireson-tikit.md
@@ -1249,7 +1253,7 @@ items:
         href: word/cocofax-sending-fax-made-easysecure.md
       - name: Перекрестная проверка
         href: word/krevealllc-crosscheck.md
-      - name: Черновик документа
+      - name: Составитель документов
         href: word/green-meadow-aps-document-drafter.md
       - name: Excel модели автоматизации документов word
         href: word/analysisplace-excel-to-word-document-automation.md
@@ -1625,6 +1629,8 @@ items:
         href: azure/5022e09d-d2f9-499f-8925-554c324ad23a.md
       - name: 50356ee3-b48b-424b-a7a7-35e53c2ce736
         href: azure/50356ee3-b48b-424b-a7a7-35e53c2ce736.md
+      - name: 50bff4f3-8dcf-4f58-bf77-180988c2dc3d
+        href: azure/50bff4f3-8dcf-4f58-bf77-180988c2dc3d.md
       - name: 5123b34d-663d-4ae9-a3c9-d2298be203f2
         href: azure/5123b34d-663d-4ae9-a3c9-d2298be203f2.md
       - name: 512b84d2-5840-45d6-8d01-5f073836d039
