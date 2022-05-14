@@ -3,17 +3,17 @@ title: Безопасность и соответствие Outlook Microsoft Ou
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/10/2022
+ms.date: 05/13/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех microsoft Outlook Apps.
 localization_priority: Normal
-ms.openlocfilehash: 150a248def762691047a13127f28dff9378f239b
-ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
+ms.openlocfilehash: 9a1c96597460585f3f79bd41ee15c10bd91f8a90
+ms.sourcegitcommit: 28e4529834823fb61620dc9ac5b33eeddaca67a1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305645"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65413475"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps Security and Compliance
 
@@ -24,6 +24,7 @@ ms.locfileid: "65305645"
 | [Adobe Acrobat Sign for Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Altru Videos](./altru-videos.md) | Altru | **✓** |  |
 | [Утвержденные календари контактов](./approved-contact-calendars.md) | Approved Contact | **✓** |  |
+| [Повышение почты](./boost-my-mail.md) | Повышение почты | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [CodeTwo для Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Коммутативная](./commuty.md) | Коммутативная | **✓** |  |
