@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/12/2022
+ms.date: 05/13/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 84842053ca664747f4e44669d89722a03bc34646
-ms.sourcegitcommit: 4d256127e7de5b02c6b9d4f05e823c6845d5bbf7
+ms.openlocfilehash: 8c6a89142076fd475457c1be92ce6fbe94f4422e
+ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "65381449"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65420252"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -31,6 +31,7 @@ ms.locfileid: "65381449"
 | [Adobe Acrobat](./adobe-systems-inc-acrobat.md) | Adobe Systems Inc. | **✓** |  |
 | [Знак Adobe Acrobat](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Adobe Creative Cloud Express](./adobe-creative-cloud-express.md) | Adobe | **✓** |  |
+| [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [Доска задач Agile](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [Производитель ИИ](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
@@ -86,6 +87,7 @@ ms.locfileid: "65381449"
 | [Bright Remind Me](./chat-apps-llc-bright-remind-me.md) | Chat Apps, LLC | **✓** |  |
 | [Brightcove Video Connect](./brightcove-inc-video-connect.md) | Brightcove Inc. | **✓** |  |
 | [Brightidea](./brightidea.md) | Brightidea | **✓** |  |
+| [Broadcast](./cerkl-broadcast.md) | Cerkl | **✓** |  |
 | [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [Bulletin Board - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -115,6 +117,7 @@ ms.locfileid: "65381449"
 | [Collection Pot](./gifted-to-you-limited-collection-pot.md) | Gifted to You Limited | **✓** |  |
 | [Commander](./nimbella-commander.md) | Nimbella | **✓** |  |
 | [Company Navigator](./konica-minolta-it-solutions-company-navigator.md) | Konica Minolta IT Solutions | **✓** |  |
+| [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
 | [Confluence Connector от MWF](./move-work-forward-confluence-connector-by-mwf.md) | Move Work Forward | **✓** |  |
@@ -140,13 +143,13 @@ ms.locfileid: "65381449"
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [DeskBooking](./desknow-gmbh-deskbooking.md) | DeskNow GmbH | **✓** |  |
 | [DeskManager](./desknow-gmbh-deskmanager.md) | DeskNow GmbH | **✓** |  |
-| [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DigitalOps Toolbox](./medalsoft-digitalops-toolbox.md) | Medalsoft | **✓** |  |
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Составитель документов](./green-meadow-aps-document-drafter.md) | Зеленый луг APS | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
+| [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Единая запись вызовов Dubber](./dubber-unified-call-recording.md) | Dubber | **✓** |  |
 | [DZ Notification Bot](./dz-notification-bot.md) | &#36948;&#26131;&#26234;&#36896;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
@@ -161,7 +164,6 @@ ms.locfileid: "65381449"
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Eloops](./eloops.md) | Eloops | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
-| [email-texting](./voice-elements-corporation-email-texting.md) | Voice Elements Corporation | **✓** |  |
 | [Employee Advocacy от DSMN8](./dsmn8-employee-advocacy-by.md) | DSMN8 | **✓** |  |
 | [Employee Referrals](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Управление обучением сотрудников](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -281,6 +283,7 @@ ms.locfileid: "65381449"
 | [Loops - Creative Learning](./skooler-loops-creative-learning.md) | Skooler | **✓** |  |
 | [LTI Client](./flipick-pvt-ltd-lti-client.md) | Flipick Pvt Ltd | **✓** |  |
 | [Lucca](./lucca.md) | Lucca | **✓** |  |
+| [Lucidspark Whiteboard](./lucid-software-lucidspark-whiteboard.md) | Lucid Software | **✓** |  |
 | [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [Lumio by SMART](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [Map Pro](./witivio-map-pro.md) | Witivio | **✓** |  |
@@ -369,6 +372,7 @@ ms.locfileid: "65381449"
 | [qChange Leader Experience](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
+| [Qualified](./qualified.md) | Высококвалифицированный | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | GLOBAL CONGRESS SRL | **✓** |  |
@@ -401,7 +405,6 @@ ms.locfileid: "65381449"
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | **✓** |  |
-| [Sine](./sineco-sine.md) | Sine.co | **✓** |  |
 | [Skedda](./skedda-pty-ltd.md) | Skedda Pty Ltd | **✓** |  |
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
 | [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
@@ -443,6 +446,7 @@ ms.locfileid: "65381449"
 | [Switchvox](./sangoma-switchvox.md) | Sangoma | **✓** |  |
 | [SWOOP Analytics](./swoop-analytics-pty-ltd.md) | SWOOP Analytics Pty Ltd | **✓** |  |
 | [SysAid](./sysaid.md) | SysAid | **✓** |  |
+| [Tactileo](./maskott-tactileo.md) | Maskott | **✓** |  |
 | [TagMyFav](./avishkaram-technologies-pvt-ltd-tagmyfav.md) | Avishkaram Technologies Pvt Ltd | **✓** |  |
 | [TagTeam](./smarter-business-solution-gmbh-tagteam.md) | Smarter Business Solution GmbH | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
