@@ -3,17 +3,17 @@ title: приложение Azure идентификаторов безопас�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/17/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложение Azure идентификаторов.
 localization_priority: Normal
-ms.openlocfilehash: 5f606c41e92414de42f0c9eb0313872afa158ae5
-ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
+ms.openlocfilehash: c2b0a4cb8867c33233da7aa3d787be2c711e82d3
+ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65420282"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65451523"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>приложение Azure безопасности и соответствия требованиям
 
@@ -132,6 +132,7 @@ ms.locfileid: "65420282"
 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](./4dce2abf-3f8e-4281-9f7a-d602fc391886.md) | **✓** |  |
 | [4e820d60-9e62-403c-accd-857b987cc13c](./4e820d60-9e62-403c-accd-857b987cc13c.md) | **✓** |  |
 | [4f037969-20ef-4a41-8330-422b7b115eb6](./4f037969-20ef-4a41-8330-422b7b115eb6.md) | **✓** |  |
+| [4fcff517-e16b-42b4-b6f0-5fe449d45479](./4fcff517-e16b-42b4-b6f0-5fe449d45479.md) | **✓** |  |
 | [5022e09d-d2f9-499f-8925-554c324ad23a](./5022e09d-d2f9-499f-8925-554c324ad23a.md) | **✓** |  |
 | [50356ee3-b48b-424b-a7a7-35e53c2ce736](./50356ee3-b48b-424b-a7a7-35e53c2ce736.md) | **✓** |  |
 | [50bff4f3-8dcf-4f58-bf77-180988c2dc3d](./50bff4f3-8dcf-4f58-bf77-180988c2dc3d.md) | **✓** |  |
@@ -191,6 +192,7 @@ ms.locfileid: "65420282"
 | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](./7c90e3d4-5233-4e49-8753-36cd5feb7fa0.md) | **✓** |  |
 | [7cb50e3e-0427-409e-90d2-638eb28217c3](./7cb50e3e-0427-409e-90d2-638eb28217c3.md) | **✓** |  |
 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](./7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) | **✓** |  |
+| [806359be-da23-4538-80bb-baa82107ec2d](./806359be-da23-4538-80bb-baa82107ec2d.md) | **✓** |  |
 | [815a5165-fd61-44b8-be99-6301f780bd68](./815a5165-fd61-44b8-be99-6301f780bd68.md) | **✓** |  |
 | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](./8277a51c-3ad6-446c-9b7e-e3f6e27257c1.md) | **✓** |  |
 | [82df726e-0de2-46af-b4f1-0645fd95fc97](./82df726e-0de2-46af-b4f1-0645fd95fc97.md) | **✓** |  |
@@ -292,6 +294,7 @@ ms.locfileid: "65420282"
 | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](./c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) | **✓** |  |
 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](./cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) | **✓** |  |
 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](./cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) | **✓** |  |
+| [cbdfe641-3e2e-449d-b4f7-7e377c7060aa](./cbdfe641-3e2e-449d-b4f7-7e377c7060aa.md) | **✓** |  |
 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](./cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) | **✓** |  |
 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](./ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) | **✓** |  |
 | [cec02d43-1b67-4430-9bc9-861da8582801](./cec02d43-1b67-4430-9bc9-861da8582801.md) | **✓** |  |
@@ -310,6 +313,7 @@ ms.locfileid: "65420282"
 | [d871e46e-e346-445d-bfe8-2a66419bf278](./d871e46e-e346-445d-bfe8-2a66419bf278.md) | **✓** |  |
 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](./d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) | **✓** |  |
 | [d980249e-fb0c-40a9-8706-f77f95660bdc](./d980249e-fb0c-40a9-8706-f77f95660bdc.md) | **✓** |  |
+| [dae2eacf-3eb5-4440-baff-984fbd5cae68](./dae2eacf-3eb5-4440-baff-984fbd5cae68.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [dc171e47-c074-4bc2-9e7b-3856b71e0630](./dc171e47-c074-4bc2-9e7b-3856b71e0630.md) | **✓** |  |
 | [dc8facfc-c606-44b4-a0ad-04f81446845c](./dc8facfc-c606-44b4-a0ad-04f81446845c.md) | **✓** |  |
 | [dea67e43-444e-4852-b57b-b57878a4022b](./dea67e43-444e-4852-b57b-b57878a4022b.md) | **✓** |  |
