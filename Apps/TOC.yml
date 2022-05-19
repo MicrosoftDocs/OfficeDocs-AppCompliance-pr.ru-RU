@@ -86,6 +86,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Коммутативная
         href: outlook/commuty.md
+      - name: DocuSign для Outlook
+        href: outlook/docusign-inc-for-outlook.md
       - name: Динамо
         href: outlook/dynamo-software.md
       - name: Email Reactor
@@ -844,11 +846,11 @@ items:
         href: teams/officetogether-inc.md
       - name: Officevibe
         href: teams/officevibe.md
-      - name: Планирование offishall
+      - name: Offishall Planning
         href: teams/offishall-planning.md
       - name: OLIVE VLE
         href: teams/olivegroup-olive-vle.md
-      - name: Начало подключения
+      - name: Onboarding Start
         href: teams/apr-management-solutions-lda-onboarding-start.md
       - name: Onluyen
         href: teams/edmicro-onluyen.md
@@ -1269,6 +1271,8 @@ items:
         href: word/krevealllc-crosscheck.md
       - name: Составитель документов
         href: word/green-meadow-aps-document-drafter.md
+      - name: DocuSign для Word
+        href: word/docusign-inc-for-word.md
       - name: Excel модели автоматизации документов word
         href: word/analysisplace-excel-to-word-document-automation.md
       - name: Надстройка fabasoft Cloud Office
