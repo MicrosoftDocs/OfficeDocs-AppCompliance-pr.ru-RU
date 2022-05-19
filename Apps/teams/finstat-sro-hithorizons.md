@@ -3,24 +3,24 @@ title: Сведения о приложении для HitHorizons от FinStat 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/15/2022
+ms.date: 05/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для HitHorizons, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0e871decd4c20caa9d7117d553fd07c7bbcdbfe2
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: cc57752e30c13456f0fdc4e33eab36f9eb9d7e97
+ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878236"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65477673"
 ---
 # <a name="hithorizons"></a>HitHorizons
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 11 февраля 2022 г.</p>
+<p>Последнее обновление разработчика: 18 мая 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/2b492ea3-0727-4789-90d7-8e2079d46717" target="_blank">Просмотр в Teams хранилище</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001411" target="_blank">Просмотр в AppSource</a>
@@ -34,7 +34,7 @@ ms.locfileid: "64878236"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | HitHorizons |
-| Идентификатор | WA200001411 |
+| ID | WA200001411 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | FinStat s.r.o. |
 | Веб-сайт компании | [https://www.hithorizons.com](https://www.hithorizons.com) |
@@ -73,7 +73,7 @@ ms.locfileid: "64878236"
 | Выполняете ли вы ежегодное тестирование на проникновение в приложении? | Нет |
 | Имеет ли приложение документированный план аварийного восстановления, включая стратегию резервного копирования и восстановления? | Нет |
 | Использует ли ваша среда традиционную защиту от вредоносных программ или элементы управления приложениями? | ApplicationControls |
-| Есть ли у вас установленный процесс для обнаружения уязвимостей безопасности и ранжирования рисков? | Да |
+| Есть ли у вас установленный процесс для обнаружения уязвимостей безопасности и ранжирования рисков? | Нет |
 | Есть ли у вас политика, управляющая соглашением об уровне обслуживания (SLA) для применения исправлений? | Нет |
 | Выполняются ли действия по управлению исправлениями в соответствии с соглашениями об уровне обслуживания политики исправления? | Нет |
 | Есть ли в вашей enviroment какие-либо неподдерживаемые операционные системы или программное обеспечение? | Нет |
@@ -133,10 +133,9 @@ ms.locfileid: "64878236"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
