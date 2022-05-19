@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для a554bdf0-8
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для a554bdf0-866f-4ee2-b95b-3afbfc70d5bc.
-ms.openlocfilehash: 49f9ed9da006de1234dacc58dd31245dde121e27
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 79f300bfbb17c874a26a492993ddc0bb1c6cce86
+ms.sourcegitcommit: b363fcc87dc5720eaddbe567a857270732ef9e1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65473723"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65548780"
 ---
 # <a name="azure-app-id-a554bdf0-866f-4ee2-b95b-3afbfc70d5bc"></a>приложение Azure: a554bdf0-866f-4ee2-b95b-3afbfc70d5bc
 
