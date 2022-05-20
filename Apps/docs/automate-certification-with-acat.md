@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: c81ccf3626d6039333f52a487e98233364f7174e
-ms.sourcegitcommit: 785d1c5d829e44e0ad696b85c92be81f549b989e
+ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65433498"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608800"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>Автоматизация Microsoft 365 с помощью средства автоматизации соответствия требованиям приложений для Microsoft 365
 
@@ -22,14 +22,17 @@ ms.locfileid: "65433498"
 > [!IMPORTANT]
 > Сейчас ACAT находится в закрытой предварительной версии. Если вы хотите присоединиться к закрытой предварительной версии программы, зарегистрируйтесь [здесь](https://aka.ms/acat/private/signup).
 
+> [!NOTE]
+> Если вы хотите отправить отзыв в закрытую предварительную версию ACAT, можно начать с этой [формы](https://aka.ms/acat/feedback). Команда разработчиков ACAT как можно скорее подключит вас к вашим сообщениям. 
+
 ## <a name="create-your-first-compliance-report-to-onboard-acat"></a>Создание первого отчета о соответствии для подключения ACAT
 
 ACAT позволяет сосредоточиться на соответствии приложения или конкретной среде приложения (например, рабочей, промежуточной и т. д.). Он позволяет создать отчет о соответствии,  в котором можно определить границу соответствия на основе облачной инфраструктуры приложения или конкретной среды приложения.
 
 > [!IMPORTANT]
-> Так как ACAT находится в закрытой предварительной версии, вы не можете выполнять поиск в нем напрямую *https://portal.azure.com* . Используйте приведенные ниже параметры для запуска ACAT.
+> Так как ACAT находится в закрытой предварительной версии, вы не можете выполнять поиск в портал Azure напрямую. Зарегистрируйте закрытую предварительную [версию программы ACAT](https://aka.ms/acat/private/signup) и получите доступ от группы поддержки.
 
-- Выполните ***поиск и*** запустите средство автоматизации соответствия Microsoft 365 в [портал Azure](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D&microsoft_azure_marketplace_ItemHideKey=Microsoft_Azure_AppComplianceAutomationHidden) или запустите его по прямой ссылке [ACAT](https://portal.azure.com/#blade/Microsoft_Azure_AppComplianceAutomation/AcatMenuBlade/overview).
+- Найдите и ***запустите средство автоматизации*** соответствия требованиям приложений для Microsoft 365 в портал Azure.
 - Перейти ***к отчетам*** слева.
 
 :::image type="complex" source="../media/ACAT/getstarted-create-report-inline.png" lightbox="../media/ACAT/getstarted-create-report.png" alt-text="Создание отчета о соответствии":::
