@@ -3,17 +3,17 @@ title: Безопасность и соответствие Outlook Microsoft Ou
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/20/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех microsoft Outlook Apps.
 localization_priority: Normal
-ms.openlocfilehash: d5c06c88c4170ef21e7edd190863e7f53830f69d
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 74c882322198ed13c983f5f38a3e4e28a7ff586b
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65475543"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65613445"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps Security and Compliance
 
@@ -22,7 +22,6 @@ ms.locfileid: "65475543"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Acrobat Sign for Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Altru Videos](./altru-videos.md) | Altru | **✓** |  |
 | [Утвержденные календари контактов](./approved-contact-calendars.md) | Approved Contact | **✓** |  |
 | [Повышение почты](./boost-my-mail.md) | Повышение почты | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
