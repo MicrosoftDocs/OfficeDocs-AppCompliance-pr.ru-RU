@@ -3,17 +3,17 @@ title: 'Microsoft Word приложений : безопасность и соо
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/20/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех Microsoft Word приложений.
 localization_priority: Normal
-ms.openlocfilehash: 6fbf61c48d0348327107911d493592eeb2e849e3
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 28a1f34f21b783fec68f1ffaab516f8abd432a3e
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65474763"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618979"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word безопасности и соответствия требованиям приложений
 
@@ -52,4 +52,3 @@ ms.locfileid: "65474763"
 | [Stilus для Word](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [Документация по TaxKit](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
-| [xLaw — система управления знаниями](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
