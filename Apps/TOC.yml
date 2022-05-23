@@ -934,8 +934,6 @@ items:
         href: teams/global-congress-srl-rafiky.md
       - name: Погремушка
         href: teams/rattle.md
-      - name: Reach
-        href: teams/livetiles-reach.md
       - name: Читать навигатор собрания
         href: teams/read-ai-inc-meeting-navigator.md
       - name: Перевод в режиме реального времени
@@ -1110,7 +1108,7 @@ items:
         href: teams/teamschamp.md
       - name: TeamSticker by Communitio
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: Teamwork
+      - name: Командная работа
         href: teams/teamwork.md
       - name: TELUS Business Connect
         href: teams/ringcentral-inc-telus-business-connect.md
