@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для affadfb6-f
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/20/2022
+ms.date: 05/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для affadfb6-f17b-428f-97f9-9aae3b6175bc.
-ms.openlocfilehash: cab777b6db964cd63fcf74af986078e2dbb18fce
-ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
+ms.openlocfilehash: 1be4c57f410fef1feca8bb0e267bd80c848ce933
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65617214"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65639618"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>приложение Azure: affadfb6-f17b-428f-97f9-9aae3b6175bc
 

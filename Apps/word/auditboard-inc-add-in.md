@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для надстройки AuditBoard, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 71829162839f255a9481d7f64333d091ad65b5e1
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 0c69f4cfa2a4d443070ac3eb4f9b9ce1a4869e98
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877606"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65641918"
 ---
 # <a name="auditboard-add-in"></a>Надстройка AuditBoard
 
@@ -33,8 +33,8 @@ ms.locfileid: "64877606"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Надстройка AuditBoard |
-| Идентификатор | WA200003350 |
-| Office 365 поддерживаемые клиенты | Word 2016 mac, Word в Интернете, Word 2013 или более поздней версии Windows |
+| ID | WA200003350 |
+| Office 365 поддерживаемые клиенты | Excel 2016 mac, Excel 2013 или более поздней версии на Windows, Excel в Интернете, Word 2016 или более поздней версии на Компьютерах Mac, Word в Интернете, Word 2013 или более поздней Windows |
 | Название партнерской компании | Auditboard, Inc. |
 | Веб-сайт компании | [https://www.auditboard.com](https://www.auditboard.com) |
 | Условия использования приложения | [https://appsource.microsoft.com](https://appsource.microsoft.com) |
@@ -133,10 +133,9 @@ ms.locfileid: "64877606"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) |  |
 | Хранит ли ваше приложение учетные данные в коде? |  |
