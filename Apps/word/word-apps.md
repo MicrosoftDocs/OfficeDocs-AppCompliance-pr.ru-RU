@@ -3,17 +3,17 @@ title: 'Microsoft Word приложений : безопасность и соо
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/21/2022
+ms.date: 05/25/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех Microsoft Word приложений.
 localization_priority: Normal
-ms.openlocfilehash: ae8172aafe219e2d4f2967385fece91599f2bd4d
-ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
+ms.openlocfilehash: 0d44c91dae339e1402f104a8e054847bb935b421
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/23/2022
-ms.locfileid: "65638597"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688514"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word безопасности и соответствия требованиям приложений
 

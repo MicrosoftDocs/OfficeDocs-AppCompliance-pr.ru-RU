@@ -1,19 +1,20 @@
 ---
 title: Сведения о приложении для SalesTim
 ms.author: elmalova
+manager: tonybal
 author: elenamalova
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии для SalesTim, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
+description: Просмотрите все доступные сведения о безопасности и соответствии для SalesTim, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9fce7871fc306b19170cddb2d1524ef7a82a01f4
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 9bf1f4057ad73ba33a8ae3ba0ff02c74851cdecf
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222440"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688124"
 ---
 # <a name="application-information-for-salestim-by-salestim"></a>Сведения о приложении для SalesTim от SalesTim
 
@@ -34,7 +35,7 @@ ms.locfileid: "65222440"
 | Название приложения | SalesTim |
 | ID | salestim.salestim |
 | Название партнерской компании | SalesTim |
-| URL-адрес веб-сайта партнера | [https://salestim.com](https://salestim.com) |
+| URL-адрес веб-сайта партнера | [https://nbold.co/](https://nbold.co/) |
 | URL-адрес политики конфиденциальности | [https://www.salestim.com/legal/privacy/](https://www.salestim.com/legal/privacy/) |
 | URL-адрес условий использования | [https://www.salestim.com/legal/tos/](https://www.salestim.com/legal/tos/) |
 

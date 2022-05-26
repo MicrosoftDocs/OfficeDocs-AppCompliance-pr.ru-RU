@@ -7,14 +7,14 @@ ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Все доступные сведения о безопасности и соответствии для Workboard, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Просмотрите все доступные сведения о безопасности и соответствии для Workboard, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b20a6e58680109d719fca48cf8f2152c9239026a
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: ccf27f1fa0c6db96446fc0fa7afc686fe2a49e20
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222460"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688104"
 ---
 # <a name="application-information-for-workboard"></a>Сведения о приложении для Workboard
 
@@ -57,7 +57,7 @@ ms.locfileid: "65222460"
 
 >| **Разрешение**  | **Тип разрешения (делегированное или приложение)** | **Собираются ли данные? Обоснование для его сбора?** | **Хранятся ли данные? Обоснование для хранения?** | **Azure AD приложения** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | Делегированные | адрес электронной почты и идентификаторы пользователей.  Он используется для сопоставления пользователя с идентификатором пользователя WorkBoard. | WorkBoard хранит удостоверение пользователя только в его базах данных. | [User.Read](/microsoft-365-app-certification/azure/User.Read) |
+>| User.Read | Делегированные | адрес электронной почты и идентификаторы пользователей.  Он используется для сопоставления пользователя с идентификатором пользователя WorkBoard. | WorkBoard хранит только удостоверение пользователя в своих базах данных. | [User.Read](/graph/permissions-reference#user-permissions) |
 
 
 #### <a name="non-microsoft-services-used"></a>Не службы Майкрософт

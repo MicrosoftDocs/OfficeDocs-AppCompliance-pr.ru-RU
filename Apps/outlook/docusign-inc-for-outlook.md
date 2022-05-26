@@ -3,24 +3,24 @@ title: Application Information for DocuSign for Outlook by DocuSign, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для DocuSign для Outlook, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cafb05155f7df5d228c71a3fc379262684f72aa3
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: d942c5f4cf0bfd9665ed13b9538894c11edd142b
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65476300"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688584"
 ---
 # <a name="docusign-for-outlook"></a>DocuSign для Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 13 мая 2022 г.</p>
+<p>Последнее обновление разработчика: 24 мая 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104218067" target="_blank">Просмотр в AppSource</a>
 
@@ -99,20 +99,23 @@ ms.locfileid: "65476300"
 |:----------------|:-------------|
 | Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Да |
 | Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Недоступно |
-| Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Нет |
+| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Да |
+| Дата последней сертификации SOC1 | 2021-12-10 |
+| Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Да |
+| Какая сертификация SOC 2 была выполнена? | тип 2 |
+| Дата последней сертификации SOC2 | 2021-12-10 |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
-| Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Недоступно |
-| Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Нет |
-| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Недоступно |
-| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
+| Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Да |
+| Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Да |
+| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Да |
+| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Да |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
-| Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
+| Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Да |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Нет |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Нет |
 | Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Нет |
 | Соответствует ли приложение NIST 800-171? | Нет |
-| Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
+| Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Да |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
