@@ -1,5 +1,5 @@
 ---
-title: Application Information for Sheetgo by SHEETGO EUROPE SL
+title: Application Information for Sheetgo provided by SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,23 +7,23 @@ ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Все доступные сведения о безопасности и соответствии требованиям для Sheetgo, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+description: Просмотрите все доступные сведения о безопасности и соответствии для Sheetgo, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9cbad6d4fcd5f6e081187af10c3c8a69de7122ba
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 001ad5dcce2a95885420f8413bfbfe03562eb5b2
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65225313"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65690434"
 ---
-# <a name="sheetgo"></a>Sheetgo
+# <a name="sheetgo-application-information"></a>Сведения о приложении Sheetgo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 3 ноября 2020 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/583de270-58d0-4f94-af06-bf971f82fd94" target="_blank">Просмотр в Teams хранилище</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002067" target="_blank">Просмотр в AppSource</a>
+* <a href="https://appsource.microsoft.com/en-US/product/office/WA200002128?tab=Overview" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
 
@@ -64,7 +64,7 @@ ms.locfileid: "65225313"
 
 >| **Все сторонние службы Майкрософт OII передаются в** |  **Какой OII передается?** | **Обоснование для передачи OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| MongoDB: запись системных и пользовательских данных для работы, Google BigQuery: запись использования системных журналов, Google Firestore: система, которая поддерживает и управляет состоянием наших микрослужб, Stripe: Платежная система |  | Эти приложения не используют дополнительные API Майкрософт |
+>| MongoDB: запись системных и пользовательских данных для работы, Google BigQuery: Запись использования системных журналов, Google Firestore: система, которая поддерживает и управляет состоянием наших микрослужб, Stripe: Платежная система |  | Эти приложения не используют дополнительные API Майкрософт |
 
 #### <a name="data-access-via-bots"></a>Доступ к данным через ботов
 
@@ -83,7 +83,7 @@ ms.locfileid: "65225313"
 
 Описать, как администраторы организации могут управлять своей информацией в партнерских системах? например удаление, хранение, аудит, архивирование, политика конечных пользователей и т. д.
 
->MongoDB: запись системных и пользовательских данных для работы Google BigQuery: запись системных журналов использования Google Firestore: система, которая поддерживает и управляет состоянием наших микрослужб. Единственными критически важными данными, передаваемыми этой службой, являются учетные данные пользователя, которые шифруются с помощью платежной системы AES256 Stripe: Payment system.
+>MongoDB. Запись системных и пользовательских данных для работы Google BigQuery: запись системных журналов использования Google Firestore: система, которая поддерживает и управляет состоянием наших микрослужб. Единственными критически важными данными, передаваемыми этой службой, являются учетные данные пользователя, которые шифруются с помощью платежной системы AES256 Stripe: Payment system.
  
 Все передаваемые данные используют ПРОТОКОЛ HTTPS для безопасных подключений, а все конфиденциальные данные шифруются с помощью AES256
 
