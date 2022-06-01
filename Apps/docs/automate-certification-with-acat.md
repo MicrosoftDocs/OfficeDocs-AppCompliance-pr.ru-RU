@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
-ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
+ms.openlocfilehash: b708f68ed5717d08b321f02f3ba09989a77fdf17
+ms.sourcegitcommit: e639149031755df8cd50c03341b6507146cc48b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65608800"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65793033"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>Автоматизация Microsoft 365 с помощью средства автоматизации соответствия требованиям приложений для Microsoft 365
 
@@ -158,7 +158,7 @@ ACAT позволяет сосредоточиться на соответств
 - Перейдите к **элементу управления доступом (IAM)** слева. 
 - Выберите **"Просмотреть мой доступ** ", чтобы проверить ваше разрешение.
     - Если ваша организация использует встроенные роли [Azure](/azure/role-based-access-control/built-in-roles), назначения ролей должны включать по крайней мере одну из следующих ролей:
-        - [Участник политики ресурсов и](/azure/role-based-access-control/built-in-roles#resource-policy-contributor) [администратор безопасности](/azure/role-based-access-control/built-in-roles#security-admin)
+        - [Участник политики ресурсов](/azure/role-based-access-control/built-in-roles#resource-policy-contributor) и [Администратор](/azure/role-based-access-control/built-in-roles#security-admin)
         - Другое назначение роли с более высоким разрешением (например, [владелец](/azure/role-based-access-control/built-in-roles#owner) и т. д.)
 
 ### <a name="how-to-report-an-acat-issue-or-warning"></a>Как сообщить о проблеме или предупреждении ACAT? 
@@ -169,11 +169,15 @@ ACAT позволяет сосредоточиться на соответств
     - Перейдите к **уведомлениям** [поверх портал Azure.](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D)
     - Выбор **дополнительных событий в журнале действий** 
     
-    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-activitylog.png" alt-text="Уведомления ACAT":::
-        Перейдите в журнал действий, чтобы проверить уведомления ACAT.
-    :::image-end:::
     
-    - Измените **интервал времени** должным образом, чтобы отфильтровать ошибку или предупреждение ACAT в журнале действий. 
+    
+    - **Переключение на действие каталога** 
+    - Измените **период времени** правильно и задайте поставщик ресурсов клиента *в качестве Microsoft.AppComplianceAutomation*, чтобы отфильтровать ошибку или предупреждение ACAT в журнале действий. 
+    
+    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-log-settings.png" alt-text="Журнал действий":::
+        Поиск журналов ACAT в журнале действий.
+    :::image-end:::
+
     - Узнайте об ошибке или предупреждении ACAT, выберите, чтобы получить сведения и сохранить сведения в виде файла.
     
 - Проверьте, правильно ли настроена подписка с помощью ACAT. 
