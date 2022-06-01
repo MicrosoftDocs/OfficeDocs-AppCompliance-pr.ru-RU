@@ -3,17 +3,17 @@ title: 'Microsoft Excel приложений : безопасность и со�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/21/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех Microsoft Excel приложений.
 localization_priority: Normal
-ms.openlocfilehash: 963258f90d264ccc39eabc608d8103f7405e6dd4
-ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
+ms.openlocfilehash: 1087e5cf36b285c0d45888f7d20f3dcd3a01f482
+ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/23/2022
-ms.locfileid: "65645019"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65818307"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel безопасности и соответствия требованиям приложений
 
@@ -28,6 +28,7 @@ ms.locfileid: "65645019"
 | [For веб-приложения](./forbury-property.md) | Свойство For веб-приложения | **✓** |  |
 | [Редактор PDF Foxit для Microsoft Word, Excel и PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Подписи для просмотра](./impression-signatures.md) | Подписи для просмотра | **✓** |  |
+| [Indicadores Economicos, Чили](./birdie-indicadores-economicos-chile.md) | Птичка | **✓** |  |
 | [Jira Cloud для Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [Значение Анализ текста для Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint для Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
