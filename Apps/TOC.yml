@@ -380,7 +380,7 @@ items:
         href: teams/churnzero.md
       - name: CI-Out-of-Office Lite
         href: teams/ci-solution-gmbh-out-of-office-lite.md
-      - name: Классифицированный листинг
+      - name: Classified Listing
         href: teams/binaryroots-classified-listing.md
       - name: Clerk SMS
         href: teams/unnamed-ventures-llc-clerk-sms.md
@@ -562,6 +562,8 @@ items:
         href: teams/financial-times.md
       - name: Findit
         href: teams/ctelo-findit.md
+      - name: Матрица принятия решений для кончика пальца
+        href: teams/fingertip-decision-matrix.md
       - name: FinTech Studios
         href: teams/fintech-studios.md
       - name: Fireflies AI
@@ -862,7 +864,7 @@ items:
         href: teams/librestream-onsight-connect.md
       - name: Optmyzr
         href: teams/optmyzr.md
-      - name: Безопасность Orca
+      - name: Orca Security
         href: teams/orca-security-ltd.md
       - name: Org@Work
         href: teams/lundano-org@work.md
@@ -894,7 +896,7 @@ items:
         href: teams/pigeonlab-pte-ltd-pigeonhole-live.md
       - name: Plandisc
         href: teams/plandisc.md
-      - name: Воспроизведение с помощью IntraActive
+      - name: Play by IntraActive
         href: teams/fellowmind-denmark-play-by-intraactive.md
       - name: PlayQuiz — Aprende и Juega
         href: teams/teamschamp-playquiz-aprendejuega.md
@@ -1118,7 +1120,7 @@ items:
         href: teams/teamschamp.md
       - name: TeamSticker by Communitio
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: Командная работа
+      - name: Teamwork
         href: teams/teamwork.md
       - name: TELUS Business Connect
         href: teams/ringcentral-inc-telus-business-connect.md
@@ -1234,7 +1236,7 @@ items:
         href: teams/workplacebuddy.md
       - name: Wrike
         href: teams/wrike-inc.md
-      - name: Вураки (Wurqi)
+      - name: Wurqi
         href: teams/wurqi.md
       - name: X0PA ROOM
         href: teams/x0pa-ai-singapore-room.md
@@ -1277,6 +1279,8 @@ items:
         href: word/analysisplace-excel-to-word-document-automation.md
       - name: Надстройка Fabasoft Cloud Office
         href: word/fabasoft-austria-gmbh-cloud-office-add-in.md
+      - name: FD Mxmn — импорт бизнес-данных
+        href: word/maximon-ltd-fd-mxmn-import-business-data.md
       - name: 'Редактор PDF Foxit для Microsoft Word, Excel и PowerPoint'
         href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
       - name: Подписи для просмотра
@@ -1721,6 +1725,8 @@ items:
         href: azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md
       - name: 69e59100-2fb7-4f6e-a311-987f52b3007b
         href: azure/69e59100-2fb7-4f6e-a311-987f52b3007b.md
+      - name: 6a1d567b-1106-46a0-83bc-ffe9ada78b9b9b
+        href: azure/6a1d567b-1106-46a0-83bc-ffe9ada78b9b.md
       - name: 6b4a2fee-5642-41a7-b452-d555fac690b0
         href: azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md
       - name: 6be25d92-7c0e-4b2f-829e-108766e095df
@@ -1809,6 +1815,8 @@ items:
         href: azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md
       - name: 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7
         href: azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md
+      - name: 8f261936-59e1-44b3-8234-a746c5e4eab7
+        href: azure/8f261936-59e1-44b3-8234-a746c5e4eab7.md
       - name: 8f79a561-d2f1-4a1e-8092-c2039043a40e
         href: azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md
       - name: 93544582-de9c-42a0-baa5-df3d25e9bd48
@@ -2115,6 +2123,8 @@ items:
         href: azure/f9eaef18-fbd1-4045-b417-c26598755298.md
       - name: fb507a6d-2eaa-4f1f-b43a-140f388c4445
         href: azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md
+      - name: fb5ad138-bf16-44c0-bdc2-2a9c0e6f246f
+        href: azure/fb5ad138-bf16-44c0-bdc2-2a9c0e6f246f.md
       - name: fb6ddd39-35f2-4110-a45d-d2e73b946cae
         href: azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md
       - name: fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da
