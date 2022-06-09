@@ -3,17 +3,17 @@ title: Сведения об идентификаторе приложения A
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для веб-приложения microsoftbfc71-2cf8-42f0-bcdd-83e5f4acfdcc.
-ms.openlocfilehash: a347ae1801fe74eb4cdc3ecb2cc3dbe5ab595a88
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: 650b0a0452f895aa8ae3320467d4a1d6bbb5f9b5
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65934456"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65968349"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Идентификатор приложения Azure: веб-приложение : веб-fc71-2cf8-42f0-bcdd-83e5f4acfdcc
 
