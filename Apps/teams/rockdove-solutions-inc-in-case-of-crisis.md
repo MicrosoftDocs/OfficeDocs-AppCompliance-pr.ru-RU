@@ -3,24 +3,24 @@ title: Application Information for In Case of Crisis by RockDove Solutions, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для in Case of Crisis, ее политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 95c70c26f32bacabd6721e4b60f2417765a8eea0
-ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
+ms.openlocfilehash: 2a8c81db5aeda003ad0f71971f0b63a5b5cee460
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943128"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65967659"
 ---
 # <a name="in-case-of-crisis"></a>In Case of Crisis
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 6 июня 2022 г.</p>
+<p>Последнее обновление разработчика: 8 июня 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/cf430644-447e-4572-8467-3892596d05c7" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003194" target="_blank">Просмотр в AppSource</a>
@@ -121,7 +121,7 @@ ms.locfileid: "65943128"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Н/Д |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Н/Д |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
 | Соответствует ли приложение NIST 800-171? | Н/Д |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -158,7 +158,7 @@ ms.locfileid: "65943128"
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Да |
-| Хранит ли ваше приложение учетные данные в коде? | Да |
+| Хранит ли ваше приложение учетные данные в коде? | Нет |
 | Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
