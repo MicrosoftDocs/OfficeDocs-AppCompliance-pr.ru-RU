@@ -3,17 +3,17 @@ title: Безопасность и соответствие приложений
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/31/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 19607b575ae4c5b257415c0d7e373a36c398802b
-ms.sourcegitcommit: 29a4475d630d2f1d0755a6322eb994646322aca1
+ms.openlocfilehash: 6531238f8a203e205f67f521984a85c3a029df5f
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65804683"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65981583"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие приложений SaaS
 
@@ -58,6 +58,7 @@ ms.locfileid: "65804683"
 | [Политики Аналитика &amp; для Microsoft Office 365](./avepoint-inc-policiesinsights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Project Migrator](./fluentpro-software-corporation-project-migrator.md) | FluentPro Software Corporation | **✓** |  |
+| [Интеграция Microsoft Teams Puzzel](./puzzel-as-microsoft-teams-integration.md) | Puzzel AS | **✓** |  |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [Выбор слайдов](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Интеграция storm Cloud Contact Center Teams](./content-guru-storm-cloud-contact-center-teams-integration.md) | Content Guru | **✓** |  |
