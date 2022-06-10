@@ -1,21 +1,21 @@
 ---
-title: Сведения об идентификаторе приложения Azure для 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
+title: приложение Azure идентификатора для 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/08/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.
-ms.openlocfilehash: 872363eb6c2d0502b625629720e96050c31e915a
-ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
+ms.openlocfilehash: 0a909e087b17d9fda08feb22854eb49c2edc7cbf
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/09/2022
-ms.locfileid: "65967559"
+ms.locfileid: "65978061"
 ---
-# <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Идентификатор приложения Azure: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
+# <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>приложение Azure: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
@@ -23,5 +23,5 @@ ms.locfileid: "65967559"
 |--------------|---------------|-----------------------|
 | [Autopilot Workflows](../forward/WA200003745.md) |  | [https://appsource.microsoft.com/product/office/WA200003745](https://appsource.microsoft.com/product/office/WA200003745) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Состояние соответствия приложений Microsoft 365
-- Состояние аттестации издателя: завершено
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 состояния соответствия приложения
+- Publisher аттестации: завершено
