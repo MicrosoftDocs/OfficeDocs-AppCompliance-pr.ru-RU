@@ -3,24 +3,24 @@ title: Сведения о приложении для Jira Cloud от Atlassian
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/27/2021
+ms.date: 06/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для Jira Cloud, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bcba0e0913aab92a5808c0316443696de0767b54
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 4c1f10d22494f45b1e51277e9f33206c8f73fbc4
+ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880996"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66076070"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 11 августа 2021 г.</p>
+<p>Последнее обновление разработчика: 13 июня 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/aa183fd9-7104-46c4-af9f-9ee9b81d717e" target="_blank">Просмотр в Teams хранилище</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002140" target="_blank">Просмотр в AppSource</a>
@@ -34,7 +34,7 @@ ms.locfileid: "64880996"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Jira Cloud |
-| Идентификатор | WA200002140 |
+| ID | WA200002140 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | Atlassian |
 | Веб-сайт компании | [https://www.atlassian.com](https://www.atlassian.com) |
@@ -146,10 +146,9 @@ ms.locfileid: "64880996"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
-| Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Нет |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
+| Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
@@ -157,7 +156,7 @@ ms.locfileid: "64880996"
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| offline_access | Делегированные | Предоставьте доступ к ресурсам от имени пользователя в течение продолжительного времени, чтобы обеспечить наилучшее взаимодействие с пользователем. | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
 >| openid | Делегированные | Получите заданное имя, фамилию, предпочтительное имя пользователя и идентификатор объекта. | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
