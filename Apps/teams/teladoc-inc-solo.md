@@ -3,24 +3,24 @@ title: Application Information for Solo by Teladoc, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/03/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для Solo, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 643a6162d201fb7b41e2bb33dc0268670e59bcc5
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 5b00791610112ea615e763c0504a88334195a0ae
+ms.sourcegitcommit: fd81f2f5b4f627e3d1cabdff7e2caf40fafbe35c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228993"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66118003"
 ---
 # <a name="solo"></a>Solo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 5 октября 2021 г.</p>
+<p>Последнее обновление разработчика: 15 июня 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e" target="_blank">Просмотр в Teams хранилище</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003826" target="_blank">Просмотр в AppSource</a>
@@ -41,7 +41,7 @@ ms.locfileid: "65228993"
 | Условия использования приложения | [https://www.teladochealth.com/terms-and-conditions/](https://www.teladochealth.com/terms-and-conditions/) |
 | Основные функциональные возможности приложения | Платформа виртуального обслуживания с настраиваемыми службами и рабочими процессами пациентов. |
 | Расположение компании | США Америки |
-| Страница сведений о приложении | [https://intouchhealth.com/virtual-care-platform/solo/](https://intouchhealth.com/virtual-care-platform/solo/) |
+| Страница сведений о приложении | [https://teladochealth.com/platform/](https://teladochealth.com/platform/) |
 | Какая среда размещения или модель службы используются для запуска приложения? | Iaas |
 | Какие поставщики облачных служб используются приложением? | Azure, Aws |
 
@@ -110,16 +110,16 @@ ms.locfileid: "65228993"
 |:----------------|:-------------|
 | Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Да |
 | Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Да |
-| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Н/Д |
+| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Недоступно |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
 | Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Да |
 | Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Да |
-| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Н/Д |
+| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Недоступно |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
-| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Н/Д |
+| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
 | Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Да |
 | Соответствует ли приложение NIST 800-171? | Недоступно |
@@ -156,7 +156,6 @@ ms.locfileid: "65228993"
 | Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
@@ -166,15 +165,15 @@ ms.locfileid: "65228993"
 
 >|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.Read.All | Делегированные | Получение идентификатора приложения каталога для нашего приложения sidepanel и его установка в запланированных встречах телеобнаправления | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| CallRecords.Read.All | приложение | Обеспечение качества звонков, связанных с телефонными встречами | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| OnlineMeetings.ReadWrite | Делегированные | Установка sidePanel узла и присоединение пациента в пользовательском приложении к встрече | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| TeamsActivity.Send | приложение | Сигнал о завершении сеанса для встречи с телеобнаправлением. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| User.Read | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| email | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| offline_access | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| openid | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| profile | Делегированные | oid и tid используются для сопоставления между учетной записью Solo и учетной записью Teams, поэтому Teams может просматривать свои встречи с телесхемами. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| AppCatalog.Read.All | Делегированные | Получение идентификатора приложения каталога для нашего приложения sidepanel и его установка в запланированных встречах телеобнаправления | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| CallRecords.Read.All | приложение | Обеспечение качества звонков, связанных с телефонными встречами | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| OnlineMeetings.ReadWrite | Делегированные | Установка sidePanel узла и присоединение пациента в пользовательском приложении к встрече | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| TeamsActivity.Send | приложение | Сигнал о завершении сеанса для встречи с телеобнаправлением. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| User.Read | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| email | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| offline_access | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| openid | Делегированные | Единый вход приложений из Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| profile | Делегированные | oid и tid используются для сопоставления между учетной записью Solo и учетной записью Teams, поэтому Teams может просматривать свои встречи с телесхемами. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
 
 >Это приложение не имеет дополнительных API.
 
