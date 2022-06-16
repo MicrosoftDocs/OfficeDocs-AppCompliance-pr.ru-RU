@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/09/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 56839853edb1d3e89025d2a7107bc4c8e100cf01
-ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
+ms.openlocfilehash: 9cdf75c39ae9b7081c05934ed70d34f3ae656e90
+ms.sourcegitcommit: 6df79f38ffe390e7339cd6ce5eb32641a9f4c1a9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2022
-ms.locfileid: "65978881"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66111317"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -63,7 +63,6 @@ ms.locfileid: "65978881"
 | [Aula Digital](./leya-sa-aula-digital.md) | Leya, S.A. | **✓** |  |
 | [Autopilot Workflows](./autopilot-workflow-solutions-workflows.md) | Autopilot Workflow Solutions | **✓** |  |
 | [Avaamo IT Assistant](./avaamo-it-assistant.md) | Avaamo | **✓** |  |
-| [Axelleron](./axelleron.md) | Axelleron | **✓** |  |
 | [Axis](./axis-workshops-ltd.md) | Axis Workshops Ltd | **✓** |  |
 | [B12](./apprentx-b12.md) | Apprentx | **✓** |  |
 | [Beagle](./decision-point-beagle.md) | Точка принятия решений | **✓** |  |
@@ -417,6 +416,7 @@ ms.locfileid: "65978881"
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
 | [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
 | [Skoach](./cultify-lda-skoach.md) | Cultify, Lda | **✓** |  |
+| [SkyBoard](./system-analytic-skyboard.md) | System Analytic | **✓** |  |
 | [Smarp](./smarp.md) | Smarp | **✓** |  |
 | [Smart Connect for Jira](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  |
 | [SmartDraw](./smartdraw-software-llc.md) | SmartDraw Software, LLC | **✓** |  |
@@ -464,7 +464,6 @@ ms.locfileid: "65978881"
 | [TeaMe Health Check Bot](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teameo Class Space](./ls2-innovation-teameo-class-space.md) | LS2 Innovation | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
-| [TeamGether](./effency-teamgether.md) | EFFENCY | **✓** |  |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [TeamsChamp](./teamschamp.md) | TeamsChamp | **✓** |  |
@@ -481,6 +480,7 @@ ms.locfileid: "65978881"
 | [ti8m places](./tim-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
 | [Отправка запросов как услуга](./kitameraki-limited-ticketing-as-a-service.md) | kitameraki limited | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
+| [Тилли](./tilly-group-limited.md) | Tilly Group Limited | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost — отслеживание времени](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
@@ -504,6 +504,7 @@ ms.locfileid: "65978881"
 | [Vonage Business Communications](./vonage-business-communications.md) | Vonage | **✓** |  |
 | [Vtiger CRM](./vtiger-crm.md) | Vtiger | **✓** |  |
 | [Waldo](./kickle-waldo.md) | Kickle | **✓** |  |
+| [Wanda](./unit4-business-software-wanda.md) | Unit4 Business Software | **✓** |  |
 | [Wats](./skillbase-wats.md) | Skillbase | **✓** |  |
 | [Wazoku](./wazoku.md) | Wazoku | **✓** |  |
 | [Webdashboard](./in-summa-webdashboard.md) | In Summa | **✓** |  |
@@ -534,6 +535,7 @@ ms.locfileid: "65978881"
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
 | [Zero Time Bot](./replicon-zero-time-bot.md) | Replicon | **✓** |  |
 | [Zignals](./alight-consulting-gmbh-zignals.md) | Alight Consulting GmbH | **✓** |  |
+| [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho Notebook](./zoho-corporation-private-limited-notebook.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho Sign](./zoho-corporation-private-limited-sign.md) | Zoho Corporation Private Limited | **✓** |  |
