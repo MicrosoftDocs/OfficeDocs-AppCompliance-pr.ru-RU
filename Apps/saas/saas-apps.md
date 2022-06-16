@@ -3,17 +3,17 @@ title: Безопасность и соответствие приложений
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/09/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 6531238f8a203e205f67f521984a85c3a029df5f
-ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
+ms.openlocfilehash: edfe4a2842bdc051f4b0c6cc9457b827a5ae9798
+ms.sourcegitcommit: 6df79f38ffe390e7339cd6ce5eb32641a9f4c1a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2022
-ms.locfileid: "65981583"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66112737"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие приложений SaaS
 
@@ -49,6 +49,7 @@ ms.locfileid: "65981583"
 | [Luware Nimbus для Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Группа доступности Luware | **✓** |  |
 | [Подпись почты](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA — мой интеллектуальный личный помощник](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [ModuleQ](./moduleq.md) | ModuleQ | **✓** |  |
 | [MURAL](./mural.md) | MURAL | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyHub для Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Netskope for Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
