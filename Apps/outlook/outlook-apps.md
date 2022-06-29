@@ -1,28 +1,27 @@
 ---
-title: Безопасность и соответствие Outlook Microsoft Outlook — все приложения
+title: Безопасность и соответствие приложений Microsoft Outlook — все приложения
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/31/2022
+ms.date: 06/24/2022
 ms.topic: article
 ms.service: attestation
-description: Все доступные сведения о безопасности и соответствии требованиям для всех microsoft Outlook Apps.
+description: Все доступные сведения о безопасности и соответствии требованиям для всех приложений Microsoft Outlook.
 localization_priority: Normal
-ms.openlocfilehash: 9328f65dcdbc22d97a0b71a1e7e4a1c83814140b
-ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
+ms.openlocfilehash: 931290ecbe2e51c6d9a94232eacab98a693bc25f
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65818377"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66247305"
 ---
-# <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps Security and Compliance
+# <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность и соответствие требованиям приложений Microsoft Outlook
 
-Корпорация Майкрософт сотрудничает с нашими Microsoft 365-разработчиками, чтобы предоставить информационные организации, необходимые для ускорения и информирования решений о microsoft Outlook Apps и надстройки, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт сотрудничает с нашими партнерами по разработке Microsoft 365, чтобы предоставить организациям информацию, необходимую для ускорения и информирования о решениях о приложениях и надстройких Microsoft Outlook, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Acrobat Sign for Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Утвержденные календари контактов](./approved-contact-calendars.md) | Approved Contact | **✓** |  |
+| [Adobe Acrobat Sign для Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Appspace для Outlook](./appspace-inc-for-outlook.md) | Appspace, Inc | **✓** |  |
 | [Повышение почты](./boost-my-mail.md) | Повышение почты | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
@@ -32,10 +31,10 @@ ms.locfileid: "65818377"
 | [Динамо](./dynamo-software.md) | Dynamo Software | **✓** |  |
 | [Email Reactor](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
-| [Подписи для Outlook](./impression-signatures-for-outlook.md) | Подписи для просмотра | **✓** |  |
+| [Подписи просмотров для Outlook](./impression-signatures-for-outlook.md) | Подписи для просмотра | **✓** |  |
 | [Надстройка планировщика Office 365 iPlanner для Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Jira Cloud for Outlook (official)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
+| [Jira Cloud для Outlook (официально)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
 | [Управление крайними сроками в &amp; LawToolBox — Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlinesmatter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [Крайние сроки и управление предметами в LawToolBox — Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [Mailbutler](./mailbutler.md) | Mailbutler | **✓** |  |
@@ -45,9 +44,9 @@ ms.locfileid: "65818377"
 | [officeatwork — выбор содержимого для Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork — подпись почты для Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
 | [OnePlaceMail для Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | Решения OnePlace | **✓** |  |
-| [Взаимодействие с клиентами для Outlook](./outreach-sales-engagement-for-outlook.md) | Охват | **✓** |  |
+| [Engagement для Outlook](./outreach-sales-engagement-for-outlook.md) | Охват | **✓** |  |
 | [Pexip One для Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [Матрица приоритетов — преобразование сообщений электронной почты в задачи](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
-| [Strategy-AI для Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
+| [Стратегия и ИИ для Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
 | [Защищенная электронная почта XQ](./xq-message-secure-email.md) | Сообщение XQ | **✓** |  |

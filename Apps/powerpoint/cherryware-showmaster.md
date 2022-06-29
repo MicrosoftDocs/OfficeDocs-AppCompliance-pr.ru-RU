@@ -3,24 +3,24 @@ title: Сведения о приложении showmaster byware
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/27/2022
+ms.date: 06/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для Showmaster, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9cde99fdf18b018fe2b881c4f60837fa88d8ae66
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: f6c6e1d68e4e0ab5a366ccb98f9d05420fcd044c
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881091"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66248722"
 ---
 # <a name="showmaster"></a>Showmaster
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 21 января 2022 г.</p>
+<p>Последнее обновление разработчика: 23 июня 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003706" target="_blank">Просмотр в AppSource</a>
 
@@ -34,11 +34,11 @@ ms.locfileid: "64881091"
 |:----------------|:-------------|
 | Название приложения | Showmaster |
 | Идентификатор | WA200003706 |
-| Office 365 поддерживаемые клиенты | PowerPoint 2016 mac, PowerPoint в Интернете, PowerPoint 2016 или более поздней версии на Windows |
+| Office 365 поддерживаемые клиенты | PowerPoint 2016 mac, PowerPoint в Интернете, PowerPoint 2016 или более поздней версии в Windows |
 | Название партнерской компании | похитовка |
 | Веб-сайт компании | [https://www.cherryware.com](https://www.cherryware.com) |
 | Условия использования приложения | [https://showmaster.app/terms/](https://showmaster.app/terms/) |
-| Основные функциональные возможности приложения | Showmaster — это PowerPoint надстройка, которая создает интересный кадр вокруг вашего разговора во время ожидания и прерывает работу заголовками, обратным отсчетом, музыкой и т. д. |
+| Основные функциональные возможности приложения | Showmaster — это надстройка PowerPoint, которая создает интересный кадр вокруг вашего разговора во время ожидания и прерывает работу заголовками, обратным отсчетом, музыкой и т. д. |
 | Расположение компании | Германия |
 | Страница сведений о приложении | [https://showmaster.app](https://showmaster.app) |
 | Какая среда размещения или модель службы используются для запуска приложения? | Paas |
@@ -134,16 +134,15 @@ ms.locfileid: "64881091"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
->Это приложение не использует microsoft Graph.
+>Это приложение не использует Microsoft Graph.
 
 >Это приложение не имеет дополнительных API.
 
