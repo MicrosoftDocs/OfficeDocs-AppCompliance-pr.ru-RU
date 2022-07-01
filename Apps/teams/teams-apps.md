@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 06/29/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 884023d5c7791a53d31c8b6f630b6c50eb9d24dd
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: fb5fad9efeb1856f2d827161648f2d3a24f93f8c
+ms.sourcegitcommit: 2ae239376c807fa9223fc7e18daa1feed6e826aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66249522"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66564555"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -26,6 +26,7 @@ ms.locfileid: "66249522"
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
+| [Abi](./beroe-abi.md) | Beroe | **✓** |  |
 | [absentify](./braincore-solutions-absentify.md) | Решения BrainCore | **✓** |  |
 | [ACV](./tangible-it-mexico-acv.md) | Tangible IT Mexico | **✓** |  |
 | [Adobe Acrobat](./adobe-acrobat.md) | Adobe | **✓** |  |
@@ -68,6 +69,7 @@ ms.locfileid: "66249522"
 | [Avaamo IT Assistant](./avaamo-it-assistant.md) | Avaamo | **✓** |  |
 | [Axis](./axis-workshops-ltd.md) | Axis Workshops Ltd | **✓** |  |
 | [B12](./apprentx-b12.md) | Apprentx | **✓** |  |
+| [Beacapp Here](./beacapp-inc-here.md) | Beacapp Inc. | **✓** |  |
 | [Beagle](./decision-point-beagle.md) | Точка принятия решений | **✓** |  |
 | [Bedriftsnett](./unifon-as-bedriftsnett.md) | Unifon AS | **✓** |  |
 | [Berry](./berryworksai-berry.md) | Berryworks.ai | **✓** |  |
@@ -183,6 +185,7 @@ ms.locfileid: "66249522"
 | [Employee Referrals](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Управление обучением сотрудников](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
+| [EN-UA Dictionary](./skyline-consulatnts-en-ua-dictionary.md) | Skyline Consulatnts | **✓** |  |
 | [ENA SmartUC Connector](./ena-smartuc-connector.md) | ENA | **✓** |  |
 | [Enboarder](./enboarder.md) | Enboarder | **✓** |  |
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
@@ -229,6 +232,7 @@ ms.locfileid: "66249522"
 | [Goalhub](./momentum-cloud-pty-ltd-goalhub.md) | Momentum Cloud Pty Ltd | **✓** |  |
 | [GoLinks](./golinks.md) | GoLinks | **✓** |  |
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
+| [Grafana OnCall](./grafana-labs-oncall.md) | Grafana Labs | **✓** |  |
 | [GRATICA](./okwave-inc-gratica.md) | OKWAVE, Inc. | **✓** |  |
 | [Groopit](./groopit.md) | Groopit | **✓** |  |
 | [Group Address Book - NextSet](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
@@ -273,6 +277,7 @@ ms.locfileid: "66249522"
 | [Jira Integration Plus](./nextup-llc-jira-integration-plus.md) | Далее, LLC | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Cloud Soultions | **✓** |  |
 | [Joye](./joye-pte-ltd.md) | Joye Pte Ltd | **✓** |  |
+| [JustLogin](./justlogin.md) | JustLogin | **✓** |  |
 | [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Kami](./kami.md) | Kami | **✓** |  |
 | [Kanban Tool](./shore-labs-kanban-tool.md) | Shore Labs | **✓** |  |
@@ -398,7 +403,7 @@ ms.locfileid: "66249522"
 | [Priority Matrix HIPAA](./appfluence-inc-priority-matrix-hipaa.md) | Appfluence Inc | **✓** |  |
 | [PrivyNow](./pt-privy-identitas-digital-privynow.md) | PT Privy Identitas Digital | **✓** |  |
 | [Process Street](./process-street.md) | Process Street | **✓** |  |
-| [Proconnect для Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** |  |
+| [Proconnect для Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Project Insight](./project-insight.md) | Project Insight | **✓** |  |
 | [Project Migrator](./fluentpro-software-corporation-project-migrator.md) | FluentPro Software Corporation | **✓** |  |
 | [Projectplace](./planview-inc-projectplace.md) | Planview, Inc. | **✓** |  |
@@ -457,6 +462,7 @@ ms.locfileid: "66249522"
 | [SmartPods](./discourse-analytics-smartpods.md) | Discourse Analytics | **✓** |  |
 | [Smartsheet](./smartsheet.md) | Smartsheet | **✓** |  |
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
+| [Smy](./supermonday-smy.md) | Supermonday | **✓** |  |
 | [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
 | [Sociabble](./sociabble.md) | Sociabble | **✓** |  |
 | [Social Advocacy](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
@@ -518,6 +524,7 @@ ms.locfileid: "66249522"
 | [Отправка запросов как услуга](./kitameraki-limited-ticketing-as-a-service.md) | kitameraki limited | **✓** |  |
 | [Tigim Analytics](./hippo-ed-tech-ltd-tigim-analytics.md) | Hippo Ed Tech LTD | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
+| [Tikit Virtual Agent](./cireson-tikit-virtual-agent.md) | Cireson | **✓** |  |
 | [Тилли](./tilly-group-limited.md) | Tilly Group Limited | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost — отслеживание времени](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
