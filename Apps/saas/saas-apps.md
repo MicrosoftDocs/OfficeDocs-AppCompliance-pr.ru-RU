@@ -3,17 +3,17 @@ title: Безопасность и соответствие приложений
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/23/2022
+ms.date: 07/06/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 6ba43a9eff08de81ac98d1f3894209e5153df496
-ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
+ms.openlocfilehash: 8b36fc9251cf7b9dd23b51af446852ec89271923
+ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66547628"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66651407"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие приложений SaaS
 
@@ -42,7 +42,7 @@ ms.locfileid: "66547628"
 | [Ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [iGlobe CRM Office 365 microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Выбор изображений](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [iPlanner Pro для Office 365](./iglobe-iplanner-pro-for-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [IXCloud — аналитика записи соответствия &amp; Teams](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** |  |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Запись соответствия Luware для Microsoft Teams](./luware-ag-compliance-recording-for-microsoft-teams.md) | Группа доступности Luware | **✓** |  |

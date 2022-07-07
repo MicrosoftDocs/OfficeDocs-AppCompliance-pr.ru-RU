@@ -1,24 +1,24 @@
 ---
-title: Microsoft Project безопасности и соответствия требованиям приложений — все приложения
+title: Безопасность и соответствие требованиям приложений Microsoft Project — все приложения
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 07/06/2022
 ms.topic: article
 ms.service: attestation
-description: Вся доступная информация о безопасности и соответствии требованиям для всех Microsoft Project Apps.
+description: Все доступные сведения о безопасности и соответствии требованиям для всех приложений Microsoft Project.
 localization_priority: Normal
-ms.openlocfilehash: 43d3cee5881b9f7c8e010611c015e228c6f8a2b1
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 172cc0fcff80702087eae23481b02a968028edee
+ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63542527"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66652859"
 ---
-# <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project безопасности приложений и соответствия требованиям
+# <a name="microsoft-project-apps-security-and-compliance"></a>Безопасность и соответствие требованиям в Приложениях Microsoft Project
 
-Корпорация Майкрософт работает с Microsoft 365 партнерами-разработчиками, чтобы предоставить информационным организациям возможность ускорить принятие решений Microsoft Project приложений и надстройок, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
+Корпорация Майкрософт сотрудничает с нашими партнерами по разработке Microsoft 365, чтобы предоставить информационные организации, необходимые для ускорения и информирования решений о приложениях Microsoft Project и надстройких, которые они используют. Информация о безопасности, обработке данных и соответствии требованиям помогает организациям в оценке рисков и управлении ими при использовании этих приложений.
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [officeatwork — выбор шаблона для Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork — выбор шаблонов для Office — M365](./officeatwork-officeatworktemplate-chooser-for-office-m365.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
