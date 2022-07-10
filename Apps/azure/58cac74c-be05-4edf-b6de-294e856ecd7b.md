@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 58cac74c-b
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 07/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 58cac74c-be05-4edf-b6de-294e856ecd7b.
-ms.openlocfilehash: af4872fdbd298b83a58a3e1b45da47705635885f
-ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
+ms.openlocfilehash: da3cba1df9f169d418aad5042e5e85f4a832a68c
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2022
-ms.locfileid: "66672733"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66703768"
 ---
 # <a name="azure-app-id-58cac74c-be05-4edf-b6de-294e856ecd7b"></a>приложение Azure: 58cac74c-be05-4edf-b6de-294e856ecd7b
 
