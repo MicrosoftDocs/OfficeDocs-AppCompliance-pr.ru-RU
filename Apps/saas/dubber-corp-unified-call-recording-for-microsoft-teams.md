@@ -1,26 +1,25 @@
 ---
-title: Сведения о приложении для записи унифицированных вызовов в Приложении Microsoft Teams От Добера Корп
+title: Сведения о приложении для записи унифицированных  вызовов Для Microsoft Teams От Добера Корп (Веббер Корп)
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/13/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Все доступные сведения о безопасности и соответствии для Записи унифицированных вызовов Для Microsoft Teams, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ffd0d8bd400cb9f2cf1d53e489b3d3afe2023b7
-ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
+certification_type: certified
+description: Вся доступная информация о безопасности и соответствии требованиям для записи унифицированных вызовов Для Microsoft Teams, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 57bc755e9b5e871c8871b2e1ffc5a669612fed7b
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838817"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66704308"
 ---
-# <a name="dubber-unified-call-recording-for-microsoft-teams"></a>Унифицированная запись вызовов Для Microsoft Teams
+# <a name="dubber-unified-call-recording-for-microsoft-teams"></a>Унифицированная запись  вызовов Вайбера для Microsoft Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 11 апреля 2022 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 13 апреля 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/dubbercorp1603082091027.dubber01" target="_blank">Просмотр в AppSource</a>
 
@@ -32,7 +31,7 @@ ms.locfileid: "64838817"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Унифицированная запись вызовов Для Microsoft Teams |
+| Название приложения | Унифицированная запись  вызовов Вайбера для Microsoft Teams |
 | ID | simonbercorp1603082091027.веб-сайт; |
 | Название партнерской компании | Дублбер Корп (Веббер) |
 | Веб-сайт компании | [https://www.dubber.net](https://www.dubber.net) |
@@ -151,16 +150,15 @@ ms.locfileid: "64838817"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
->Это приложение не использует microsoft Graph.
+>Это приложение не использует Microsoft Graph.
 
 >Это приложение не имеет дополнительных API.
 
@@ -168,3 +166,39 @@ ms.locfileid: "64838817"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Результат сертификации Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | Недоступно |
+| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

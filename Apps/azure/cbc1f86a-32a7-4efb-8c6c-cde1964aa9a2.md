@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для cbc1f86a-3
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 07/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2.
-ms.openlocfilehash: 607a611bde5b5cee51e99f7108ae479dd2a314e6
-ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
+ms.openlocfilehash: 79a30e2a117db037dcae479cbb15f7294227d38b
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2022
-ms.locfileid: "66680004"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66706364"
 ---
 # <a name="azure-app-id-cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2"></a>приложение Azure: cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2
 

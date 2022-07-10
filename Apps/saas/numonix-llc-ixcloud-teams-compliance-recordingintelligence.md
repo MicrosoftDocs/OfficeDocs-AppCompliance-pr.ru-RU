@@ -1,26 +1,25 @@
 ---
-title: Application Information for IXCloud — Teams compliance Recording &amp; Intelligence by Numonix LLC
+title: Сведения о приложении для IXCloud — Аналитика записи &amp; соответствия Teams от Numonix LLC
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/11/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Все доступные сведения о безопасности и соответствии для IXCloud — Teams compliance Recording &amp; Intelligence, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5628c375c4a33d93ed06ada1f31d85c316b4220f
-ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
+certification_type: certified
+description: Все доступные сведения о безопасности и соответствии требованиям для IXCloud — Аналитика записи соответствия Teams&amp;, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии в реестре CSA STAR.
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: d174cb155e2e40973392a6648e794a77e3248c2c
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64776310"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66706192"
 ---
-# <a name="ixcloud---teams-compliance-recording-amp-intelligence"></a>IXCloud — Teams записи соответствия &amp;
+# <a name="ixcloud---teams-compliance-recording-amp-intelligence"></a>IXCloud — аналитика записи соответствия &amp; Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 23 февраля 2022 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 12 апреля 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/numonix.nmx-teams" target="_blank">Просмотр в AppSource</a>
 
@@ -32,12 +31,12 @@ ms.locfileid: "64776310"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | IXCloud — Teams записи соответствия &amp; |
+| Название приложения | IXCloud — аналитика записи соответствия &amp; Teams |
 | ID | numonix.nmx-teams |
 | Название партнерской компании | Numonix LLC |
 | Веб-сайт компании | [https://numonix.cloud](https://numonix.cloud) |
 | Условия использования приложения | [https://numonix.cloud/Compliance/](https://numonix.cloud/Compliance/) |
-| Основные функциональные возможности приложения | IXCloud — это безопасное полностью управляемое собственное облачное решение для записи соответствия требованиям как услуга для Teams |
+| Основные функциональные возможности приложения | IXCloud — это безопасное, полностью управляемое собственное облачное решение для записи соответствия требованиям как услуга для Teams |
 | Расположение компании | США Америки |
 | Страница сведений о приложении | [https://appsource.microsoft.com/en-us/product/web-apps/numo...](https://appsource.microsoft.com/en-us/product/web-apps/numonix.nmx-teams) |
 | Какая среда размещения или модель службы используются для запуска приложения? | Paas |
@@ -57,7 +56,7 @@ ms.locfileid: "64776310"
 |:----------------|:-------------|
 | Обрабатывает ли приложение или базовая инфраструктура какие-либо данные, связанные с клиентом Майкрософт или его устройством? | Нет |
 | Хранит ли приложение или базовая инфраструктура данные клиента Майкрософт? | Да |
-| Какие данные хранятся в базах данных? | UPN |
+| Какие данные хранятся в базах данных? | Имя участника-пользователя |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | США Америки, Соединенного Королевства Соединенного Королевства и Северной Ирландии (сша), Германии, Австралии, Юар |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
 | Как долго данные сохраняются после завершения работы учетной записи? | Менее 90 дней |
@@ -150,18 +149,17 @@ ms.locfileid: "64776310"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | приложение | Определение участников и доставка записей по запросу и предоставление отключения | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
 >| Calls.AccessMedia.All | приложение | Запись  | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
@@ -172,20 +170,20 @@ ms.locfileid: "64776310"
 >| OnlineMeetings.Read | приложение | Чтение сведений о собрании для метаданных и правил записи OnDemand | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
 >| User.Read | приложение | Получение метаданных и идентификация пользователей | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
 >| Calendars.Read | приложение | Позволяет приложению считывать события всех календарей без входа пользователя | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
->| Calls.AccessMedia.All | приложение | Доступ к потокам мультимедиа в вызове в качестве приложения | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
+>| Calls.AccessMedia.All | приложение | Доступ к медиапотокам во время вызова в качестве приложения | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calls.Initiate.All | приложение | Позволяет приложению выполнять исходящие вызовы одному пользователю и передавать вызовы пользователям в организации&#8217;каталоге. | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calls.InitiateGroupCall.All | приложение | Позволяет приложению совершать исходящие звонки нескольким пользователям и добавлять участников к собранию. | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calls.JoinGroupCall.All | приложение | Позволяет приложению присоединяться к групповым звонкам и запланированным собраниям в организации без необходимости входа пользователя. Приложение будет присоединено с правами пользователя каталога к собраниям в вашей организации. | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
->| Calls.JoinGroupCallasGuest.All | приложение | Присоединение к групповым звонкам и собраниям в качестве гостя | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
->| OnlineMeetings.Read.All | приложение | Позволяет приложению считывать сведения о собрании по сети в организации без необходимости входа пользователя. | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
+>| Calls.JoinGroupCallasGuest.All | приложение | Присоединение к групповым вызовам и собраниям в качестве гостя | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
+>| OnlineMeetings.Read.All | приложение | Позволяет приложению считывать сведения о виртуальном собрании в организации без входа пользователя. | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| User.Read.All | приложение | Позволяет приложению считывать профили пользователей без входа пользователя. | [77578a4c-117a-4cd4-b36d-3ea09ca2ed](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calendars.Read | приложение | Позволяет приложению считывать события всех календарей без входа пользователя | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
->| Calls.AccessMedia.All | приложение | Доступ к потокам мультимедиа в вызове в качестве приложения | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
+>| Calls.AccessMedia.All | приложение | Доступ к медиапотокам во время вызова в качестве приложения | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| Calls.Initiate.All | приложение | Позволяет приложению выполнять исходящие вызовы одному пользователю и передавать вызовы пользователям в организации&#8217;каталоге. | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| Calls.InitiateGroupCall.All | приложение | Позволяет приложению совершать исходящие звонки нескольким пользователям и добавлять участников к собранию. | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| Calls.JoinGroupCall.All | приложение | присоединение к групповым звонкам и запланированным собраниям в организации | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
->| Calls.JoinGroupCallasGuest.All | приложение | Присоединение к групповым звонкам и собраниям в качестве гостя | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
->| OnlineMeetings.Read.All | приложение | Позволяет приложению считывать сведения о собрании по сети в организации без необходимости входа пользователя. | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
+>| Calls.JoinGroupCallasGuest.All | приложение | Присоединение к групповым вызовам и собраниям в качестве гостя | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
+>| OnlineMeetings.Read.All | приложение | Позволяет приложению считывать сведения о виртуальном собрании в организации без входа пользователя. | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| User.Read.All | приложение | Позволяет приложению считывать профили пользователей без входа пользователя. | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 
 >Это приложение не имеет дополнительных API.
@@ -194,3 +192,39 @@ ms.locfileid: "64776310"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Результат сертификации Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | Недоступно |
+| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

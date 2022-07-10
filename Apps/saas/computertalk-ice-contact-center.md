@@ -3,24 +3,23 @@ title: Сведения о приложении для ice Contact Center от C
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/01/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для ice Contact Center, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 932a13e140f4d332275cf21acf529af1c5f691e4
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 3624609e62383a44e9dd6eba04d68a6bcc356685
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879856"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66707346"
 ---
 # <a name="ice-contact-center"></a>Ice Contact Center
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 31 января 2022 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 14 февраля 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/computertalk.ice-contact-center" target="_blank">Просмотр в AppSource</a>
 
@@ -33,7 +32,7 @@ ms.locfileid: "64879856"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Ice Contact Center |
-| Идентификатор | computertalk.ice-contact-center |
+| ID | computertalk.ice-contact-center |
 | Название партнерской компании | ComputerTalk |
 | Веб-сайт компании | [https://www.computer-talk.com](https://www.computer-talk.com) |
 | Условия использования приложения | [https://www.computer-talk.com/product/enterprise-contact-ce...](https://www.computer-talk.com/product/enterprise-contact-center/ice-contact-center-for-teams) |
@@ -142,16 +141,15 @@ ms.locfileid: "64879856"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
->Это приложение не использует microsoft Graph.
+>Это приложение не использует Microsoft Graph.
 
 >Это приложение не имеет дополнительных API.
 
@@ -159,3 +157,39 @@ ms.locfileid: "64879856"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Результат сертификации Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | В области |
+| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **ПРОЙТИ** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | В области |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **ПРОЙТИ** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | В области |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

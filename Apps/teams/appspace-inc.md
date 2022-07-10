@@ -3,26 +3,25 @@ title: Application Information for Appspace by Appspace, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Appspace, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 24caf7d62adac3ed1db9a8b705805cfbfdce6629
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 79f03868c35f9604be796811f9a6bee688c842dd
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877316"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66705831"
 ---
 # <a name="appspace"></a>Appspace
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 8 июля 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 3 августа 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/a9a866c4-e5cf-47f2-932c-db14cb89008f" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://teams.microsoft.com/l/app/a9a866c4-e5cf-47f2-932c-db14cb89008f" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001738" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -34,7 +33,7 @@ ms.locfileid: "64877316"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Appspace |
-| Идентификатор | WA200001738 |
+| ID | WA200001738 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | Appspace, Inc. |
 | Веб-сайт компании | [https://www.appspace.com](https://www.appspace.com) |
@@ -135,18 +134,17 @@ ms.locfileid: "64877316"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Нет |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Нет |
 | Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? |  |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) |  |
 | Хранит ли ваше приложение учетные данные в коде? |  |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Team.ReadBasic.All | Делегированные | Получите команды, к которым принадлежит пользователь. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](../azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md) |
 >| User.ReadBasic.All | Делегированные | Чтение основных свойств профиля других пользователей в организации от имени вошедвшего пользователя. К этим свойствам относятся отображаемое имя, имя и фамилия, адрес электронной почты, открытые расширения, а также фотография. Также позволяет приложению считывать весь профиль вошедшего пользователя. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](../azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md) |
