@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 3bc7be07-d
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/08/2022
+ms.date: 07/12/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.
-ms.openlocfilehash: 66ec98960d5817aa1bb55985acbcb985a0df38bd
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+ms.openlocfilehash: 14dbbf42554f49988e41180f854c8e06e09ffd71
+ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66705010"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66761208"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>приложение Azure: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
