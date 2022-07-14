@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложений SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 2540acebe47558ff7e325ad58bef3741b7d40508
-ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
+ms.openlocfilehash: e8bd67ffe994724af91ce39854452cde1cc4b8db
+ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/14/2022
-ms.locfileid: "66786031"
+ms.locfileid: "66792758"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Безопасность и соответствие приложений SaaS
 
@@ -38,7 +38,7 @@ ms.locfileid: "66786031"
 | [Унифицированная запись  вызовов Вайбера для Microsoft Teams](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Дублбер Корп (Веббер) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Электронная почта](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes для Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (South Pacific) PTE Limited | **✓** |  |
-| [Интеграция Genesys Cloud CX Teams](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Облачные службы, Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Интеграция Genesys Cloud CX Teams](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Облачные службы, Inc | **✓** |  |
 | [Ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe CRM Office 365 microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Выбор изображений](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -46,7 +46,7 @@ ms.locfileid: "66786031"
 | [IXCloud — аналитика записи соответствия &amp; Teams](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Запись соответствия Luware для Microsoft Teams](./luware-ag-compliance-recording-for-microsoft-teams.md) | Группа доступности Luware | **✓** |  |
-| [Luware Nimbus для Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Группа доступности Luware | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Luware Nimbus для Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Группа доступности Luware | **✓** |  |
 | [Подпись почты](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA — мой интеллектуальный личный помощник](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ModuleQ](./moduleq.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

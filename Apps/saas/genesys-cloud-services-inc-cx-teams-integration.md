@@ -3,23 +3,24 @@ title: Application Information for Genesys Cloud CX Teams Integration by Genesys
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для интеграции Genesys Cloud CX Teams, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: f050c9d0e583b78334f6b047db96eaf2cf0ca69a
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 644d2bacf198b97934c87d341ae68d451c51ca7c
+ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66705550"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66792778"
 ---
 # <a name="genesys-cloud-cx-teams-integration"></a>Интеграция Genesys Cloud CX Teams
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 28 февраля 2022 г.</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 17 февраля 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/genesyslabs.genesys-cloud_teams_integration" target="_blank">Просмотр в AppSource</a>
 
@@ -174,39 +175,3 @@ ms.locfileid: "66705550"
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Сведения о сертификации
-
-| **Control** | **Результат сертификации Microsoft 365** |
-|:------------|:---------------------------------------|
-| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **ПРОЙТИ** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | В области |
-| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **ПРОЙТИ** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | В области |
-| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
