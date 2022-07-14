@@ -6,19 +6,20 @@ manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Центра контактов Для Teams, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 4388c1e72e3504ecf4d75aa59d2cfb75d3071239
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: b991fdcdd4e2c7aad48cbc5d26403a04b0b9c170
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66707336"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66781693"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Центр контактов Для Teams
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 23 ноября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">Просмотр в AppSource</a>
@@ -39,7 +40,7 @@ ms.locfileid: "66707336"
 | Основные функциональные возможности приложения | Решение Центра контактов для Microsoft Teams |
 | Расположение компании | Венгрия |
 | Страница сведений о приложении | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
-| Какая среда размещения или модель службы используются для запуска приложения? | Гибридная среда |
+| Какая среда размещения или модель службы используются для запуска приложения? | Iaas |
 | Какие поставщики облачных служб используются приложением? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -57,7 +58,13 @@ ms.locfileid: "66707336"
 | Обрабатывает ли приложение или базовая инфраструктура какие-либо данные, связанные с клиентом Майкрософт или его устройством? | Да |
 | Какие данные обрабатываются приложением? | Microsoft JWT User and refresh Token, Microsoft Application ID, App Secret, M365 Email content from API Graph |
 | Поддерживает ли приложение TLS 1.1 или более поздней версии? | Да |
-| Хранит ли приложение или базовая инфраструктура данные клиента Майкрософт? | Нет |
+| Хранит ли приложение или базовая инфраструктура данные клиента Майкрософт? | Да |
+| Какие данные хранятся в базах данных? | Microsoft JWT User and refresh Token, Microsoft Application ID, App Secret, M365 Email content from API Graph |
+| Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | Ирландия |
+| Есть ли у вас установленный процесс аренды и удаления данных? | Да |
+| Как долго данные сохраняются после завершения работы учетной записи? | Менее 90 дней |
+| Есть ли у вас установленный процесс управления доступом к данным? | Да |
+| Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -171,39 +178,3 @@ ms.locfileid: "66707336"
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Сведения о сертификации
-
-| **Control** | **Результат сертификации Microsoft 365** |
-|:------------|:---------------------------------------|
-| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | Недоступно |
-| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | В области |
-| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | В области |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | В области |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
