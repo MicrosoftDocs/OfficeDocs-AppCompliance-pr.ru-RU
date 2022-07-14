@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 6b0ce2dd-a
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/12/2022
+ms.date: 07/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 6b0ce2dd-a270-4ade-веб-7cf54bab8edd.
-ms.openlocfilehash: 780ad31223c18282a206f5a1253c26f23fe991cf
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: 379e26592e5565c71a7d1db9f79442e6de283db7
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66760108"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66786173"
 ---
 # <a name="azure-app-id-6b0ce2dd-a270-4ade-babb-7cf54bab8edd"></a>приложение Azure: 6b0ce2dd-a270-4ade-веб-7cf54bab8edd
 

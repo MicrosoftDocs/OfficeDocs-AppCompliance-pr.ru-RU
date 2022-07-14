@@ -3,23 +3,24 @@ title: Application Information for CallCabinet Atmos Compliance Recording and An
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для callCabinet Atmos Compliance Recording and Analytics, ее политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 2d5ae58290923dce70edff009cf5da518d9bc3c1
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: fc18f28713bf231d04babee6406dddc6702f6691
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66704008"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66785163"
 ---
 # <a name="callcabinet-atmos-compliance-recording-and-analytics"></a>Запись и аналитика соответствия требованиям CallCabinet Atmos
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 5 апреля 2022 г.</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 26 января 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/callcabinetcorporation1584393576335.atmos" target="_blank">Просмотр в AppSource</a>
 
@@ -165,39 +166,3 @@ ms.locfileid: "66704008"
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Сведения о сертификации
-
-| **Control** | **Результат сертификации Microsoft 365** |
-|:------------|:---------------------------------------|
-| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | Недоступно |
-| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | Недоступно |
-| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **Н/Д** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | Недоступно |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | Н/Д |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
