@@ -3,17 +3,17 @@ title: Безопасность и соответствие требования
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех приложений Microsoft Word.
 localization_priority: Normal
-ms.openlocfilehash: 01a8345e1f3b2448a2fd25d3be686bb77f28cc73
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: efa33380c53009acd61c5d2201d62c966a4bc895
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66655647"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66811332"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Безопасность и соответствие требованиям в Приложениях Microsoft Word
 
@@ -54,3 +54,4 @@ ms.locfileid: "66655647"
 | [Stilus для Word](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [Документация по TaxKit](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
+| [ValidSign](./validsign.md) | ValidSign | **✓** |  |

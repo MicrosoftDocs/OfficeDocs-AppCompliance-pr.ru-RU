@@ -136,7 +136,7 @@ items:
         href: outlook/salesforcecom-salesforce.md
       - name: Стратегия и ИИ для Outlook
         href: outlook/chinchilla-software-limited-strategy-ai-for-outlook.md
-      - name: Защищенная электронная почта XQ
+      - name: XQ Secure Email
         href: outlook/xq-message-secure-email.md
   - name: Приложения Microsoft PowerPoint
     href: powerpoint/powerpoint-apps.md
@@ -372,6 +372,8 @@ items:
         href: teams/brightcove-inc-video-connect.md
       - name: Brochesia
         href: teams/brochesia.md
+      - name: BrowserStack
+        href: teams/browserstack-inc.md
       - name: Bulletin Board - NextSet
         href: teams/nextsetinc-bulletin-board-nextset.md
       - name: C.AI Adoption Bot
@@ -436,6 +438,8 @@ items:
         href: teams/move-work-forward-confluence-connector-by-mwf.md
       - name: Connect+
         href: teams/reward-gateway-connectplus.md
+      - name: Центр контактов
+        href: teams/landis-technologies-llc-contact-center.md
       - name: Центр контактов | ROGER365.io
         href: teams/roger365io-contact-centerroger365io.md
       - name: Contacts Pro
@@ -454,12 +458,16 @@ items:
         href: teams/creately.md
       - name: CSOD Learn
         href: teams/cornerstone-ondemand-csod-learn.md
+      - name: Выступающий CT
+        href: teams/customertimes-ct-presenter.md
       - name: Cuckoo
         href: teams/cuckoo-networks-oy.md
       - name: Cultr Connect
         href: teams/cultr-connect.md
       - name: Culture Amp
         href: teams/culture-amp.md
+      - name: Курсор
+        href: teams/cursum-as.md
       - name: Cyberday
         href: teams/digiturvamalli-cyberday.md
       - name: Центр контактов CyCX
@@ -700,8 +708,6 @@ items:
         href: teams/hi5technologies-hi5.md
       - name: HighSide
         href: teams/highside-inc.md
-      - name: Highspot
-        href: teams/highspot.md
       - name: HitHorizons
         href: teams/finstat-sro-hithorizons.md
       - name: Hive
@@ -744,6 +750,8 @@ items:
         href: teams/nlsql-iq.md
       - name: isLucid
         href: teams/uab-lucid-agreements-islucid.md
+      - name: isolved
+        href: teams/isolved.md
       - name: iTalent
         href: teams/beisen-italent.md
       - name: Jabber
@@ -784,6 +792,8 @@ items:
         href: teams/ernst-klett-verlag-gmbh.md
       - name: Koan
         href: teams/koan-inc.md
+      - name: Панель мониторинга Koare
+        href: teams/koaretech-sl-koare-dashboard.md
       - name: Koare I-management
         href: teams/koaretech-sl-koare-i-management.md
       - name: Kuban Desks
@@ -902,6 +912,8 @@ items:
         href: teams/mural.md
       - name: My Reminders
         href: teams/appfluence-inc-my-reminders.md
+      - name: MyCheckins
+        href: teams/cloud-catalogs-llc-mycheckins.md
       - name: Myfone
         href: teams/flexfone-myfone.md
       - name: MyHub
@@ -1034,6 +1046,8 @@ items:
         href: teams/planview-inc-projectplace.md
       - name: Prowd
         href: teams/prowd.md
+      - name: Принудительная безопасность
+        href: teams/push-security.md
       - name: Q
         href: teams/moduleq-q.md
       - name: qbo
@@ -1064,7 +1078,7 @@ items:
         href: teams/recognize.md
       - name: Remind
         href: teams/88-ventures-limited-remind.md
-      - name: Воспроизведение с помощью IntraActive
+      - name: Replay by IntraActive
         href: teams/fellowmind-denmark-replay-by-intraactive.md
       - name: researcHR
         href: teams/researchr.md
@@ -1138,6 +1152,8 @@ items:
         href: teams/discourse-analytics-smartpods.md
       - name: Smartsheet
         href: teams/smartsheet.md
+      - name: SmartStash
+        href: teams/fellowmind-germany-gmbh-smartstash.md
       - name: SmartWork
         href: teams/smartwork-of-intumit.md
       - name: Smy
@@ -1152,7 +1168,7 @@ items:
         href: teams/teladoc-inc-solo.md
       - name: SQQ
         href: teams/superquickquestion-sqq.md
-      - name: Скайтифицировать
+      - name: Squadify
         href: teams/squadify-holdings-pty-ltd.md
       - name: Stack Overflow for Teams
         href: teams/stack-overflow-for-teams.md
@@ -1378,6 +1394,8 @@ items:
         href: teams/wurqi.md
       - name: X0PA ROOM
         href: teams/x0pa-ai-singapore-room.md
+      - name: X2O
+        href: teams/x2o-media-inc.md
       - name: xMatters
         href: teams/xmatters-inc.md
       - name: YAROOMS
@@ -1388,7 +1406,9 @@ items:
         href: teams/yucca-technologies-gmbh-yuccahr.md
       - name: Zavvy
         href: teams/zavvy-gmbh.md
-      - name: Бот ZeroTime
+      - name: Zendesk
+        href: teams/softserve-inc-office-store-zendesk.md
+      - name: ZeroTime Bot
         href: teams/replicon-zerotime-bot.md
       - name: Zignals
         href: teams/alight-consulting-gmbh-zignals.md
@@ -1471,6 +1491,8 @@ items:
         href: word/taxyio-gmbh-taxkit-docs.md
       - name: TerMef
         href: word/mondeca-termef.md
+      - name: ValidSign
+        href: word/validsign.md
   - name: Приложения SaaS
     href: saas/saas-apps.md
     items:
@@ -1492,7 +1514,7 @@ items:
         href: saas/netsupport-ltd-classroomcloud.md
       - name: Cloud Backup для Microsoft Office 365
         href: saas/avepoint-inc-cloud-backup-for-microsoft-office-365.md
-      - name: Подписи электронной почты CodeTwo для Office 365
+      - name: CodeTwo Email сигнатур для Office 365
         href: saas/codetwo-email-signatures-for-office-365.md
       - name: Competella Communication Suite
         href: saas/competella-ab-communication-suite.md
