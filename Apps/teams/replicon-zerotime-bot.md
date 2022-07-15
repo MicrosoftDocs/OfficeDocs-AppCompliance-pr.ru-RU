@@ -3,24 +3,24 @@ title: Сведения о приложении для Бота ZeroTime от Re
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/06/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для Бота ZeroTime, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 35065d4157b4a4870f76344189781e9ba3d6599b
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: 446918fff565bc4d136bcdded4d3e9059cf9bb2c
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66765187"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66815379"
 ---
-# <a name="zerotime-bot"></a>Бот ZeroTime
+# <a name="zerotime-bot"></a>ZeroTime Bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 8 декабря 2021 г.</p>
+<p>Последнее обновление разработчиком: 13 июля 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/4db812e1-4d29-44e4-b72e-9654c0c91ce4" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003717" target="_blank">Просмотр в AppSource</a>
@@ -33,13 +33,13 @@ ms.locfileid: "66765187"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Бот ZeroTime |
+| Название приложения | ZeroTime Bot |
 | ID | WA200003717 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | Replicon |
 | Веб-сайт компании | [https://www.replicon.com](https://www.replicon.com) |
 | Условия использования приложения | [https://www.replicon.com/terms-and-conditions/](https://www.replicon.com/terms-and-conditions/) |
-| Основные функциональные возможности приложения | Бот нулевого времени позволяет пользователям напрямую заполнять свои расписания Replicon, беседуя с ботом. |
+| Основные функциональные возможности приложения | Бот ZeroTime позволяет пользователям напрямую заполнять свои расписания Replicon, беседуя с ботом. |
 | Расположение компании | Канада |
 | Страница сведений о приложении | |
 | Какая среда размещения или модель службы используются для запуска приложения? | Iaas |

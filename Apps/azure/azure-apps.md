@@ -3,17 +3,17 @@ title: приложение Azure идентификаторов безопас�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/14/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложение Azure идентификаторов.
 localization_priority: Normal
-ms.openlocfilehash: afe7658b3d27e3041d26b78aa87a00108f6cd661
-ms.sourcegitcommit: ac75dd8bb815bc9e8b1d5b39a2d2dbe46e65f680
+ms.openlocfilehash: 70eb8e49daac35e033b2c4db9d7b545eceb87af3
+ms.sourcegitcommit: 7334fa6eb6f68a52bd5509a29dfecc5a315cf57a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/15/2022
-ms.locfileid: "66804660"
+ms.locfileid: "66820722"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>приложение Azure безопасности и соответствия требованиям
 
@@ -30,6 +30,7 @@ ms.locfileid: "66804660"
 | [032857b6-4d91-4617-bb1a-c44626985bd5](./032857b6-4d91-4617-bb1a-c44626985bd5.md) | **✓** |  |
 | [0492ead3-ee26-40df-9757-d95cc693d856](./0492ead3-ee26-40df-9757-d95cc693d856.md) | **✓** |  |
 | [05525b77-8ca6-462f-8902-15788cb405c6](./05525b77-8ca6-462f-8902-15788cb405c6.md) | **✓** |  |
+| [05c3e7fe-59c1-4d68-b334-336aa7ed4b64](./05c3e7fe-59c1-4d68-b334-336aa7ed4b64.md) | **✓** |  |
 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](./05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) | **✓** |  |
 | [066a6b3a-f7a0-450a-98c7-34db1da31594](./066a6b3a-f7a0-450a-98c7-34db1da31594.md) | **✓** |  |
 | [0752d800-857f-49bd-87eb-e60985516c67](./0752d800-857f-49bd-87eb-e60985516c67.md) | **✓** |  |
@@ -56,10 +57,12 @@ ms.locfileid: "66804660"
 | [12397cb1-c0e5-42ae-a5be-ca4084aeadd8](./12397cb1-c0e5-42ae-a5be-ca4084aeadd8.md) | **✓** |  |
 | [127e5be9-da2c-4335-a284-da367379428a](./127e5be9-da2c-4335-a284-da367379428a.md) | **✓** |  |
 | [12c3ee39-9735-4cca-8006-94650d19f770](./12c3ee39-9735-4cca-8006-94650d19f770.md) | **✓** |  |
+| [13a1db81-cc98-4568-867f-f902fdcc7335](./13a1db81-cc98-4568-867f-f902fdcc7335.md) | **✓** |  |
 | [14cf575a-fae2-48e2-af39-e3448d3a48bb](./14cf575a-fae2-48e2-af39-e3448d3a48bb.md) | **✓** |  |
 | [15439749-b811-4e89-b777-4fe6ef247801](./15439749-b811-4e89-b777-4fe6ef247801.md) | **✓** |  |
 | [170d42a4-4ec0-4f51-bef0-693c589fccfc](./170d42a4-4ec0-4f51-bef0-693c589fccfc.md) | **✓** |  |
 | [17bd2add-67cb-4ffe-b69b-10b130558e89](./17bd2add-67cb-4ffe-b69b-10b130558e89.md) | **✓** |  |
+| [180f19aa-1b79-4b4a-b716-068b81cfb145](./180f19aa-1b79-4b4a-b716-068b81cfb145.md) | **✓** |  |
 | [192ba193-b68c-464c-a920-7eaa93b59a12](./192ba193-b68c-464c-a920-7eaa93b59a12.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](./1ac9e5c6-4850-4864-96c5-b91e4512334e.md) | **✓** |  |
 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](./1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) | **✓** |  |
@@ -98,6 +101,7 @@ ms.locfileid: "66804660"
 | [317696dd-0e3b-4117-9694-ca65942c02f3](./317696dd-0e3b-4117-9694-ca65942c02f3.md) | **✓** |  |
 | [32eae2b8-2111-431f-9263-e8e1120d0a97](./32eae2b8-2111-431f-9263-e8e1120d0a97.md) | **✓** |  |
 | [3407e97c-3eed-4eca-add5-2549ed881269](./3407e97c-3eed-4eca-add5-2549ed881269.md) | **✓** |  |
+| [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](./341e195c-b261-4b05-8ba5-dd4a89b1f3e7.md) | **✓** |  |
 | [342f90c0-6377-4d59-af95-5e1d8c35af4e](./342f90c0-6377-4d59-af95-5e1d8c35af4e.md) | **✓** |  |
 | [34ed2c1e-bccf-463d-8fbc-0403e72e89fc](./34ed2c1e-bccf-463d-8fbc-0403e72e89fc.md) | **✓** |  |
 | [3540209e-c425-4c2e-b3dc-be79e8c0abee](./3540209e-c425-4c2e-b3dc-be79e8c0abee.md) | **✓** |  |
@@ -110,6 +114,7 @@ ms.locfileid: "66804660"
 | [3970caf2-7c33-4668-8c74-91f3e094b789](./3970caf2-7c33-4668-8c74-91f3e094b789.md) | **✓** |  |
 | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](./39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db.md) | **✓** |  |
 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](./39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) | **✓** |  |
+| [3a08b250-02ce-4316-94f7-069f4ae0c41b](./3a08b250-02ce-4316-94f7-069f4ae0c41b.md) | **✓** |  |
 | [3b1655d0-505a-4b03-a01f-519a91f77625](./3b1655d0-505a-4b03-a01f-519a91f77625.md) | **✓** |  |
 | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](./3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) | **✓** |  |
 | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](./3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c.md) | **✓** |  |
@@ -145,6 +150,7 @@ ms.locfileid: "66804660"
 | [4db812e1-4d29-44e4-b72e-9654c0c91ce4](./4db812e1-4d29-44e4-b72e-9654c0c91ce4.md) | **✓** |  |
 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](./4dce2abf-3f8e-4281-9f7a-d602fc391886.md) | **✓** |  |
 | [4e820d60-9e62-403c-accd-857b987cc13c](./4e820d60-9e62-403c-accd-857b987cc13c.md) | **✓** |  |
+| [4ed8651a-5a01-44f0-веб-536bbc441c02](./4ed8651a-5a01-44f0-abdf-536bbc441c02.md) | **✓** |  |
 | [4f037969-20ef-4a41-8330-422b7b115eb6](./4f037969-20ef-4a41-8330-422b7b115eb6.md) | **✓** |  |
 | [4f953314-c0bf-40cb-96f6-7e4990abb040](./4f953314-c0bf-40cb-96f6-7e4990abb040.md) | **✓** |  |
 | [4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859](./4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859.md) | **✓** |  |
@@ -244,6 +250,7 @@ ms.locfileid: "66804660"
 | [8cbdb27d-6b59-402d-a9c0-a588cfb4030c](./8cbdb27d-6b59-402d-a9c0-a588cfb4030c.md) | **✓** |  |
 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](./8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [8f261936-59e1-44b3-8234-a746c5e4eab7](./8f261936-59e1-44b3-8234-a746c5e4eab7.md) | **✓** |  |
+| [8f43fc50-571c-4eab-b6ea-675d55e1755e](./8f43fc50-571c-4eab-b6ea-675d55e1755e.md) | **✓** |  |
 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](./8f79a561-d2f1-4a1e-8092-c2039043a40e.md) | **✓** |  |
 | [93544582-de9c-42a0-baa5-df3d25e9bd48](./93544582-de9c-42a0-baa5-df3d25e9bd48.md) | **✓** |  |
 | [93b14320-d9b5-4876-b621-172af4d36985](./93b14320-d9b5-4876-b621-172af4d36985.md) | **✓** |  |
@@ -254,6 +261,7 @@ ms.locfileid: "66804660"
 | [959a79dd-69d0-4d05-b9a8-b9f02e28c049](./959a79dd-69d0-4d05-b9a8-b9f02e28c049.md) | **✓** |  |
 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](./95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md) | **✓** |  |
 | [95fb5da0-6ced-4247-9d62-294f8fcb75df](./95fb5da0-6ced-4247-9d62-294f8fcb75df.md) | **✓** |  |
+| [962ef41c-0088-4cf2-b8ac-df68a8111022](./962ef41c-0088-4cf2-b8ac-df68a8111022.md) | **✓** |  |
 | [98172521-768f-4271-a872-00bd46bd9460](./98172521-768f-4271-a872-00bd46bd9460.md) | **✓** |  |
 | [984562b3-6a46-4a7f-a19b-681442b0cdc0](./984562b3-6a46-4a7f-a19b-681442b0cdc0.md) | **✓** |  |
 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](./98b70422-b0b2-41bf-8673-60d85f5d38c7.md) | **✓** |  |
@@ -295,6 +303,7 @@ ms.locfileid: "66804660"
 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](./abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ac9ca94a-e666-4f61-959a-12c063e13e69](./ac9ca94a-e666-4f61-959a-12c063e13e69.md) | **✓** |  |
 | [acafd8f7-a6d3-420e-89d7-7729751b7c04](./acafd8f7-a6d3-420e-89d7-7729751b7c04.md) | **✓** |  |
+| [acc6e49c-7adf-408c-a36f-901c5045c3f3](./acc6e49c-7adf-408c-a36f-901c5045c3f3.md) | **✓** |  |
 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](./ad38b691-43a7-4261-8ad6-f6ebbb229116.md) | **✓** |  |
 | [af089bb5-48be-413d-ad34-53c32799da7d](./af089bb5-48be-413d-ad34-53c32799da7d.md) | **✓** |  |
 | [af5883db-bda9-4d1a-b1ce-022bea20f021](./af5883db-bda9-4d1a-b1ce-022bea20f021.md) | **✓** |  |
@@ -331,6 +340,7 @@ ms.locfileid: "66804660"
 | [c02f0aa2-8697-4a89-bf06-55235ede9eda](./c02f0aa2-8697-4a89-bf06-55235ede9eda.md) | **✓** |  |
 | [c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2](./c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2.md) | **✓** |  |
 | [c1abaf93-e823-4e9a-a810-34a47e77ef71](./c1abaf93-e823-4e9a-a810-34a47e77ef71.md) | **✓** |  |
+| [c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8](./c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8.md) | **✓** |  |
 | [c2395027-53de-4f00-b658-246d82ed7e6f](./c2395027-53de-4f00-b658-246d82ed7e6f.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [c2f87ddb-d2e0-4268-851f-88d57ac6e0a0](./c2f87ddb-d2e0-4268-851f-88d57ac6e0a0.md) | **✓** |  |
 | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](./c36d31a2-8de1-4eb5-9e7d-01da45244c04.md) | **✓** |  |
@@ -379,6 +389,7 @@ ms.locfileid: "66804660"
 | [dc171e47-c074-4bc2-9e7b-3856b71e0630](./dc171e47-c074-4bc2-9e7b-3856b71e0630.md) | **✓** |  |
 | [dc8facfc-c606-44b4-a0ad-04f81446845c](./dc8facfc-c606-44b4-a0ad-04f81446845c.md) | **✓** |  |
 | [dea67e43-444e-4852-b57b-b57878a4022b](./dea67e43-444e-4852-b57b-b57878a4022b.md) | **✓** |  |
+| [ded79b59-64ff-4622-8248-42111e954301](./ded79b59-64ff-4622-8248-42111e954301.md) | **✓** |  |
 | [e208746a-2666-4d95-b925-e2ff64b3181d](./e208746a-2666-4d95-b925-e2ff64b3181d.md) | **✓** |  |
 | [e308040f-41b5-4b8c-8f08-c2c38056f7e2](./e308040f-41b5-4b8c-8f08-c2c38056f7e2.md) | **✓** |  |
 | [e4218775-2e3c-44eb-807f-78f8f39a04d8](./e4218775-2e3c-44eb-807f-78f8f39a04d8.md) | **✓** |  |
@@ -416,12 +427,14 @@ ms.locfileid: "66804660"
 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](./f5c9f179-b9a5-4364-8f99-18d203b902ad.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [f5f2921e-bfb3-4d75-b84f-0b2cc13096f7](./f5f2921e-bfb3-4d75-b84f-0b2cc13096f7.md) | **✓** |  |
 | [f6671df0-1909-428c-91f7-1c42df04d3e4](./f6671df0-1909-428c-91f7-1c42df04d3e4.md) | **✓** |  |
+| [f6adea4e-96a4-4d9e-96db-a0bae63a0208](./f6adea4e-96a4-4d9e-96db-a0bae63a0208.md) | **✓** |  |
 | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](./f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) | **✓** |  |
 | [f9555238-64f3-4ec2-a8fc-3787baa157aa](./f9555238-64f3-4ec2-a8fc-3787baa157aa.md) | **✓** |  |
 | [f9eaef18-fbd1-4045-b417-c26598755298](./f9eaef18-fbd1-4045-b417-c26598755298.md) | **✓** |  |
 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](./fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) | **✓** |  |
 | [fb5ad138-bf16-44c0-bdc2-2a9c0e6f246f](./fb5ad138-bf16-44c0-bdc2-2a9c0e6f246f.md) | **✓** |  |
 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](./fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) | **✓** |  |
+| [fbec26ad-da44-4a5d-8e6d-30df5435c84e](./fbec26ad-da44-4a5d-8e6d-30df5435c84e.md) | **✓** |  |
 | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](./fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da.md) | **✓** |  |
 | [fc8f7563-e8ea-4b6d-9622-82775a21a35a](./fc8f7563-e8ea-4b6d-9622-82775a21a35a.md) | **✓** |  |
 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](./fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) | **✓** |  |

@@ -3,24 +3,24 @@ title: Сведения о приложении для Tigim Analytics от Ed T
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/16/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для Tigim Analytics, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 81d3b55c0609d1d3f56e6dd55b0e6b5d8194842c
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: 66a78bdd74c3002e176335c62c5a5f8a090847cb
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247413"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66818191"
 ---
-# <a name="tigim-analytics"></a>Аналитика Tigim
+# <a name="tigim-analytics"></a>Tigim Analytics
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 25 мая 2022 г.</p>
+<p>Последнее обновление разработчика: 14 июля 2022 г.</p>
 
 * <a href="https://teams.microsoft.com/l/app/98172521-768f-4271-a872-00bd46bd9460" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200004242" target="_blank">Просмотр в AppSource</a>
@@ -33,16 +33,17 @@ ms.locfileid: "66247413"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Аналитика Tigim |
-| Идентификатор | WA200004242 |
+| Название приложения | Tigim Analytics |
+| ID | WA200004242 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Название партнерской компании | Саули Ed Tech LTD |
+| Название партнерской компании | Hippo Ed Tech LTD |
 | Веб-сайт компании | [https://www.tigim.co](https://www.tigim.co) |
 | Условия использования приложения | [https://www.tigim.co/terms-of-use](https://www.tigim.co/terms-of-use) |
 | Основные функциональные возможности приложения | Взаимодействие, производительность, управление бизнесом, обучение |
 | Расположение компании | Ирландия |
 | Страница сведений о приложении | |
-| Какая среда размещения или модель службы используются для запуска приложения? | IsvHosted |
+| Какая среда размещения или модель службы используются для запуска приложения? | Iaas |
+| Какие поставщики облачных служб используются приложением? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,7 +58,7 @@ ms.locfileid: "66247413"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или базовая инфраструктура какие-либо данные, связанные с клиентом Майкрософт или его устройством? | Да |
-| Какие данные обрабатываются приложением? | Электронная почта пользователей, профиль пользователей, календари пользователей, пользователи OnlineMeetings |
+| Какие данные обрабатываются приложением? | Пользователи Email, профили пользователей, календари пользователей, пользователи OnlineMeetings |
 | Поддерживает ли приложение TLS 1.1 или более поздней версии? | Да |
 | Хранит ли приложение или базовая инфраструктура данные клиента Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | User Data, User OnlineMeetings Transcriptions, User Conversation Reference |
