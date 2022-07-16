@@ -3,17 +3,17 @@ title: Безопасность и соответствие приложений
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех приложений Microsoft Outlook.
 localization_priority: Normal
-ms.openlocfilehash: e068b2d07c5fb1e006f593e5d4423d78e1c5dd71
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: bbd1db0a9e77da480e6a99ed6dfb0712b3d80182
+ms.sourcegitcommit: 41d719a4473ff77d0955bbdb198e9ca084b02dc2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66654819"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66826095"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность и соответствие требованиям приложений Microsoft Outlook
 
@@ -51,4 +51,4 @@ ms.locfileid: "66654819"
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [Стратегия и ИИ для Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
-| [Защищенная электронная почта XQ](./xq-message-secure-email.md) | Сообщение XQ | **✓** |  |
+| [XQ Secure Email](./xq-message-secure-email.md) | Сообщение XQ | **✓** |  |
