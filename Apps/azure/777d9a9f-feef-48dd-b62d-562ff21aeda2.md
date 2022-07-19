@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 777d9a9f-f
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/18/2022
+ms.date: 07/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 777d9a9f-feef-48dd-b62d-562ff21aeda2.
-ms.openlocfilehash: 1bdfdb6d0e5112c2945ff8442d0d4bf578bad468
-ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
+ms.openlocfilehash: 9075a7578583e41b52ffdd356cbfb0c37fe03fe4
+ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/19/2022
-ms.locfileid: "66850691"
+ms.locfileid: "66874675"
 ---
 # <a name="azure-app-id-777d9a9f-feef-48dd-b62d-562ff21aeda2"></a>приложение Azure: 777d9a9f-feef-48dd-b62d-562ff21aeda2
 
