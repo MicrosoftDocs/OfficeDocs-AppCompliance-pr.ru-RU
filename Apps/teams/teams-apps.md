@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/19/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 93e9e1408284d1e08538044e89a890643064848b
-ms.sourcegitcommit: f020743c27bd5ba69e4f74e8fff3f82b2571c408
+ms.openlocfilehash: a6c2abb166dcca5b93055ed8147afca2fbbd776c
+ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/20/2022
-ms.locfileid: "66890272"
+ms.locfileid: "66900559"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 

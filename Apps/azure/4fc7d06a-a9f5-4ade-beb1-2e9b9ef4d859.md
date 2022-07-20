@@ -1,21 +1,21 @@
 ---
-title: приложение Azure идентификатора для 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859
+title: Aplicação Azure AD идентификатора для 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/19/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859.
-ms.openlocfilehash: 40d4b64cac675d9428e3eccee7fcf10a58bff104
-ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
+ms.openlocfilehash: 1efe09b2d882eb36170d56cf1587b1078de60b76
+ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66872295"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66896239"
 ---
-# <a name="azure-app-id-4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859"></a>приложение Azure: 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859
+# <a name="azure-app-id-4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859"></a>Aplicação Azure AD: 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:

@@ -1,21 +1,21 @@
 ---
-title: приложение Azure идентификатора для 39d845a0-3fa2-4fba-acc2-61afe40cfcea
+title: Aplicação Azure AD идентификатора для 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/19/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 39d845a0-3fa2-4fba-acc2-61afe40cfcea.
-ms.openlocfilehash: 3a500e7025f52f432b88f21c11510c28547475a7
-ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
+ms.openlocfilehash: 858364933d819c5a5ce289ad962d986ff02f3fba
+ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66869765"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66896279"
 ---
-# <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>приложение Azure: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
+# <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>Aplicação Azure AD: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
