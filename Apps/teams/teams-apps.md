@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 36f1310237b28b3c2ccedc15212b64e3e298cbdd
-ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
+ms.openlocfilehash: 93e9e1408284d1e08538044e89a890643064848b
+ms.sourcegitcommit: f020743c27bd5ba69e4f74e8fff3f82b2571c408
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66877205"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66890272"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -162,6 +162,7 @@ ms.locfileid: "66877205"
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DigitalOps Toolbox](./medalsoft-digitalops-toolbox.md) | Medalsoft | **✓** |  |
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
+| [DirectFax](./etherfax-llc-directfax.md) | etherFAX LLC | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [Ditox](./ditox.md) | Ditox | **✓** |  |
@@ -236,6 +237,7 @@ ms.locfileid: "66877205"
 | [Истинность](./stratum-networks-genuity.md) | Stratum Networks | **✓** |  |
 | [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Корпорация Майкрософт | **✓** |  |
+| [Glowbl](./glowbl.md) | Glowbl | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
 | [Goalhub](./momentum-cloud-pty-ltd-goalhub.md) | Momentum Cloud Pty Ltd | **✓** |  |
 | [GoLinks](./golinks.md) | GoLinks | **✓** |  |
@@ -463,6 +465,7 @@ ms.locfileid: "66877205"
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Shared Thread by WNI](./wni-shared-thread-by.md) | WNI | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
+| [Showmaster](./cherryware-showmaster.md) | cherryware | **✓** |  |
 | [Фильтровать](./sift.md) | Фильтровать | **✓** |  |
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
@@ -488,6 +491,7 @@ ms.locfileid: "66877205"
 | [Social Advocacy](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
 | [SQQ](./superquickquestion-sqq.md) | SuperQuickQuestion | **✓** |  |
+| [Squadcast](./squadcast.md) | Squadcast | **✓** |  |
 | [Squadify](./squadify-holdings-pty-ltd.md) | Squadify Holdings Pty Ltd | **✓** |  |
 | [Stack Overflow for Teams](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  |
 | [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
@@ -526,7 +530,7 @@ ms.locfileid: "66877205"
 | [TeamConnect for Sitecore](./subramanian-ramanathan-teamconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [TeaMe Health Check Bot](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teameo Class Space](./ls2-innovation-teameo-class-space.md) | LS2 Innovation | **✓** |  |
-| [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
+| [Teamflect](./teamflect.md) | Teamflect | **✓** |  |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [TeamsChamp](./teamschamp.md) | TeamsChamp | **✓** |  |
