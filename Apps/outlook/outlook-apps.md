@@ -3,17 +3,17 @@ title: Безопасность и соответствие приложений
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех приложений Microsoft Outlook.
 localization_priority: Normal
-ms.openlocfilehash: bbd1db0a9e77da480e6a99ed6dfb0712b3d80182
-ms.sourcegitcommit: 41d719a4473ff77d0955bbdb198e9ca084b02dc2
+ms.openlocfilehash: 6725f3b4f6b0ebcf60850ee21c966aa9123e53fe
+ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66826095"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66912881"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Безопасность и соответствие требованиям приложений Microsoft Outlook
 
@@ -21,6 +21,7 @@ ms.locfileid: "66826095"
 
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [Achievers for Outlook](./achievers-for-outlook.md) | Успеваемостью | **✓** |  |
 | [Adobe Acrobat Sign для Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Appspace для Outlook](./appspace-inc-for-outlook.md) | Appspace, Inc | **✓** |  |
 | [Повышение почты](./boost-my-mail.md) | Повышение почты | **✓** |  |
