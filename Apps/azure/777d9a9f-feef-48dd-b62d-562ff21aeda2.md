@@ -1,21 +1,21 @@
 ---
-title: приложение Azure идентификатора для 777d9a9f-feef-48dd-b62d-562ff21aeda2
+title: Aplicação Azure AD идентификатора для 777d9a9f-feef-48dd-b62d-562ff21aeda2
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/19/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 777d9a9f-feef-48dd-b62d-562ff21aeda2.
-ms.openlocfilehash: 9075a7578583e41b52ffdd356cbfb0c37fe03fe4
-ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
+ms.openlocfilehash: dc9e07f39bc2d589ec5b551f783811a2e95b4434
+ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66874675"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66901949"
 ---
-# <a name="azure-app-id-777d9a9f-feef-48dd-b62d-562ff21aeda2"></a>приложение Azure: 777d9a9f-feef-48dd-b62d-562ff21aeda2
+# <a name="azure-app-id-777d9a9f-feef-48dd-b62d-562ff21aeda2"></a>Aplicação Azure AD: 777d9a9f-feef-48dd-b62d-562ff21aeda2
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
