@@ -3,18 +3,18 @@ title: Сведения о приложении для MyHub для Teams от A
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/22/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии для MyHub для Teams, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 539fb0347185133f1d81d169c14922bb44f5aea3
-ms.sourcegitcommit: 8f06a03c298fca9d066cc977fcbd2717c310caa4
+ms.openlocfilehash: 2612c1f6580365e9a00e333843c5058d7bb00c01
+ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/21/2022
-ms.locfileid: "66916791"
+ms.locfileid: "66923474"
 ---
 # <a name="myhub-for-teams"></a>MyHub для Teams
 
@@ -107,7 +107,7 @@ ms.locfileid: "66916791"
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Да |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
-| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
+| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Н/Д |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Н/Д |
 | Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Да |
 | Соответствует ли приложение NIST 800-171? |  |
@@ -170,7 +170,7 @@ ms.locfileid: "66916791"
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | В области |
 | [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **ПРОЙТИ** |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Н/Д |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Н/Д |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | В области |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | В области |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | В области |
