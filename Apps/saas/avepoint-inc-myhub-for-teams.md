@@ -1,26 +1,25 @@
 ---
-title: Application Information for MyHub for Teams by AvePoint Inc.
+title: Сведения о приложении для MyHub для Teams от AvePoint Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/06/2021
+ms.date: 06/22/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Все доступные сведения о безопасности и соответствии для MyHub для Teams, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f9c4b496558efd7d164ab05e91e031dcfb40d2aa
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+certification_type: certified
+description: Все доступные сведения о безопасности и соответствии для MyHub для Teams, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 539fb0347185133f1d81d169c14922bb44f5aea3
+ms.sourcegitcommit: 8f06a03c298fca9d066cc977fcbd2717c310caa4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878766"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66916791"
 ---
 # <a name="myhub-for-teams"></a>MyHub для Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 29 сентября 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчиком: 22 июня 2022 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/avepoint.myhubforteams" target="_blank">Просмотр в AppSource</a>
 
@@ -33,7 +32,7 @@ ms.locfileid: "64878766"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | MyHub для Teams |
-| Идентификатор | avepoint.myhubforteams |
+| ID | avepoint.myhubforteams |
 | Название партнерской компании | AvePoint Inc. |
 | Веб-сайт компании | [https://www.avepoint.com](https://www.avepoint.com) |
 | Условия использования приложения | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
@@ -96,20 +95,20 @@ ms.locfileid: "64878766"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Недоступно |
+| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Н/Д |
 | Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Да |
 | Дата последней сертификации SOC2 | 2/9/2021 |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
-| Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Недоступно |
+| Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Н/Д |
 | Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Да |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Да |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
-| Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
+| Соответствует ли приложение Требованиям КСВМ(COPPA)? | Н/Д |
 | Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Да |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Да |
@@ -132,29 +131,27 @@ ms.locfileid: "64878766"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Интегрируется ли приложение с Платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
+| Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
-| Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
+| Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | true |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
-| Перечисление поддерживаемых типов политик | Приложение выполняет федерацию с Azure AD, поэтому можно использовать все правила условного доступа. |
-| Запрашивает ли ваше приложение минимальные разрешения для вашего сценария? | Да |
+| Перечисление поддерживаемых типов политик | Приложение выполняет федерацию с Azure AD, чтобы можно было использовать все правила условного доступа. |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) |  |
 | Хранит ли ваше приложение учетные данные в коде? |  |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Идентификатор приложения Azure AD** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | Как | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
->| Group.ReadWrite.All | Как | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Directory.Read.All | оба варианта | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | оба варианта | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 >| Mail.Send | Делегированные | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 >| Reports.Read.All | приложение | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 >| Sites.FullControl.All | приложение | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 >| Sites.Read.All | приложение | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 >| Sites.ReadWrite.All | Делегированные | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
->| User.Read.All | Как | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | оба варианта | Данные конфигурации приложения хранятся с точки зрения обработки данных | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >Это приложение не имеет дополнительных API.
 
@@ -162,3 +159,39 @@ ms.locfileid: "64878766"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Результат сертификации Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **ПРОЙТИ** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | В области |
+| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **ПРОЙТИ** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Н/Д |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | Н/Д |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | В области |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **ПРОЙТИ** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | В области |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
