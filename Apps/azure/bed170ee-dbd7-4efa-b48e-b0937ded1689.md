@@ -1,21 +1,21 @@
 ---
-title: Aplicação Azure AD идентификатора для bed170ee-dbd7-4efa-b48e-b0937ded1689
+title: приложение Azure идентификатора для bed170ee-dbd7-4efa-b48e-b0937ded1689
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для bed170ee-dbd7-4efa-b48e-b0937ded1689.
-ms.openlocfilehash: a19ac4e1049f6007e32d3b95bd95c5761af3de78
-ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
+ms.openlocfilehash: 4e1e07da705c1f04431bb4e7b806a711de1a4390
+ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66897649"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66927779"
 ---
-# <a name="azure-app-id-bed170ee-dbd7-4efa-b48e-b0937ded1689"></a>Aplicação Azure AD: bed170ee-dbd7-4efa-b48e-b0937ded1689
+# <a name="azure-app-id-bed170ee-dbd7-4efa-b48e-b0937ded1689"></a>приложение Azure: bed170ee-dbd7-4efa-b48e-b0937ded1689
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:

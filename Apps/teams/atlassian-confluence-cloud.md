@@ -3,26 +3,26 @@ title: Сведения о приложении для Confluence Cloud от Atl
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/13/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Confluence Cloud, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2b1fce0ac0210113dc5dee3ca08b5e52636ea1c3
-ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
+ms.openlocfilehash: 9571b81a027e7b10f1b7621f4f5623720101460e
+ms.sourcegitcommit: d35f3194155f00ecca787b2bc9bea5c69a534b0a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66076230"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66949572"
 ---
 # <a name="confluence-cloud"></a>Confluence Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 13 июня 2022 г.</p>
+<p>Последнее обновление разработчика: 21 июля 2022 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003113" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -152,11 +152,11 @@ ms.locfileid: "66076230"
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | Делегированные | — Мы считываем список участников чата на собрании, поэтому мы знаем список приглашенных на собрание. — Мы считываем имена&#8217; адресов электронной почты, которые условно отображаются в приложении для собраний. Например, отобразите имя текущего пользователя, который создает заметки на собрании. — Наше приложение считывает&#8217;события календаря, когда приложение было добавлено на собрание, поэтому у нас есть основные сведения о собрании, такие как название собрания.     | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
 >| Chat.ReadBasic | Делегированные | — Мы считываем список участников чата на собрании, поэтому мы знаем список приглашенных на собрание. — Мы считываем имена&#8217; адресов электронной почты, которые условно отображаются в приложении для собраний. Например, отобразите имя текущего пользователя, который создает заметки на собрании. — Наше приложение считывает&#8217;события календаря, когда приложение было добавлено на собрание, поэтому у нас есть основные сведения о собрании, такие как название собрания. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |

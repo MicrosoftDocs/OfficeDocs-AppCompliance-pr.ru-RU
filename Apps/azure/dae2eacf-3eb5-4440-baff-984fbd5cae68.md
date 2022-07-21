@@ -1,21 +1,21 @@
 ---
-title: Aplicação Azure AD идентификатора для dae2eacf-3eb5-4440-baff-984fbd5cae68
+title: приложение Azure идентификатора для dae2eacf-3eb5-4440-baff-984fbd5cae68
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии для dae2eacf-3eb5-4440-baff-984fbd5cae68.
-ms.openlocfilehash: 350b5b48122192888ba3b098ce0bde47f2acfcbe
-ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
+ms.openlocfilehash: c9e606a9197565f41903e86f3a509df671c1dfbc
+ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66897519"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66928574"
 ---
-# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Aplicação Azure AD: dae2eacf-3eb5-4440-baff-984fbd5cae68
+# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>приложение Azure: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
 
 ### <a name="apps-associated-with-this-id"></a>Приложения, связанные с этим идентификатором:
