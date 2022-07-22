@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 915447afd534019f3142c93e42c438e57d110f9a
-ms.sourcegitcommit: 65cdf1f1a0b38b05e29adf12828851ba225da959
+ms.openlocfilehash: 8911e9f63db4b8183f5380ee1cac73b35e75668c
+ms.sourcegitcommit: 59837739b2c8bbc7420121ee780fbf273a331512
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66915612"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66961565"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -107,6 +107,7 @@ ms.locfileid: "66915612"
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci solution GmbH | **✓** |  |
 | [Classified Listing](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
 | [Clerk SMS](./unnamed-ventures-llc-clerk-sms.md) | Unnamed Ventures, LLC. | **✓** |  |
+| [CLIPr](./clipr-co.md) | CLIPr Co | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Cloud Effective](./cloud-effective.md) | Cloud Effective | **✓** |  |
@@ -559,6 +560,7 @@ ms.locfileid: "66915612"
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost — отслеживание времени](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
+| [Timewax](./timewax.md) | Timewax | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [To-do Checklist for Team](./herocoders-to-do-checklist-for-team.md) | HeroCoders | **✓** |  |
 | [Tonkean](./tonkean.md) | Tonkean | **✓** |  |
