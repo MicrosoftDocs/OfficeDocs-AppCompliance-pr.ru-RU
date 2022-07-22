@@ -3,24 +3,23 @@ title: Сведения о приложении для Luware Nimbus для Micr
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/07/2021
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Вся доступная информация о безопасности и соответствии для Luware Nimbus для Microsoft Teams, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e39857df084f656c6ebbf2302287e11fc61366ea
-ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 7e6c59192b9b3328396ee1fcb17ef6de6cb3e266
+ms.sourcegitcommit: ce10fa06370903c7c2ee18b55b219dc735ac6b58
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "66792788"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66960894"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus для Microsoft Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Последнее обновление разработчика: 1 октября 2021 г.</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Последнее обновление разработчика: 19 октября 2021 г.</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/luwareagzurich.advanced_routing_azure_marketplace" target="_blank">Просмотр в AppSource</a>
 
@@ -104,8 +103,8 @@ ms.locfileid: "66792788"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Недоступно |
+| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Н/Д |
 | Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
@@ -117,7 +116,7 @@ ms.locfileid: "66792788"
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
 | Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -181,3 +180,39 @@ ms.locfileid: "66792788"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Сведения о сертификации
+
+| **Control** | **Результат сертификации Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**БЕЗОПАСНОСТЬ ПРИЛОЖЕНИЙ**](../docs/certification-submission-guide.md#application-security) | **Н/Д** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестирование на проникновение | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка оценки уязвимостей (DAST/SAST/Тест на проникновение) | Недоступно |
+| [**ОПЕРАЦИОННАЯ БЕЗОПАСНОСТЬ**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — антивирусная программа | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Защита от вредоносных программ — управление приложениями | Н/Д |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — ранжирование рисков | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление исправлениями — исправление | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сканирование уязвимостей | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры (или эквивалентные технологии) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Брандмауэр — брандмауэры веб-приложений (WAF) (необязательно) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Элемент управления изменениями | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безопасная разработка и развертывание программного обеспечения | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление учетными записями | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обнаружение и предотвращение вторжений (необязательно) | Недоступно |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ведение журнала событий безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проверка (данные ведения журнала) | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Оповещение о событиях безопасности | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление рисками информационной безопасности | Н/Д |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реагирование на инциденты | В области |
+| [**КОНФИДЕНЦИАЛЬНОСТЬ БЕЗОПАСНОСТИ ОБРАБОТКИ &amp; ДАННЫХ**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **ПРОЙТИ** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Передаваемые данные | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Неактивные данные | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Хранение и удаление данных | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление доступом к данным | В области |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | В области |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
