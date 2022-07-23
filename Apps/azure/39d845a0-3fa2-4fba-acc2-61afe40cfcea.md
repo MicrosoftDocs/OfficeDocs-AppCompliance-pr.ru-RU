@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 39d845a0-3
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/21/2022
+ms.date: 07/22/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 39d845a0-3fa2-4fba-acc2-61afe40cfcea.
-ms.openlocfilehash: 3580a2db337811c2f39370c4aa8c35b4d1b1af90
-ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
+ms.openlocfilehash: 8dbaf7f55c67f5124115b34e6c580d036e0ae969
+ms.sourcegitcommit: 9c114837630164e4c4965abc220743e2b08a1df5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66926444"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66976933"
 ---
 # <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>приложение Azure: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 
