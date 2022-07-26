@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 4fc7d06a-a
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/22/2022
+ms.date: 07/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859.
-ms.openlocfilehash: 9a6b9f67d17cf7d82e4f44592a90616c798c2276
-ms.sourcegitcommit: 9c114837630164e4c4965abc220743e2b08a1df5
+ms.openlocfilehash: 5d99fe551659483bdeacf06d078108345f8efe61
+ms.sourcegitcommit: ee1611493dd5ad0ad53da0380e73acd25340a76e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66974113"
+ms.lasthandoff: 07/26/2022
+ms.locfileid: "67013718"
 ---
 # <a name="azure-app-id-4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859"></a>приложение Azure: 4fc7d06a-a9f5-4ade-beb1-2e9b9ef4d859
 
