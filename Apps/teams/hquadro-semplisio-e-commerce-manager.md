@@ -3,18 +3,18 @@ title: Application Information for Semplisio e-commerce Manager by HQuadro
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/22/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для диспетчера электронной коммерции Semplisio, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0aa0282c79baec2c8dfebaeef26efa0f69c55636
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: a28ac8464627e779e138a35b37b1d54401e13660
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247931"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048308"
 ---
 # <a name="semplisio-e-commerce-manager"></a>Semplisio e-commerce Manager
 
@@ -34,7 +34,7 @@ ms.locfileid: "66247931"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Semplisio e-commerce Manager |
-| Идентификатор | WA200004286 |
+| ID | WA200004286 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | HQuadro |
 | Веб-сайт компании | [https://www.hquadro.it](https://www.hquadro.it) |
@@ -64,7 +64,7 @@ ms.locfileid: "66247931"
 | Какие данные хранятся в базах данных? | id Team, id channel |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | Нидерланды (сша), Финляндия |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 

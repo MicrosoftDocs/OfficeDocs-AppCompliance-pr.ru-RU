@@ -3,18 +3,18 @@ title: Сведения о приложении для Workday Peakon Employee V
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/26/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Workday Peakon Employee Voice, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84045192772b78ff882548b3ef071c1d694c1101
-ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
+ms.openlocfilehash: 1ba5f99e88ca7c523e8f52e9459afaadb816af0a
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65125363"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048512"
 ---
 # <a name="workday-peakon-employee-voice"></a>Голосовая связь сотрудников Workday Peakon
 
@@ -22,7 +22,7 @@ ms.locfileid: "65125363"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 20 июля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/1c37bec0-d522-4cba-9643-ddc79d841729" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://teams.microsoft.com/l/app/1c37bec0-d522-4cba-9643-ddc79d841729" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003453" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -34,16 +34,16 @@ ms.locfileid: "65125363"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | Голосовая связь сотрудников Workday Peakon |
-| Идентификатор | WA200003453 |
+| ID | WA200003453 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | Workday |
 | Веб-сайт компании | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
 | Условия использования приложения | [https://nw.myworkday.com/workdaypeakonemployeevoiceforteams...](https://nw.myworkday.com/workdaypeakonemployeevoiceforteams/post-license/) |
-| Основные функциональные возможности приложения | Получение уведомлений о новых опросах отправка ответов на опросы непосредственно через Microsoft Teams напоминать о опросах, которые вы еще не завершили. |
+| Основные функциональные возможности приложения | Получение уведомлений о новых опросах Отправка ответов на опросы непосредственно через Microsoft Teams. Напоминайте об опросах, которые вы еще не завершили. |
 | Расположение компании | США Америки |
 | Страница сведений о приложении | [https://nw.myworkday.com/workdaypeakonemployeevoiceforteams](https://nw.myworkday.com/workdaypeakonemployeevoiceforteams) |
 | Какая среда размещения или модель службы используются для запуска приложения? | Гибридная среда |
-| Какие поставщики облачных служб используются приложением? | Другие |
+| Какие поставщики облачных служб используются приложением? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -58,13 +58,13 @@ ms.locfileid: "65125363"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или базовая инфраструктура какие-либо данные, связанные с клиентом Майкрософт или его устройством? | Да |
-| Какие данные обрабатываются приложением? | Электронная почта и идентификатор Azure Active Directory. Приложение Peakon для MS Teams не обрабатывает данные напрямую.  |
+| Какие данные обрабатываются приложением? | Email и идентификатор Azure Active Directory — приложение Peakon для MS Teams не обрабатывает данные напрямую.  |
 | Поддерживает ли приложение TLS 1.1 или более поздней версии? | Да |
 | Хранит ли приложение или базовая инфраструктура данные клиента Майкрософт? | Да |
 | Какие данные хранятся в базах данных? | идентификатор компании, журналы приложений |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | США Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 
@@ -162,11 +162,11 @@ ms.locfileid: "65125363"
 | Перечисление поддерживаемых типов политик | Многофакторная проверка подлинности |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Да |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Да |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| TeamsAppInstallation.ReadWriteForUser.All | приложение | Установка приложения и поиск пользователя в Базе данных Azure   | [075a01db-a69f-4975-a713-aa85d004f3b5](../azure/075a01db-a69f-4975-a713-aa85d004f3b5.md) |
 
