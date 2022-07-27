@@ -3,26 +3,26 @@ title: Сведения о приложении для recognize by Recognize
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/11/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для Recognize, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b35e84b7af7264845a28148f62a77a576d27dbd3
-ms.sourcegitcommit: 07b2885ce41c10ee8dc55adfd86c8c9b90c99011
+ms.openlocfilehash: 84e49cbba7edec0b0417161f3fcec9f5913244dc
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65359588"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67039828"
 ---
-# <a name="recognize"></a>Признать
+# <a name="recognize"></a>Распознать
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 11 мая 2022 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/bbcb7b0c-c687-4be0-91e3-362afebbbcd0" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://teams.microsoft.com/l/app/bbcb7b0c-c687-4be0-91e3-362afebbbcd0" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001519" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -33,10 +33,10 @@ ms.locfileid: "65359588"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Признать |
+| Название приложения | Распознать |
 | ID | WA200001519 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
-| Название партнерской компании | Признать |
+| Название партнерской компании | Распознать |
 | Веб-сайт компании | [https://recognizeapp.com](https://recognizeapp.com) |
 | Условия использования приложения | [https://recognizeapp.com/terms](https://recognizeapp.com/terms) |
 | Основные функциональные возможности приложения | Платформа привлечения сотрудников с распознаванием одноранговых элементов, заявками, вознаграждениями, сертификатами &amp; . |
@@ -64,7 +64,7 @@ ms.locfileid: "65359588"
 | Какие данные хранятся в базах данных? | Данные профиля пользователя |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | США Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 
@@ -159,9 +159,9 @@ ms.locfileid: "65359588"
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
->Это приложение не использует microsoft Graph.
+>Это приложение не использует Microsoft Graph.
 
 >Это приложение не имеет дополнительных API.
 

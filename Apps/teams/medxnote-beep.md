@@ -3,18 +3,18 @@ title: Сведения о приложении для Beep от Medxnote
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/18/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Beep, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fde5cb07dce69f3a739f02da9212bf2c527838c4
-ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
+ms.openlocfilehash: 194733cb012012903487f8034658089fa477c4cc
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66852707"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67046287"
 ---
 # <a name="beep"></a>Beep
 
@@ -64,7 +64,7 @@ ms.locfileid: "66852707"
 | Какие данные хранятся в базах данных? | идентификатор клиента, профиль пользователя, теги |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | Соединенное Королевство — Северная Ирландия и Северная Ирландия |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Нет |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Нет |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 

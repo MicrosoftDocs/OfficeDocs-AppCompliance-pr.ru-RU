@@ -3,20 +3,20 @@ title: Application Information for polumana Tour Route Planner by blue-zone GmbH
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/30/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для polumana Tour Route Planner, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0f434704fe58c7e92584341386850294807d3460
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: b7dda9931bc874b620c10e38e3b6b7c3c51c782a
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66656369"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67041817"
 ---
-# <a name="polumana-tour-route-planner"></a>Polumana Tour Route Planner
+# <a name="polumana-tour-route-planner"></a>polumana Tour Route Planner
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ ms.locfileid: "66656369"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Название приложения | Polumana Tour Route Planner |
+| Название приложения | polumana Tour Route Planner |
 | ID | WA200004331 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | blue-zone GmbH |
@@ -58,13 +58,13 @@ ms.locfileid: "66656369"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Обрабатывает ли приложение или базовая инфраструктура какие-либо данные, связанные с клиентом Майкрософт или его устройством? | Да |
-| Какие данные обрабатываются приложением? | Контакты, адрес электронной почты |
+| Какие данные обрабатываются приложением? | Contacts, Email Address |
 | Поддерживает ли приложение TLS 1.1 или более поздней версии? | Да |
 | Хранит ли приложение или базовая инфраструктура данные клиента Майкрософт? | Да |
-| Какие данные хранятся в базах данных? | Электронная почта, адреса контактов |
+| Какие данные хранятся в базах данных? | Email, адреса контактов |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | Нидерланды (the) |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Нет |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Нет |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Да |
 | Есть ли у вас соглашения об общем доступе к данным с любой сторонней службой, с помощью которых вы делитесь данными клиентов Майкрософт? | Нет |
@@ -158,7 +158,7 @@ ms.locfileid: "66656369"
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.ReadWrite | приложение | После оптимизации маршрута необходимо создать новые встречи и удалить существующие. | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
 >| Contacts.Read | приложение | Чтобы создать встречи, необходимо прочитать контакты. | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
->| User.Read | приложение | Нам нужно получить адрес электронной почты пользователя для сохранения параметров | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
+>| User.Read | приложение | Нам нужно получить Email пользователя для сохранения параметров | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
 
 >Это приложение не имеет дополнительных API.
 
