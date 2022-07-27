@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 9af6eceb-6
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/25/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 9af6eceb-6a8b-4710-b51d-dde2ac01cc71.
-ms.openlocfilehash: 3a0b7f4f655036c8f63df17be5de898031902d37
-ms.sourcegitcommit: ee1611493dd5ad0ad53da0380e73acd25340a76e
+ms.openlocfilehash: 4af9dda0e6a99a24d816a8945dffce6b6b0b1f49
+ms.sourcegitcommit: 6d3b549e1bef908d74a643e57b7315aaa27261ee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/26/2022
-ms.locfileid: "67015948"
+ms.locfileid: "67031643"
 ---
 # <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>приложение Azure: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
