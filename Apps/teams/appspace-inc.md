@@ -3,18 +3,18 @@ title: Application Information for Appspace by Appspace, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/11/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для Appspace, политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 33ebdad28ebae386982c9e84025417e7fecd7900
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: ee8749cecf65b20022f537a8ba06e546e04e0bd4
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66765118"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036088"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -97,9 +97,9 @@ ms.locfileid: "66765118"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Недоступно |
-| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Недоступно |
-| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Недоступно |
+| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Н/Д |
+| Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Н/Д |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Да |
 | Дата последней сертификации SOC2 | 2020-11-09 |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Да |
@@ -110,7 +110,7 @@ ms.locfileid: "66765118"
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
-| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
+| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Н/Д |
 | Соответствует ли приложение Требованиям КСВМ(COPPA)? | Да |
 | Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
 | Соответствует ли приложение NIST 800-171? |  |

@@ -3,18 +3,18 @@ title: Сведения о приложении для SalesTim от SalesTim
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для SalesTim, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dedccb17f83675fa128af424c5769a5ee395d984
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: d7faa5b8162e99eb7d463acf441c0d59a0a53cd3
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66250014"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036098"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -34,14 +34,14 @@ ms.locfileid: "66250014"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | SalesTim |
-| Идентификатор | WA200001393 |
+| ID | WA200001393 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | SalesTim |
-| Веб-сайт компании | [https://www.salestim.com](https://www.salestim.com) |
-| Условия использования приложения | [https://www.salestim.com/legal/tos](https://www.salestim.com/legal/tos) |
+| Веб-сайт компании | [https://nbold.co/](https://nbold.co/) |
+| Условия использования приложения | [https://nbold.co/legal/tos/](https://nbold.co/legal/tos/) |
 | Основные функциональные возможности приложения | SalesTim помогает каждой организации улучшать свои процессы совместной работы за счет создания шаблонов Microsoft Teams без кода и автоматизации управления в большом масштабе. |
 | Расположение компании | Франция |
-| Страница сведений о приложении | [https://www.salestim.com](https://www.salestim.com) |
+| Страница сведений о приложении | [https://nbold.co/microsoft-teams-for-project-management/](https://nbold.co/microsoft-teams-for-project-management/) |
 | Какая среда размещения или модель службы используются для запуска приложения? | Paas |
 | Какие поставщики облачных служб используются приложением? | Azure |
 
