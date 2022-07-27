@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для bd2aaebe-6
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/25/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для bd2aaebe-63b9-434b-aad8-e7010f2ece20.
-ms.openlocfilehash: 853ac720c85bc5c26fe3325c6b5eb4e2a0c0d1e4
-ms.sourcegitcommit: ee1611493dd5ad0ad53da0380e73acd25340a76e
+ms.openlocfilehash: 6d8834479ee02cb3dd04f0af61001299c9b2bb36
+ms.sourcegitcommit: 6d3b549e1bef908d74a643e57b7315aaa27261ee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/26/2022
-ms.locfileid: "67013858"
+ms.locfileid: "67029753"
 ---
 # <a name="azure-app-id-bd2aaebe-63b9-434b-aad8-e7010f2ece20"></a>приложение Azure: bd2aaebe-63b9-434b-aad8-e7010f2ece20
 
