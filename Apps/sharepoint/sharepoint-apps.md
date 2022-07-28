@@ -3,17 +3,17 @@ title: Безопасность и соответствие требования
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/27/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии требованиям для всех приложений Microsoft SharePoint.
 localization_priority: Normal
-ms.openlocfilehash: 7a93836c906f12cc639561366e2dbedf5921e523
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: f4bcc3629c1e6dab201b6b1334c8df13f2c68190
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66654408"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053271"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Безопасность и соответствие требованиям приложений Microsoft SharePoint
 
@@ -22,7 +22,7 @@ ms.locfileid: "66654408"
 | **Приложение** | **Partner** | **Аттестованный издатель** | **Сертифицировано** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [4Mata — конструктор форматирования списков](./cloudignite-llc-4mata-list-formatting-designer.md) | CLOUDIGNITE LLC | **✓** |  |
-| [Достижения для Viva Связи](./achievers-for-viva-connections.md) | Успеваемостью | **✓** |  |
+| [Достижения для Viva Связи](./achievers-for-viva-connections.md) | Успевающие | **✓** |  |
 | [Adobe Acrobat Sign for Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Гибкая доска задач для SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
 | [ArcGIS для SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |

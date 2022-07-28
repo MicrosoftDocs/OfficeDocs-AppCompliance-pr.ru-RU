@@ -3,18 +3,18 @@ title: Application Information for Achievers for Viva Связи by Achievers
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для Achievers для Viva Связи, политики обработки данных, сведения о каталоге приложений Microsoft Cloud App Security, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f89f2957e4c990d2a4368efb12a6df683c2a80ee
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: 6a8ff36b47fd79e4fd0827b7035d1219fe099156
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66656399"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053094"
 ---
 # <a name="achievers-for-viva-connections"></a>Достижения для Viva Связи
 
@@ -35,7 +35,7 @@ ms.locfileid: "66656399"
 | Название приложения | Достижения для Viva Связи |
 | ID | WA200004313 |
 | Office 365 поддерживаемые клиенты | SharePoint 2016 или более поздней версии |
-| Название партнерской компании | Успеваемостью |
+| Название партнерской компании | Успевающие |
 | Веб-сайт компании | [https://www.achievers.com](https://www.achievers.com) |
 | Условия использования приложения | [https://developer.achievers.com/docs/achievers-terms-of-use](https://developer.achievers.com/docs/achievers-terms-of-use) |
 | Основные функциональные возможности приложения | Карточки быстрых действий для участников, использующих платформу Achievers для подписи карточки с праздником, просмотра само распознавания и распознавания тенденций |
@@ -61,7 +61,7 @@ ms.locfileid: "66656399"
 | Какие данные хранятся в базах данных? | Идентификатор клиента, идентификатор пользователя |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | Канада |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Да |
 | Есть ли у вас соглашения об общем доступе к данным с любой сторонней службой, с помощью которых вы делитесь данными клиентов Майкрософт? | Да |

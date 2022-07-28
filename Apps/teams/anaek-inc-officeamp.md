@@ -3,18 +3,18 @@ title: Сведения о приложении для OfficeAmp от Anaek Inc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для OfficeAmp, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений, а также сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2acfb48fc37ce950afb2f6d2d92d77bfd4dbef6
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+ms.openlocfilehash: ea71e7378eaa79446a3e221fa44116e6c4e6bd5d
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66704178"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053291"
 ---
 # <a name="officeamp"></a>OfficeAmp
 
@@ -64,7 +64,7 @@ ms.locfileid: "66704178"
 | Какие данные хранятся в базах данных? | Маркеры доступа, данные клиента (идентификатор клиента, имя, сведения о команде), данные пользователя (имя, электронная почта) |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | США Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Да |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 

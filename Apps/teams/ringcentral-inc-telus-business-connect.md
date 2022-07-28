@@ -3,18 +3,18 @@ title: Сведения о приложении для TELUS Business Connect о
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии для TELUS Business Connect, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 923825beedc6cc9247622726de120d39c702ccec
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: a87262db541cc887d2afb9415d3e5ce79bfcdf56
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66245356"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053259"
 ---
 # <a name="telus-business-connect"></a>TELUS Business Connect
 
@@ -34,7 +34,7 @@ ms.locfileid: "66245356"
 | **Information** | **Отклик** |
 |:----------------|:-------------|
 | Название приложения | TELUS Business Connect |
-| Идентификатор | WA200002300 |
+| ID | WA200002300 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | RingCentral, Inc. |
 | Веб-сайт компании | [https://www.telus.com](https://www.telus.com) |
@@ -63,7 +63,7 @@ ms.locfileid: "66245356"
 | Какие данные хранятся в базах данных? | Данные профиля пользователя |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | США Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Нет |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Да |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 

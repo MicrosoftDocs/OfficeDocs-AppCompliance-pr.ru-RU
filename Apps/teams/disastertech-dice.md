@@ -3,18 +3,18 @@ title: Сведения о приложении для DisasterTech DICE от Di
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/31/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Вся доступная информация о безопасности и соответствии требованиям для DisasterTech DICE, ее политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ed797cb886577f74601c0cd6effa546b9587efc
-ms.sourcegitcommit: 29a4475d630d2f1d0755a6322eb994646322aca1
+ms.openlocfilehash: a905f01e10c28843b1e823c561abade8bce06501
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65811279"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053231"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -22,7 +22,7 @@ ms.locfileid: "65811279"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Последнее обновление разработчика: 31 мая 2022 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/7df3e67b-ed62-48e9-a950-c95bd7ebce80" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://teams.microsoft.com/l/app/7df3e67b-ed62-48e9-a950-c95bd7ebce80" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001909" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -64,7 +64,7 @@ ms.locfileid: "65811279"
 | Какие данные хранятся в базах данных? | служба профилей пользователей; |
 | Если базовые процессы в структуре или хранят данные клиента Майкрософт, где эти данные хранятся географически? | США Америки |
 | Есть ли у вас установленный процесс аренды и удаления данных? | Нет |
-| Как долго данные сохраняются после завершения работы учетной записи? |  |
+| Как долго данные сохраняются после завершения работы учетной записи? | Более 90 дней |
 | Есть ли у вас установленный процесс управления доступом к данным? | Нет |
 | Передаете ли вы данные клиента или содержимое клиента третьим лицам или субработчикам? | Нет |
 
@@ -147,17 +147,17 @@ ms.locfileid: "65811279"
 | Поддерживает ли ваше приложение политики условного доступа? | Нет |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) | Нет |
 | Хранит ли ваше приложение учетные данные в коде? | Нет |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Нет |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | Делегированные | Microsoft Teams единого входа | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| email | Делегированные | Microsoft Teams единого входа | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| offline_access | Делегированные | Microsoft Teams единого входа | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| openid | Делегированные | Microsoft Teams единого входа | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| profile | Делегированные | Microsoft Teams единого входа | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| User.Read | Делегированные | Единый вход Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| email | Делегированные | Единый вход Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| offline_access | Делегированные | Единый вход Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| openid | Делегированные | Единый вход Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| profile | Делегированные | Единый вход Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
 
 >Это приложение не имеет дополнительных API.
 
