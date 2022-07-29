@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/27/2022
+ms.date: 07/28/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 6319052428f74b46b0937655a43d1a749cce7ccc
-ms.sourcegitcommit: 6db14016165d8319708983a9022eff3cbb68856a
+ms.openlocfilehash: 4817d26ca5029265e301729b7402aa8f0f7596a9
+ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/28/2022
-ms.locfileid: "67057518"
+ms.locfileid: "67063867"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -182,6 +182,7 @@ ms.locfileid: "67057518"
 | [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [eCademy Lernplattform](./cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md) | Cornelsen eCademy &amp; в составе GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
+| [Eden](./eden.md) | Eden | **✓** |  |
 | [Edgility](./edgility.md) | Edgility | **✓** |  |
 | [Edpuzzle](./edpuzzle.md) | Edpuzzle | **✓** |  |
 | [EducationHUB Lesmateriaal](./smartersoft-bv-educationhub-lesmateriaal.md) | Smartersoft B.V. | **✓** |  |
@@ -436,7 +437,7 @@ ms.locfileid: "67057518"
 | [Принудительная безопасность](./push-security.md) | Принудительная безопасность | **✓** |  |
 | [Q](./moduleq-q.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [qbo](./unscrambl-qbo.md) | Unscrambl | **✓** |  |
-| [qChange Leader Experience](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
+| [qChange Leadership Experience](./qchange-software-solution-inc-leadership-experience.md) | qChange Software Solution, Inc. | **✓** |  |
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
 | [Quadra Visitorz](./quadrasystemsnet-quadra-visitorz.md) | Quadrasystems.net | **✓** |  |
