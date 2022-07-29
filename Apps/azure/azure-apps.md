@@ -3,17 +3,17 @@ title: приложение Azure идентификаторов безопас�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/27/2022
+ms.date: 07/28/2022
 ms.topic: article
 ms.service: attestation
 description: Все доступные сведения о безопасности и соответствии для всех приложение Azure идентификаторов.
 localization_priority: Normal
-ms.openlocfilehash: de1fc3761d6210925ea9f632fdf67b204d34b807
-ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
+ms.openlocfilehash: 1580ded8a8479c8d49de4f408dbc836ed4ce578b
+ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/27/2022
-ms.locfileid: "67041357"
+ms.lasthandoff: 07/28/2022
+ms.locfileid: "67066057"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>приложение Azure безопасности и соответствия требованиям
 
@@ -78,6 +78,7 @@ ms.locfileid: "67041357"
 | [1e96a64b-9c1c-4cbc-b015-70243ea06c9b](./1e96a64b-9c1c-4cbc-b015-70243ea06c9b.md) | **✓** |  |
 | [21759f96-a64d-450b-bf2a-b5e932d6ea01](./21759f96-a64d-450b-bf2a-b5e932d6ea01.md) | **✓** |  |
 | [2201df78-1d70-41da-ba2b-c19b00da1215](./2201df78-1d70-41da-ba2b-c19b00da1215.md) | **✓** |  |
+| [2274e9f2-89b3-4a1b-aa01-f7b0af1900cb](./2274e9f2-89b3-4a1b-aa01-f7b0af1900cb.md) | **✓** |  |
 | [228af2d7-23b5-4d1f-a5bf-9a1670e4fb6a](./228af2d7-23b5-4d1f-a5bf-9a1670e4fb6a.md) | **✓** |  |
 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](./23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](./23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) | **✓** |  |
@@ -409,6 +410,7 @@ ms.locfileid: "67041357"
 | [e74c5e65-902b-4c5f-a618-f24996f7b20c](./e74c5e65-902b-4c5f-a618-f24996f7b20c.md) | **✓** |  |
 | [e7c09c44-c705-4d05-89cb-3582dfccd89b](./e7c09c44-c705-4d05-89cb-3582dfccd89b.md) | **✓** |  |
 | [e7fb100c-8c81-4e3f-9c78-bb1407080cdc](./e7fb100c-8c81-4e3f-9c78-bb1407080cdc.md) | **✓** |  |
+| [e852716e-f657-42f1-b81b-f3c06d2b37c9](./e852716e-f657-42f1-b81b-f3c06d2b37c9.md) | **✓** |  |
 | [e854ea05-68ab-4204-pale-db4a784fb4d8](./e854ea05-68ab-4204-babe-db4a784fb4d8.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3](./e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3.md) | **✓** |  |
 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](./e8bea835-c6b0-45aa-9c39-889d3c77d5a3.md) | **✓** |  |
