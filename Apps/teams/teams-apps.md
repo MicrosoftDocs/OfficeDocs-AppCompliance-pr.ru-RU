@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: d87c1cff8ba2311818a7cfe91e4ac880c3f02616
-ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
+ms.openlocfilehash: fdd9c40a73d3ff85eb58b08bdd1cfff494193017
+ms.sourcegitcommit: 54fd07101130444c819079241d19694cb1446dcd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/30/2022
-ms.locfileid: "67093357"
+ms.locfileid: "67101421"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -327,7 +327,7 @@ ms.locfileid: "67093357"
 | [LifeWorks](./lifeworks.md) | LifeWorks | **✓** |  |
 | [Link Spotter](./communardo-products-link-spotter.md) | Communardo Products | **✓** |  |
 | [Live Chat](./social-intents-live-chat.md) | Social Intents | **✓** |  |
-| [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** |  |
 | [Loop](./friendly-flows-loop.md) | Friendly Flows | **✓** |  |
 | [Loopio](./loopio-inc.md) | Loopio Inc. | **✓** |  |
 | [Loops - Creative Learning](./skooler-loops-creative-learning.md) | Skooler | **✓** |  |
