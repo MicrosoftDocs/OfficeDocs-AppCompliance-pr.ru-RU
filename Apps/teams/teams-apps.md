@@ -3,17 +3,17 @@ title: Безопасность приложений Microsoft Teams и их с�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/28/2022
+ms.date: 07/29/2022
 ms.topic: article
 ms.service: attestation
 description: Вся доступная информация о безопасности и соответствии требованиям для всех приложений Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 4817d26ca5029265e301729b7402aa8f0f7596a9
-ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
+ms.openlocfilehash: d87c1cff8ba2311818a7cfe91e4ac880c3f02616
+ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67063867"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67093357"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Безопасность приложений Microsoft Teams и их соответствие требованиям
 
@@ -116,6 +116,7 @@ ms.locfileid: "67063867"
 | [CloudLabs](./spektra-systems-llc-cloudlabs.md) | Spektra Systems LLC | **✓** |  |
 | [Clovers](./clovers-ai.md) | Clovers AI | **✓** |  |
 | [Clypp](./zesavi-gmbh-clypp.md) | Zesavi GmbH | **✓** |  |
+| [Coachello](./coachello-sas.md) | Coachello SAS | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** |  |
 | [CodeStream](./codestream.md) | CodeStream | **✓** |  |
 | [CoffeePals](./coffeepals-technologies-inc.md) | CoffeePals Technologies Inc. | **✓** |  |
@@ -203,7 +204,6 @@ ms.locfileid: "67063867"
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
-| [Espresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Eusoft Rdp Manager](./eusoft-srl-rdp-manager.md) | Eusoft S.r.l. | **✓** |  |
 | [Eva](./outthink-ltd-eva.md) | OutThink Ltd | **✓** |  |
@@ -284,6 +284,7 @@ ms.locfileid: "67063867"
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
 | [Indeqa Board Meetings](./easy2meet-bv-indeqa-board-meetings.md) | Easy2Meet B.V. | **✓** |  |
 | [Infor Coleman](./infor-us-inc-coleman.md) | INFOR (US), INC. | **✓** |  |
+| [Intranet by Solutions2Share](./solutions2share-gmbh-intranet-by.md) | Solutions2Share GmbH | **✓** |  |
 | [IQ](./nlsql-iq.md) | NLSQL | **✓** |  |
 | [isLucid](./uab-lucid-agreements-islucid.md) | UAB Lucid Agreements | **✓** |  |
 | [isolved](./isolved.md) | isolved | **✓** |  |
@@ -308,6 +309,7 @@ ms.locfileid: "67063867"
 | [Koan](./koan-inc.md) | Koan, Inc. | **✓** |  |
 | [Панель мониторинга Koare](./koaretech-sl-koare-dashboard.md) | KoareTech S.L. | **✓** |  |
 | [Koare I-management](./koaretech-sl-koare-i-management.md) | KoareTech S.L. | **✓** |  |
+| [Koare Rotation chairs](./koaretech-sl-koare-rotation-chairs.md) | KoareTech S.L. | **✓** |  |
 | [Kuban Desks](./kuban-desks.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Кубанские комнаты для собраний](./kuban-meeting-rooms.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Kuban Visitors](./kuban-visitors.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
@@ -334,6 +336,7 @@ ms.locfileid: "67063867"
 | [Lucidspark Whiteboard](./lucid-software-lucidspark-whiteboard.md) | Lucid Software | **✓** |  |
 | [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [Lumio](./smart-technologies-ulc-lumio.md) | SMART Technologies ULC | **✓** |  |
+| [Manager360](./mgr360-manager360.md) | MGR360 | **✓** |  |
 | [Map Pro](./witivio-map-pro.md) | Witivio | **✓** |  |
 | [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [MeasureUp](./media-interactiva-solutions-measureup.md) | Media Interactiva Solutions | **✓** |  |
@@ -347,7 +350,6 @@ ms.locfileid: "67063867"
 | [MetaMeeting](./wafer-systems-metameeting.md) | Wafer Systems | **✓** |  |
 | [MetaVisitor](./wafer-systems-metavisitor.md) | Wafer Systems | **✓** |  |
 | [MetaWorkspace](./wafer-systems-metaworkspace.md) | Wafer Systems | **✓** |  |
-| [MGR360](./mgr360.md) | MGR360 | **✓** |  |
 | [Mia](./mihcm-mia.md) | MiHCM | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
@@ -576,6 +578,7 @@ ms.locfileid: "67063867"
 | [UKG Pro](./ukg-inc-pro.md) | UKG, Inc. | **✓** |  |
 | [Единые контакты](./glueckkanja-gab-ag-unified-contacts.md) | glueckkanja-gab AG | **✓** |  |
 | [UserVoice](./uservoice.md) | UserVoice | **✓** |  |
+| [uWebChat](./universal-it-bv-uwebchat.md) | Universal IT B.V. | **✓** |  |
 | [Vacation Tracker](./vacation-tracker.md) | Vacation Tracker | **✓** |  |
 | [Versebook](./versebook.md) | &#24191;&#19996;&#26102;&#35867;&#26234;&#33021;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Verto 365](./tmi-systems-verto-365.md) | TMI Systems | **✓** |  |
@@ -621,6 +624,7 @@ ms.locfileid: "67063867"
 | [Zavvy](./zavvy-gmbh.md) | Zavvy GmbH | **✓** |  |
 | [Zendesk](./softserve-inc-office-store-zendesk.md) | Магазин Office SoftServe Inc. | **✓** |  |
 | [ZeroTime Bot](./replicon-zerotime-bot.md) | Replicon | **✓** |  |
+| [Zest](./zestmeup-zest.md) | Zestmeup | **✓** |  |
 | [Zignals](./alight-consulting-gmbh-zignals.md) | Alight Consulting GmbH | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |

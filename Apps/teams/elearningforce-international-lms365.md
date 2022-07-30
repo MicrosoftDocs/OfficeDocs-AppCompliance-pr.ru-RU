@@ -1,27 +1,28 @@
 ---
-title: Сведения о LMS365
+title: Сведения о приложении для LMS365 от ELEARNINGFORCE International
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/05/2022
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Все доступные сведения о безопасности и соответствии для LMS365, его политики обработки данных, сведения Microsoft Cloud App Security каталога приложений и сведения о безопасности и соответствии требованиям в реестре CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4af1554cda45b9a87d2e98ba51e96035a7106270
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 4ec0282a62e6433207632ec221be76477488730b
+ms.sourcegitcommit: 54fd07101130444c819079241d19694cb1446dcd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65229123"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67101396"
 ---
-# <a name="lms365-information"></a>Сведения о LMS365
+# <a name="lms365"></a>LMS365
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Последнее обновление разработчика: 5 апреля 2022 г.</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Последнее обновление разработчика: 28 июля 2021 г.</p>
 
-* <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">Просмотр в Teams хранилище</a>
+* <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">Просмотр в магазине Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">Просмотр в AppSource</a>
 
 ::: zone pivot="general"
@@ -36,12 +37,13 @@ ms.locfileid: "65229123"
 | ID | WA104381467 |
 | Office 365 поддерживаемые клиенты | Microsoft Teams |
 | Название партнерской компании | ELEARNINGFORCE International |
-| Веб-сайт компании | [https://lms365.com](https://lms365.com) |
-| Условия использования приложения | [https://lms365.com/lms365-saas-terms/](https://lms365.com/lms365-saas-terms/) |
+| Веб-сайт компании | [https://www.elearningforce.com](https://www.elearningforce.com) |
+| Условия использования приложения | [https://www.elearningforce.com/LMS365-SaaS-Terms](https://www.elearningforce.com/LMS365-SaaS-Terms) |
 | Основные функциональные возможности приложения | Простая вставка и общий доступ к обучению в каналах и чатах |
 | Расположение компании | Дания |
 | Страница сведений о приложении | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
 | Какая среда размещения или модель службы используются для запуска приложения? |  |
+| Какие поставщики облачных служб используются приложением? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -96,20 +98,20 @@ ms.locfileid: "65229123"
 
 | **Information** | **Отклик** |
 |:----------------|:-------------|
-| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Н/Д |
+| Соответствует ли приложение требованиям Закона о переносимости и учете медицинского страхования (HIPAA)? | Недоступно |
 | Соответствует ли приложение требованиям Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Недоступно |
 | Соответствует ли приложение элементам управления организации-службы (SOC 1)? | Недоступно |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 2)? | Нет |
 | Соответствует ли приложение элементам управления service Organization Controls (SOC 3)? | Нет |
 | Выполняются ли ежегодные оценки PCI DSS для приложения и его вспомогательной среды? | Нет |
 | Сертифицирована ли организация по стандартизации приложений (ISO 27001)? | Да |
-| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Н/Д |
+| Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27018)? | Недоступно |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27017)? | Нет |
 | Соответствует ли приложение требованиям Международной организации по стандартизации (ISO 27002)? | Нет |
 | Соответствует ли программа управления рисками и авторизацией приложения (FedRAMP)? | Нет |
-| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Н/Д |
-| Соответствует ли приложение Требованиям КСВМ(COPPA)? | Н/Д |
-| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Н/Д |
+| Соответствует ли приложение Семейному акту об образовательных правах и конфиденциальности (FERPA)? | Недоступно |
+| Соответствует ли приложение Требованиям КСВМ(COPPA)? | Недоступно |
+| Соответствует ли приложение требованиям Sarbanes-Oxley (SOX)? | Недоступно |
 | Соответствует ли приложение NIST 800-171? |  |
 | Сертифицировано ли приложение Для Cloud Security Alliance (CSA Star)? | Нет |
 
@@ -133,27 +135,26 @@ ms.locfileid: "65229123"
 |:----------------|:-------------|
 | Интегрируется ли приложение с платформой удостоверений Майкрософт (Azure AD) для единого входа, доступа к API и т. д.? | Да |
 | Вы просматривали и соблюдали все применимые рекомендации, описанные в платформа удостоверений Майкрософт интеграции? | Да |
-| Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | Да |
-| Если приложение не использует одну из указанных выше библиотек, какую библиотеку или библиотеки проверки подлинности оно использует? |  |
+| Использует ли ваше приложение последнюю версию MSAL (библиотека проверки подлинности Майкрософт) или Microsoft Identity Web для проверки подлинности? | true |
 | Поддерживает ли ваше приложение политики условного доступа? | Да |
 | Перечисление поддерживаемых типов политик | Платформы устройств, состояние устройства, клиентские приложения |
 | Поддерживает ли ваше приложение непрерывную оценку доступа (CAE) |  |
 | Хранит ли ваше приложение учетные данные в коде? |  |
-| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Да |
+| Приложения и надстройки для Microsoft 365 могут использовать дополнительные API-интерфейсы Майкрософт за пределами Microsoft Graph. Использует ли ваше приложение или надстройка дополнительные API-интерфейсы Майкрософт? | Да |
 
 #### <a name="data-access-using-microsoft-graph"></a>Доступ к данным с помощью Microsoft Graph
 
->|   **Graph разрешения**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
+>|   **Разрешение Graph**  | **Тип разрешения** |          **Justification**          | **Azure AD приложения** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| GroupMember.Read.All | приложение |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| Mail.Send | Делегированные |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| OnlineMeetings.ReadWrite | Делегированные |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| RoleManagement.Read.Directory | приложение |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Invite.All | Делегированные |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read | Делегированные |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read.All | Делегированные |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read.All | приложение |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| profile | Делегированные |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| GroupMember.Read.All | приложение | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| Mail.Send | Делегированные | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| OnlineMeetings.ReadWrite | Делегированные | Разрешение запрашивается динамически во время настройки учетной записи электронной почты для уведомления. Позволяет приложению создавать и читать собрания по сети | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| RoleManagement.Read.Directory | приложение | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Invite.All | Делегированные | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read | Делегированные | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read.All | Делегированные | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read.All | приложение | Позволяет приложению считывать полный профиль пользователя. Он&#8217;, необходимые для чтения пользователей&#8217; руководителей для создания отчетов иерархии. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| profile | Делегированные | Нет | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 
 >Это приложение не имеет дополнительных API.
 
