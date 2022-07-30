@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для 5dcf4bd7-e
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/28/2022
+ms.date: 07/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Все доступные сведения о безопасности и соответствии требованиям для 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9.
-ms.openlocfilehash: b1322c915fe5b3cd8c33d2b09a87bc4452f0a2f8
-ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
+ms.openlocfilehash: 38a756e0bc5cd0e126cc9b45554973276d8301df
+ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67060807"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67089217"
 ---
 # <a name="azure-app-id-5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9"></a>приложение Azure: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 
