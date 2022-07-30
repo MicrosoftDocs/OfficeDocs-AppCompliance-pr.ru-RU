@@ -3,17 +3,17 @@ title: приложение Azure идентификатора для a9b0c190-b
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/28/2022
+ms.date: 07/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Все доступные сведения о безопасности и соответствии требованиям для a9b0c190-bafb-49ca-a61a-dab99cf2c43b.
-ms.openlocfilehash: 8909f07a320f0acc4dce265f4508e6aedfb42749
-ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
+ms.openlocfilehash: cde92562626776effa2fa3d029b66c9df73eaeb9
+ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67063217"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67093637"
 ---
 # <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>приложение Azure: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
